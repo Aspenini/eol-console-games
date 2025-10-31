@@ -38,8 +38,8 @@ def load_all_games() -> Dict[str, Dict]:
 
 
 def generate_css() -> str:
-    """Generate CSS styles."""
-    return """/* Game Database Site Styles */
+    """Generate CSS styles with dark mode support."""
+    return """/* Game Database Site Styles with Dark Mode */
 * {
     margin: 0;
     padding: 0;
@@ -47,6 +47,7 @@ def generate_css() -> str:
 }
 
 :root {
+    /* Light mode colors */
     --bg-primary: #ffffff;
     --bg-secondary: #f8f9fa;
     --bg-tertiary: #e9ecef;
@@ -57,6 +58,48 @@ def generate_css() -> str:
     --border: #dee2e6;
     --shadow: rgba(0, 0, 0, 0.1);
     --shadow-hover: rgba(0, 0, 0, 0.15);
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        /* Dark mode colors */
+        --bg-primary: #1a1a1a;
+        --bg-secondary: #2d2d2d;
+        --bg-tertiary: #3a3a3a;
+        --text-primary: #e0e0e0;
+        --text-secondary: #a0a0a0;
+        --accent: #4a9eff;
+        --accent-hover: #6ab0ff;
+        --border: #404040;
+        --shadow: rgba(0, 0, 0, 0.3);
+        --shadow-hover: rgba(0, 0, 0, 0.4);
+    }
+}
+
+[data-theme="light"] {
+    --bg-primary: #ffffff;
+    --bg-secondary: #f8f9fa;
+    --bg-tertiary: #e9ecef;
+    --text-primary: #212529;
+    --text-secondary: #6c757d;
+    --accent: #0d6efd;
+    --accent-hover: #0b5ed7;
+    --border: #dee2e6;
+    --shadow: rgba(0, 0, 0, 0.1);
+    --shadow-hover: rgba(0, 0, 0, 0.15);
+}
+
+[data-theme="dark"] {
+    --bg-primary: #1a1a1a;
+    --bg-secondary: #2d2d2d;
+    --bg-tertiary: #3a3a3a;
+    --text-primary: #e0e0e0;
+    --text-secondary: #a0a0a0;
+    --accent: #4a9eff;
+    --accent-hover: #6ab0ff;
+    --border: #404040;
+    --shadow: rgba(0, 0, 0, 0.3);
+    --shadow-hover: rgba(0, 0, 0, 0.4);
 }
 
 body {
@@ -79,6 +122,7 @@ header {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 2rem;
+    position: relative;
 }
 
 header h1 {
@@ -86,6 +130,35 @@ header h1 {
     font-weight: 700;
     color: var(--text-primary);
     margin-bottom: 0.5rem;
+    display: inline-block;
+}
+
+.theme-toggle {
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+    background: none;
+    border: 2px solid var(--accent);
+    color: var(--accent);
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 500;
+    transition: all 0.2s;
+}
+
+.theme-toggle:hover {
+    background-color: var(--accent);
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .theme-toggle {
+        position: static;
+        margin-top: 1rem;
+        display: block;
+    }
 }
 
 header p {
@@ -138,6 +211,7 @@ main {
     border: 2px solid var(--border);
     border-radius: 8px;
     background-color: var(--bg-primary);
+    color: var(--text-primary);
     transition: border-color 0.2s, box-shadow 0.2s;
 }
 
@@ -351,6 +425,9 @@ def generate_js() -> str:
     }
     
     function init() {
+        // Initialize theme toggle
+        initThemeToggle();
+        
         // Load game data from embedded JSON (only on console page)
         const dataScript = document.getElementById('games-data');
         if (dataScript) {
@@ -369,6 +446,41 @@ def generate_js() -> str:
         // Setup console page (games list page)
         if (document.getElementById('console-name')) {
             setupGamesPage();
+        }
+    }
+    
+    function initThemeToggle() {
+        // Get saved theme or use system preference
+        const savedTheme = localStorage.getItem('theme');
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        
+        if (savedTheme) {
+            document.documentElement.setAttribute('data-theme', savedTheme);
+        } else if (prefersDark) {
+            document.documentElement.setAttribute('data-theme', 'dark');
+        } else {
+            document.documentElement.setAttribute('data-theme', 'light');
+        }
+        
+        // Setup theme toggle button
+        const themeToggle = document.getElementById('theme-toggle');
+        if (themeToggle) {
+            updateThemeToggleText();
+            themeToggle.addEventListener('click', function() {
+                const currentTheme = document.documentElement.getAttribute('data-theme');
+                const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+                document.documentElement.setAttribute('data-theme', newTheme);
+                localStorage.setItem('theme', newTheme);
+                updateThemeToggleText();
+            });
+        }
+    }
+    
+    function updateThemeToggleText() {
+        const themeToggle = document.getElementById('theme-toggle');
+        if (themeToggle) {
+            const currentTheme = document.documentElement.getAttribute('data-theme');
+            themeToggle.textContent = currentTheme === 'dark' ? '☀️ Light' : '🌙 Dark';
         }
     }
     
@@ -411,6 +523,12 @@ def generate_js() -> str:
         
         filteredGames = allGames[currentConsole].games || [];
         renderGames();
+        
+        // Setup search for games page
+        const searchBox = document.getElementById('search-box');
+        if (searchBox) {
+            searchBox.addEventListener('input', handleSearch);
+        }
     }
     
     function handleSearch() {
@@ -526,6 +644,7 @@ def generate_index_html(all_data: Dict[str, Dict]) -> str:
         <div class="header-content">
             <h1>EOL Console Games</h1>
             <p>Comprehensive database of games from discontinued consoles that have reached End of Life</p>
+            <button id="theme-toggle" class="theme-toggle">🌙 Dark</button>
         </div>
     </header>
     
@@ -605,6 +724,7 @@ def generate_console_html(all_data: Dict[str, Dict]) -> str:
         <div class="header-content">
             <h1 id="console-name">Select a Console</h1>
             <p>Browse games by console</p>
+            <button id="theme-toggle" class="theme-toggle">🌙 Dark</button>
         </div>
     </header>
     

@@ -1,4 +1,4 @@
-/* Game Database Site Styles */
+/* Game Database Site Styles with Dark Mode */
 * {
     margin: 0;
     padding: 0;
@@ -6,6 +6,7 @@
 }
 
 :root {
+    /* Light mode colors */
     --bg-primary: #ffffff;
     --bg-secondary: #f8f9fa;
     --bg-tertiary: #e9ecef;
@@ -16,6 +17,48 @@
     --border: #dee2e6;
     --shadow: rgba(0, 0, 0, 0.1);
     --shadow-hover: rgba(0, 0, 0, 0.15);
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        /* Dark mode colors */
+        --bg-primary: #1a1a1a;
+        --bg-secondary: #2d2d2d;
+        --bg-tertiary: #3a3a3a;
+        --text-primary: #e0e0e0;
+        --text-secondary: #a0a0a0;
+        --accent: #4a9eff;
+        --accent-hover: #6ab0ff;
+        --border: #404040;
+        --shadow: rgba(0, 0, 0, 0.3);
+        --shadow-hover: rgba(0, 0, 0, 0.4);
+    }
+}
+
+[data-theme="light"] {
+    --bg-primary: #ffffff;
+    --bg-secondary: #f8f9fa;
+    --bg-tertiary: #e9ecef;
+    --text-primary: #212529;
+    --text-secondary: #6c757d;
+    --accent: #0d6efd;
+    --accent-hover: #0b5ed7;
+    --border: #dee2e6;
+    --shadow: rgba(0, 0, 0, 0.1);
+    --shadow-hover: rgba(0, 0, 0, 0.15);
+}
+
+[data-theme="dark"] {
+    --bg-primary: #1a1a1a;
+    --bg-secondary: #2d2d2d;
+    --bg-tertiary: #3a3a3a;
+    --text-primary: #e0e0e0;
+    --text-secondary: #a0a0a0;
+    --accent: #4a9eff;
+    --accent-hover: #6ab0ff;
+    --border: #404040;
+    --shadow: rgba(0, 0, 0, 0.3);
+    --shadow-hover: rgba(0, 0, 0, 0.4);
 }
 
 body {
@@ -38,6 +81,7 @@ header {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 2rem;
+    position: relative;
 }
 
 header h1 {
@@ -45,6 +89,35 @@ header h1 {
     font-weight: 700;
     color: var(--text-primary);
     margin-bottom: 0.5rem;
+    display: inline-block;
+}
+
+.theme-toggle {
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+    background: none;
+    border: 2px solid var(--accent);
+    color: var(--accent);
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 500;
+    transition: all 0.2s;
+}
+
+.theme-toggle:hover {
+    background-color: var(--accent);
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .theme-toggle {
+        position: static;
+        margin-top: 1rem;
+        display: block;
+    }
 }
 
 header p {
@@ -97,6 +170,7 @@ main {
     border: 2px solid var(--border);
     border-radius: 8px;
     background-color: var(--bg-primary);
+    color: var(--text-primary);
     transition: border-color 0.2s, box-shadow 0.2s;
 }
 

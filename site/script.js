@@ -16,6 +16,9 @@
     }
     
     function init() {
+        // Initialize theme toggle
+        initThemeToggle();
+        
         // Load game data from embedded JSON (only on console page)
         const dataScript = document.getElementById('games-data');
         if (dataScript) {
@@ -34,6 +37,41 @@
         // Setup console page (games list page)
         if (document.getElementById('console-name')) {
             setupGamesPage();
+        }
+    }
+    
+    function initThemeToggle() {
+        // Get saved theme or use system preference
+        const savedTheme = localStorage.getItem('theme');
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        
+        if (savedTheme) {
+            document.documentElement.setAttribute('data-theme', savedTheme);
+        } else if (prefersDark) {
+            document.documentElement.setAttribute('data-theme', 'dark');
+        } else {
+            document.documentElement.setAttribute('data-theme', 'light');
+        }
+        
+        // Setup theme toggle button
+        const themeToggle = document.getElementById('theme-toggle');
+        if (themeToggle) {
+            updateThemeToggleText();
+            themeToggle.addEventListener('click', function() {
+                const currentTheme = document.documentElement.getAttribute('data-theme');
+                const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+                document.documentElement.setAttribute('data-theme', newTheme);
+                localStorage.setItem('theme', newTheme);
+                updateThemeToggleText();
+            });
+        }
+    }
+    
+    function updateThemeToggleText() {
+        const themeToggle = document.getElementById('theme-toggle');
+        if (themeToggle) {
+            const currentTheme = document.documentElement.getAttribute('data-theme');
+            themeToggle.textContent = currentTheme === 'dark' ? '☀️ Light' : '🌙 Dark';
         }
     }
     
@@ -76,6 +114,12 @@
         
         filteredGames = allGames[currentConsole].games || [];
         renderGames();
+        
+        // Setup search for games page
+        const searchBox = document.getElementById('search-box');
+        if (searchBox) {
+            searchBox.addEventListener('input', handleSearch);
+        }
     }
     
     function handleSearch() {
