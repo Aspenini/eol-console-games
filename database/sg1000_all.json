@@ -1,0 +1,340 @@
+[
+  {
+    "title": "Borderline",
+    "developer": "Compile",
+    "publisher": "Sega",
+    "jp_release": "March 1984",
+    "na_release": "1984",
+    "pal_release": "1984",
+    "category": "licensed"
+  },
+  {
+    "title": "The Castle",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "1986",
+    "category": "licensed"
+  },
+  {
+    "title": "Champion Baseball",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "October 1983",
+    "na_release": "1984",
+    "pal_release": "1984",
+    "category": "licensed"
+  },
+  {
+    "title": "Champion Boxing",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "October 1984",
+    "pal_release": "January 1985",
+    "category": "licensed"
+  },
+  {
+    "title": "Champion Golf",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "March 1984",
+    "na_release": "June 1984",
+    "pal_release": "June 1984",
+    "category": "licensed"
+  },
+  {
+    "title": "Champion Pro Wrestling",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "March 1985",
+    "category": "licensed"
+  },
+  {
+    "title": "Champion Soccer",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "November 1984",
+    "category": "licensed"
+  },
+  {
+    "title": "Champion Tennis",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "August 1983",
+    "na_release": "November 1983",
+    "pal_release": "November 1983",
+    "category": "licensed"
+  },
+  {
+    "title": "Congo Bongo",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "July 15, 1983",
+    "na_release": "November 1983",
+    "pal_release": "November 1983",
+    "category": "licensed"
+  },
+  {
+    "title": "Exerion",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "March 1984",
+    "na_release": "June 1984",
+    "pal_release": "June 1984",
+    "category": "licensed"
+  },
+  {
+    "title": "Flicky",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "December 1984",
+    "pal_release": "February 1985",
+    "category": "licensed"
+  },
+  {
+    "title": "Girl's Garden",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "January 1985",
+    "category": "licensed"
+  },
+  {
+    "title": "GP World",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "April 1985",
+    "category": "licensed"
+  },
+  {
+    "title": "Golgo 13",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "April 1984",
+    "category": "licensed"
+  },
+  {
+    "title": "Home Mahjong",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "December 1984",
+    "category": "licensed"
+  },
+  {
+    "title": "Hustle Chumy",
+    "developer": "CompileSega",
+    "publisher": "Sega",
+    "jp_release": "November 1984",
+    "category": "licensed"
+  },
+  {
+    "title": "Hyper Sports",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "April 1985",
+    "category": "licensed"
+  },
+  {
+    "title": "Lode Runner",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "September 1984",
+    "pal_release": "January 1985",
+    "category": "licensed"
+  },
+  {
+    "title": "Loretta no Shōzō: Sherlock Holmes",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "February 18, 1987",
+    "category": "licensed"
+  },
+  {
+    "title": "Mahjong",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "July 15, 1983",
+    "category": "licensed"
+  },
+  {
+    "title": "Monaco GP",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "December 1983",
+    "na_release": "1984",
+    "pal_release": "1984",
+    "category": "licensed"
+  },
+  {
+    "title": "N-Sub",
+    "developer": "Compile",
+    "publisher": "Sega",
+    "jp_release": "July 15, 1983",
+    "na_release": "November 1983",
+    "pal_release": "November 1983",
+    "category": "licensed"
+  },
+  {
+    "title": "Orguss",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "May 1984",
+    "na_release": "October 1984",
+    "pal_release": "February 1985",
+    "category": "licensed"
+  },
+  {
+    "title": "Othello",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "July 1985",
+    "category": "licensed"
+  },
+  {
+    "title": "Pacar",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "November 1983",
+    "na_release": "1984",
+    "pal_release": "1984",
+    "category": "licensed"
+  },
+  {
+    "title": "Pachinko",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "December 1983",
+    "category": "licensed"
+  },
+  {
+    "title": "Pachinko II",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "April 1984",
+    "category": "licensed"
+  },
+  {
+    "title": "Pop Flamer",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "November 1983",
+    "na_release": "1984",
+    "pal_release": "1984",
+    "category": "licensed"
+  },
+  {
+    "title": "Safari Hunting",
+    "developer": "Compile",
+    "publisher": "Sega",
+    "jp_release": "August 1983",
+    "na_release": "November 1983",
+    "pal_release": "November 1983",
+    "category": "licensed"
+  },
+  {
+    "title": "Safari Race",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "July 1984",
+    "na_release": "October 1984",
+    "pal_release": "January 1985",
+    "category": "licensed"
+  },
+  {
+    "title": "Sega Flipper",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "October 1983",
+    "na_release": "1984",
+    "pal_release": "1984",
+    "category": "licensed"
+  },
+  {
+    "title": "Sega-Galaga",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "November 1983",
+    "category": "licensed"
+  },
+  {
+    "title": "Serizawa Hachidan no Tsume Shōgi",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "July 15, 1983",
+    "category": "licensed"
+  },
+  {
+    "title": "Shinnyū Shain Tōru-kun",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "April 1985",
+    "category": "licensed"
+  },
+  {
+    "title": "Sindbad Mystery",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "January 1984",
+    "na_release": "1984",
+    "pal_release": "1984",
+    "category": "licensed"
+  },
+  {
+    "title": "Space Invaders",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "June 1985",
+    "category": "licensed"
+  },
+  {
+    "title": "Space Slalom",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "December 1983",
+    "category": "licensed"
+  },
+  {
+    "title": "Star Force",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "May 1985",
+    "category": "licensed"
+  },
+  {
+    "title": "Star Jacker",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "July 15, 1983",
+    "na_release": "November 1983",
+    "pal_release": "November 1983",
+    "category": "licensed"
+  },
+  {
+    "title": "Uranai Angel Cutie",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "December 1984",
+    "category": "licensed"
+  },
+  {
+    "title": "Yamato",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "July 15, 1983",
+    "na_release": "November 1983",
+    "pal_release": "November 1983",
+    "category": "licensed"
+  },
+  {
+    "title": "Zaxxon",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "February 1985",
+    "category": "licensed"
+  },
+  {
+    "title": "Zippy Race",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "jp_release": "March 1984",
+    "category": "licensed"
+  }
+]

@@ -1,0 +1,6490 @@
+[
+  {
+    "title": "3 Ninjas Kick Back",
+    "developer": "Malibu Interactive",
+    "publisher": "Psygnosis",
+    "first_released": "Unreleased",
+    "jp_release": "1994"
+  },
+  {
+    "title": "688 Attack Sub",
+    "developer": "MicroProse",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "1991",
+    "na_release": "September 1991"
+  },
+  {
+    "title": "Aaahh!!! Real Monsters",
+    "developer": "Realtime Associates",
+    "publisher": "Viacom New Media",
+    "first_released": "Unreleased",
+    "jp_release": "1995",
+    "na_release": "November 1995"
+  },
+  {
+    "title": "Aah! Harimanada",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "September 3, 1993"
+  },
+  {
+    "title": "A Ressha de Ikō MD",
+    "developer": "M.N.M Software",
+    "publisher": "Sega",
+    "first_released": "April 10, 1992"
+  },
+  {
+    "title": "The Addams Family",
+    "developer": "Ocean Software",
+    "publisher": "Flying Edge",
+    "first_released": "Unreleased",
+    "jp_release": "October 1993",
+    "na_release": "November 1993"
+  },
+  {
+    "title": "Addams Family Values",
+    "developer": "Ocean Software",
+    "publisher": "Ocean Software",
+    "first_released": "Unreleased",
+    "na_release": "May 1995"
+  },
+  {
+    "title": "Advanced Daisenryaku: Deutsch Dengeki Sakusen",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "June 17, 1991"
+  },
+  {
+    "title": "The Adventures of Batman & Robin",
+    "developer": "Clockwork Tortoise",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "May 1995",
+    "na_release": "June 1995"
+  },
+  {
+    "title": "The Adventures of Mighty Max",
+    "developer": "WJS Design",
+    "publisher": "Ocean Software",
+    "first_released": "Unreleased",
+    "jp_release": "February 1995",
+    "na_release": "November 1994"
+  },
+  {
+    "title": "The Adventures of Rocky and Bullwinkle and Friends",
+    "developer": "Imagineering",
+    "publisher": "Absolute Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "September 1993"
+  },
+  {
+    "title": "Aero the Acro-Bat",
+    "developer": "Iguana Entertainment",
+    "publisher": "Sunsoft",
+    "first_released": "Unreleased",
+    "jp_release": "October 1993",
+    "na_release": "July 1994"
+  },
+  {
+    "title": "Aero the Acro-Bat 2",
+    "developer": "Iguana Entertainment",
+    "publisher": "Sunsoft",
+    "first_released": "Unreleased",
+    "jp_release": "January 1995",
+    "na_release": "August 1995"
+  },
+  {
+    "title": "Aerobiz",
+    "developer": "Koei",
+    "publisher": "Koei",
+    "first_released": "November 1, 1992",
+    "jp_release": "April 1993"
+  },
+  {
+    "title": "Aerobiz Supersonic",
+    "developer": "Koei",
+    "publisher": "Koei",
+    "first_released": "February 18, 1994",
+    "jp_release": "January 1995"
+  },
+  {
+    "title": "After Burner II",
+    "developer": "Dempa Micomsoft",
+    "publisher": "Sega",
+    "first_released": "March 23, 1990",
+    "jp_release": "July 1990",
+    "na_release": "1990"
+  },
+  {
+    "title": "Air Buster",
+    "developer": "Kaneko",
+    "publisher": "Kaneko",
+    "first_released": "January 31, 1991",
+    "jp_release": "February 1991"
+  },
+  {
+    "title": "Air Diver",
+    "developer": "Copya System",
+    "publisher": "Asmik",
+    "first_released": "March 9, 1990",
+    "jp_release": "April 1990"
+  },
+  {
+    "title": "Aladdin",
+    "developer": "Virgin Games",
+    "publisher": "Sega",
+    "first_released": "November 12, 1993",
+    "jp_release": "October 19, 1993",
+    "na_release": "October 22, 1993"
+  },
+  {
+    "title": "Alex Kidd in the Enchanted Castle",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "February 10, 1989",
+    "jp_release": "January 1990",
+    "na_release": "1990"
+  },
+  {
+    "title": "Alien 3",
+    "developer": "Probe Software",
+    "publisher": "Arena Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "October 1992",
+    "na_release": "October 1992"
+  },
+  {
+    "title": "Alien Soldier",
+    "developer": "Treasure",
+    "publisher": "Sega",
+    "first_released": "February 24, 1995",
+    "jp_release": "1995",
+    "na_release": "May 1995"
+  },
+  {
+    "title": "Alien Storm",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "June 28, 1991",
+    "jp_release": "July 1991",
+    "na_release": "1991"
+  },
+  {
+    "title": "Alisia Dragoon",
+    "developer": "Game Arts",
+    "publisher": "Sega",
+    "first_released": "April 24, 1992",
+    "jp_release": "March 1992",
+    "na_release": "March 1992"
+  },
+  {
+    "title": "Altered Beast",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "November 27, 1988",
+    "jp_release": "August 1989",
+    "na_release": "September 1990"
+  },
+  {
+    "title": "American Gladiators",
+    "developer": "Imagitec Design",
+    "publisher": "GameTek",
+    "first_released": "Unreleased",
+    "jp_release": "January 1993"
+  },
+  {
+    "title": "Andre Agassi Tennis",
+    "developer": "TecMagik",
+    "publisher": "TecMagik",
+    "first_released": "Unreleased",
+    "jp_release": "January 1993",
+    "na_release": "August 1993"
+  },
+  {
+    "title": "Animaniacs",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "first_released": "Unreleased",
+    "jp_release": "November 1994",
+    "na_release": "December 1994"
+  },
+  {
+    "title": "Another World",
+    "developer": "Interplay Productions",
+    "publisher": "Virgin Games",
+    "first_released": "Unreleased",
+    "jp_release": "March 1993",
+    "na_release": "May 1993"
+  },
+  {
+    "title": "The Aquatic Games Starring James Pond and The Aquabats",
+    "developer": "Vectordean",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "1992",
+    "na_release": "October 1992"
+  },
+  {
+    "title": "Arcade Classics",
+    "developer": "Al Baker & Associates",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "July 1996",
+    "na_release": "1996"
+  },
+  {
+    "title": "Arch Rivals",
+    "developer": "Arc Developments",
+    "publisher": "Flying Edge",
+    "first_released": "Unreleased",
+    "jp_release": "July 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "Arcus Odyssey",
+    "developer": "Wolf Team",
+    "publisher": "Renovation Products",
+    "first_released": "June 14, 1991",
+    "jp_release": "September 1991"
+  },
+  {
+    "title": "Ariel the Little Mermaid",
+    "developer": "BlueSky Software",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "December 1992",
+    "na_release": "December 1992"
+  },
+  {
+    "title": "Arnold Palmer Tournament Golf",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "September 9, 1989",
+    "jp_release": "October 1989",
+    "na_release": "January 1991"
+  },
+  {
+    "title": "Arrow Flash",
+    "developer": "I.T.L",
+    "publisher": "Sega",
+    "first_released": "October 20, 1990",
+    "jp_release": "December 1990",
+    "na_release": "1991"
+  },
+  {
+    "title": "Art Alive!",
+    "developer": "FarSight Technologies",
+    "publisher": "Sega",
+    "first_released": "March 27, 1992",
+    "jp_release": "1991",
+    "na_release": "1991"
+  },
+  {
+    "title": "Art of Fighting",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "January 14, 1994",
+    "jp_release": "September 1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "Asterix and the Great Rescue",
+    "developer": "Core Design",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "June 1994",
+    "na_release": "October 1993"
+  },
+  {
+    "title": "Asterix and the Power of the Gods",
+    "developer": "Core Design",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "na_release": "April 1995"
+  },
+  {
+    "title": "Atomic Robo-Kid",
+    "developer": "UPL",
+    "publisher": "Treco",
+    "first_released": "December 14, 1990",
+    "jp_release": "April 1990"
+  },
+  {
+    "title": "Atomic Runner",
+    "developer": "Data East",
+    "publisher": "Sega",
+    "first_released": "October 16, 1992",
+    "jp_release": "July 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "ATP Tour Championship Tennis",
+    "developer": "SIMS",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "March 1995",
+    "na_release": "March 1995"
+  },
+  {
+    "title": "Australian Rugby League",
+    "developer": "I-Space Interactive",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "na_release": "December 1995"
+  },
+  {
+    "title": "Awesome Possum... Kicks Dr. Machino's Butt",
+    "developer": "Tengen",
+    "publisher": "Tengen",
+    "first_released": "December 25, 1993",
+    "jp_release": "November 1993"
+  },
+  {
+    "title": "Ayrton Senna's Super Monaco GP II",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "July 17, 1992",
+    "jp_release": "September 1992",
+    "na_release": "July 1992"
+  },
+  {
+    "title": "B.O.B.",
+    "developer": "Foley Hi-Tech Systems",
+    "publisher": "Electronic Arts",
+    "first_released": "November 19, 1993",
+    "jp_release": "September 1993",
+    "na_release": "August 1993"
+  },
+  {
+    "title": "Back to the Future Part III",
+    "developer": "Probe Software",
+    "publisher": "Arena Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "1991",
+    "na_release": "October 1, 1992"
+  },
+  {
+    "title": "Bahamut Senki",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "March 8, 1991"
+  },
+  {
+    "title": "Ball Jacks",
+    "developer": "Namco",
+    "publisher": "Namco",
+    "first_released": "April 23, 1993",
+    "na_release": "June 1993"
+  },
+  {
+    "title": "Ballz",
+    "developer": "PF.Magic",
+    "publisher": "Accolade",
+    "first_released": "Unreleased",
+    "jp_release": "October 5, 1994",
+    "na_release": "September 1994"
+  },
+  {
+    "title": "Barbie: Super Model",
+    "developer": "Tahoe Software Productions",
+    "publisher": "Hi Tech Expressions",
+    "first_released": "Unreleased",
+    "jp_release": "1993"
+  },
+  {
+    "title": "Barkley Shut Up and Jam!",
+    "developer": "Accolade",
+    "publisher": "Accolade",
+    "first_released": "Unreleased",
+    "jp_release": "March 1994",
+    "na_release": "April 1994"
+  },
+  {
+    "title": "Barkley Shut Up and Jam 2",
+    "developer": "Accolade",
+    "publisher": "Accolade",
+    "first_released": "Unreleased",
+    "jp_release": "April 1995"
+  },
+  {
+    "title": "Barney's Hide & Seek Game",
+    "developer": "Realtime Associates",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "1993"
+  },
+  {
+    "title": "Bass Masters Classic",
+    "developer": "Black Pearl Software",
+    "publisher": "Black Pearl Software",
+    "first_released": "Unreleased",
+    "jp_release": "1995"
+  },
+  {
+    "title": "Bass Masters Classic: Pro Edition",
+    "developer": "Black Pearl Software",
+    "publisher": "Black Pearl Software",
+    "first_released": "Unreleased",
+    "jp_release": "November 1996"
+  },
+  {
+    "title": "Batman",
+    "developer": "Sunsoft",
+    "publisher": "Sega",
+    "first_released": "July 27, 1990",
+    "jp_release": "June 1991",
+    "na_release": "July 1992"
+  },
+  {
+    "title": "Batman Forever",
+    "developer": "Probe Entertainment",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "October 27, 1995",
+    "jp_release": "September 7, 1995",
+    "na_release": "October 1995"
+  },
+  {
+    "title": "Batman Returns",
+    "developer": "Malibu Interactive",
+    "publisher": "Sega",
+    "first_released": "February 19, 1993",
+    "jp_release": "October 1992",
+    "na_release": "November 1992"
+  },
+  {
+    "title": "Batman: Revenge of the Joker",
+    "developer": "Ringler Studios",
+    "publisher": "Sunsoft",
+    "first_released": "Unreleased",
+    "jp_release": "November 1992"
+  },
+  {
+    "title": "Battle Golfer Yui",
+    "developer": "Santos",
+    "publisher": "Sega",
+    "first_released": "February 15, 1991"
+  },
+  {
+    "title": "Battle Mania: Daiginjō",
+    "developer": "Vic Tokai",
+    "publisher": "Vic Tokai",
+    "first_released": "December 24, 1993"
+  },
+  {
+    "title": "Battle Master",
+    "developer": "Nick Pelling",
+    "publisher": "Arena Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "November 1991"
+  },
+  {
+    "title": "Battle Squadron",
+    "developer": "Cope-Com",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "1990",
+    "na_release": "January 1991"
+  },
+  {
+    "title": "BattleTech",
+    "developer": "Malibu Interactive",
+    "publisher": "Extreme Entertainment Group",
+    "first_released": "Unreleased",
+    "jp_release": "September 1994"
+  },
+  {
+    "title": "Battletoads",
+    "developer": "Arc System Works",
+    "publisher": "Tradewest",
+    "first_released": "March 26, 1993",
+    "jp_release": "March 1993",
+    "na_release": "June 1993"
+  },
+  {
+    "title": "Battletoads & Double Dragon: The Ultimate Team",
+    "developer": "Rare",
+    "publisher": "Tradewest",
+    "first_released": "Unreleased",
+    "jp_release": "1993"
+  },
+  {
+    "title": "Beast Wrestler",
+    "developer": "Telenet Japan",
+    "publisher": "Riot",
+    "first_released": "November 29, 1991",
+    "jp_release": "March 1992"
+  },
+  {
+    "title": "Beauty and the Beast: Belle's Quest",
+    "developer": "Software Creations",
+    "publisher": "Sunsoft",
+    "first_released": "Unreleased",
+    "jp_release": "1993"
+  },
+  {
+    "title": "Beauty and the Beast: Roar of the Beast",
+    "developer": "Software Creations",
+    "publisher": "Sunsoft",
+    "first_released": "Unreleased",
+    "jp_release": "1993"
+  },
+  {
+    "title": "Beavis and Butt-Head",
+    "developer": "Radical Entertainment",
+    "publisher": "Viacom New Media",
+    "first_released": "Unreleased",
+    "jp_release": "October 1994",
+    "na_release": "May 1995"
+  },
+  {
+    "title": "The Berenstain Bears' Camping Adventure",
+    "developer": "Realtime Associates",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "1994"
+  },
+  {
+    "title": "Best of the Best: Championship Karate",
+    "developer": "Loriciel",
+    "publisher": "Electro Brain",
+    "first_released": "January 29, 1993",
+    "jp_release": "June 1993"
+  },
+  {
+    "title": "Beyond Oasis",
+    "developer": "Ancient",
+    "publisher": "Sega",
+    "first_released": "December 9, 1994",
+    "jp_release": "March 1995",
+    "na_release": "March 1995"
+  },
+  {
+    "title": "Bill Walsh College Football",
+    "developer": "High Score Productions",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "August 1993",
+    "na_release": "September 1993"
+  },
+  {
+    "title": "Bill Walsh College Football '95",
+    "developer": "High Score Productions",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "August 1994"
+  },
+  {
+    "title": "Bimini Run",
+    "developer": "Microsmiths",
+    "publisher": "Nuvision Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "February 1991"
+  },
+  {
+    "title": "Bio-Hazard Battle",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "October 30, 1992",
+    "jp_release": "December 1992",
+    "na_release": "January 1993"
+  },
+  {
+    "title": "Bishōjo Senshi Sailor Moon",
+    "developer": "Arc System Works",
+    "publisher": "Ma-Ba",
+    "first_released": "July 8, 1994"
+  },
+  {
+    "title": "Blades of Vengeance",
+    "developer": "Beam Software",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "December 1993",
+    "na_release": "December 1993"
+  },
+  {
+    "title": "Blaster Master 2",
+    "developer": "Software Creations",
+    "publisher": "Sunsoft",
+    "first_released": "Unreleased",
+    "jp_release": "June 1993"
+  },
+  {
+    "title": "Blockout",
+    "developer": "Electronic Arts",
+    "publisher": "Sega",
+    "first_released": "November 1, 1991",
+    "jp_release": "1991",
+    "na_release": "July 1991"
+  },
+  {
+    "title": "Bloodshot",
+    "developer": "Domark",
+    "publisher": "Domark",
+    "first_released": "Unreleased",
+    "jp_release": "1995",
+    "na_release": "January 1995"
+  },
+  {
+    "title": "Blue Almanac",
+    "developer": "Hot-B",
+    "publisher": "Kodansha",
+    "first_released": "June 22, 1991"
+  },
+  {
+    "title": "Body Count",
+    "developer": "Probe Software",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "1995",
+    "na_release": "July 1994"
+  },
+  {
+    "title": "Bonanza Bros.",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "May 17, 1991",
+    "jp_release": "November 1991",
+    "na_release": "November 14, 1991"
+  },
+  {
+    "title": "Bonkers",
+    "developer": "Sega Interactive Development Division",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "1994",
+    "na_release": "January 1995"
+  },
+  {
+    "title": "Boogerman: A Pick and Flick Adventure",
+    "developer": "Interplay Productions",
+    "publisher": "Interplay Productions",
+    "first_released": "Unreleased",
+    "jp_release": "November 18, 1994",
+    "na_release": "December 2, 1994"
+  },
+  {
+    "title": "Boxing Legends of the Ring",
+    "developer": "Sculptured Software",
+    "publisher": "Electro Brain",
+    "first_released": "Unreleased",
+    "jp_release": "October 1993"
+  },
+  {
+    "title": "Bram Stoker's Dracula",
+    "developer": "Psygnosis",
+    "publisher": "Sony Imagesoft",
+    "first_released": "Unreleased",
+    "jp_release": "1993",
+    "na_release": "1993"
+  },
+  {
+    "title": "Brett Hull Hockey '95",
+    "developer": "Radical Entertainment",
+    "publisher": "Accolade",
+    "first_released": "Unreleased",
+    "jp_release": "December 1994"
+  },
+  {
+    "title": "Brian Lara Cricket",
+    "developer": "Audiogenic Software",
+    "publisher": "Codemasters",
+    "first_released": "Unreleased",
+    "na_release": "May 12, 1995"
+  },
+  {
+    "title": "Brian Lara Cricket '96",
+    "developer": "Audiogenic Software",
+    "publisher": "Codemasters",
+    "first_released": "Unreleased",
+    "na_release": "May 17, 1996"
+  },
+  {
+    "title": "Brutal: Paws of Fury",
+    "developer": "GameTek",
+    "publisher": "GameTek",
+    "first_released": "Unreleased",
+    "jp_release": "1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "Bubba 'n' Stix",
+    "developer": "Core Design",
+    "publisher": "Core Design",
+    "first_released": "Unreleased",
+    "jp_release": "July 1994",
+    "na_release": "June 1994"
+  },
+  {
+    "title": "Bubble and Squeak",
+    "developer": "Audiogenic Software",
+    "publisher": "Sunsoft",
+    "first_released": "Unreleased",
+    "jp_release": "March 1994",
+    "na_release": "January 1995"
+  },
+  {
+    "title": "Bubsy in Claws Encounters of the Furred Kind",
+    "developer": "Al Baker & Associates",
+    "publisher": "Accolade",
+    "first_released": "Unreleased",
+    "jp_release": "July 1993",
+    "na_release": "August 1993"
+  },
+  {
+    "title": "Bubsy II",
+    "developer": "Accolade",
+    "publisher": "Accolade",
+    "first_released": "Unreleased",
+    "jp_release": "October 15, 1994",
+    "na_release": "October 28, 1994"
+  },
+  {
+    "title": "Buck Rogers: Countdown to Doomsday",
+    "developer": "Strategic Simulations",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "December 1991",
+    "na_release": "April 1992"
+  },
+  {
+    "title": "Budokan: The Martial Spirit",
+    "developer": "Electronic Arts",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "July 1990",
+    "na_release": "November 1990"
+  },
+  {
+    "title": "Bugs Bunny in Double Trouble",
+    "developer": "Atod",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "August 1996",
+    "na_release": "August 15, 1996",
+    "pal_release": "October 1996"
+  },
+  {
+    "title": "Bulls vs. Blazers and the NBA Playoffs",
+    "developer": "Electronic Arts",
+    "publisher": "EA Sports",
+    "first_released": "July 30, 1993",
+    "jp_release": "1993",
+    "na_release": "1993"
+  },
+  {
+    "title": "Bulls vs Lakers and the NBA Playoffs",
+    "developer": "Electronic Arts",
+    "publisher": "Electronic Arts Sports Network",
+    "first_released": "April 2, 1993",
+    "jp_release": "May 1992",
+    "na_release": "August 1992"
+  },
+  {
+    "title": "Burning Force",
+    "developer": "Namco",
+    "publisher": "Namco",
+    "first_released": "October 19, 1990",
+    "jp_release": "1990",
+    "na_release": "December 1991"
+  },
+  {
+    "title": "Cadash",
+    "developer": "Cyclone System",
+    "publisher": "Taito",
+    "first_released": "Unreleased",
+    "jp_release": "June 1992"
+  },
+  {
+    "title": "Caesars Palace",
+    "developer": "The Illusions Gaming Company",
+    "publisher": "Virgin Games",
+    "first_released": "Unreleased",
+    "jp_release": "1993"
+  },
+  {
+    "title": "Cal Ripken Jr. Baseball",
+    "developer": "Acme Interactive",
+    "publisher": "Mindscape",
+    "first_released": "Unreleased",
+    "jp_release": "1992"
+  },
+  {
+    "title": "Caliber .50",
+    "developer": "Visco",
+    "publisher": "Mentrix Software",
+    "first_released": "Unreleased",
+    "jp_release": "December 1991"
+  },
+  {
+    "title": "California Games",
+    "developer": "Novotrade",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "February 1992",
+    "na_release": "December 1991"
+  },
+  {
+    "title": "Cannon Fodder",
+    "developer": "PanelComp",
+    "publisher": "Virgin Interactive Entertainment",
+    "first_released": "Unreleased",
+    "na_release": "January 1995"
+  },
+  {
+    "title": "Captain America and The Avengers",
+    "developer": "Data East",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "December 1992",
+    "na_release": "1993"
+  },
+  {
+    "title": "Captain Planet and the Planeteers",
+    "developer": "NovaLogic",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "na_release": "1993"
+  },
+  {
+    "title": "Castle of Illusion Starring Mickey Mouse",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "November 21, 1990",
+    "jp_release": "December 1990",
+    "na_release": "March 1991"
+  },
+  {
+    "title": "Castlevania: Bloodlines",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "first_released": "March 18, 1994",
+    "jp_release": "March 17, 1994",
+    "na_release": "March 20, 1994"
+  },
+  {
+    "title": "Centurion: Defender of Rome",
+    "developer": "Bits of Magic",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "July 1991",
+    "na_release": "July 1991"
+  },
+  {
+    "title": "Chakan: The Forever Man",
+    "developer": "Extended Play",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "November 1992",
+    "na_release": "February 1993"
+  },
+  {
+    "title": "Championship Bowling",
+    "developer": "Soft Machine",
+    "publisher": "Visco",
+    "first_released": "December 17, 1993",
+    "jp_release": "February 1993"
+  },
+  {
+    "title": "Championship Pool",
+    "developer": "Bitmasters",
+    "publisher": "Mindscape",
+    "first_released": "Unreleased",
+    "jp_release": "1993"
+  },
+  {
+    "title": "Championship Pro-Am",
+    "developer": "Rare",
+    "publisher": "Tradewest",
+    "first_released": "Unreleased",
+    "jp_release": "1992"
+  },
+  {
+    "title": "Champions World Class Soccer",
+    "developer": "Park Place Productions",
+    "publisher": "Flying Edge",
+    "first_released": "June 24, 1994",
+    "jp_release": "1994",
+    "na_release": "May 1994"
+  },
+  {
+    "title": "The Chaos Engine",
+    "developer": "The Bitmap Brothers",
+    "publisher": "Spectrum HoloByte",
+    "first_released": "Unreleased",
+    "jp_release": "November 1993",
+    "na_release": "July 1994"
+  },
+  {
+    "title": "Chase H.Q. II",
+    "developer": "I.T.L",
+    "publisher": "Taito",
+    "first_released": "October 23, 1992",
+    "jp_release": "February 1993"
+  },
+  {
+    "title": "Cheese Cat-Astrophe Starring Speedy Gonzales",
+    "developer": "Cryo Interactive",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "na_release": "May 1995"
+  },
+  {
+    "title": "Chester Cheetah: Too Cool to Fool",
+    "developer": "System Vision",
+    "publisher": "Kaneko",
+    "first_released": "Unreleased",
+    "jp_release": "January 1993"
+  },
+  {
+    "title": "Chester Cheetah: Wild Wild Quest",
+    "developer": "Kaneko",
+    "publisher": "Kaneko",
+    "first_released": "Unreleased",
+    "jp_release": "January 1994"
+  },
+  {
+    "title": "Chibi Maruko-chan: Waku Waku Shopping",
+    "developer": "Namco",
+    "publisher": "Namco",
+    "first_released": "January 14, 1992"
+  },
+  {
+    "title": "Chi Chi's Pro Challenge Golf",
+    "developer": "Soft Vision",
+    "publisher": "Virgin Games",
+    "first_released": "June 25, 1993",
+    "jp_release": "July 1993"
+  },
+  {
+    "title": "Chiki Chiki Boys",
+    "developer": "Visco",
+    "publisher": "Sega",
+    "first_released": "October 16, 1992",
+    "jp_release": "1993",
+    "na_release": "1993"
+  },
+  {
+    "title": "Chōkyūkai Miracle Nine",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "July 21, 1995"
+  },
+  {
+    "title": "Chuck Rock",
+    "developer": "Core Design",
+    "publisher": "Virgin Games",
+    "first_released": "Unreleased",
+    "jp_release": "January 1992",
+    "na_release": "August 1992"
+  },
+  {
+    "title": "Chuck Rock II: Son of Chuck",
+    "developer": "Core Design",
+    "publisher": "Virgin Games",
+    "first_released": "June 24, 1994",
+    "jp_release": "October 1993",
+    "na_release": "October 1993"
+  },
+  {
+    "title": "ClayFighter",
+    "developer": "Ringler Studios",
+    "publisher": "Interplay Productions",
+    "first_released": "Unreleased",
+    "jp_release": "1994",
+    "na_release": "January 1995"
+  },
+  {
+    "title": "Cliffhanger",
+    "developer": "Malibu Interactive",
+    "publisher": "Sony Imagesoft",
+    "first_released": "Unreleased",
+    "jp_release": "November 1993",
+    "na_release": "November 1993"
+  },
+  {
+    "title": "Clue",
+    "developer": "Sculptured Software",
+    "publisher": "Parker Brothers",
+    "first_released": "Unreleased",
+    "jp_release": "January 1993"
+  },
+  {
+    "title": "Coach K College Basketball",
+    "developer": "Hitmen Productions",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "February 1995"
+  },
+  {
+    "title": "College Football USA 96",
+    "developer": "High Score Entertainment",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "1995"
+  },
+  {
+    "title": "College Football USA 97",
+    "developer": "Tiburon Entertainment",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "1996"
+  },
+  {
+    "title": "College Football's National Championship",
+    "developer": "BlueSky Software",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "August 1994"
+  },
+  {
+    "title": "College Football's National Championship II",
+    "developer": "BlueSky Software",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "1995"
+  },
+  {
+    "title": "College Slam",
+    "developer": "Iguana UK",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "February 1996"
+  },
+  {
+    "title": "Columns",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "June 30, 1990",
+    "jp_release": "September 1990",
+    "na_release": "1990"
+  },
+  {
+    "title": "Columns III",
+    "developer": "Sega",
+    "publisher": "Vic Tokai",
+    "first_released": "October 15, 1993",
+    "jp_release": "1994"
+  },
+  {
+    "title": "Combat Cars",
+    "developer": "Scangames",
+    "publisher": "Accolade",
+    "first_released": "Unreleased",
+    "jp_release": "June 1994",
+    "na_release": "July 1994"
+  },
+  {
+    "title": "Comix Zone",
+    "developer": "Sega Technical Institute",
+    "publisher": "Sega",
+    "first_released": "September 1, 1995",
+    "jp_release": "July 1995",
+    "na_release": "September 1995"
+  },
+  {
+    "title": "Contra: Hard Corps",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "first_released": "September 15, 1994",
+    "jp_release": "September 14, 1994",
+    "na_release": "October 11, 1994"
+  },
+  {
+    "title": "Cool Spot",
+    "developer": "Virgin Games",
+    "publisher": "Virgin Games",
+    "first_released": "February 18, 1994",
+    "jp_release": "April 1993",
+    "na_release": "June 1993"
+  },
+  {
+    "title": "Corporation",
+    "developer": "Core Design",
+    "publisher": "Virgin Games",
+    "first_released": "Unreleased",
+    "jp_release": "June 1992",
+    "na_release": "November 1992"
+  },
+  {
+    "title": "Cosmic Spacehead",
+    "developer": "Supersonic Software",
+    "publisher": "Codemasters",
+    "first_released": "Unreleased",
+    "jp_release": "November 1993",
+    "na_release": "November 1993"
+  },
+  {
+    "title": "Crack Down",
+    "developer": "Hot-B",
+    "publisher": "Sega",
+    "first_released": "December 20, 1990",
+    "jp_release": "March 1991",
+    "na_release": "1991"
+  },
+  {
+    "title": "Crayon Shin-chan: Arashi o Yobu Enji",
+    "developer": "SIMS",
+    "publisher": "Ma-Ba",
+    "first_released": "March 11, 1994"
+  },
+  {
+    "title": "Cross Fire",
+    "developer": "A.I",
+    "publisher": "Kyugo",
+    "first_released": "March 29, 1991",
+    "jp_release": "1991"
+  },
+  {
+    "title": "Crüe Ball",
+    "developer": "NuFX",
+    "publisher": "Electronic Arts",
+    "first_released": "December 26, 1993",
+    "jp_release": "November 1992",
+    "na_release": "September 1992"
+  },
+  {
+    "title": "Crusader of Centy",
+    "developer": "Nextech",
+    "publisher": "Sega",
+    "first_released": "June 17, 1994",
+    "jp_release": "March 1995",
+    "na_release": "January 1995"
+  },
+  {
+    "title": "Crystal's Pony Tale",
+    "developer": "Artech Studios",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "October 1994"
+  },
+  {
+    "title": "Curse",
+    "developer": "Micronet",
+    "publisher": "Micronet",
+    "first_released": "December 23, 1989"
+  },
+  {
+    "title": "Cutie Suzuki no Ringside Angel",
+    "developer": "Copya System",
+    "publisher": "Asmik",
+    "first_released": "December 12, 1990"
+  },
+  {
+    "title": "Cutthroat Island",
+    "developer": "Software Creations",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "1995",
+    "na_release": "1995"
+  },
+  {
+    "title": "Cyberball",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "July 28, 1990",
+    "jp_release": "August 1990",
+    "na_release": "1990"
+  },
+  {
+    "title": "Cyborg Justice",
+    "developer": "Novotrade",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "April 1993",
+    "na_release": "April 1993"
+  },
+  {
+    "title": "Daffy Duck in Hollywood",
+    "developer": "Psionic Systems",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "na_release": "January 1995"
+  },
+  {
+    "title": "Dahna: Megami Tanjō",
+    "developer": "IGS",
+    "publisher": "IGS",
+    "first_released": "December 20, 1991"
+  },
+  {
+    "title": "Dangerous Seed",
+    "developer": "Namco",
+    "publisher": "Namco",
+    "first_released": "December 18, 1990"
+  },
+  {
+    "title": "Dark Castle",
+    "developer": "Artech Studios",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "1991",
+    "na_release": "October 16, 1991"
+  },
+  {
+    "title": "Darwin 4081",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "April 7, 1990"
+  },
+  {
+    "title": "Dashin' Desperadoes",
+    "developer": "Data East",
+    "publisher": "Data East",
+    "first_released": "Unreleased",
+    "jp_release": "September 1993"
+  },
+  {
+    "title": "David Crane's Amazing Tennis",
+    "developer": "FarSight Technologies",
+    "publisher": "Absolute Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "May 1993"
+  },
+  {
+    "title": "David Robinson's Supreme Court",
+    "developer": "Acme Interactive",
+    "publisher": "Sega",
+    "first_released": "July 10, 1992",
+    "jp_release": "1992",
+    "na_release": "July 1992"
+  },
+  {
+    "title": "Davis Cup World Tour",
+    "developer": "Loriciel",
+    "publisher": "Tengen",
+    "first_released": "February 25, 1994",
+    "jp_release": "July 1993",
+    "na_release": "October 1993"
+  },
+  {
+    "title": "Daze Before Christmas",
+    "developer": "Funcom",
+    "publisher": "Sunsoft",
+    "first_released": "Unreleased",
+    "na_release": "1994"
+  },
+  {
+    "title": "Deadly Moves",
+    "developer": "System Vision",
+    "publisher": "Kaneko",
+    "first_released": "December 11, 1992",
+    "jp_release": "January 1993"
+  },
+  {
+    "title": "The Death and Return of Superman",
+    "developer": "Blizzard Entertainment",
+    "publisher": "Sunsoft",
+    "first_released": "Unreleased",
+    "jp_release": "January 1995",
+    "na_release": "1995"
+  },
+  {
+    "title": "Death Duel",
+    "developer": "Punk Development",
+    "publisher": "RazorSoft",
+    "first_released": "Unreleased",
+    "jp_release": "October 1992"
+  },
+  {
+    "title": "Decap Attack",
+    "developer": "Vic Tokai",
+    "publisher": "Sega",
+    "first_released": "December 15, 1990",
+    "jp_release": "1991",
+    "na_release": "October 9, 1991"
+  },
+  {
+    "title": "Demolition Man",
+    "developer": "Alexandria",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "1995",
+    "na_release": "September 1995"
+  },
+  {
+    "title": "Desert Demolition Starring Road Runner and Wile E. Coyote",
+    "developer": "BlueSky Software",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "February 1995",
+    "na_release": "March 1995"
+  },
+  {
+    "title": "Desert Strike: Return to the Gulf",
+    "developer": "Electronic Arts",
+    "publisher": "Electronic Arts Victor",
+    "first_released": "April 23, 1993",
+    "jp_release": "March 1992",
+    "na_release": "March 1992"
+  },
+  {
+    "title": "Devilish: The Next Possession",
+    "developer": "Aisystem Tokyo",
+    "publisher": "Sage's CreationNAHot-BJP",
+    "first_released": "April 24, 1992",
+    "jp_release": "April 1992"
+  },
+  {
+    "title": "Dick Tracy",
+    "developer": "Sega Technical Institute",
+    "publisher": "Sega",
+    "first_released": "March 1, 1991",
+    "jp_release": "February 1991",
+    "na_release": "May 1991"
+  },
+  {
+    "title": "Dick Vitale's \"Awesome, Baby!\" College Hoops",
+    "developer": "Time Warner Interactive",
+    "publisher": "Time Warner Interactive",
+    "first_released": "Unreleased",
+    "jp_release": "1994"
+  },
+  {
+    "title": "Dino Dini's Soccer",
+    "developer": "Dino Dini",
+    "publisher": "Virgin Interactive Entertainment",
+    "first_released": "Unreleased",
+    "na_release": "December 1994"
+  },
+  {
+    "title": "Dino Land",
+    "developer": "Wolf Team",
+    "publisher": "Renovation Products",
+    "first_released": "August 2, 1991",
+    "jp_release": "September 1991"
+  },
+  {
+    "title": "A Dinosaur's Tale",
+    "developer": "Funcom",
+    "publisher": "Hi Tech Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "1993"
+  },
+  {
+    "title": "Dinosaurs for Hire",
+    "developer": "Sega Interactive Development Division",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "October 1993"
+  },
+  {
+    "title": "DJ Boy",
+    "developer": "Kaneko",
+    "publisher": "Sega",
+    "first_released": "May 19, 1990",
+    "jp_release": "1990",
+    "na_release": "1992"
+  },
+  {
+    "title": "Donald in Maui Mallard",
+    "developer": "Disney Interactive",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "1996",
+    "na_release": "November 1995"
+  },
+  {
+    "title": "Doraemon: Yume Dorobō to 7-nin no Gozans",
+    "developer": "G-Sat",
+    "publisher": "Sega",
+    "first_released": "March 26, 1993"
+  },
+  {
+    "title": "Double Clutch",
+    "developer": "BGS Development",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "na_release": "June 1993"
+  },
+  {
+    "title": "Double Dragon",
+    "developer": "Software Creations",
+    "publisher": "Ballistic",
+    "first_released": "Unreleased",
+    "jp_release": "February 1992",
+    "na_release": "May 6, 1992"
+  },
+  {
+    "title": "Double Dragon II: The Revenge",
+    "developer": "Palsoft",
+    "publisher": "Palsoft",
+    "first_released": "December 20, 1991"
+  },
+  {
+    "title": "Double Dragon 3: The Arcade Game",
+    "developer": "Software Creations",
+    "publisher": "Flying Edge",
+    "first_released": "Unreleased",
+    "jp_release": "1993",
+    "na_release": "January 1993"
+  },
+  {
+    "title": "Double Dragon V: The Shadow Falls",
+    "developer": "Leland Interactive Media",
+    "publisher": "Tradewest",
+    "first_released": "Unreleased",
+    "jp_release": "August 5, 1994"
+  },
+  {
+    "title": "Double Dribble: The Playoff Edition",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "first_released": "March 4, 1994",
+    "jp_release": "April 27, 1994",
+    "na_release": "March 1994"
+  },
+  {
+    "title": "Dr. Robotnik's Mean Bean Machine",
+    "developer": "Compile",
+    "publisher": "Sega",
+    "first_released": "December 18, 1992",
+    "jp_release": "December 1993",
+    "na_release": "January 21, 1994"
+  },
+  {
+    "title": "Dragon Ball Z: Buyū Retsuden",
+    "developer": "Bandai",
+    "publisher": "Bandai",
+    "first_released": "April 1, 1994",
+    "na_release": "June 1994"
+  },
+  {
+    "title": "Dragon Slayer: Eiyū Densetsu",
+    "developer": "Sega Falcom",
+    "publisher": "Sega",
+    "first_released": "September 16, 1994"
+  },
+  {
+    "title": "Dragon Slayer: Eiyū Densetsu II",
+    "developer": "Sega Falcom",
+    "publisher": "Sega",
+    "first_released": "January 20, 1995"
+  },
+  {
+    "title": "Dragon's Eye Plus: Shanghai III",
+    "developer": "Home Data",
+    "publisher": "Home Data",
+    "first_released": "November 2, 1991"
+  },
+  {
+    "title": "Dragon's Fury",
+    "developer": "Technosoft",
+    "publisher": "Tengen",
+    "first_released": "October 10, 1991",
+    "jp_release": "July 1992",
+    "na_release": "September 24, 1992"
+  },
+  {
+    "title": "Dragon's Revenge",
+    "developer": "Tengen",
+    "publisher": "Tengen",
+    "first_released": "December 10, 1993",
+    "jp_release": "November 1993",
+    "na_release": "January 14, 1994"
+  },
+  {
+    "title": "Dragon: The Bruce Lee Story",
+    "developer": "Virgin Interactive Entertainment",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "1995",
+    "na_release": "September 1994"
+  },
+  {
+    "title": "The Duel: Test Drive II",
+    "developer": "Distinctive Software",
+    "publisher": "Ballistic",
+    "first_released": "Unreleased",
+    "jp_release": "March 1992",
+    "na_release": "June 1992"
+  },
+  {
+    "title": "Duke Nukem 3D",
+    "developer": "Tec Toy",
+    "publisher": "Tec Toy",
+    "first_released": "Unreleased",
+    "pal_release": "1998"
+  },
+  {
+    "title": "Dune II: Battle for Arrakis",
+    "developer": "Westwood Studios",
+    "publisher": "Virgin Interactive Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "May 1, 1994",
+    "na_release": "June 1994"
+  },
+  {
+    "title": "Dungeons & Dragons: Warriors of the Eternal Sun",
+    "developer": "Westwood Associates",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "August 1992",
+    "na_release": "August 1992"
+  },
+  {
+    "title": "Dyna Brothers",
+    "developer": "CRI",
+    "publisher": "CRI",
+    "first_released": "July 24, 1992"
+  },
+  {
+    "title": "Dyna Brothers 2",
+    "developer": "CRI",
+    "publisher": "CRI",
+    "first_released": "December 3, 1993"
+  },
+  {
+    "title": "Dynamite Duke",
+    "developer": "Hertz",
+    "publisher": "Sega",
+    "first_released": "October 27, 1990",
+    "jp_release": "December 1990",
+    "na_release": "April 1991"
+  },
+  {
+    "title": "Dynamite Headdy",
+    "developer": "Treasure",
+    "publisher": "Sega",
+    "first_released": "August 5, 1994",
+    "jp_release": "September 28, 1994",
+    "na_release": "October 28, 1994"
+  },
+  {
+    "title": "Earnest Evans",
+    "developer": "Wolf Team",
+    "publisher": "Renovation Products",
+    "first_released": "Unreleased",
+    "jp_release": "March 1992"
+  },
+  {
+    "title": "Earthworm Jim",
+    "developer": "Shiny Entertainment",
+    "publisher": "Playmates Interactive Entertainment",
+    "first_released": "December 1, 1995",
+    "jp_release": "October 1994",
+    "na_release": "November 1994"
+  },
+  {
+    "title": "Earthworm Jim 2",
+    "developer": "Shiny Entertainment",
+    "publisher": "Playmates Interactive Entertainment",
+    "first_released": "September 1996",
+    "jp_release": "November 15, 1995",
+    "na_release": "December 22, 1995"
+  },
+  {
+    "title": "Ecco Jr.",
+    "developer": "Novotrade",
+    "publisher": "Sega",
+    "first_released": "August 16, 1995",
+    "jp_release": "April 1995",
+    "na_release": "1995"
+  },
+  {
+    "title": "Ecco the Dolphin",
+    "developer": "Novotrade",
+    "publisher": "Sega",
+    "first_released": "July 30, 1993",
+    "jp_release": "December 1992",
+    "na_release": "January 1993"
+  },
+  {
+    "title": "Ecco: The Tides of Time",
+    "developer": "Novotrade",
+    "publisher": "Sega",
+    "first_released": "August 26, 1994",
+    "jp_release": "November 1994",
+    "na_release": "November 18, 1994"
+  },
+  {
+    "title": "El Viento",
+    "developer": "Wolf Team",
+    "publisher": "Renovation Products",
+    "first_released": "September 20, 1991",
+    "jp_release": "November 1991"
+  },
+  {
+    "title": "Elemental Master",
+    "developer": "Technosoft",
+    "publisher": "Renovation Products",
+    "first_released": "December 14, 1990",
+    "jp_release": "March 1993"
+  },
+  {
+    "title": "Eliminate Down",
+    "developer": "Aprinet",
+    "publisher": "Soft Vision",
+    "first_released": "June 25, 1993"
+  },
+  {
+    "title": "ESPN Baseball Tonight",
+    "developer": "Park Place Productions",
+    "publisher": "Sony Imagesoft",
+    "first_released": "Unreleased",
+    "jp_release": "June 1994"
+  },
+  {
+    "title": "ESPN National Hockey Night",
+    "developer": "Sony Imagesoft",
+    "publisher": "Sony Imagesoft",
+    "first_released": "Unreleased",
+    "jp_release": "November 1994"
+  },
+  {
+    "title": "ESPN SpeedWorld",
+    "developer": "Sony Imagesoft",
+    "publisher": "Sony Imagesoft",
+    "first_released": "Unreleased",
+    "jp_release": "1994"
+  },
+  {
+    "title": "ESPN Sunday Night NFL",
+    "developer": "Absolute Entertainment",
+    "publisher": "Sony Imagesoft",
+    "first_released": "Unreleased",
+    "jp_release": "1994"
+  },
+  {
+    "title": "ESWAT: City Under Siege",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "July 14, 1990",
+    "jp_release": "October 1990",
+    "na_release": "1990"
+  },
+  {
+    "title": "Eternal Champions",
+    "developer": "Sega Interactive Development Division",
+    "publisher": "Sega",
+    "first_released": "February 18, 1994",
+    "jp_release": "December 1993",
+    "na_release": "January 1994"
+  },
+  {
+    "title": "European Club Soccer",
+    "developer": "Krisalis Software",
+    "publisher": "Virgin Games",
+    "first_released": "February 26, 1993",
+    "jp_release": "1992",
+    "na_release": "August 1992"
+  },
+  {
+    "title": "Evander Holyfield's \"Real Deal\" Boxing",
+    "developer": "Acme Interactive",
+    "publisher": "Sega",
+    "first_released": "October 30, 1992",
+    "jp_release": "August 1992",
+    "na_release": "September 24, 1992"
+  },
+  {
+    "title": "Ex-Mutants",
+    "developer": "Malibu Interactive",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "1992",
+    "na_release": "February 1993"
+  },
+  {
+    "title": "Exile",
+    "developer": "Telenet Japan",
+    "publisher": "Riot",
+    "first_released": "December 6, 1991",
+    "jp_release": "1991"
+  },
+  {
+    "title": "Exosquad",
+    "developer": "Novotrade",
+    "publisher": "Playmates Interactive Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "July 1, 1995",
+    "na_release": "September 1995"
+  },
+  {
+    "title": "F-15 Strike Eagle II",
+    "developer": "MicroProse",
+    "publisher": "MicroProse",
+    "first_released": "Unreleased",
+    "jp_release": "December 1993",
+    "na_release": "December 1993"
+  },
+  {
+    "title": "F-22 Interceptor",
+    "developer": "Lerner Research",
+    "publisher": "Electronic Arts",
+    "first_released": "February 12, 1993",
+    "jp_release": "November 1991",
+    "na_release": "December 1991"
+  },
+  {
+    "title": "F-117 Night Storm",
+    "developer": "Electronic Arts",
+    "publisher": "Electronic Arts Victor",
+    "first_released": "May 27, 1994",
+    "jp_release": "December 1993",
+    "na_release": "December 1993"
+  },
+  {
+    "title": "F1",
+    "developer": "Lankhor",
+    "publisher": "Domark",
+    "first_released": "Unreleased",
+    "jp_release": "November 1993",
+    "na_release": "November 5, 1993"
+  },
+  {
+    "title": "F1 Circus MD",
+    "developer": "Micronics",
+    "publisher": "Nihon Bussan",
+    "first_released": "December 20, 1991"
+  },
+  {
+    "title": "F1: World Championship Edition",
+    "developer": "Peakstar Software",
+    "publisher": "Domark",
+    "first_released": "Unreleased",
+    "na_release": "1995"
+  },
+  {
+    "title": "The Faery Tale Adventure",
+    "developer": "New World Computing",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "July 1991",
+    "na_release": "July 1991"
+  },
+  {
+    "title": "Family Feud",
+    "developer": "Eurocom",
+    "publisher": "GameTek",
+    "first_released": "Unreleased",
+    "jp_release": "1993"
+  },
+  {
+    "title": "Fantasia",
+    "developer": "Infogrames",
+    "publisher": "Sega",
+    "first_released": "November 22, 1991",
+    "jp_release": "August 1991",
+    "na_release": "1991"
+  },
+  {
+    "title": "Fantastic Dizzy",
+    "developer": "Codemasters",
+    "publisher": "Codemasters",
+    "first_released": "Unreleased",
+    "jp_release": "1993",
+    "na_release": "December 1993"
+  },
+  {
+    "title": "Fastest 1",
+    "developer": "Human Entertainment",
+    "publisher": "Human Entertainment",
+    "first_released": "June 28, 1991"
+  },
+  {
+    "title": "Fatal Fury: King of Fighters",
+    "developer": "GaibrainAspect",
+    "publisher": "Takara",
+    "first_released": "April 23, 1993",
+    "jp_release": "February 1993",
+    "na_release": "April 1993"
+  },
+  {
+    "title": "Fatal Fury 2",
+    "developer": "GaibrainAspect",
+    "publisher": "Takara",
+    "first_released": "June 24, 1994",
+    "jp_release": "May 1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "Fatal Labyrinth",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "November 21, 1990",
+    "jp_release": "1991",
+    "na_release": "1991"
+  },
+  {
+    "title": "Fatal Rewind",
+    "developer": "Raising Hell Software",
+    "publisher": "Electronic Arts",
+    "first_released": "August 20, 1993",
+    "jp_release": "1991",
+    "na_release": "November 1991"
+  },
+  {
+    "title": "Férias Frustradas do Pica-Pau",
+    "developer": "Tec Toy",
+    "publisher": "Tec Toy",
+    "first_released": "Unreleased",
+    "pal_release": "October 1996"
+  },
+  {
+    "title": "Ferrari Grand Prix Challenge",
+    "developer": "Aisystem Tokyo",
+    "publisher": "Varie",
+    "first_released": "May 15, 1992",
+    "jp_release": "1992",
+    "na_release": "September 1992"
+  },
+  {
+    "title": "Fever Pitch Soccer",
+    "developer": "U.S. Gold",
+    "publisher": "U.S. Gold",
+    "first_released": "Unreleased",
+    "jp_release": "1995",
+    "na_release": "June 30, 1995"
+  },
+  {
+    "title": "FIFA International Soccer",
+    "developer": "Extended Play Productions",
+    "publisher": "EA Sports",
+    "first_released": "June 10, 1994",
+    "jp_release": "December 1993",
+    "na_release": "December 3, 1993"
+  },
+  {
+    "title": "FIFA: Road to World Cup 98",
+    "developer": "XYZ Productions",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "na_release": "1997"
+  },
+  {
+    "title": "FIFA Soccer 95",
+    "developer": "Extended Play Productions",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "1994",
+    "na_release": "November 11, 1994"
+  },
+  {
+    "title": "FIFA Soccer 96",
+    "developer": "Extended Play Productions",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "November 1995",
+    "na_release": "November 10, 1995"
+  },
+  {
+    "title": "FIFA Soccer 97",
+    "developer": "XYZ Productions",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "November 1996",
+    "na_release": "November 22, 1996"
+  },
+  {
+    "title": "Fighting Masters",
+    "developer": "Aicom",
+    "publisher": "Treco",
+    "first_released": "December 6, 1991",
+    "jp_release": "February 1992"
+  },
+  {
+    "title": "Final Zone",
+    "developer": "Wolf Team",
+    "publisher": "Renovation Products",
+    "first_released": "October 12, 1990",
+    "jp_release": "December 1990"
+  },
+  {
+    "title": "Fire Mustang",
+    "developer": "NMK",
+    "publisher": "Taito",
+    "first_released": "May 31, 1991"
+  },
+  {
+    "title": "Fire Shark",
+    "developer": "Toaplan",
+    "publisher": "Sega",
+    "first_released": "November 2, 1990",
+    "jp_release": "October 1990",
+    "na_release": "April 1992"
+  },
+  {
+    "title": "Flashback",
+    "developer": "Delphine Software International",
+    "publisher": "U.S. Gold",
+    "first_released": "December 29, 1993",
+    "jp_release": "February 20, 1993",
+    "na_release": "June 1993"
+  },
+  {
+    "title": "Flicky",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "January 1991",
+    "jp_release": "1991",
+    "na_release": "1991"
+  },
+  {
+    "title": "Flink",
+    "developer": "Psygnosis",
+    "publisher": "Sony Electronic Publishing",
+    "first_released": "Unreleased",
+    "na_release": "November 1994"
+  },
+  {
+    "title": "The Flintstones",
+    "developer": "Santos Ltd.",
+    "publisher": "Taito",
+    "first_released": "November 19, 1993",
+    "jp_release": "April 1993",
+    "na_release": "June 1993"
+  },
+  {
+    "title": "Foreman For Real",
+    "developer": "Software Creations",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "October 27, 1995",
+    "jp_release": "October 1995",
+    "na_release": "1995"
+  },
+  {
+    "title": "Forgotten Worlds",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "November 18, 1989",
+    "jp_release": "December 1989",
+    "na_release": "1990"
+  },
+  {
+    "title": "Frank Thomas Big Hurt Baseball",
+    "developer": "Iguana Entertainment",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "October 1995",
+    "na_release": "1995"
+  },
+  {
+    "title": "Frogger",
+    "developer": "Morning Star Multimedia",
+    "publisher": "Majesco Sales",
+    "first_released": "Unreleased",
+    "jp_release": "1998"
+  },
+  {
+    "title": "From TV Animation Slam Dunk: Kyougou Makkou Taiketsu!",
+    "developer": "SIMS",
+    "publisher": "Bandai",
+    "first_released": "April 28, 1995"
+  },
+  {
+    "title": "Fun 'n Games",
+    "developer": "Leland Interactive Media",
+    "publisher": "Tradewest",
+    "first_released": "Unreleased",
+    "jp_release": "December 1993",
+    "na_release": "October 1994"
+  },
+  {
+    "title": "Fushigi no Umi no Nadia",
+    "developer": "Namco",
+    "publisher": "Namco",
+    "first_released": "March 19, 1991"
+  },
+  {
+    "title": "G-LOC: Air Battle",
+    "developer": "Probe Software",
+    "publisher": "Sega",
+    "first_released": "February 26, 1993",
+    "jp_release": "February 1993",
+    "na_release": "February 1993"
+  },
+  {
+    "title": "The Gadget Twins",
+    "developer": "Imagitec Design",
+    "publisher": "GameTek",
+    "first_released": "Unreleased",
+    "jp_release": "October 1992"
+  },
+  {
+    "title": "Gaiares",
+    "developer": "Telenet Japan",
+    "publisher": "Renovation Game",
+    "first_released": "December 26, 1990",
+    "jp_release": "February 1991"
+  },
+  {
+    "title": "Gain Ground",
+    "developer": "Sanritsu",
+    "publisher": "Sega",
+    "first_released": "January 3, 1991",
+    "jp_release": "1991",
+    "na_release": "1991"
+  },
+  {
+    "title": "Galahad",
+    "developer": "Traveller's Tales",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "1992",
+    "na_release": "November 1992"
+  },
+  {
+    "title": "Galaxy Force II",
+    "developer": "CRI",
+    "publisher": "Sega",
+    "first_released": "September 13, 1991",
+    "jp_release": "January 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "Garfield: Caught in the Act",
+    "developer": "Sega Interactive Development Division",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "November 1995",
+    "na_release": "December 1995"
+  },
+  {
+    "title": "Gargoyles",
+    "developer": "Disney Interactive",
+    "publisher": "Buena Vista Interactive",
+    "first_released": "Unreleased",
+    "jp_release": "November 1995"
+  },
+  {
+    "title": "Gauntlet IV",
+    "developer": "M2",
+    "publisher": "Tengen",
+    "first_released": "September 17, 1993",
+    "jp_release": "September 1993",
+    "na_release": "November 1993"
+  },
+  {
+    "title": "Gemfire",
+    "developer": "Koei",
+    "publisher": "Koei",
+    "first_released": "June 25, 1992",
+    "jp_release": "November 1992"
+  },
+  {
+    "title": "General Chaos",
+    "developer": "Game Refuge",
+    "publisher": "Electronic Arts",
+    "first_released": "January 14, 1994",
+    "jp_release": "August 1993",
+    "na_release": "September 1993"
+  },
+  {
+    "title": "Generations Lost",
+    "developer": "Pacific Softscape",
+    "publisher": "Time Warner Interactive",
+    "first_released": "Unreleased",
+    "jp_release": "December 1994",
+    "na_release": "November 1994"
+  },
+  {
+    "title": "Genghis Khan II: Clan of the Gray Wolf",
+    "developer": "Koei",
+    "publisher": "Koei",
+    "first_released": "March 25, 1993",
+    "jp_release": "December 1993"
+  },
+  {
+    "title": "George Foreman's KO Boxing",
+    "developer": "Beam Software",
+    "publisher": "Flying Edge",
+    "first_released": "Unreleased",
+    "jp_release": "January 1993",
+    "na_release": "April 1993"
+  },
+  {
+    "title": "Ghostbusters",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "June 30, 1990",
+    "jp_release": "August 1990",
+    "na_release": "December 1990"
+  },
+  {
+    "title": "Ghouls 'n Ghosts",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "August 3, 1989",
+    "jp_release": "October 1989",
+    "na_release": "November 1990"
+  },
+  {
+    "title": "Gley Lancer",
+    "developer": "NCS",
+    "publisher": "Masaya",
+    "first_released": "July 17, 1992"
+  },
+  {
+    "title": "Global Gladiators",
+    "developer": "Virgin Games",
+    "publisher": "Virgin Games",
+    "first_released": "Unreleased",
+    "jp_release": "November 1992",
+    "na_release": "April 1993"
+  },
+  {
+    "title": "Gods",
+    "developer": "Graftgold",
+    "publisher": "Mindscape",
+    "first_released": "March 26, 1993",
+    "jp_release": "1992",
+    "na_release": "December 1993"
+  },
+  {
+    "title": "Golden Axe",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "December 23, 1989",
+    "jp_release": "January 1990",
+    "na_release": "November 1990"
+  },
+  {
+    "title": "Golden Axe II",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "December 27, 1991",
+    "jp_release": "January 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "Golden Axe III",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "June 25, 1993",
+    "jp_release": "1995"
+  },
+  {
+    "title": "Goofy's Hysterical History Tour",
+    "developer": "Absolute Entertainment",
+    "publisher": "Absolute Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "January 1994"
+  },
+  {
+    "title": "Gouketsuji Ichizoku",
+    "developer": "Atlus",
+    "publisher": "Atlus",
+    "first_released": "November 18, 1994"
+  },
+  {
+    "title": "Granada",
+    "developer": "Wolf Team",
+    "publisher": "Renovation Products",
+    "first_released": "November 16, 1990",
+    "jp_release": "1990"
+  },
+  {
+    "title": "The Great Circus Mystery Starring Mickey & Minnie",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "first_released": "December 16, 1994",
+    "jp_release": "December 1994"
+  },
+  {
+    "title": "The Great Waldo Search",
+    "developer": "Radiance Software",
+    "publisher": "THQ",
+    "first_released": "Unreleased",
+    "jp_release": "1992"
+  },
+  {
+    "title": "Greatest Heavyweights",
+    "developer": "Acme Interactive",
+    "publisher": "Sega",
+    "first_released": "May 27, 1994",
+    "jp_release": "December 1993",
+    "na_release": "January 1994"
+  },
+  {
+    "title": "Greendog: The Beached Surfer Dude!",
+    "developer": "Interactive Designs",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "1992",
+    "na_release": "October 1992"
+  },
+  {
+    "title": "Grind Stormer",
+    "developer": "Tengen",
+    "publisher": "Tengen",
+    "first_released": "March 25, 1994",
+    "jp_release": "April 1994"
+  },
+  {
+    "title": "Growl",
+    "developer": "I.T.L",
+    "publisher": "Taito",
+    "first_released": "November 15, 1991",
+    "jp_release": "1991"
+  },
+  {
+    "title": "Gunship",
+    "developer": "Probe Software",
+    "publisher": "U.S. Gold",
+    "first_released": "Unreleased",
+    "na_release": "November 1993"
+  },
+  {
+    "title": "Gunstar Heroes",
+    "developer": "Treasure",
+    "publisher": "Sega",
+    "first_released": "September 10, 1993",
+    "jp_release": "September 1993",
+    "na_release": "September 1993"
+  },
+  {
+    "title": "Gynoug",
+    "developer": "NCS",
+    "publisher": "Sega",
+    "first_released": "January 25, 1991",
+    "jp_release": "June 1991",
+    "na_release": "March 1992"
+  },
+  {
+    "title": "Gyuwambler Jiko Chūshinha: Katayama Masayuki no Mahjong Dōjō",
+    "developer": "Yellow Horn",
+    "publisher": "Game Arts",
+    "first_released": "December 14, 1990"
+  },
+  {
+    "title": "Hard Drivin'",
+    "developer": "Sterling Silver Software",
+    "publisher": "Tengen",
+    "first_released": "December 21, 1990",
+    "jp_release": "1990",
+    "na_release": "1991"
+  },
+  {
+    "title": "HardBall!",
+    "developer": "Accolade",
+    "publisher": "Ballistic",
+    "first_released": "Unreleased",
+    "jp_release": "June 1991",
+    "na_release": "June 1991"
+  },
+  {
+    "title": "HardBall III",
+    "developer": "MindSpan",
+    "publisher": "Accolade",
+    "first_released": "Unreleased",
+    "jp_release": "March 1993",
+    "na_release": "May 1993"
+  },
+  {
+    "title": "Hardball '94",
+    "developer": "MindSpan",
+    "publisher": "Accolade",
+    "first_released": "Unreleased",
+    "jp_release": "June 1994",
+    "na_release": "July 1994"
+  },
+  {
+    "title": "Hardball '95",
+    "developer": "Cygnus Multimedia Productions",
+    "publisher": "Accolade",
+    "first_released": "Unreleased",
+    "jp_release": "June 1995"
+  },
+  {
+    "title": "Haunting Starring Polterguy",
+    "developer": "Electronic Arts",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "October 1993",
+    "na_release": "November 1993"
+  },
+  {
+    "title": "Heavy Nova",
+    "developer": "Micronet",
+    "publisher": "Micronet",
+    "first_released": "Unreleased",
+    "jp_release": "December 1991"
+  },
+  {
+    "title": "Heavy Unit: Mega Drive Special",
+    "developer": "Funari",
+    "publisher": "Toho",
+    "first_released": "December 26, 1990"
+  },
+  {
+    "title": "Hellfire",
+    "developer": "NCS",
+    "publisher": "Sega",
+    "first_released": "September 28, 1990",
+    "jp_release": "November 1990",
+    "na_release": "1991"
+  },
+  {
+    "title": "Herzog Zwei",
+    "developer": "Technosoft",
+    "publisher": "Sega",
+    "first_released": "December 15, 1989",
+    "jp_release": "March 1990",
+    "na_release": "1990"
+  },
+  {
+    "title": "High Seas Havoc",
+    "developer": "Data East",
+    "publisher": "Data East",
+    "first_released": "April 22, 1994",
+    "jp_release": "January 1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "Hit the Ice",
+    "developer": "Aisystem Tokyo",
+    "publisher": "Taito",
+    "first_released": "Unreleased",
+    "jp_release": "1992"
+  },
+  {
+    "title": "Home Alone",
+    "developer": "Brian A. Rice, Inc.",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "December 1992",
+    "na_release": "December 8, 1992"
+  },
+  {
+    "title": "Home Alone 2: Lost in New York",
+    "developer": "Sega Interactive Development Division",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "December 1993"
+  },
+  {
+    "title": "Honō no Tōkyūji: Dodge Danpei",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "July 10, 1992"
+  },
+  {
+    "title": "Hook",
+    "developer": "Core Design",
+    "publisher": "Sony Imagesoft",
+    "first_released": "Unreleased",
+    "jp_release": "1993",
+    "na_release": "November 1993"
+  },
+  {
+    "title": "The Humans",
+    "developer": "Imagitec Design",
+    "publisher": "GameTek",
+    "first_released": "Unreleased",
+    "jp_release": "1992"
+  },
+  {
+    "title": "Hurricanes",
+    "developer": "Arc Developments",
+    "publisher": "U.S. Gold",
+    "first_released": "Unreleased",
+    "jp_release": "1995",
+    "na_release": "1994"
+  },
+  {
+    "title": "The Hybrid Front",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "July 22, 1994"
+  },
+  {
+    "title": "Hyokkori Hyōtanjima: Daitōryō o Mezase!",
+    "developer": "Japan System House",
+    "publisher": "Sega",
+    "first_released": "August 7, 1992"
+  },
+  {
+    "title": "IMG International Tour Tennis",
+    "developer": "High Score Productions",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "October 1994",
+    "na_release": "September 1994"
+  },
+  {
+    "title": "The Immortal",
+    "developer": "Electronic Arts",
+    "publisher": "Electronic Arts Victor",
+    "first_released": "August 10, 1993",
+    "jp_release": "November 1991",
+    "na_release": "April 1992"
+  },
+  {
+    "title": "The Incredible Crash Dummies",
+    "developer": "Gray Matter",
+    "publisher": "Flying Edge",
+    "first_released": "Unreleased",
+    "jp_release": "January 1994",
+    "na_release": "January 1994"
+  },
+  {
+    "title": "The Incredible Hulk",
+    "developer": "Probe Software",
+    "publisher": "U.S. Gold",
+    "first_released": "Unreleased",
+    "jp_release": "July 1994",
+    "na_release": "June 1994"
+  },
+  {
+    "title": "Indiana Jones and the Last Crusade",
+    "developer": "Tiertex",
+    "publisher": "U.S. Gold",
+    "first_released": "Unreleased",
+    "jp_release": "November 1992",
+    "na_release": "December 1992"
+  },
+  {
+    "title": "Insector X",
+    "developer": "Hot-B",
+    "publisher": "Hot-BJPSage's CreationNA",
+    "first_released": "September 7, 1990",
+    "jp_release": "October 1990"
+  },
+  {
+    "title": "Instruments of Chaos starring Young Indiana Jones",
+    "developer": "Brian A. Rice, Inc.",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "1994"
+  },
+  {
+    "title": "International Rugby",
+    "developer": "Tiertex",
+    "publisher": "Domark",
+    "first_released": "Unreleased",
+    "jp_release": "1995",
+    "na_release": "October 1993"
+  },
+  {
+    "title": "International Sensible Soccer",
+    "developer": "Sensible Software",
+    "publisher": "Sony Electronic Publishing",
+    "first_released": "Unreleased",
+    "na_release": "June 1994"
+  },
+  {
+    "title": "International Superstar Soccer Deluxe",
+    "developer": "Factor 5",
+    "publisher": "Konami",
+    "first_released": "Unreleased",
+    "na_release": "December 5, 1996"
+  },
+  {
+    "title": "Izzy's Quest for the Olympic Rings",
+    "developer": "Alexandria",
+    "publisher": "U.S. Gold",
+    "first_released": "Unreleased",
+    "jp_release": "November 1995",
+    "na_release": "November 1995"
+  },
+  {
+    "title": "J.League Pro Striker",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "June 18, 1993"
+  },
+  {
+    "title": "J.League Pro Striker 2",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "July 15, 1994"
+  },
+  {
+    "title": "J.League Pro Striker Kanzenban",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "December 17, 1993"
+  },
+  {
+    "title": "Jack Nicklaus' Power Challenge Golf",
+    "developer": "Microsmiths",
+    "publisher": "Accolade",
+    "first_released": "Unreleased",
+    "jp_release": "July 1993",
+    "na_release": "July 1993"
+  },
+  {
+    "title": "James \"Buster\" Douglas Knock Out Boxing",
+    "developer": "Taito",
+    "publisher": "Sega",
+    "first_released": "March 23, 1990",
+    "jp_release": "1990",
+    "na_release": "1991"
+  },
+  {
+    "title": "James Bond 007: The Duel",
+    "developer": "The Kremlin",
+    "publisher": "Domark",
+    "first_released": "May 14, 1993",
+    "jp_release": "March 1993",
+    "na_release": "December 1992"
+  },
+  {
+    "title": "James Pond: Underwater Agent",
+    "developer": "Vectordean",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "April 1991",
+    "na_release": "1991"
+  },
+  {
+    "title": "James Pond II: Codename: RoboCod",
+    "developer": "Vectordean",
+    "publisher": "Electronic Arts",
+    "first_released": "June 9, 1993",
+    "jp_release": "December 1991",
+    "na_release": "December 1991"
+  },
+  {
+    "title": "James Pond 3: Operation Starfish",
+    "developer": "Vectordean",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "December 1993",
+    "na_release": "November 1993"
+  },
+  {
+    "title": "Jammit",
+    "developer": "GTE ImagiTrek Studios",
+    "publisher": "Virgin Interactive Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "May 1994"
+  },
+  {
+    "title": "Janou Touryūmon",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "November 5, 1993"
+  },
+  {
+    "title": "Jantei Monogatari",
+    "developer": "Atlus",
+    "publisher": "Renovation Game",
+    "first_released": "March 29, 1991"
+  },
+  {
+    "title": "Jennifer Capriati Tennis",
+    "developer": "System Sacom",
+    "publisher": "Telenet Japan",
+    "first_released": "June 12, 1992",
+    "jp_release": "September 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "Jeopardy!",
+    "developer": "Park Place Productions",
+    "publisher": "GameTek",
+    "first_released": "Unreleased",
+    "jp_release": "1992"
+  },
+  {
+    "title": "Jeopardy! Deluxe Edition",
+    "developer": "Park Place Productions",
+    "publisher": "GameTek",
+    "first_released": "Unreleased",
+    "jp_release": "1993"
+  },
+  {
+    "title": "Jeopardy! Sports Edition",
+    "developer": "Park Place Productions",
+    "publisher": "GameTek",
+    "first_released": "Unreleased",
+    "jp_release": "May 1994"
+  },
+  {
+    "title": "Jerry Glanville's Pigskin Footbrawl",
+    "developer": "Developer Resources",
+    "publisher": "RazorSoft",
+    "first_released": "Unreleased",
+    "jp_release": "December 18, 1992"
+  },
+  {
+    "title": "Jewel Master",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "August 30, 1991",
+    "jp_release": "1991",
+    "na_release": "November 21, 1991"
+  },
+  {
+    "title": "Jimmy White's 'Whirlwind' Snooker",
+    "developer": "Archer Maclean",
+    "publisher": "Virgin Interactive Entertainment",
+    "first_released": "Unreleased",
+    "na_release": "November 1994"
+  },
+  {
+    "title": "Joe & Mac",
+    "developer": "Eden Entertainment Software",
+    "publisher": "Takara",
+    "first_released": "Unreleased",
+    "jp_release": "January 1994"
+  },
+  {
+    "title": "Joe Montana Football",
+    "developer": "Park Place Productions",
+    "publisher": "Sega",
+    "first_released": "March 1, 1991",
+    "jp_release": "January 1991",
+    "na_release": "May 1991"
+  },
+  {
+    "title": "Joe Montana II: Sports Talk Football",
+    "developer": "BlueSky Software",
+    "publisher": "Sega",
+    "first_released": "January 24, 1992",
+    "jp_release": "November 1991",
+    "na_release": "January 1992"
+  },
+  {
+    "title": "John Madden Football",
+    "developer": "Park Place Productions",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "November 1990",
+    "na_release": "December 1990"
+  },
+  {
+    "title": "John Madden Football '92",
+    "developer": "Park Place Productions",
+    "publisher": "Electronic Arts Sports Network",
+    "first_released": "November 20, 1992",
+    "jp_release": "December 1991",
+    "na_release": "1991"
+  },
+  {
+    "title": "John Madden Football '93",
+    "developer": "Looking Glass Technology",
+    "publisher": "Electronic Arts Sports Network",
+    "first_released": "Unreleased",
+    "jp_release": "December 1992",
+    "na_release": "December 1992"
+  },
+  {
+    "title": "John Madden Football '93: Championship Edition",
+    "developer": "Looking Glass Technology",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "1992"
+  },
+  {
+    "title": "Jordan vs. Bird",
+    "developer": "Electronic Arts",
+    "publisher": "Electronic Arts Sports Network",
+    "first_released": "September 24, 1993",
+    "jp_release": "1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "Judge Dredd",
+    "developer": "Probe Software",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "September 1, 1995",
+    "jp_release": "June 16, 1995",
+    "na_release": "July 1995"
+  },
+  {
+    "title": "Junction",
+    "developer": "Micronet",
+    "publisher": "Micronet",
+    "first_released": "November 25, 1990",
+    "jp_release": "April 1991"
+  },
+  {
+    "title": "The Jungle Book",
+    "developer": "Eurocom",
+    "publisher": "Virgin Interactive Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "August 1994",
+    "na_release": "July 1994"
+  },
+  {
+    "title": "Jungle Strike",
+    "developer": "High Score ProductionsGranite Bay Software",
+    "publisher": "Electronic Arts",
+    "first_released": "December 17, 1993",
+    "jp_release": "August 1993",
+    "na_release": "July 16, 1993"
+  },
+  {
+    "title": "Jurassic Park",
+    "developer": "BlueSky Software",
+    "publisher": "Sega",
+    "first_released": "August 27, 1993",
+    "jp_release": "August 10, 1993",
+    "na_release": "September 10, 1993"
+  },
+  {
+    "title": "Jurassic Park: Rampage Edition",
+    "developer": "BlueSky Software",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "October 1994",
+    "na_release": "November 1994"
+  },
+  {
+    "title": "Justice League Task Force",
+    "developer": "Condor",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "September 1, 1995",
+    "jp_release": "1995",
+    "na_release": "June 1995"
+  },
+  {
+    "title": "Ka-Ge-Ki: Fists of Steel",
+    "developer": "Hot-B",
+    "publisher": "Hot-BJPSage's CreationNA",
+    "first_released": "April 26, 1991",
+    "jp_release": "June 1991"
+  },
+  {
+    "title": "Kawasaki Superbike Challenge",
+    "developer": "Lankhor",
+    "publisher": "Time Warner Interactive",
+    "first_released": "Unreleased",
+    "jp_release": "March 1995",
+    "na_release": "March 17, 1995"
+  },
+  {
+    "title": "Kick Off 3: European Challenge",
+    "developer": "Anco Software",
+    "publisher": "Vic Tokai",
+    "first_released": "Unreleased",
+    "na_release": "November 1994"
+  },
+  {
+    "title": "Kid Chameleon",
+    "developer": "Sega Technical Institute",
+    "publisher": "Sega",
+    "first_released": "May 29, 1992",
+    "jp_release": "March 1992",
+    "na_release": "April 1992"
+  },
+  {
+    "title": "Kidō Keisatsu Patlabor: 98-Shiki Kidou Seyo!",
+    "developer": "Ma-Ba",
+    "publisher": "Ma-Ba",
+    "first_released": "October 23, 1992"
+  },
+  {
+    "title": "King of the Monsters",
+    "developer": "SPS",
+    "publisher": "Takara",
+    "first_released": "November 26, 1993",
+    "jp_release": "1993",
+    "na_release": "June 1993"
+  },
+  {
+    "title": "King of the Monsters 2",
+    "developer": "Betop",
+    "publisher": "Takara",
+    "first_released": "Unreleased",
+    "jp_release": "1994"
+  },
+  {
+    "title": "King Salmon",
+    "developer": "Hot-B",
+    "publisher": "Vic Tokai",
+    "first_released": "September 26, 1992",
+    "jp_release": "July 1992"
+  },
+  {
+    "title": "King's Bounty: The Conqueror's Quest",
+    "developer": "New World Computing",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "July 1991",
+    "na_release": "July 1991"
+  },
+  {
+    "title": "Kishi Densetsu",
+    "developer": "Geo FactoryWarlock",
+    "publisher": "Kodansha",
+    "first_released": "July 30, 1993"
+  },
+  {
+    "title": "Klax",
+    "developer": "Namco",
+    "publisher": "Namco",
+    "first_released": "September 7, 1990"
+  },
+  {
+    "title": "Tengen",
+    "developer": "Tengen",
+    "publisher": "Unreleased",
+    "jp_release": "1990",
+    "na_release": "November 1991"
+  },
+  {
+    "title": "Krusty's Super Fun House",
+    "developer": "Audiogenic",
+    "publisher": "Flying Edge",
+    "first_released": "Unreleased",
+    "jp_release": "1992",
+    "na_release": "December 1992"
+  },
+  {
+    "title": "Kyūkai Dōchūki",
+    "developer": "Namco",
+    "publisher": "Namco",
+    "first_released": "July 12, 1991"
+  },
+  {
+    "title": "La Russa Baseball 95",
+    "developer": "Stormfront Studios",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "1994"
+  },
+  {
+    "title": "Lakers versus Celtics and the NBA Playoffs",
+    "developer": "Electronic Arts",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "December 1990",
+    "na_release": "1991"
+  },
+  {
+    "title": "Landstalker: The Treasures of King Nole",
+    "developer": "Climax Entertainment",
+    "publisher": "Sega",
+    "first_released": "October 30, 1992",
+    "jp_release": "October 1993",
+    "na_release": "November 1993"
+  },
+  {
+    "title": "Langrisser II",
+    "developer": "Team Career",
+    "publisher": "Masaya",
+    "first_released": "August 26, 1994"
+  },
+  {
+    "title": "Last Action Hero",
+    "developer": "Bits Studios",
+    "publisher": "Sony Imagesoft",
+    "first_released": "Unreleased",
+    "jp_release": "January 26, 1994"
+  },
+  {
+    "title": "Last Battle",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "July 1, 1989",
+    "jp_release": "August 1989",
+    "na_release": "1990"
+  },
+  {
+    "title": "The Lawnmower Man",
+    "developer": "Atod",
+    "publisher": "Time Warner Interactive",
+    "first_released": "Unreleased",
+    "jp_release": "1994",
+    "na_release": "November 1994"
+  },
+  {
+    "title": "Lemmings",
+    "developer": "Sunsoft",
+    "publisher": "Sega",
+    "first_released": "November 20, 1992",
+    "jp_release": "July 1992",
+    "na_release": "December 1992"
+  },
+  {
+    "title": "Lemmings 2: The Tribes",
+    "developer": "Digital Developments",
+    "publisher": "Psygnosis",
+    "first_released": "Unreleased",
+    "jp_release": "1994",
+    "na_release": "November 1994"
+  },
+  {
+    "title": "Lethal Enforcers",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "first_released": "December 10, 1993",
+    "jp_release": "1993",
+    "na_release": "February 1994"
+  },
+  {
+    "title": "Lethal Enforcers II: Gun Fighters",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "first_released": "Unreleased",
+    "jp_release": "October 1994",
+    "na_release": "December 1994"
+  },
+  {
+    "title": "LHX Attack Chopper",
+    "developer": "Electronic Arts",
+    "publisher": "Electronic Arts Victor",
+    "first_released": "June 4, 1993",
+    "jp_release": "October 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "Liberty or Death",
+    "developer": "Koei",
+    "publisher": "Koei",
+    "first_released": "Unreleased",
+    "jp_release": "1994"
+  },
+  {
+    "title": "Light Crusader",
+    "developer": "Treasure",
+    "publisher": "Sega",
+    "first_released": "May 26, 1995",
+    "jp_release": "1995",
+    "na_release": "September 1995"
+  },
+  {
+    "title": "The Lion King",
+    "developer": "Westwood Studios",
+    "publisher": "Virgin Interactive Entertainment",
+    "first_released": "December 9, 1994",
+    "jp_release": "November 9, 1994",
+    "na_release": "November 4, 1994"
+  },
+  {
+    "title": "Lord Monarch",
+    "developer": "Sega Falcom",
+    "publisher": "Sega",
+    "first_released": "June 24, 1994"
+  },
+  {
+    "title": "The Lost Vikings",
+    "developer": "Silicon & Synapse",
+    "publisher": "Interplay Productions",
+    "first_released": "Unreleased",
+    "jp_release": "January 1994",
+    "na_release": "March 1994"
+  },
+  {
+    "title": "The Lost World: Jurassic Park",
+    "developer": "Appaloosa Interactive",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "September 16, 1997",
+    "na_release": "1997"
+  },
+  {
+    "title": "Lotus Turbo Challenge",
+    "developer": "Gremlin Graphics",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "December 1992",
+    "na_release": "December 1992"
+  },
+  {
+    "title": "Lotus II: R.E.C.S.",
+    "developer": "Gremlin Graphics",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "December 1993",
+    "na_release": "December 1993"
+  },
+  {
+    "title": "M-1 Abrams Battle Tank",
+    "developer": "Realtime Games Software",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "1991",
+    "na_release": "1991"
+  },
+  {
+    "title": "Madden NFL '94",
+    "developer": "High Score Productions",
+    "publisher": "EA Sports",
+    "first_released": "February 18, 1994",
+    "jp_release": "November 19, 1993",
+    "na_release": "November 1993"
+  },
+  {
+    "title": "Madden NFL '95",
+    "developer": "High Score Productions",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "November 18, 1994",
+    "na_release": "November 1994"
+  },
+  {
+    "title": "Madden NFL '96",
+    "developer": "High Score Productions",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "November 10, 1995",
+    "na_release": "1995"
+  },
+  {
+    "title": "Madden NFL 97",
+    "developer": "High Score Productions",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "October 1996",
+    "na_release": "1996"
+  },
+  {
+    "title": "Madden NFL 98",
+    "developer": "Tiertex",
+    "publisher": "THQ",
+    "first_released": "Unreleased",
+    "jp_release": "1997"
+  },
+  {
+    "title": "Madō Monogatari I",
+    "developer": "Compile",
+    "publisher": "Compile",
+    "first_released": "March 22, 1996"
+  },
+  {
+    "title": "Magical Taruruto-kun",
+    "developer": "Game Freak",
+    "publisher": "Sega",
+    "first_released": "April 24, 1992"
+  },
+  {
+    "title": "The Magic School Bus: Space Exploration Game",
+    "developer": "Novotrade",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "1995"
+  },
+  {
+    "title": "Mahjong Cop Ryū: Shiro Ookami no Yabō",
+    "developer": "Whiteboard",
+    "publisher": "Sega",
+    "first_released": "December 14, 1989"
+  },
+  {
+    "title": "Mamono Hunter Yōko: Dai 7 no Keishō",
+    "developer": "Klon",
+    "publisher": "Masaya",
+    "first_released": "March 22, 1991"
+  },
+  {
+    "title": "Marble Madness",
+    "developer": "Electronic Arts",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "1991",
+    "na_release": "March 1992"
+  },
+  {
+    "title": "Tengen",
+    "developer": "Tengen",
+    "publisher": "August 13, 1993"
+  },
+  {
+    "title": "Mario Andretti Racing",
+    "developer": "Stormfront Studios",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "Mario Lemieux Hockey",
+    "developer": "Alpine Software",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "1991",
+    "na_release": "March 1992"
+  },
+  {
+    "title": "Marko's Magic Football",
+    "developer": "The Cartoon Mavericks",
+    "publisher": "Domark",
+    "first_released": "Unreleased",
+    "jp_release": "October 1994",
+    "na_release": "July 1994"
+  },
+  {
+    "title": "Marsupilami",
+    "developer": "Apache Software",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "May 1996",
+    "na_release": "November 1995"
+  },
+  {
+    "title": "Marvel Land",
+    "developer": "Namco",
+    "publisher": "Sega",
+    "first_released": "June 28, 1991",
+    "jp_release": "1991",
+    "na_release": "August 1992"
+  },
+  {
+    "title": "Mary Shelley's Frankenstein",
+    "developer": "Bits Studios",
+    "publisher": "Sony Imagesoft",
+    "first_released": "Unreleased",
+    "jp_release": "November 4, 1994"
+  },
+  {
+    "title": "Master of Monsters",
+    "developer": "ISCO",
+    "publisher": "Toshiba EMI",
+    "first_released": "July 26, 1991",
+    "jp_release": "December 1991"
+  },
+  {
+    "title": "Master of Weapon",
+    "developer": "KID",
+    "publisher": "Taito",
+    "first_released": "September 27, 1991"
+  },
+  {
+    "title": "Maten no Sōmetsu",
+    "developer": "WarlockGeo Factory",
+    "publisher": "Kodansha",
+    "first_released": "December 29, 1993"
+  },
+  {
+    "title": "Math Blaster: Episode 1",
+    "developer": "Spidersoft",
+    "publisher": "Davidson & Associates",
+    "first_released": "Unreleased",
+    "jp_release": "1994"
+  },
+  {
+    "title": "Mazin Saga: Mutant Fighter",
+    "developer": "Almanic Corporation",
+    "publisher": "Sega",
+    "first_released": "February 26, 1993",
+    "jp_release": "October 1993",
+    "na_release": "July 1993"
+  },
+  {
+    "title": "McDonald's Treasure Land Adventure",
+    "developer": "Treasure",
+    "publisher": "Sega",
+    "first_released": "September 23, 1993",
+    "jp_release": "December 1993",
+    "na_release": "March 1994"
+  },
+  {
+    "title": "Mega Bomberman",
+    "developer": "Westone",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "February 1995",
+    "na_release": "November 1994"
+  },
+  {
+    "title": "Mega-Lo-Mania",
+    "developer": "Sensible Software",
+    "publisher": "Virgin Games",
+    "first_released": "April 23, 1993",
+    "jp_release": "1993",
+    "na_release": "March 1993"
+  },
+  {
+    "title": "Mega Man: The Wily Wars",
+    "developer": "Minakuchi Engineering",
+    "publisher": "Capcom",
+    "first_released": "October 21, 1994",
+    "jp_release": "December 1994",
+    "na_release": "April 1995"
+  },
+  {
+    "title": "Megapanel",
+    "developer": "Namco",
+    "publisher": "Namco",
+    "first_released": "November 22, 1990"
+  },
+  {
+    "title": "Mega SWIV",
+    "developer": "Sales Curve Interactive",
+    "publisher": "Time Warner Interactive",
+    "first_released": "Unreleased",
+    "na_release": "March 1995"
+  },
+  {
+    "title": "Mega Turrican",
+    "developer": "Factor 5",
+    "publisher": "Data East",
+    "first_released": "Unreleased",
+    "jp_release": "March 1994",
+    "na_release": "November 1994"
+  },
+  {
+    "title": "Menacer 6-Game Cartridge",
+    "developer": "Johnson-Voorsanger Productions",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "October 1992",
+    "na_release": "December 1992"
+  },
+  {
+    "title": "Mercs",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "September 27, 1991",
+    "jp_release": "October 1991",
+    "na_release": "December 1991"
+  },
+  {
+    "title": "Metal Fangs",
+    "developer": "Sega",
+    "publisher": "Victor Entertainment",
+    "first_released": "December 17, 1993"
+  },
+  {
+    "title": "Michael Jackson's Moonwalker",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "August 25, 1990",
+    "jp_release": "August 1990",
+    "na_release": "January 1991"
+  },
+  {
+    "title": "Mickey Mania: The Timeless Adventures of Mickey Mouse",
+    "developer": "Traveller's Tales",
+    "publisher": "Sony Imagesoft",
+    "first_released": "March 31, 1995",
+    "jp_release": "November 1, 1994",
+    "na_release": "October 28, 1994"
+  },
+  {
+    "title": "Mickey's Ultimate Challenge",
+    "developer": "Designer Software",
+    "publisher": "Hi Tech Expressions",
+    "first_released": "Unreleased",
+    "jp_release": "1994"
+  },
+  {
+    "title": "Micro Machines",
+    "developer": "Codemasters",
+    "publisher": "Codemasters",
+    "first_released": "Unreleased",
+    "jp_release": "September 1993",
+    "na_release": "July 1993"
+  },
+  {
+    "title": "Micro Machines 2: Turbo Tournament",
+    "developer": "Supersonic Software",
+    "publisher": "Codemasters",
+    "first_released": "Unreleased",
+    "na_release": "November 25, 1994"
+  },
+  {
+    "title": "Micro Machines: Turbo Tournament '96",
+    "developer": "Supersonic Software",
+    "publisher": "Codemasters",
+    "first_released": "Unreleased",
+    "na_release": "October 20, 1995"
+  },
+  {
+    "title": "Micro Machines Military",
+    "developer": "Supersonic Software",
+    "publisher": "Codemasters",
+    "first_released": "Unreleased",
+    "na_release": "November 11, 1996"
+  },
+  {
+    "title": "Midnight Resistance",
+    "developer": "Data East",
+    "publisher": "Sega",
+    "first_released": "March 29, 1991",
+    "jp_release": "1991"
+  },
+  {
+    "title": "MiG-29 Fighter Pilot",
+    "developer": "PanelCompThe Kremlin",
+    "publisher": "Domark",
+    "first_released": "November 26, 1993",
+    "jp_release": "1993",
+    "na_release": "July 1993"
+  },
+  {
+    "title": "Might and Magic II: Gates to Another World",
+    "developer": "New World Computing",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "July 1991",
+    "na_release": "July 1991"
+  },
+  {
+    "title": "Mighty Morphin Power Rangers",
+    "developer": "Nova",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "1994",
+    "na_release": "December 1994"
+  },
+  {
+    "title": "Mighty Morphin Power Rangers: The Movie",
+    "developer": "SIMS",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "1995",
+    "na_release": "December 1995"
+  },
+  {
+    "title": "Mike Ditka Power Football",
+    "developer": "Accolade",
+    "publisher": "Ballistic",
+    "first_released": "Unreleased",
+    "jp_release": "1991",
+    "na_release": "October 23, 1991"
+  },
+  {
+    "title": "Minnesota Fats: Pool Legend",
+    "developer": "Data East",
+    "publisher": "Data East",
+    "first_released": "Unreleased",
+    "jp_release": "May 1995"
+  },
+  {
+    "title": "The Miracle Piano Teaching System",
+    "developer": "The Software Toolworks",
+    "publisher": "The Software Toolworks",
+    "first_released": "Unreleased",
+    "jp_release": "1992"
+  },
+  {
+    "title": "MLBPA Baseball",
+    "developer": "High Score Productions",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "1994"
+  },
+  {
+    "title": "Monopoly",
+    "developer": "Sculptured Software",
+    "publisher": "Parker Brothers",
+    "first_released": "Unreleased",
+    "jp_release": "1992"
+  },
+  {
+    "title": "Monster World IV",
+    "developer": "Westone",
+    "publisher": "Sega",
+    "first_released": "April 1, 1994"
+  },
+  {
+    "title": "Mortal Kombat",
+    "developer": "Probe Software",
+    "publisher": "Arena Entertainment",
+    "first_released": "May 27, 1994",
+    "jp_release": "September 13, 1993",
+    "na_release": "September 13, 1993"
+  },
+  {
+    "title": "Mortal Kombat II",
+    "developer": "Probe Software",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "September 9, 1994",
+    "jp_release": "September 9, 1994",
+    "na_release": "September 9, 1994"
+  },
+  {
+    "title": "Mortal Kombat 3",
+    "developer": "Sculptured Software",
+    "publisher": "Williams Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "October 13, 1995",
+    "na_release": "October 1995"
+  },
+  {
+    "title": "Mr. Nutz",
+    "developer": "Ocean Software",
+    "publisher": "Ocean Software",
+    "first_released": "Unreleased",
+    "jp_release": "1995",
+    "na_release": "November 1994"
+  },
+  {
+    "title": "Ms. Pac-Man",
+    "developer": "Tengen",
+    "publisher": "Time Warner Interactive",
+    "first_released": "Unreleased",
+    "jp_release": "July 1991",
+    "na_release": "1995"
+  },
+  {
+    "title": "Muhammad Ali Heavyweight Boxing",
+    "developer": "Park Place Productions",
+    "publisher": "Virgin Games",
+    "first_released": "Unreleased",
+    "jp_release": "1992",
+    "na_release": "July 1993"
+  },
+  {
+    "title": "MUSHA",
+    "developer": "Compile",
+    "publisher": "Toaplan",
+    "first_released": "December 21, 1990",
+    "jp_release": "February 1991"
+  },
+  {
+    "title": "Mutant Chronicles: Doom Troopers",
+    "developer": "Adrenalin Entertainment",
+    "publisher": "Playmates Interactive Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "November 1995"
+  },
+  {
+    "title": "Mutant League Football",
+    "developer": "Mutant Productions",
+    "publisher": "Electronic Arts",
+    "first_released": "September 10, 1993",
+    "jp_release": "May 1993",
+    "na_release": "July 1993"
+  },
+  {
+    "title": "Mutant League Hockey",
+    "developer": "AbaloneMutant Productions",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "May 1994",
+    "na_release": "March 1994"
+  },
+  {
+    "title": "Mystical Fighter",
+    "developer": "KID",
+    "publisher": "Taito",
+    "first_released": "October 25, 1991",
+    "jp_release": "March 1992"
+  },
+  {
+    "title": "Mystic Defender",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "November 25, 1989",
+    "jp_release": "December 1989",
+    "na_release": "1990"
+  },
+  {
+    "title": "Nakajima Satoru Kanshū F1 Grand Prix",
+    "developer": "Varie",
+    "publisher": "Varie",
+    "first_released": "December 20, 1991"
+  },
+  {
+    "title": "Nakajima Satoru Kanshū F1 Super License",
+    "developer": "Varie",
+    "publisher": "Varie",
+    "first_released": "December 11, 1992"
+  },
+  {
+    "title": "NBA Action '94",
+    "developer": "Malibu Interactive",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "April 1994"
+  },
+  {
+    "title": "NBA Action '95 Starring David Robinson",
+    "developer": "Double Diamond Sports",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "1995",
+    "na_release": "June 1995"
+  },
+  {
+    "title": "NBA All-Star Challenge",
+    "developer": "Beam Software",
+    "publisher": "Flying Edge",
+    "first_released": "Unreleased",
+    "jp_release": "1992",
+    "na_release": "1993"
+  },
+  {
+    "title": "NBA Hangtime",
+    "developer": "Funcom",
+    "publisher": "Midway",
+    "first_released": "Unreleased",
+    "jp_release": "November 1996",
+    "na_release": "February 1997"
+  },
+  {
+    "title": "NBA Jam",
+    "developer": "Iguana Entertainment",
+    "publisher": "Arena Entertainment",
+    "first_released": "April 29, 1994",
+    "jp_release": "March 4, 1994",
+    "na_release": "March 4, 1994"
+  },
+  {
+    "title": "NBA Jam Tournament Edition",
+    "developer": "Iguana Entertainment",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "February 24, 1995",
+    "jp_release": "February 23, 1995",
+    "na_release": "February 23, 1995"
+  },
+  {
+    "title": "NBA Live 95",
+    "developer": "Hitmen Productions",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "NBA Live 96",
+    "developer": "Hitmen Productions",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "1995",
+    "na_release": "1995"
+  },
+  {
+    "title": "NBA Live 97",
+    "developer": "NuFX",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "November 1996",
+    "na_release": "1996"
+  },
+  {
+    "title": "NBA Live 98",
+    "developer": "Tiertex",
+    "publisher": "THQ",
+    "first_released": "Unreleased",
+    "jp_release": "December 2, 1997"
+  },
+  {
+    "title": "NBA Showdown '94",
+    "developer": "EA Creative Development",
+    "publisher": "EA Sports",
+    "first_released": "July 1, 1994",
+    "jp_release": "1994",
+    "na_release": "March 29, 1994"
+  },
+  {
+    "title": "NCAA Final Four Basketball",
+    "developer": "Bitmasters",
+    "publisher": "Mindscape",
+    "first_released": "Unreleased",
+    "jp_release": "1995"
+  },
+  {
+    "title": "NCAA Football",
+    "developer": "The Software Toolworks",
+    "publisher": "Mindscape",
+    "first_released": "Unreleased",
+    "jp_release": "1994"
+  },
+  {
+    "title": "Nekketsu Kōkō Dojjibōru Bu: Mega Doraibu Sakkā-hen",
+    "developer": "Aspect",
+    "publisher": "Palsoft",
+    "first_released": "August 7, 1992"
+  },
+  {
+    "title": "New 3D Golf Simulation: Devil's Course",
+    "developer": "T&E Soft",
+    "publisher": "Sega",
+    "first_released": "January 28, 1994"
+  },
+  {
+    "title": "New 3D Golf Simulation: Harukanaru Augusta",
+    "developer": "T&E Soft",
+    "publisher": "T&E Soft",
+    "first_released": "December 17, 1993"
+  },
+  {
+    "title": "New 3D Golf Simulation: Waialae no Kiseki",
+    "developer": "T&E Soft",
+    "publisher": "Sega",
+    "first_released": "February 25, 1994"
+  },
+  {
+    "title": "Newman/Haas IndyCar featuring Nigel Mansell",
+    "developer": "Gremlin Graphics",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "December 16, 1994",
+    "jp_release": "December 1994",
+    "na_release": "December 1994"
+  },
+  {
+    "title": "The NewZealand Story",
+    "developer": "Taito",
+    "publisher": "Taito",
+    "first_released": "March 3, 1990"
+  },
+  {
+    "title": "NFL '95",
+    "developer": "FarSight Technologies",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "November 15, 1994"
+  },
+  {
+    "title": "NFL '98",
+    "developer": "FarSight Technologies",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "1997"
+  },
+  {
+    "title": "NFL Football '94 Starring Joe Montana",
+    "developer": "BlueSky Software",
+    "publisher": "Sega",
+    "first_released": "February 4, 1994",
+    "jp_release": "November 1993"
+  },
+  {
+    "title": "NFL Quarterback Club",
+    "developer": "Iguana Entertainment",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "February 24, 1995",
+    "jp_release": "1994",
+    "na_release": "April 1995"
+  },
+  {
+    "title": "NFL Quarterback Club 96",
+    "developer": "Iguana Entertainment",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "October 27, 1995",
+    "na_release": "1995"
+  },
+  {
+    "title": "NFL Sports Talk Football '93 Starring Joe Montana",
+    "developer": "BlueSky Software",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "1992",
+    "na_release": "December 1992"
+  },
+  {
+    "title": "NHK Taiga Drama: Taiheiki",
+    "developer": "Tose",
+    "publisher": "Sega",
+    "first_released": "December 13, 1991"
+  },
+  {
+    "title": "NHL '94",
+    "developer": "High Score Productions",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "September 1993",
+    "na_release": "October 1993"
+  },
+  {
+    "title": "NHL 95",
+    "developer": "High Score ProductionsDouble Diamond Sports",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "September 1994",
+    "na_release": "October 1994"
+  },
+  {
+    "title": "NHL 96",
+    "developer": "High Score Entertainment",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "October 6, 1995",
+    "na_release": "October 1995"
+  },
+  {
+    "title": "NHL 97",
+    "developer": "High Score Entertainment",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "1996",
+    "na_release": "1996"
+  },
+  {
+    "title": "NHL 98",
+    "developer": "Electronic Arts",
+    "publisher": "THQ",
+    "first_released": "Unreleased",
+    "jp_release": "1997"
+  },
+  {
+    "title": "NHL All-Star Hockey '95",
+    "developer": "Sega Midwest StudioNew Wave Graphics",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "February 1995"
+  },
+  {
+    "title": "NHL Hockey",
+    "developer": "Park Place Productions",
+    "publisher": "Electronic Arts",
+    "first_released": "November 20, 1992",
+    "jp_release": "August 1991",
+    "na_release": "August 1991"
+  },
+  {
+    "title": "NHLPA Hockey '93",
+    "developer": "EA Studios",
+    "publisher": "Electronic Arts Sports Network",
+    "first_released": "Unreleased",
+    "jp_release": "September 1992",
+    "na_release": "November 1992"
+  },
+  {
+    "title": "Nigel Mansell's World Championship Racing",
+    "developer": "Gremlin Graphics",
+    "publisher": "GameTek",
+    "first_released": "Unreleased",
+    "jp_release": "November 1993",
+    "na_release": "1994"
+  },
+  {
+    "title": "Nightmare Circus",
+    "developer": "Funcom",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "April 1996",
+    "na_release": "May 1997",
+    "pal_release": "1996"
+  },
+  {
+    "title": "Ninja Burai Densetsu",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "December 5, 1991"
+  },
+  {
+    "title": "No Escape",
+    "developer": "Bits Studios",
+    "publisher": "Psygnosis",
+    "first_released": "Unreleased",
+    "jp_release": "1994"
+  },
+  {
+    "title": "Nobunaga no Yabō: Bushō Fūunroku",
+    "developer": "Koei",
+    "publisher": "Koei",
+    "first_released": "December 20, 1991"
+  },
+  {
+    "title": "Nobunaga no Yabō: Haōden",
+    "developer": "Koei",
+    "publisher": "Koei",
+    "first_released": "February 25, 1994"
+  },
+  {
+    "title": "Nobunaga's Ambition",
+    "developer": "Koei",
+    "publisher": "Koei",
+    "first_released": "September 15, 1993",
+    "jp_release": "1993"
+  },
+  {
+    "title": "Normy's Beach Babe-O-Rama",
+    "developer": "Realtime Associates",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "1994",
+    "na_release": "March 1994"
+  },
+  {
+    "title": "Olympic Gold",
+    "developer": "Tiertex",
+    "publisher": "U.S. Gold",
+    "first_released": "July 24, 1992",
+    "jp_release": "June 1992",
+    "na_release": "July 1992"
+  },
+  {
+    "title": "Olympic Summer Games",
+    "developer": "Tiertex",
+    "publisher": "Black Pearl Software",
+    "first_released": "Unreleased",
+    "jp_release": "July 1996",
+    "na_release": "August 1996"
+  },
+  {
+    "title": "The Ooze",
+    "developer": "Sega Technical Institute",
+    "publisher": "Sega",
+    "first_released": "September 22, 1995",
+    "jp_release": "September 1995",
+    "na_release": "December 1995"
+  },
+  {
+    "title": "Operation Europe: Path to Victory",
+    "developer": "Koei",
+    "publisher": "Koei",
+    "first_released": "January 16, 1993",
+    "jp_release": "1994"
+  },
+  {
+    "title": "Osomatsu-kun: Hachamecha Gekijō",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "December 24, 1988"
+  },
+  {
+    "title": "The Ottifants",
+    "developer": "Graftgold",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "na_release": "December 1993"
+  },
+  {
+    "title": "Outback Joey",
+    "developer": "Western Technologies",
+    "publisher": "HeartBeat",
+    "first_released": "Unreleased",
+    "jp_release": "1993"
+  },
+  {
+    "title": "Outlander",
+    "developer": "Mindscape",
+    "publisher": "Mindscape",
+    "first_released": "Unreleased",
+    "jp_release": "March 1993"
+  },
+  {
+    "title": "Out Run",
+    "developer": "Hertz",
+    "publisher": "Sega",
+    "first_released": "August 9, 1991",
+    "jp_release": "1991",
+    "na_release": "November 1991"
+  },
+  {
+    "title": "OutRun 2019",
+    "developer": "Hertz",
+    "publisher": "Sega",
+    "first_released": "March 26, 1993",
+    "jp_release": "March 1993",
+    "na_release": "April 1993"
+  },
+  {
+    "title": "OutRunners",
+    "developer": "Sega",
+    "publisher": "Data East",
+    "first_released": "May 13, 1994",
+    "jp_release": "July 1994"
+  },
+  {
+    "title": "P.T.O.: Pacific Theater of Operations",
+    "developer": "Koei",
+    "publisher": "Koei",
+    "first_released": "September 24, 1992",
+    "jp_release": "1993"
+  },
+  {
+    "title": "Pac-Attack",
+    "developer": "Namco",
+    "publisher": "Namco",
+    "first_released": "Unreleased",
+    "jp_release": "1994",
+    "na_release": "December 1995"
+  },
+  {
+    "title": "Pac-Man 2: The New Adventures",
+    "developer": "Namco",
+    "publisher": "Namco",
+    "first_released": "Unreleased",
+    "jp_release": "October 1994"
+  },
+  {
+    "title": "Pac-Mania",
+    "developer": "Sculptured Software",
+    "publisher": "Tengen",
+    "first_released": "Unreleased",
+    "jp_release": "September 1991",
+    "na_release": "1991"
+  },
+  {
+    "title": "Pachinko Kūnyan",
+    "developer": "I.S.C.",
+    "publisher": "Soft Vision",
+    "first_released": "December 18, 1992"
+  },
+  {
+    "title": "The Pagemaster",
+    "developer": "Probe Software",
+    "publisher": "Fox Interactive",
+    "first_released": "Unreleased",
+    "jp_release": "November 23, 1994",
+    "na_release": "December 1994"
+  },
+  {
+    "title": "Panorama Cotton",
+    "developer": "Success",
+    "publisher": "Sunsoft",
+    "first_released": "August 12, 1994"
+  },
+  {
+    "title": "Paperboy",
+    "developer": "Motivetime",
+    "publisher": "Tengen",
+    "first_released": "June 26, 1992",
+    "jp_release": "February 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "Paperboy 2",
+    "developer": "Tengen",
+    "publisher": "Tengen",
+    "first_released": "Unreleased",
+    "jp_release": "March 1993",
+    "na_release": "May 1993"
+  },
+  {
+    "title": "Party Quiz Mega Q",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "November 5, 1993"
+  },
+  {
+    "title": "Pat Riley Basketball",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "March 2, 1990",
+    "jp_release": "August 1990",
+    "na_release": "1990"
+  },
+  {
+    "title": "Pebble Beach Golf Links",
+    "developer": "T&E Soft",
+    "publisher": "Sega",
+    "first_released": "October 29, 1993",
+    "jp_release": "1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "Pelé!",
+    "developer": "Radical Entertainment",
+    "publisher": "Accolade",
+    "first_released": "Unreleased",
+    "jp_release": "December 1993",
+    "na_release": "January 1994"
+  },
+  {
+    "title": "Pelé II: World Tournament Soccer",
+    "developer": "Radical Entertainment",
+    "publisher": "Accolade",
+    "first_released": "Unreleased",
+    "jp_release": "June 1994",
+    "na_release": "November 4, 1994"
+  },
+  {
+    "title": "Pepenga Pengo",
+    "developer": "JSH",
+    "publisher": "Sega",
+    "first_released": "December 22, 1995"
+  },
+  {
+    "title": "Pete Sampras Tennis",
+    "developer": "Zeppelin Games",
+    "publisher": "Codemasters",
+    "first_released": "Unreleased",
+    "jp_release": "1994",
+    "na_release": "June 16, 1994"
+  },
+  {
+    "title": "PGA European Tour",
+    "developer": "Polygames",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "1994",
+    "na_release": "March 1994"
+  },
+  {
+    "title": "PGA Tour 96",
+    "developer": "NuFX",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "November 1995",
+    "na_release": "December 1995"
+  },
+  {
+    "title": "PGA Tour Golf",
+    "developer": "Sterling Silver Software",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "April 1991",
+    "na_release": "May 1991"
+  },
+  {
+    "title": "PGA Tour Golf II",
+    "developer": "Polygames",
+    "publisher": "EA Sports",
+    "first_released": "April 16, 1993",
+    "jp_release": "January 1993",
+    "na_release": "February 19, 1993"
+  },
+  {
+    "title": "PGA Tour Golf III",
+    "developer": "PolygamesHigh Score Productions",
+    "publisher": "EA Sports",
+    "first_released": "Unreleased",
+    "jp_release": "December 1994",
+    "na_release": "November 25, 1994"
+  },
+  {
+    "title": "Phantasy Star Fukkokuban",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "April 2, 1994"
+  },
+  {
+    "title": "Phantasy Star II",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "March 21, 1989",
+    "jp_release": "March 1990",
+    "na_release": "1990"
+  },
+  {
+    "title": "Phantasy Star III: Generations of Doom",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "April 21, 1990",
+    "jp_release": "June 1991",
+    "na_release": "October 1991"
+  },
+  {
+    "title": "Phantasy Star IV: The End of the Millennium",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "December 17, 1993",
+    "jp_release": "February 1995",
+    "na_release": "November 1995"
+  },
+  {
+    "title": "Phantom 2040",
+    "developer": "Viacom New Media",
+    "publisher": "Viacom New Media",
+    "first_released": "Unreleased",
+    "jp_release": "June 1995",
+    "na_release": "October 1995"
+  },
+  {
+    "title": "Phelios",
+    "developer": "Namco",
+    "publisher": "Sega",
+    "first_released": "July 20, 1990",
+    "jp_release": "October 1990",
+    "na_release": "December 1991"
+  },
+  {
+    "title": "Pink Goes To Hollywood",
+    "developer": "Headgames",
+    "publisher": "TecMagik",
+    "first_released": "Unreleased",
+    "jp_release": "November 1993",
+    "na_release": "November 1993"
+  },
+  {
+    "title": "Pinocchio",
+    "developer": "Virgin Interactive Entertainment",
+    "publisher": "THQ",
+    "first_released": "Unreleased",
+    "jp_release": "November 12, 1996",
+    "na_release": "October 1996"
+  },
+  {
+    "title": "The Pirates of Dark Water",
+    "developer": "Iguana Entertainment",
+    "publisher": "Sunsoft",
+    "first_released": "Unreleased",
+    "jp_release": "May 1994",
+    "na_release": "September 1994"
+  },
+  {
+    "title": "Pirates! Gold",
+    "developer": "MicroProse",
+    "publisher": "MicroProse",
+    "first_released": "Unreleased",
+    "jp_release": "August 1993"
+  },
+  {
+    "title": "Pit-Fighter",
+    "developer": "Sterling Silver Software",
+    "publisher": "Tengen",
+    "first_released": "March 27, 1992",
+    "jp_release": "November 1991",
+    "na_release": "April 1992"
+  },
+  {
+    "title": "Pitfall: The Mayan Adventure",
+    "developer": "Redline Games",
+    "publisher": "Activision",
+    "first_released": "Unreleased",
+    "jp_release": "December 1994",
+    "na_release": "December 1994"
+  },
+  {
+    "title": "Pocahontas",
+    "developer": "Funcom",
+    "publisher": "Disney Interactive",
+    "first_released": "Unreleased",
+    "jp_release": "March 1996",
+    "na_release": "September 1996"
+  },
+  {
+    "title": "Populous",
+    "developer": "Bullfrog Productions",
+    "publisher": "Electronic Arts",
+    "first_released": "August 9, 1991",
+    "jp_release": "December 1990",
+    "na_release": "November 1990"
+  },
+  {
+    "title": "Power Drive",
+    "developer": "Rage Software",
+    "publisher": "U.S. Gold",
+    "first_released": "Unreleased",
+    "na_release": "January 1995"
+  },
+  {
+    "title": "Powermonger",
+    "developer": "Bullfrog Productions",
+    "publisher": "Electronic Arts",
+    "first_released": "June 18, 1993",
+    "jp_release": "March 1993",
+    "na_release": "March 1993"
+  },
+  {
+    "title": "Powerball",
+    "developer": "Namco",
+    "publisher": "Namco",
+    "first_released": "February 8, 1991",
+    "jp_release": "April 1991"
+  },
+  {
+    "title": "Predator 2",
+    "developer": "Teeny Weeny Games",
+    "publisher": "Arena Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "September 1992",
+    "na_release": "September 1992"
+  },
+  {
+    "title": "Premier Manager",
+    "developer": "Gremlin Interactive",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "na_release": "November 1995"
+  },
+  {
+    "title": "Premier Manager 97",
+    "developer": "Gremlin Interactive",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "na_release": "October 31, 1996"
+  },
+  {
+    "title": "Primal Rage",
+    "developer": "Probe Entertainment",
+    "publisher": "Time Warner Interactive",
+    "first_released": "Unreleased",
+    "jp_release": "August 25, 1995",
+    "na_release": "August 25, 1995"
+  },
+  {
+    "title": "Prime Time Football '96",
+    "developer": "Spectacular Games",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "November 1995"
+  },
+  {
+    "title": "Prince of Persia",
+    "developer": "Domark",
+    "publisher": "Tengen",
+    "first_released": "Unreleased",
+    "jp_release": "January 1994",
+    "na_release": "March 1994"
+  },
+  {
+    "title": "Pro Moves Soccer",
+    "developer": "Zyrinx",
+    "publisher": "Asciiware",
+    "first_released": "Unreleased",
+    "jp_release": "March 1994"
+  },
+  {
+    "title": "Pro Quarterback",
+    "developer": "Leland Interactive Media",
+    "publisher": "Tradewest",
+    "first_released": "Unreleased",
+    "jp_release": "December 1992"
+  },
+  {
+    "title": "Pro Striker Final Stage",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "August 4, 1995"
+  },
+  {
+    "title": "Psy-O-Blade",
+    "developer": "T&E Soft",
+    "publisher": "Sigma Enterprises",
+    "first_released": "April 27, 1990"
+  },
+  {
+    "title": "Psycho Pinball",
+    "developer": "Codemasters",
+    "publisher": "Codemasters",
+    "first_released": "Unreleased",
+    "na_release": "November 25, 1994"
+  },
+  {
+    "title": "Puggsy",
+    "developer": "Traveller's Tales",
+    "publisher": "Psygnosis",
+    "first_released": "Unreleased",
+    "jp_release": "January 6, 1994",
+    "na_release": "November 15, 1993"
+  },
+  {
+    "title": "Pulseman",
+    "developer": "Game Freak",
+    "publisher": "Sega",
+    "first_released": "July 22, 1994"
+  },
+  {
+    "title": "The Punisher",
+    "developer": "Sculptured Software",
+    "publisher": "Capcom",
+    "first_released": "Unreleased",
+    "jp_release": "February 1995",
+    "na_release": "February 1995"
+  },
+  {
+    "title": "Puyo Puyo Tsū",
+    "developer": "Compile",
+    "publisher": "Compile",
+    "first_released": "December 2, 1994"
+  },
+  {
+    "title": "Puzzle & Action: Ichidant-R",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "January 13, 1995"
+  },
+  {
+    "title": "Puzzle & Action: Tant-R",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "April 1, 1994"
+  },
+  {
+    "title": "QuackShot Starring Donald Duck",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "December 20, 1991",
+    "jp_release": "November 1991",
+    "na_release": "1991"
+  },
+  {
+    "title": "Quad Challenge",
+    "developer": "Now Production",
+    "publisher": "Namco",
+    "first_released": "August 6, 1991",
+    "jp_release": "October 1991"
+  },
+  {
+    "title": "R.B.I. Baseball '93",
+    "developer": "Tengen",
+    "publisher": "Tengen",
+    "first_released": "Unreleased",
+    "jp_release": "June 1993"
+  },
+  {
+    "title": "R.B.I. Baseball '94",
+    "developer": "Tengen",
+    "publisher": "Tengen",
+    "first_released": "Unreleased",
+    "jp_release": "April 1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "R.B.I. Baseball 3",
+    "developer": "Tengen",
+    "publisher": "Tengen",
+    "first_released": "Unreleased",
+    "jp_release": "December 1991"
+  },
+  {
+    "title": "R.B.I. Baseball 4",
+    "developer": "Tengen",
+    "publisher": "Tengen",
+    "first_released": "December 18, 1992",
+    "jp_release": "September 1992"
+  },
+  {
+    "title": "Race Drivin'",
+    "developer": "Polygames",
+    "publisher": "Tengen",
+    "first_released": "Unreleased",
+    "jp_release": "March 12, 1993"
+  },
+  {
+    "title": "Radical Rex",
+    "developer": "Beam Software",
+    "publisher": "Activision",
+    "first_released": "Unreleased",
+    "jp_release": "November 1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "Raiden Trad",
+    "developer": "Seibu Kaihatsu",
+    "publisher": "Micronet",
+    "first_released": "July 6, 1991",
+    "jp_release": "September 1991"
+  },
+  {
+    "title": "Rainbow Islands Extra",
+    "developer": "Aisystem Tokyo",
+    "publisher": "Taito",
+    "first_released": "October 5, 1990"
+  },
+  {
+    "title": "Rambo III",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "October 21, 1989",
+    "jp_release": "December 1989",
+    "na_release": "September 1990"
+  },
+  {
+    "title": "Rampart",
+    "developer": "Silicon Sorcery",
+    "publisher": "Tengen",
+    "first_released": "December 11, 1992",
+    "jp_release": "September 1991"
+  },
+  {
+    "title": "Ranger X",
+    "developer": "GAU Entertainment",
+    "publisher": "Sega",
+    "first_released": "May 28, 1993",
+    "jp_release": "October 1993",
+    "na_release": "August 1993"
+  },
+  {
+    "title": "Ransei no Hasha",
+    "developer": "SystemSoft",
+    "publisher": "Asmik",
+    "first_released": "November 29, 1991"
+  },
+  {
+    "title": "Rastan Saga II",
+    "developer": "Opera House",
+    "publisher": "Taito",
+    "first_released": "August 10, 1990",
+    "jp_release": "April 1991"
+  },
+  {
+    "title": "Red Zone",
+    "developer": "Zyrinx",
+    "publisher": "Time Warner Interactive",
+    "first_released": "Unreleased",
+    "jp_release": "November 1994",
+    "na_release": "November 1994"
+  },
+  {
+    "title": "The Ren & Stimpy Show: Stimpy's Invention",
+    "developer": "BlueSky Software",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "December 1993",
+    "na_release": "1993"
+  },
+  {
+    "title": "Rent a Hero",
+    "developer": "Sega AM2",
+    "publisher": "Sega",
+    "first_released": "September 20, 1991"
+  },
+  {
+    "title": "The Revenge of Shinobi",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "December 2, 1989",
+    "jp_release": "December 1989",
+    "na_release": "October 1990"
+  },
+  {
+    "title": "Revolution X",
+    "developer": "Rage Software",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "December 1995",
+    "na_release": "1994"
+  },
+  {
+    "title": "Richard Scarry's Busytown",
+    "developer": "Novotrade",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "October 1994"
+  },
+  {
+    "title": "Rings of Power",
+    "developer": "Naughty Dog",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "January 1992",
+    "na_release": "1991"
+  },
+  {
+    "title": "Rise of the Robots",
+    "developer": "Data Design Interactive",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "Unreleased",
+    "na_release": "1994"
+  },
+  {
+    "title": "Risk",
+    "developer": "Sculptured Software",
+    "publisher": "Parker Brothers",
+    "first_released": "Unreleased",
+    "jp_release": "1994"
+  },
+  {
+    "title": "Risky Woods",
+    "developer": "Dinamic Software",
+    "publisher": "Electronic Arts",
+    "first_released": "February 19, 1993",
+    "jp_release": "December 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "Ristar",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "February 17, 1995",
+    "jp_release": "February 16, 1995",
+    "na_release": "February 18, 1995"
+  },
+  {
+    "title": "Road Rash",
+    "developer": "Electronic Arts",
+    "publisher": "Electronic Arts Victor",
+    "first_released": "November 20, 1992",
+    "jp_release": "September 1991",
+    "na_release": "1991"
+  },
+  {
+    "title": "Road Rash II",
+    "developer": "Electronic Arts",
+    "publisher": "Electronic Arts Victor",
+    "first_released": "July 23, 1993",
+    "jp_release": "December 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "Road Rash 3",
+    "developer": "Monkey Do Productions",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "March 1995",
+    "na_release": "1995"
+  },
+  {
+    "title": "RoadBlasters",
+    "developer": "Sterling Silver Software",
+    "publisher": "Tengen",
+    "first_released": "February 28, 1992",
+    "jp_release": "November 1991"
+  },
+  {
+    "title": "RoboCop 3",
+    "developer": "Ocean Software",
+    "publisher": "Flying Edge",
+    "first_released": "Unreleased",
+    "jp_release": "November 1993",
+    "na_release": "December 1993"
+  },
+  {
+    "title": "RoboCop Versus The Terminator",
+    "developer": "Virgin Games USA",
+    "publisher": "Virgin Games",
+    "first_released": "May 28, 1994",
+    "jp_release": "May 19, 1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "Rock n' Roll Racing",
+    "developer": "Silicon & Synapse",
+    "publisher": "Interplay Productions",
+    "first_released": "Unreleased",
+    "jp_release": "November 1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "Rocket Knight Adventures",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "first_released": "August 6, 1993",
+    "jp_release": "August 1993",
+    "na_release": "September 1993"
+  },
+  {
+    "title": "Roger Clemens' MVP Baseball",
+    "developer": "Sculptured Software",
+    "publisher": "Flying Edge",
+    "first_released": "Unreleased",
+    "jp_release": "September 1992"
+  },
+  {
+    "title": "Rolling Thunder 2",
+    "developer": "Namco",
+    "publisher": "Namco",
+    "first_released": "November 19, 1991",
+    "jp_release": "February 1992",
+    "na_release": "1991"
+  },
+  {
+    "title": "Rolling Thunder 3",
+    "developer": "Now Production",
+    "publisher": "Namco",
+    "first_released": "Unreleased",
+    "jp_release": "May 19, 1993"
+  },
+  {
+    "title": "Rolo to the Rescue",
+    "developer": "Vectordean",
+    "publisher": "Electronic Arts",
+    "first_released": "April 29, 1993",
+    "jp_release": "January 1993",
+    "na_release": "1992"
+  },
+  {
+    "title": "Romance of the Three Kingdoms II",
+    "developer": "Koei",
+    "publisher": "Koei",
+    "first_released": "December 26, 1991",
+    "jp_release": "September 1992"
+  },
+  {
+    "title": "Romance of the Three Kingdoms III: Dragon of Destiny",
+    "developer": "Koei",
+    "publisher": "Koei",
+    "first_released": "November 8, 1992",
+    "jp_release": "February 1994"
+  },
+  {
+    "title": "Rugby World Cup '95",
+    "developer": "The Creative Assembly",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "April 1995",
+    "na_release": "1994"
+  },
+  {
+    "title": "Sagaia",
+    "developer": "Taito",
+    "publisher": "Taito",
+    "first_released": "December 20, 1990",
+    "jp_release": "April 1991"
+  },
+  {
+    "title": "Saint Sword",
+    "developer": "Cyclone System",
+    "publisher": "Taito",
+    "first_released": "June 28, 1991",
+    "jp_release": "October 1991"
+  },
+  {
+    "title": "Sampras Tennis 96",
+    "developer": "Codemasters",
+    "publisher": "Sportsmaster",
+    "first_released": "Unreleased",
+    "na_release": "1995"
+  },
+  {
+    "title": "Samurai Shodown",
+    "developer": "SaurusSystem Vision",
+    "publisher": "Sega",
+    "first_released": "November 19, 1994",
+    "jp_release": "November 1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "Sangokushi Retsuden: Ransei no Eiyūtachi",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "April 29, 1991"
+  },
+  {
+    "title": "Saturday Night Slam Masters",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "first_released": "Unreleased",
+    "jp_release": "February 1995",
+    "na_release": "May 1995"
+  },
+  {
+    "title": "Scooby-Doo Mystery",
+    "developer": "Illusions Gaming Company",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "October 1995"
+  },
+  {
+    "title": "SeaQuest DSV",
+    "developer": "Sculptured Software",
+    "publisher": "Black Pearl Software",
+    "first_released": "Unreleased",
+    "jp_release": "February 1995",
+    "na_release": "1994"
+  },
+  {
+    "title": "Second Samurai",
+    "developer": "Psygnosis",
+    "publisher": "Vivid Image",
+    "first_released": "Unreleased",
+    "na_release": "1994"
+  },
+  {
+    "title": "Sensible Soccer: European Champions",
+    "developer": "Sensible Software",
+    "publisher": "Sony Imagesoft",
+    "first_released": "Unreleased",
+    "na_release": "1993"
+  },
+  {
+    "title": "Sesame Street: Counting Cafe",
+    "developer": "Electronic Arts",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "November 1994"
+  },
+  {
+    "title": "Shadow Blasters",
+    "developer": "Sigma Pro-Tech",
+    "publisher": "Sigma EnterprisesJPSage's CreationNA",
+    "first_released": "August 10, 1990",
+    "jp_release": "September 1990"
+  },
+  {
+    "title": "Shadow Dancer: The Secret of Shinobi",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "December 1, 1990",
+    "jp_release": "June 23, 1991",
+    "na_release": "1991"
+  },
+  {
+    "title": "Shadow of the Beast",
+    "developer": "Reflections Interactive",
+    "publisher": "Electronic Arts",
+    "first_released": "March 27, 1992",
+    "jp_release": "November 1991",
+    "na_release": "December 1991"
+  },
+  {
+    "title": "Shadow of the Beast II",
+    "developer": "Psygnosis",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "November 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "Shadowrun",
+    "developer": "BlueSky Software",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "March 1994"
+  },
+  {
+    "title": "Shanghai II: Dragon's Eye",
+    "developer": "Home Data",
+    "publisher": "Activision",
+    "first_released": "Unreleased",
+    "jp_release": "May 1994"
+  },
+  {
+    "title": "Shaq Fu",
+    "developer": "Delphine Software International",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "October 28, 1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "Shi-Kin-Jou",
+    "developer": "Sunsoft",
+    "publisher": "Sunsoft",
+    "first_released": "April 27, 1991"
+  },
+  {
+    "title": "Shining Force",
+    "developer": "Sonic! Software Planning",
+    "publisher": "Sega",
+    "first_released": "March 20, 1992",
+    "jp_release": "July 1993",
+    "na_release": "July 1993"
+  },
+  {
+    "title": "Shining Force II",
+    "developer": "Sonic! Software Planning",
+    "publisher": "Sega",
+    "first_released": "October 1, 1993",
+    "jp_release": "October 1994",
+    "na_release": "July 2, 1994"
+  },
+  {
+    "title": "Shining in the Darkness",
+    "developer": "Sonic! Software Planning",
+    "publisher": "Sega",
+    "first_released": "March 29, 1991",
+    "jp_release": "October 1991",
+    "na_release": "October 1991"
+  },
+  {
+    "title": "Shinobi III: Return of the Ninja Master",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "July 23, 1993",
+    "jp_release": "August 22, 1993",
+    "na_release": "July 24, 1993"
+  },
+  {
+    "title": "Shougi no Hoshi",
+    "developer": "Home Data",
+    "publisher": "Home Data",
+    "first_released": "October 31, 1991"
+  },
+  {
+    "title": "Shove It! ...The Warehouse Game",
+    "developer": "Thinking Rabbit",
+    "publisher": "MasayaJPDreamWorksNA",
+    "first_released": "January 30, 1990",
+    "jp_release": "May 1990"
+  },
+  {
+    "title": "Show do Milhão",
+    "developer": "Tectoy",
+    "publisher": "Tectoy",
+    "first_released": "Unreleased",
+    "pal_release": "2001"
+  },
+  {
+    "title": "Show do Milhão vol.2",
+    "developer": "Tectoy",
+    "publisher": "Tectoy",
+    "first_released": "Unreleased",
+    "pal_release": "2002"
+  },
+  {
+    "title": "Shura no Mon",
+    "developer": "SIMS",
+    "publisher": "Sega",
+    "first_released": "August 7, 1992"
+  },
+  {
+    "title": "Side Pocket",
+    "developer": "Data East",
+    "publisher": "Sega",
+    "first_released": "December 11, 1992",
+    "jp_release": "August 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "The Simpsons: Bart vs. the Space Mutants",
+    "developer": "Arc Developments",
+    "publisher": "Flying Edge",
+    "first_released": "Unreleased",
+    "jp_release": "June 1992",
+    "na_release": "July 1992"
+  },
+  {
+    "title": "The Simpsons: Bart's Nightmare",
+    "developer": "Sculptured Software",
+    "publisher": "Flying Edge",
+    "first_released": "Unreleased",
+    "jp_release": "October 1993",
+    "na_release": "1993"
+  },
+  {
+    "title": "Skeleton Krew",
+    "developer": "Core Design",
+    "publisher": "Core Design",
+    "first_released": "Unreleased",
+    "jp_release": "May 1995",
+    "na_release": "1995"
+  },
+  {
+    "title": "Skitchin'",
+    "developer": "Electronic Arts",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "March 1994",
+    "na_release": "March 1994"
+  },
+  {
+    "title": "Slap Fight MD",
+    "developer": "MNM Software",
+    "publisher": "Tengen",
+    "first_released": "June 11, 1993"
+  },
+  {
+    "title": "Slaughter Sport",
+    "developer": "Mediagenic",
+    "publisher": "Sanritsu",
+    "first_released": "October 12, 1990",
+    "jp_release": "December 20, 1991",
+    "na_release": "1990"
+  },
+  {
+    "title": "The Smurfs",
+    "developer": "Infogrames",
+    "publisher": "Infogrames",
+    "first_released": "Unreleased",
+    "na_release": "1995"
+  },
+  {
+    "title": "The Smurfs: Travel the World",
+    "developer": "Infogrames",
+    "publisher": "Infogrames",
+    "first_released": "Unreleased",
+    "na_release": "1996"
+  },
+  {
+    "title": "Snake Rattle 'n' Roll",
+    "developer": "Rare",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "na_release": "1993"
+  },
+  {
+    "title": "Snow Bros.",
+    "developer": "Toaplan",
+    "publisher": "Tengen",
+    "first_released": "May 28, 1993"
+  },
+  {
+    "title": "Socket",
+    "developer": "Vic Tokai",
+    "publisher": "Vic Tokai",
+    "first_released": "March 25, 1994",
+    "jp_release": "August 17, 1993"
+  },
+  {
+    "title": "Sol-Feace",
+    "developer": "Wolf Team",
+    "publisher": "Renovation Products",
+    "first_released": "Unreleased",
+    "jp_release": "April 1992"
+  },
+  {
+    "title": "Sonic 3D Blast",
+    "developer": "Traveller's Tales",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "November 7, 1996",
+    "na_release": "November 14, 1996"
+  },
+  {
+    "title": "Sonic & Knuckles",
+    "developer": "Sega Technical Institute",
+    "publisher": "Sega",
+    "first_released": "October 18, 1994",
+    "jp_release": "October 18, 1994",
+    "na_release": "October 18, 1994"
+  },
+  {
+    "title": "Sonic the Hedgehog",
+    "developer": "Sonic Team",
+    "publisher": "Sega",
+    "first_released": "July 26, 1991",
+    "jp_release": "June 23, 1991",
+    "na_release": "July 1991"
+  },
+  {
+    "title": "Sonic the Hedgehog 2",
+    "developer": "Sega Technical Institute",
+    "publisher": "Sega",
+    "first_released": "November 21, 1992",
+    "jp_release": "November 24, 1992",
+    "na_release": "November 24, 1992"
+  },
+  {
+    "title": "Sonic the Hedgehog 3",
+    "developer": "Sega Technical Institute",
+    "publisher": "Sega",
+    "first_released": "May 27, 1994",
+    "jp_release": "February 2, 1994",
+    "na_release": "February 24, 1994"
+  },
+  {
+    "title": "Sonic Spinball",
+    "developer": "Sega Technical Institute",
+    "publisher": "Sega",
+    "first_released": "December 10, 1993",
+    "jp_release": "November 23, 1993",
+    "na_release": "November 23, 1993"
+  },
+  {
+    "title": "Sorcerer's Kingdom",
+    "developer": "NCS",
+    "publisher": "Treco",
+    "first_released": "February 7, 1992",
+    "jp_release": "January 1993"
+  },
+  {
+    "title": "Sorcerian",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "February 24, 1990"
+  },
+  {
+    "title": "Space Harrier II",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "October 29, 1988",
+    "jp_release": "August 14, 1989",
+    "na_release": "November 30, 1990"
+  },
+  {
+    "title": "Space Invaders '90",
+    "developer": "Taito",
+    "publisher": "Taito",
+    "first_released": "September 7, 1990",
+    "jp_release": "April 1991"
+  },
+  {
+    "title": "Sparkster: Rocket Knight Adventures 2",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "first_released": "September 23, 1994",
+    "jp_release": "February 22, 1994",
+    "na_release": "May 8, 1994"
+  },
+  {
+    "title": "Speedball 2: Brutal Deluxe",
+    "developer": "The Bitmap Brothers",
+    "publisher": "Arena Entertainment",
+    "first_released": "June 19, 1992",
+    "jp_release": "December 1991",
+    "na_release": "October 1992"
+  },
+  {
+    "title": "Spider-Man",
+    "developer": "Western Technologies",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "March 1995"
+  },
+  {
+    "title": "Spider-Man vs. The Kingpin",
+    "developer": "Technopop",
+    "publisher": "Sega",
+    "first_released": "October 18, 1991",
+    "jp_release": "August 1991",
+    "na_release": "September 1991"
+  },
+  {
+    "title": "Spider-Man and Venom: Maximum Carnage",
+    "developer": "Software Creations",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "May 26, 1995",
+    "jp_release": "September 16, 1994",
+    "na_release": "November 24, 1994"
+  },
+  {
+    "title": "Spider-Man and the X-Men in Arcade's Revenge",
+    "developer": "Software Creations",
+    "publisher": "Flying Edge",
+    "first_released": "Unreleased",
+    "jp_release": "November 1993",
+    "na_release": "1993"
+  },
+  {
+    "title": "Spirou",
+    "developer": "Infogrames",
+    "publisher": "Infogrames",
+    "first_released": "Unreleased",
+    "na_release": "1995"
+  },
+  {
+    "title": "Splatterhouse 2",
+    "developer": "Now Production",
+    "publisher": "Namco",
+    "first_released": "August 4, 1992",
+    "jp_release": "June 1992",
+    "na_release": "October 8, 1992"
+  },
+  {
+    "title": "Splatterhouse 3",
+    "developer": "Now Production",
+    "publisher": "Namco",
+    "first_released": "March 19, 1993",
+    "jp_release": "August 1993"
+  },
+  {
+    "title": "Sports Talk Baseball",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "August 30, 1991",
+    "jp_release": "June 1992"
+  },
+  {
+    "title": "Spot Goes To Hollywood",
+    "developer": "Eurocom",
+    "publisher": "Virgin Games",
+    "first_released": "Unreleased",
+    "jp_release": "November 1995",
+    "na_release": "February 1996"
+  },
+  {
+    "title": "S.S. Lucifer: Man Overboard!",
+    "developer": "Odysseus Software",
+    "publisher": "Codemasters",
+    "first_released": "Unreleased",
+    "na_release": "1994"
+  },
+  {
+    "title": "Star Cruiser",
+    "developer": "Arsys Software",
+    "publisher": "Masaya",
+    "first_released": "December 21, 1990"
+  },
+  {
+    "title": "Star Trek: Deep Space Nine – Crossroads of Time",
+    "developer": "Novotrade",
+    "publisher": "Playmates Interactive",
+    "first_released": "Unreleased",
+    "jp_release": "July 1995",
+    "na_release": "1995"
+  },
+  {
+    "title": "Star Trek: The Next Generation: Echoes from the Past",
+    "developer": "MicroProse",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "June 1994"
+  },
+  {
+    "title": "Starflight",
+    "developer": "Binary Systems",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "November 1991",
+    "na_release": "1991"
+  },
+  {
+    "title": "Stargate",
+    "developer": "Probe Entertainment",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "May 1995",
+    "na_release": "1995"
+  },
+  {
+    "title": "Steel Empire",
+    "developer": "Hot-B",
+    "publisher": "Flying Edge",
+    "first_released": "March 13, 1992",
+    "jp_release": "May 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "Steel Talons",
+    "developer": "Polygames",
+    "publisher": "Tengen",
+    "first_released": "June 25, 1993",
+    "jp_release": "December 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "Stormlord",
+    "developer": "Hewson Consultants",
+    "publisher": "RazorsoftNAMicro WorldJP",
+    "first_released": "March 27, 1992",
+    "jp_release": "June 1991"
+  },
+  {
+    "title": "Street Fighter II': Special Champion Edition",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "first_released": "September 28, 1993",
+    "jp_release": "September 27, 1993",
+    "na_release": "October 29, 1993"
+  },
+  {
+    "title": "Street Racer",
+    "developer": "Vivid Image",
+    "publisher": "Ubisoft",
+    "first_released": "Unreleased",
+    "na_release": "1995"
+  },
+  {
+    "title": "Street Smart",
+    "developer": "Treco",
+    "publisher": "Treco",
+    "first_released": "July 19, 1991",
+    "jp_release": "August 1991"
+  },
+  {
+    "title": "Streets of Rage",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "August 2, 1991",
+    "jp_release": "September 18, 1991",
+    "na_release": "October 1991"
+  },
+  {
+    "title": "Streets of Rage 2",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "January 14, 1993",
+    "jp_release": "December 15, 1992",
+    "na_release": "January 1993"
+  },
+  {
+    "title": "Streets of Rage 3",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "March 18, 1994",
+    "jp_release": "April 1994",
+    "na_release": "April 1994"
+  },
+  {
+    "title": "Strider",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "September 29, 1990",
+    "jp_release": "November 5, 1990",
+    "na_release": "1990"
+  },
+  {
+    "title": "Strider II",
+    "developer": "Tiertex",
+    "publisher": "U.S. Gold",
+    "first_released": "Unreleased",
+    "jp_release": "July 1993",
+    "na_release": "1992"
+  },
+  {
+    "title": "Striker",
+    "developer": "Rage Software",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "na_release": "1995"
+  },
+  {
+    "title": "Sub-Terrania",
+    "developer": "Zyrinx",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "Apr 1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "Summer Challenge",
+    "developer": "Accolade",
+    "publisher": "Accolade",
+    "first_released": "Unreleased",
+    "jp_release": "June 1993",
+    "na_release": "1993"
+  },
+  {
+    "title": "Sunset Riders",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "first_released": "Unreleased",
+    "jp_release": "December 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "Super Baseball 2020",
+    "developer": "NuFX",
+    "publisher": "Electronic Arts",
+    "first_released": "March 4, 1994",
+    "jp_release": "October 1993",
+    "na_release": "September 24, 1993"
+  },
+  {
+    "title": "Super Battleship",
+    "developer": "Synergistic",
+    "publisher": "Mindscape",
+    "first_released": "Unreleased",
+    "jp_release": "November 1993"
+  },
+  {
+    "title": "Super Battletank: War in the Gulf",
+    "developer": "Imagineering",
+    "publisher": "Absolute Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "December 1992"
+  },
+  {
+    "title": "Super Daisenryaku",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "April 29, 1989"
+  },
+  {
+    "title": "Super Fantasy Zone",
+    "developer": "Sunsoft",
+    "publisher": "Sunsoft",
+    "first_released": "January 14, 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "Super Hang-On",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "October 6, 1989",
+    "jp_release": "December 1989",
+    "na_release": "November 1990"
+  },
+  {
+    "title": "Super High Impact",
+    "developer": "Beam Software",
+    "publisher": "Arena Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "September 1992"
+  },
+  {
+    "title": "Super Hydlide",
+    "developer": "T&E Soft",
+    "publisher": "Asmik",
+    "first_released": "October 6, 1989",
+    "jp_release": "April 1, 1990",
+    "na_release": "1991"
+  },
+  {
+    "title": "Super Kick Off",
+    "developer": "Anco Software",
+    "publisher": "U.S. Gold",
+    "first_released": "Unreleased",
+    "na_release": "1992"
+  },
+  {
+    "title": "Super Monaco GP",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "August 9, 1990",
+    "jp_release": "September 1990",
+    "na_release": "January 1991"
+  },
+  {
+    "title": "Super Off Road",
+    "developer": "Software Creations",
+    "publisher": "Ballistic",
+    "first_released": "Unreleased",
+    "jp_release": "April 1992",
+    "na_release": "July 1992"
+  },
+  {
+    "title": "Super Skidmarks",
+    "developer": "Acid",
+    "publisher": "Codemasters",
+    "first_released": "Unreleased",
+    "na_release": "1995"
+  },
+  {
+    "title": "Super Smash TV",
+    "developer": "Probe Software",
+    "publisher": "Flying Edge",
+    "first_released": "Unreleased",
+    "jp_release": "August 1992",
+    "na_release": "November 1992"
+  },
+  {
+    "title": "Super Street Fighter II",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "first_released": "June 25, 1994",
+    "jp_release": "July 18, 1994",
+    "na_release": "August 24, 1994"
+  },
+  {
+    "title": "Super Thunder Blade",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "October 29, 1988",
+    "jp_release": "August 14, 1989",
+    "na_release": "November 30, 1990"
+  },
+  {
+    "title": "Super Volleyball",
+    "developer": "Khaos",
+    "publisher": "Video System",
+    "first_released": "February 1, 1991",
+    "jp_release": "August 1991"
+  },
+  {
+    "title": "Superman",
+    "developer": "Sunsoft",
+    "publisher": "Sunsoft",
+    "first_released": "Unreleased",
+    "jp_release": "October 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "Surging Aura",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "March 17, 1995"
+  },
+  {
+    "title": "Sword of Sodan",
+    "developer": "Innerprise Software",
+    "publisher": "Electronic Arts",
+    "first_released": "October 11, 1991",
+    "jp_release": "December 1990",
+    "na_release": "February 1991"
+  },
+  {
+    "title": "Sword of Vermilion",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "December 16, 1989",
+    "jp_release": "January 28, 1991",
+    "na_release": "April 22, 1991"
+  },
+  {
+    "title": "Syd of Valis",
+    "developer": "I.S.C.",
+    "publisher": "Laser Soft",
+    "first_released": "February 14, 1992",
+    "jp_release": "April 1992"
+  },
+  {
+    "title": "Sylvester and Tweety in Cagey Capers",
+    "developer": "Alexandria",
+    "publisher": "TecMagik",
+    "first_released": "Unreleased",
+    "jp_release": "August 1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "Syndicate",
+    "developer": "Bullfrog Productions",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "December 1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "developer": "Bits Studios",
+    "publisher": "Flying Edge",
+    "first_released": "Unreleased",
+    "jp_release": "December 1993",
+    "na_release": "1993"
+  },
+  {
+    "title": "T2: The Arcade Game",
+    "developer": "Probe Software",
+    "publisher": "Arena Entertainment",
+    "first_released": "February 25, 1994",
+    "jp_release": "December 1992",
+    "na_release": "December 1992"
+  },
+  {
+    "title": "Taikō Risshiden",
+    "developer": "Koei",
+    "publisher": "Koei",
+    "first_released": "May 28, 1993"
+  },
+  {
+    "title": "TaleSpin",
+    "developer": "Sega InterActive",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "November 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "Target Earth",
+    "developer": "NCS",
+    "publisher": "MasayaJPDreamWorksNA",
+    "first_released": "March 16, 1990",
+    "jp_release": "June 1990"
+  },
+  {
+    "title": "Task Force Harrier EX",
+    "developer": "NMK",
+    "publisher": "Treco",
+    "first_released": "December 20, 1991",
+    "jp_release": "February 1992"
+  },
+  {
+    "title": "Taz-Mania",
+    "developer": "Recreational BrainwareNu Romantic Productions",
+    "publisher": "Sega",
+    "first_released": "December 25, 1992",
+    "jp_release": "July 1992",
+    "na_release": "July 1992"
+  },
+  {
+    "title": "Taz in Escape from Mars",
+    "developer": "Headgames",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "October 1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "Team USA Basketball",
+    "developer": "Electronic Arts",
+    "publisher": "Electronic Arts Victor",
+    "first_released": "December 26, 1992",
+    "jp_release": "September 1992",
+    "na_release": "December 1992"
+  },
+  {
+    "title": "Technoclash",
+    "developer": "Zono",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "July 1993",
+    "na_release": "1993"
+  },
+  {
+    "title": "Techno Cop",
+    "developer": "Gray Matter Inc.",
+    "publisher": "RazorSoft",
+    "first_released": "Unreleased",
+    "jp_release": "January 1991"
+  },
+  {
+    "title": "Tecmo Super Baseball",
+    "developer": "Tecmo",
+    "publisher": "Tecmo",
+    "first_released": "Unreleased",
+    "jp_release": "September 1994"
+  },
+  {
+    "title": "Tecmo Super Bowl",
+    "developer": "Tecmo",
+    "publisher": "Tecmo",
+    "first_released": "November 26, 1993",
+    "jp_release": "November 1993"
+  },
+  {
+    "title": "Tecmo Super Bowl II: Special Edition",
+    "developer": "Tecmo",
+    "publisher": "Tecmo",
+    "first_released": "December 20, 1994",
+    "jp_release": "January 1, 1995"
+  },
+  {
+    "title": "Tecmo Super Bowl III: Final Edition",
+    "developer": "Tecmo",
+    "publisher": "Tecmo",
+    "first_released": "Unreleased",
+    "jp_release": "August 4, 1995"
+  },
+  {
+    "title": "Tecmo Super Hockey",
+    "developer": "Malibu Games",
+    "publisher": "Tecmo",
+    "first_released": "Unreleased",
+    "jp_release": "December 1994"
+  },
+  {
+    "title": "Tecmo Super NBA Basketball",
+    "developer": "Sculptured Software",
+    "publisher": "Tecmo",
+    "first_released": "March 4, 1994",
+    "jp_release": "December 1993"
+  },
+  {
+    "title": "Tecmo World Cup",
+    "developer": "SIMS",
+    "publisher": "SIMS",
+    "first_released": "January 31, 1992",
+    "jp_release": "December 1992"
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles: The Hyperstone Heist",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "first_released": "December 22, 1992",
+    "jp_release": "December 1992",
+    "na_release": "April 1993"
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles: Tournament Fighters",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "first_released": "December 3, 1993",
+    "jp_release": "September 4, 1993",
+    "na_release": "December 1993"
+  },
+  {
+    "title": "Tel-Tel Mahjong",
+    "developer": "Sunsoft",
+    "publisher": "Sunsoft",
+    "first_released": "June 8, 1990"
+  },
+  {
+    "title": "Tel-Tel Stadium",
+    "developer": "Sunsoft",
+    "publisher": "Sunsoft",
+    "first_released": "October 21, 1990"
+  },
+  {
+    "title": "The Terminator",
+    "developer": "Probe Software",
+    "publisher": "Virgin Games",
+    "first_released": "Unreleased",
+    "jp_release": "March 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "Tetris",
+    "developer": "Sanritsu Denki",
+    "publisher": "Sega",
+    "first_released": "Unreleased"
+  },
+  {
+    "title": "Theme Park",
+    "developer": "Bullfrog Productions",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "April 1995",
+    "na_release": "1995"
+  },
+  {
+    "title": "Thomas the Tank Engine & Friends",
+    "developer": "Malibu Interactive",
+    "publisher": "THQ",
+    "first_released": "Unreleased",
+    "jp_release": "August 2, 1993"
+  },
+  {
+    "title": "Thunder Force II",
+    "developer": "Technosoft",
+    "publisher": "Sega",
+    "first_released": "June 15, 1989",
+    "jp_release": "August 14, 1989",
+    "na_release": "November 1990"
+  },
+  {
+    "title": "Thunder Force III",
+    "developer": "Technosoft",
+    "publisher": "Technosoft",
+    "first_released": "June 8, 1990",
+    "jp_release": "October 1990"
+  },
+  {
+    "title": "Thunder Force IV",
+    "developer": "Technosoft",
+    "publisher": "Sega",
+    "first_released": "July 24, 1992",
+    "jp_release": "January 1993",
+    "na_release": "1992"
+  },
+  {
+    "title": "Thunder Fox",
+    "developer": "Taito",
+    "publisher": "Taito",
+    "first_released": "July 26, 1991",
+    "jp_release": "September 1991"
+  },
+  {
+    "title": "Thunder Pro Wrestling Retsuden",
+    "developer": "Human Entertainment",
+    "publisher": "Human Entertainment",
+    "first_released": "March 27, 1992"
+  },
+  {
+    "title": "The Tick",
+    "developer": "Software Creations",
+    "publisher": "Fox Interactive",
+    "first_released": "Unreleased",
+    "jp_release": "December 1994"
+  },
+  {
+    "title": "Time Killers",
+    "developer": "Incredible Technologies",
+    "publisher": "Black Pearl Software",
+    "first_released": "Unreleased",
+    "jp_release": "1996",
+    "na_release": "1996"
+  },
+  {
+    "title": "Tinhead",
+    "developer": "MicroProse",
+    "publisher": "Spectrum HoloByte",
+    "first_released": "Unreleased",
+    "jp_release": "August 1993"
+  },
+  {
+    "title": "Tintin in Tibet",
+    "developer": "Infogrames",
+    "publisher": "Infogrames",
+    "first_released": "Unreleased",
+    "na_release": "1996"
+  },
+  {
+    "title": "Tiny Toon Adventures: ACME All-Stars",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "first_released": "Unreleased",
+    "jp_release": "September 1994",
+    "na_release": "November 1994"
+  },
+  {
+    "title": "Tiny Toon Adventures: Buster's Hidden Treasure",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "first_released": "Unreleased",
+    "jp_release": "March 1993",
+    "na_release": "June 1993"
+  },
+  {
+    "title": "TNN Bass Tournament of Champions",
+    "developer": "Imagitec Design",
+    "publisher": "American Softworks",
+    "first_released": "Unreleased",
+    "jp_release": "December 1993"
+  },
+  {
+    "title": "TNN Outdoors Bass Tournament '96",
+    "developer": "Imagitec Design",
+    "publisher": "ASC Games",
+    "first_released": "Unreleased",
+    "jp_release": "July 1996"
+  },
+  {
+    "title": "Todd's Adventures in Slime World",
+    "developer": "Micro World",
+    "publisher": "Renovation Products",
+    "first_released": "April 30, 1992",
+    "jp_release": "September 1992"
+  },
+  {
+    "title": "ToeJam & Earl",
+    "developer": "Johnson-Voorsanger Productions",
+    "publisher": "Sega",
+    "first_released": "March 13, 1992",
+    "jp_release": "October 1991",
+    "na_release": "November 1991"
+  },
+  {
+    "title": "ToeJam & Earl in Panic on Funkotron",
+    "developer": "Johnson-Voorsanger Productions",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "December 1993",
+    "na_release": "January 21, 1994"
+  },
+  {
+    "title": "Tōgi Ō: King Colossus",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "June 26, 1992"
+  },
+  {
+    "title": "Toki: Going Ape Spit",
+    "developer": "TAD",
+    "publisher": "Sega",
+    "first_released": "January 31, 1992",
+    "jp_release": "March 1992",
+    "na_release": "March 1992"
+  },
+  {
+    "title": "Tom & Jerry: Frantic Antics!",
+    "developer": "Beam Software",
+    "publisher": "Hi Tech ExpressionsNAAltronJP",
+    "first_released": "December 16, 1994",
+    "jp_release": "December 21, 1993"
+  },
+  {
+    "title": "Tommy Lasorda Baseball",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "April 22, 1989",
+    "jp_release": "August 14, 1989",
+    "na_release": "1990"
+  },
+  {
+    "title": "Tony La Russa Baseball",
+    "developer": "Electronic Arts",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "May 1993",
+    "na_release": "1993"
+  },
+  {
+    "title": "Top Gear 2",
+    "developer": "Gremlin Graphics",
+    "publisher": "Vic Tokai",
+    "first_released": "Unreleased",
+    "jp_release": "June 2, 1994"
+  },
+  {
+    "title": "Top Pro Golf",
+    "developer": "Soft Vision",
+    "publisher": "Soft Vision",
+    "first_released": "June 19, 1992"
+  },
+  {
+    "title": "Total Football",
+    "developer": "Domark",
+    "publisher": "Domark",
+    "first_released": "Unreleased",
+    "na_release": "1995"
+  },
+  {
+    "title": "Toughman Contest",
+    "developer": "Visual Concepts",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "May 1995",
+    "na_release": "1995"
+  },
+  {
+    "title": "Toxic Crusaders",
+    "developer": "Infogrames",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "December 1992"
+  },
+  {
+    "title": "Toy Story",
+    "developer": "Traveller's Tales",
+    "publisher": "Disney Interactive",
+    "first_released": "Unreleased",
+    "jp_release": "November 22, 1995",
+    "na_release": "1996",
+    "pal_release": "October 1996"
+  },
+  {
+    "title": "Toys",
+    "developer": "Imagineering",
+    "publisher": "Absolute Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "July 1993"
+  },
+  {
+    "title": "Trampoline Terror!",
+    "developer": "NCS",
+    "publisher": "DreamWorks",
+    "first_released": "Unreleased",
+    "jp_release": "March 1991"
+  },
+  {
+    "title": "Traysia",
+    "developer": "Telenet Japan",
+    "publisher": "Riot",
+    "first_released": "February 14, 1992",
+    "jp_release": "April 1992"
+  },
+  {
+    "title": "Triple Play Baseball '96",
+    "developer": "Extended Play Productions",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "June 1995"
+  },
+  {
+    "title": "Triple Play: Gold Edition",
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "February 1996"
+  },
+  {
+    "title": "Trouble Shooter",
+    "developer": "Vic Tokai",
+    "publisher": "Vic Tokai",
+    "first_released": "March 6, 1992",
+    "jp_release": "January 1992"
+  },
+  {
+    "title": "Troy Aikman NFL Football",
+    "developer": "Leland Interactive Media",
+    "publisher": "Tradewest",
+    "first_released": "Unreleased",
+    "jp_release": "October 1994"
+  },
+  {
+    "title": "True Lies",
+    "developer": "Beam Software",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "April 28, 1995",
+    "jp_release": "February 1995",
+    "na_release": "March 1995"
+  },
+  {
+    "title": "Truxton",
+    "developer": "Toaplan",
+    "publisher": "Sega",
+    "first_released": "December 9, 1989",
+    "jp_release": "December 1989",
+    "na_release": "November 1990"
+  },
+  {
+    "title": "Turbo Outrun",
+    "developer": "Sega AM2",
+    "publisher": "Sega",
+    "first_released": "March 27, 1992",
+    "na_release": "June 1992"
+  },
+  {
+    "title": "Turrican",
+    "developer": "Code Monkeys Ltd.",
+    "publisher": "Accolade",
+    "first_released": "Unreleased",
+    "jp_release": "September 1991",
+    "na_release": "1991"
+  },
+  {
+    "title": "Twin Cobra: Desert Attack Helicopter",
+    "developer": "Toaplan",
+    "publisher": "Treco",
+    "first_released": "February 22, 1991",
+    "jp_release": "June 1991"
+  },
+  {
+    "title": "Twin Hawk",
+    "developer": "Toaplan",
+    "publisher": "Sega",
+    "first_released": "June 23, 1990",
+    "na_release": "1990"
+  },
+  {
+    "title": "Twinkle Tale",
+    "developer": "Zap Corporation",
+    "publisher": "Wonder Amusement Studio",
+    "first_released": "July 24, 1992"
+  },
+  {
+    "title": "Two Crude Dudes",
+    "developer": "Data East",
+    "publisher": "Sega",
+    "first_released": "February 28, 1992",
+    "jp_release": "March 1992",
+    "na_release": "May 1993"
+  },
+  {
+    "title": "Two Tribes: Populous II",
+    "developer": "Panelcomp",
+    "publisher": "Virgin Games",
+    "first_released": "Unreleased",
+    "na_release": "1993"
+  },
+  {
+    "title": "Uchū Senkan Gomora",
+    "developer": "UPLAisystem Tokyo",
+    "publisher": "UPL",
+    "first_released": "September 30, 1991"
+  },
+  {
+    "title": "Ultimate Mortal Kombat 3",
+    "developer": "Avalanche Software",
+    "publisher": "Williams Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "June 1996",
+    "na_release": "November 28, 1996",
+    "pal_release": "October 1996"
+  },
+  {
+    "title": "Ultimate Qix",
+    "developer": "ITL",
+    "publisher": "Taito",
+    "first_released": "January 25, 1991",
+    "jp_release": "July 1991"
+  },
+  {
+    "title": "Ultimate Soccer",
+    "developer": "Rage Software",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "na_release": "1993"
+  },
+  {
+    "title": "Ultraman",
+    "developer": "Human Entertainment",
+    "publisher": "Ma-Ba",
+    "first_released": "April 9, 1993"
+  },
+  {
+    "title": "Uncharted Waters",
+    "developer": "Koei",
+    "publisher": "Koei",
+    "first_released": "April 29, 1992",
+    "jp_release": "December 1992"
+  },
+  {
+    "title": "Uncharted Waters: New Horizons",
+    "developer": "Koei",
+    "publisher": "Koei",
+    "first_released": "June 24, 1994",
+    "jp_release": "November 1994"
+  },
+  {
+    "title": "Undeadline",
+    "developer": "T&E Soft",
+    "publisher": "Palsoft",
+    "first_released": "December 20, 1991"
+  },
+  {
+    "title": "Universal Soldier",
+    "developer": "Rainbow Arts",
+    "publisher": "Ballistic",
+    "first_released": "Unreleased",
+    "jp_release": "November 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "Unnecessary Roughness '95",
+    "developer": "Accolade",
+    "publisher": "Accolade",
+    "first_released": "Unreleased",
+    "jp_release": "August 25, 1994"
+  },
+  {
+    "title": "Urban Strike",
+    "developer": "Granite Bay SoftwareFoley Hi-Tech",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "November 1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "Uzu Keobukseon",
+    "developer": "Samsung",
+    "publisher": "Samsung",
+    "first_released": "Unreleased",
+    "pal_release": "1992"
+  },
+  {
+    "title": "Valis: The Fantasm Soldier",
+    "developer": "Riot",
+    "publisher": "Renovation Products",
+    "first_released": "December 27, 1991",
+    "jp_release": "March 1992"
+  },
+  {
+    "title": "Valis III",
+    "developer": "Telenet Japan",
+    "publisher": "Renovation Game",
+    "first_released": "March 22, 1991",
+    "jp_release": "June 1991"
+  },
+  {
+    "title": "Vapor Trail",
+    "developer": "Data East",
+    "publisher": "Riot",
+    "first_released": "August 2, 1991",
+    "jp_release": "November 1991"
+  },
+  {
+    "title": "Vectorman",
+    "developer": "BlueSky Software",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "October 24, 1995",
+    "na_release": "November 30, 1995"
+  },
+  {
+    "title": "Vectorman 2",
+    "developer": "BlueSky Software",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "November 15, 1996",
+    "na_release": "November 28, 1996"
+  },
+  {
+    "title": "Venom/Spider-Man: Separation Anxiety",
+    "developer": "Software Creations",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "November 1995",
+    "na_release": "1995"
+  },
+  {
+    "title": "Verytex",
+    "developer": "ISCO",
+    "publisher": "Asmik",
+    "first_released": "April 5, 1991"
+  },
+  {
+    "title": "Viewpoint",
+    "developer": "Nexus Interact",
+    "publisher": "Sammy",
+    "first_released": "Unreleased",
+    "jp_release": "November 1994"
+  },
+  {
+    "title": "Virtua Fighter 2",
+    "developer": "Success",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "December 1996",
+    "na_release": "January 1997"
+  },
+  {
+    "title": "Virtua Racing",
+    "developer": "Sega AM2",
+    "publisher": "Sega",
+    "first_released": "March 18, 1994",
+    "jp_release": "March 14, 1994",
+    "na_release": "March 16, 1994"
+  },
+  {
+    "title": "Virtual Bart",
+    "developer": "Sculptured Software",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "December 31, 1995",
+    "jp_release": "October 1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "Virtual Pinball",
+    "developer": "BudgeCo",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "November 1993",
+    "na_release": "January 1994"
+  },
+  {
+    "title": "Vixen 357",
+    "developer": "NCSOpus",
+    "publisher": "Masaya",
+    "first_released": "October 23, 1992"
+  },
+  {
+    "title": "VR Troopers",
+    "developer": "Syrox Developments",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "November 1995",
+    "na_release": "1995"
+  },
+  {
+    "title": "Wacky Worlds Creativity Studio",
+    "developer": "Headgames",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "December 1994"
+  },
+  {
+    "title": "Wani Wani World",
+    "developer": "Inter State",
+    "publisher": "Kaneko",
+    "first_released": "January 31, 1992"
+  },
+  {
+    "title": "Wardner",
+    "developer": "Toaplan",
+    "publisher": "Visco CorporationJPMentrix SoftwareNA",
+    "first_released": "April 26, 1991",
+    "jp_release": "May 1991"
+  },
+  {
+    "title": "Warlock",
+    "developer": "Realtime Associates",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "May 26, 1995",
+    "na_release": "1995"
+  },
+  {
+    "title": "WarpSpeed",
+    "developer": "Accolade",
+    "publisher": "Accolade",
+    "first_released": "Unreleased",
+    "jp_release": "July 1993",
+    "na_release": "1993"
+  },
+  {
+    "title": "Warrior of Rome",
+    "developer": "Micronet",
+    "publisher": "Micronet",
+    "first_released": "February 24, 1991",
+    "jp_release": "May 1991"
+  },
+  {
+    "title": "Warrior of Rome II",
+    "developer": "Micronet",
+    "publisher": "Micronet",
+    "first_released": "May 28, 1992",
+    "jp_release": "June 1992"
+  },
+  {
+    "title": "Warsong",
+    "developer": "Team Career",
+    "publisher": "Treco",
+    "first_released": "April 26, 1991",
+    "jp_release": "December 1991"
+  },
+  {
+    "title": "Wayne Gretzky and the NHLPA All-Stars",
+    "developer": "Time Warner Interactive",
+    "publisher": "Time Warner Interactive",
+    "first_released": "Unreleased",
+    "jp_release": "April 1995",
+    "na_release": "1995"
+  },
+  {
+    "title": "Wayne's World",
+    "developer": "Gray Matter Inc.",
+    "publisher": "THQ",
+    "first_released": "Unreleased",
+    "jp_release": "February 1993"
+  },
+  {
+    "title": "Weaponlord",
+    "developer": "Visual Concepts",
+    "publisher": "Namco",
+    "first_released": "Unreleased",
+    "jp_release": "October 1995"
+  },
+  {
+    "title": "Wheel of Fortune",
+    "developer": "Imagitec Design",
+    "publisher": "GameTek",
+    "first_released": "Unreleased",
+    "jp_release": "July 1992"
+  },
+  {
+    "title": "Where in the World Is Carmen Sandiego?",
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "October 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "Where in Time is Carmen Sandiego?",
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "March 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "Whip Rush",
+    "developer": "Vic Tokai",
+    "publisher": "Sega",
+    "first_released": "May 26, 1990",
+    "jp_release": "October 1990"
+  },
+  {
+    "title": "Williams Arcade's Greatest Hits",
+    "developer": "Digital Eclipse Software",
+    "publisher": "Williams Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "December 1996",
+    "na_release": "1996"
+  },
+  {
+    "title": "Wimbledon Championship Tennis",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "May 20, 1994",
+    "jp_release": "October 1993",
+    "na_release": "1993"
+  },
+  {
+    "title": "Winter Challenge",
+    "developer": "MindSpan",
+    "publisher": "Ballistic",
+    "first_released": "Unreleased",
+    "jp_release": "January 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "Winter Olympics",
+    "developer": "Tiertex",
+    "publisher": "U.S. Gold",
+    "first_released": "February 11, 1994",
+    "jp_release": "December 1993",
+    "na_release": "February 1994"
+  },
+  {
+    "title": "Wiz 'n' Liz",
+    "developer": "Raising Hell Productions",
+    "publisher": "Psygnosis",
+    "first_released": "Unreleased",
+    "jp_release": "November 1993",
+    "na_release": "October 10, 1993"
+  },
+  {
+    "title": "Wolfchild",
+    "developer": "Core Design",
+    "publisher": "JVC Musical Industries",
+    "first_released": "Unreleased",
+    "jp_release": "March 1993"
+  },
+  {
+    "title": "Wolverine: Adamantium Rage",
+    "developer": "Teeny Weeny Games",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "November 1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "Wonder Boy III: Monster Lair",
+    "developer": "Aicom",
+    "publisher": "Sega",
+    "first_released": "December 22, 1990",
+    "na_release": "April 1991"
+  },
+  {
+    "title": "Wonder Boy in Monster World",
+    "developer": "Westone",
+    "publisher": "Sega",
+    "first_released": "October 25, 1991",
+    "jp_release": "March 1992",
+    "na_release": "April 1992",
+    "pal_release": "1994"
+  },
+  {
+    "title": "World Championship Soccer",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "July 29, 1989",
+    "jp_release": "September 1989",
+    "na_release": "November 2, 1990"
+  },
+  {
+    "title": "World Championship Soccer 2",
+    "developer": "Graftgold",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "August 1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "World Class Leaderboard Golf",
+    "developer": "Access Software",
+    "publisher": "U.S. Gold",
+    "first_released": "Unreleased",
+    "jp_release": "November 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "World Cup USA '94",
+    "developer": "Tiertex",
+    "publisher": "U.S. Gold",
+    "first_released": "Unreleased",
+    "jp_release": "June 1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "World Heroes",
+    "developer": "Sega Midwest Studio",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "July 1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "World of Illusion",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "December 18, 1992",
+    "jp_release": "December 17, 1992",
+    "na_release": "December 19, 1992"
+  },
+  {
+    "title": "World Series Baseball",
+    "developer": "BlueSky Software",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "May 1994"
+  },
+  {
+    "title": "World Series Baseball '95",
+    "developer": "BlueSky Software",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "May 1995"
+  },
+  {
+    "title": "World Series Baseball '96",
+    "developer": "BlueSky Software",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "July 1996"
+  },
+  {
+    "title": "World Series Baseball '98",
+    "developer": "BlueSky Software",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "September 1997"
+  },
+  {
+    "title": "Worms",
+    "developer": "Team17",
+    "publisher": "Ocean Software",
+    "first_released": "Unreleased",
+    "na_release": "1995"
+  },
+  {
+    "title": "Wrestle War",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "first_released": "June 28, 1991",
+    "na_release": "June 1991"
+  },
+  {
+    "title": "WWF Raw",
+    "developer": "Sculptured Software",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "December 31, 1995",
+    "jp_release": "November 1994",
+    "na_release": "November 1994"
+  },
+  {
+    "title": "WWF Royal Rumble",
+    "developer": "Sculptured Software",
+    "publisher": "Flying Edge",
+    "first_released": "March 25, 1994",
+    "jp_release": "November 1993",
+    "na_release": "November 1993"
+  },
+  {
+    "title": "WWF Super WrestleMania",
+    "developer": "Sculptured Software",
+    "publisher": "Flying Edge",
+    "first_released": "Unreleased",
+    "jp_release": "December 1992",
+    "na_release": "1992"
+  },
+  {
+    "title": "WWF WrestleMania: The Arcade Game",
+    "developer": "Sculptured Software",
+    "publisher": "Acclaim Entertainment",
+    "first_released": "Unreleased",
+    "jp_release": "November 1995",
+    "na_release": "1995"
+  },
+  {
+    "title": "X-Men",
+    "developer": "Western Technologies",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "March 1993",
+    "na_release": "1993"
+  },
+  {
+    "title": "X-Men 2: Clone Wars",
+    "developer": "Headgames",
+    "publisher": "Sega",
+    "first_released": "Unreleased",
+    "jp_release": "May 15, 1995",
+    "na_release": "1995"
+  },
+  {
+    "title": "X-Perts",
+    "developer": "Abalone",
+    "publisher": "Deep Water",
+    "first_released": "Unreleased",
+    "jp_release": "June 1996"
+  },
+  {
+    "title": "XDR: X-Dazedly-Ray",
+    "developer": "Affect",
+    "publisher": "UNIPACC",
+    "first_released": "August 26, 1990"
+  },
+  {
+    "title": "Xenon 2: Megablast",
+    "developer": "The Bitmap Brothers",
+    "publisher": "Virgin Games",
+    "first_released": "Unreleased",
+    "na_release": "February 1992"
+  },
+  {
+    "title": "Yogi Bear: Cartoon Capers",
+    "developer": "Empire Interactive",
+    "publisher": "GameTek",
+    "first_released": "Unreleased",
+    "na_release": "1994"
+  },
+  {
+    "title": "Ys III: Wanderers from Ys",
+    "developer": "Riot",
+    "publisher": "Renovation Products",
+    "first_released": "November 1, 1991",
+    "jp_release": "December 1991"
+  },
+  {
+    "title": "Yū Yū Hakusho Gaiden",
+    "developer": "GAU Entertainment",
+    "publisher": "Sega",
+    "first_released": "January 28, 1994"
+  },
+  {
+    "title": "Yū Yū Hakusho Makyō Tōitsusen",
+    "developer": "Treasure",
+    "publisher": "Sega",
+    "first_released": "September 30, 1994",
+    "pal_release": "BR (1999)"
+  },
+  {
+    "title": "Zan: Yasha Enbukyoku",
+    "developer": "Wolf Team",
+    "publisher": "Wolf Team",
+    "first_released": "March 29, 1991"
+  },
+  {
+    "title": "Zany Golf",
+    "developer": "Sandcastle Productions",
+    "publisher": "Electronic Arts",
+    "first_released": "Unreleased",
+    "jp_release": "November 1990",
+    "na_release": "December 1990"
+  },
+  {
+    "title": "Zero the Kamikaze Squirrel",
+    "developer": "Iguana Entertainment",
+    "publisher": "Sunsoft",
+    "first_released": "Unreleased",
+    "jp_release": "November 1994",
+    "na_release": "July 1994"
+  },
+  {
+    "title": "Zero Tolerance",
+    "developer": "Technopop",
+    "publisher": "Accolade",
+    "first_released": "Unreleased",
+    "jp_release": "October 1994",
+    "na_release": "1994"
+  },
+  {
+    "title": "Zero Wing",
+    "developer": "Toaplan",
+    "publisher": "Sega",
+    "first_released": "May 31, 1991",
+    "na_release": "July 1992"
+  },
+  {
+    "title": "Zombies Ate My Neighbors",
+    "developer": "LucasArts",
+    "publisher": "Konami",
+    "first_released": "Unreleased",
+    "jp_release": "November 1993",
+    "na_release": "January 21, 1994"
+  },
+  {
+    "title": "Zool",
+    "developer": "Gremlin Graphics",
+    "publisher": "GameTek",
+    "first_released": "Unreleased",
+    "jp_release": "December 1993",
+    "na_release": "1993"
+  },
+  {
+    "title": "Zoom!",
+    "developer": "Discovery SoftwareCyclone SystemSigma Pro-Tech",
+    "publisher": "Sega",
+    "first_released": "January 13, 1990",
+    "jp_release": "January 1990",
+    "na_release": "1990"
+  },
+  {
+    "title": "Zoop",
+    "developer": "HookstonePanelcomp",
+    "publisher": "Viacom New Media",
+    "first_released": "Unreleased",
+    "jp_release": "November 1995",
+    "na_release": "1995"
+  }
+]
