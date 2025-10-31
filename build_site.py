@@ -417,6 +417,64 @@ def generate_js() -> str:
     let currentPage = 1;
     const gamesPerPage = 50;
     
+    // Common game acronyms and search shortcuts
+    const searchShortcuts = {
+        'gta': ['grand theft auto'],
+        'cod': ['call of duty'],
+        'mw': ['modern warfare'],
+        'battlefield': ['battlefield'],
+        'bf': ['battlefield'],
+        'halo': ['halo'],
+        'mario': ['mario'],
+        'zelda': ['legend of zelda', 'zelda'],
+        'pokemon': ['pokemon', 'pokémon'],
+        'ff': ['final fantasy'],
+        'mgs': ['metal gear solid'],
+        'assassins creed': ['assassins creed'],
+        'resident evil': ['resident evil'],
+        're': ['resident evil'],
+        'mk': ['mortal kombat'],
+        'sf': ['street fighter'],
+        'tekken': ['tekken'],
+        'persona': ['persona'],
+        'doom': ['doom'],
+        'witcher': ['witcher'],
+        'fallout': ['fallout'],
+        'skyrim': ['skyrim'],
+        'dark souls': ['dark souls'],
+        'cs': ['counter-strike'],
+        'rockstar': ['rockstar'],
+        'bethesda': ['bethesda'],
+        'nintendo': ['nintendo'],
+        'sony': ['sony'],
+        'microsoft': ['microsoft'],
+        'ea': ['electronic arts'],
+        'activision': ['activision'],
+        'ubisoft': ['ubisoft'],
+        'capcom': ['capcom'],
+        'konami': ['konami'],
+        'square': ['square'],
+        'square enix': ['square enix'],
+        'namco': ['namco'],
+        'bandai': ['bandai'],
+        'sega': ['sega'],
+        'atari': ['atari'],
+        'thq': ['thq']
+    };
+    
+    function expandSearchQuery(query) {
+        // Expand search shortcuts to full search terms
+        const normalizedQuery = query.toLowerCase().trim();
+        
+        // Check if query matches a shortcut
+        if (searchShortcuts[normalizedQuery]) {
+            return searchShortcuts[normalizedQuery];
+        }
+        
+        // Return original query if no shortcut found
+        return [normalizedQuery];
+    }
+    
     // Initialize when DOM is ready
     if (document.readyState === 'loading') {
         document.addEventListener('DOMContentLoaded', init);
@@ -484,6 +542,11 @@ def generate_js() -> str:
         }
     }
     
+    function normalizeText(text) {
+        // Normalize accented and special characters to ASCII equivalents
+        return text.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    }
+    
     function setupConsolePage() {
         // Add click handlers to console cards (already links, but ensure they work)
         const cards = document.querySelectorAll('.console-card');
@@ -492,11 +555,12 @@ def generate_js() -> str:
         const searchBox = document.getElementById('search-box');
         if (searchBox) {
             searchBox.addEventListener('input', function() {
-                const query = this.value.toLowerCase().trim();
+                const rawQuery = this.value.toLowerCase().trim();
+                const query = normalizeText(rawQuery);
                 const cards = document.querySelectorAll('.console-card');
                 
                 cards.forEach(card => {
-                    const name = card.querySelector('h2').textContent.toLowerCase();
+                    const name = normalizeText(card.querySelector('h2').textContent.toLowerCase());
                     const count = card.querySelector('.console-count').textContent;
                     
                     if (query === '' || name.includes(query) || count.includes(query)) {
@@ -532,18 +596,29 @@ def generate_js() -> str:
     }
     
     function handleSearch() {
-        const query = document.getElementById('search-box').value.toLowerCase().trim();
+        const rawQuery = document.getElementById('search-box').value.toLowerCase().trim();
+        const query = normalizeText(rawQuery);
         
         if (!currentConsole || !allGames[currentConsole]) return;
         
         if (query === '') {
             filteredGames = allGames[currentConsole].games || [];
         } else {
+            // Expand search shortcuts
+            const searchTerms = expandSearchQuery(rawQuery);
+            
             filteredGames = (allGames[currentConsole].games || []).filter(game => {
-                const title = (game.title || '').toLowerCase();
-                const developer = (game.developer || '').toLowerCase();
-                const publisher = (game.publisher || '').toLowerCase();
-                return title.includes(query) || developer.includes(query) || publisher.includes(query);
+                const title = normalizeText((game.title || '').toLowerCase());
+                const developer = normalizeText((game.developer || '').toLowerCase());
+                const publisher = normalizeText((game.publisher || '').toLowerCase());
+                
+                // Check if any search term matches
+                return searchTerms.some(term => {
+                    const normalizedTerm = normalizeText(term.toLowerCase());
+                    return title.includes(normalizedTerm) || 
+                           developer.includes(normalizedTerm) || 
+                           publisher.includes(normalizedTerm);
+                });
             });
         }
         
