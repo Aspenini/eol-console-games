@@ -16,41 +16,32 @@
     }
     
     function init() {
-        // Load game data from embedded JSON
+        // Load game data from embedded JSON (only on console page)
         const dataScript = document.getElementById('games-data');
         if (dataScript) {
             try {
                 allGames = JSON.parse(dataScript.textContent);
-                setupConsolePage();
             } catch (e) {
                 console.error('Failed to parse game data:', e);
             }
         }
         
-        // Setup search functionality
-        const searchBox = document.getElementById('search-box');
-        if (searchBox) {
-            searchBox.addEventListener('input', handleSearch);
+        // Setup homepage (console selection page)
+        if (document.querySelector('.console-grid')) {
+            setupConsolePage();
         }
         
-        // Setup console page
+        // Setup console page (games list page)
         if (document.getElementById('console-name')) {
             setupGamesPage();
         }
     }
     
     function setupConsolePage() {
-        // Add click handlers to console cards
+        // Add click handlers to console cards (already links, but ensure they work)
         const cards = document.querySelectorAll('.console-card');
-        cards.forEach(card => {
-            card.addEventListener('click', function(e) {
-                e.preventDefault();
-                const console = this.dataset.console;
-                window.location.href = `console.html?console=${console}`;
-            });
-        });
         
-        // Setup search on main page
+        // Setup search on main page (filter console cards)
         const searchBox = document.getElementById('search-box');
         if (searchBox) {
             searchBox.addEventListener('input', function() {
@@ -63,8 +54,10 @@
                     
                     if (query === '' || name.includes(query) || count.includes(query)) {
                         card.classList.remove('hidden');
+                        card.style.display = '';
                     } else {
                         card.classList.add('hidden');
+                        card.style.display = 'none';
                     }
                 });
             });

@@ -351,41 +351,32 @@ def generate_js() -> str:
     }
     
     function init() {
-        // Load game data from embedded JSON
+        // Load game data from embedded JSON (only on console page)
         const dataScript = document.getElementById('games-data');
         if (dataScript) {
             try {
                 allGames = JSON.parse(dataScript.textContent);
-                setupConsolePage();
             } catch (e) {
                 console.error('Failed to parse game data:', e);
             }
         }
         
-        // Setup search functionality
-        const searchBox = document.getElementById('search-box');
-        if (searchBox) {
-            searchBox.addEventListener('input', handleSearch);
+        // Setup homepage (console selection page)
+        if (document.querySelector('.console-grid')) {
+            setupConsolePage();
         }
         
-        // Setup console page
+        // Setup console page (games list page)
         if (document.getElementById('console-name')) {
             setupGamesPage();
         }
     }
     
     function setupConsolePage() {
-        // Add click handlers to console cards
+        // Add click handlers to console cards (already links, but ensure they work)
         const cards = document.querySelectorAll('.console-card');
-        cards.forEach(card => {
-            card.addEventListener('click', function(e) {
-                e.preventDefault();
-                const console = this.dataset.console;
-                window.location.href = `console.html?console=${console}`;
-            });
-        });
         
-        // Setup search on main page
+        // Setup search on main page (filter console cards)
         const searchBox = document.getElementById('search-box');
         if (searchBox) {
             searchBox.addEventListener('input', function() {
@@ -398,8 +389,10 @@ def generate_js() -> str:
                     
                     if (query === '' || name.includes(query) || count.includes(query)) {
                         card.classList.remove('hidden');
+                        card.style.display = '';
                     } else {
                         card.classList.add('hidden');
+                        card.style.display = 'none';
                     }
                 });
             });
@@ -525,14 +518,14 @@ def generate_index_html(all_data: Dict[str, Dict]) -> str:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Game Database</title>
+    <title>EOL Console Games</title>
     <style>{generate_css()}</style>
 </head>
 <body>
     <header>
         <div class="header-content">
-            <h1>Game Database</h1>
-            <p>Comprehensive database of video games across multiple consoles</p>
+            <h1>EOL Console Games</h1>
+            <p>Comprehensive database of games from discontinued consoles that have reached End of Life</p>
         </div>
     </header>
     
@@ -571,7 +564,7 @@ def generate_index_html(all_data: Dict[str, Dict]) -> str:
     </main>
     
     <footer class="footer">
-        <p>Game Database &copy; 2024 | Data extracted from Wikipedia</p>
+        <p>EOL Console Games &copy; 2025 | Created by Aspenini | Data extracted from Wikipedia</p>
     </footer>
     
     <script src="script.js"></script>
@@ -604,7 +597,7 @@ def generate_console_html(all_data: Dict[str, Dict]) -> str:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Console Games - Game Database</title>
+    <title>Console Games - EOL Console Games</title>
     <style>{generate_css()}</style>
 </head>
 <body>
@@ -637,7 +630,7 @@ def generate_console_html(all_data: Dict[str, Dict]) -> str:
     </main>
     
     <footer class="footer">
-        <p>Game Database &copy; 2024 | Data extracted from Wikipedia</p>
+        <p>EOL Console Games &copy; 2025 | Created by Aspenini | Data extracted from Wikipedia</p>
     </footer>
     
     <script id="games-data" type="application/json">{json_data}</script>
@@ -649,7 +642,7 @@ def generate_console_html(all_data: Dict[str, Dict]) -> str:
         if (console) {{
             const consoleName = console.toUpperCase().replace(/_/g, ' ');
             document.getElementById('console-name').textContent = consoleName;
-            document.title = consoleName + ' - Game Database';
+            document.title = consoleName + ' - EOL Console Games';
         }}
     </script>
 </body>

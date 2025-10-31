@@ -3,8 +3,6 @@
     "title": "3 Ninjas Kick Back",
     "developer": "Malibu Interactive",
     "publisher": "Sony Imagesoft",
-    "first_released": "Unreleased",
-    "jp_release": "June 1994",
     "category": "licensed"
   },
   {
@@ -47,7 +45,6 @@
     "developer": "Produce",
     "publisher": "Gameplan21",
     "first_released": "April 23, 1993",
-    "jp_release": "September 1993",
     "category": "licensed"
   },
   {
@@ -55,7 +52,6 @@
     "developer": "Namco",
     "publisher": "Ocean Software",
     "first_released": "August 4, 1995",
-    "na_release": "December 20, 1995",
     "category": "licensed"
   },
   {
@@ -70,17 +66,12 @@
     "developer": "Opus",
     "publisher": "SETA",
     "first_released": "February 18, 1994",
-    "jp_release": "January 1995",
-    "na_release": "September 1994",
     "category": "licensed"
   },
   {
     "title": "Aaahh!!! Real Monsters",
     "developer": "Realtime Associates",
     "publisher": "Viacom New Media",
-    "first_released": "Unreleased",
-    "jp_release": "August 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -88,7 +79,6 @@
     "developer": "Data East",
     "publisher": "Data East",
     "first_released": "November 26, 1993",
-    "jp_release": "December 1993",
     "category": "licensed"
   },
   {
@@ -102,9 +92,6 @@
     "title": "Acme Animation Factory",
     "developer": "Probe Entertainment",
     "publisher": "Sunsoft",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
-    "na_release": "March 1995",
     "category": "licensed"
   },
   {
@@ -126,8 +113,6 @@
     "developer": "Quintet",
     "publisher": "Enix",
     "first_released": "December 16, 1990",
-    "jp_release": "November 1991",
-    "na_release": "March 18, 1993",
     "category": "licensed"
   },
   {
@@ -135,8 +120,6 @@
     "developer": "Quintet",
     "publisher": "Enix",
     "first_released": "October 29, 1993",
-    "jp_release": "November 1993",
-    "na_release": "November 1994",
     "category": "licensed"
   },
   {
@@ -144,69 +127,48 @@
     "developer": "Ocean Software",
     "publisher": "Misawa (JP)Ocean Software (NA/PAL)",
     "first_released": "October 23, 1992",
-    "jp_release": "March 1992",
-    "na_release": "November 19, 1992",
     "category": "licensed"
   },
   {
     "title": "The Addams Family: Pugsley's Scavenger Hunt",
     "developer": "Ocean Software",
     "publisher": "Ocean Software",
-    "first_released": "Unreleased",
-    "jp_release": "February 1993",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
     "title": "Addams Family Values",
     "developer": "Ocean Software",
     "publisher": "Ocean Software",
-    "first_released": "Unreleased",
-    "jp_release": "February 1995",
-    "na_release": "May 1995",
     "category": "licensed"
   },
   {
     "title": "The Adventures of Batman & Robin",
     "developer": "Konami",
     "publisher": "Konami",
-    "first_released": "Unreleased",
-    "jp_release": "December 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
     "title": "The Adventures of Dr. Franken",
     "developer": "MotiveTime",
     "publisher": "Elite Systems",
-    "first_released": "Unreleased",
-    "jp_release": "December 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
     "title": "The Adventures of Mighty Max",
     "developer": "WJS Design",
     "publisher": "Ocean Software",
-    "first_released": "Unreleased",
-    "jp_release": "February 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
     "title": "The Adventures of Rocky and Bullwinkle and Friends",
     "developer": "Imagineering",
     "publisher": "THQ",
-    "first_released": "Unreleased",
-    "jp_release": "June 1993",
     "category": "licensed"
   },
   {
     "title": "The Adventures of Tintin: Prisoners of the Sun",
     "developer": "Infogrames",
     "publisher": "Infogrames",
-    "first_released": "Unreleased",
-    "na_release": "February 9, 1997",
     "category": "licensed"
   },
   {
@@ -214,8 +176,6 @@
     "developer": "Blue Turtle",
     "publisher": "Cybersoft",
     "first_released": "January 3, 1995",
-    "jp_release": "October 1994",
-    "na_release": "November 24, 1994",
     "category": "licensed"
   },
   {
@@ -223,25 +183,18 @@
     "developer": "Video System",
     "publisher": "Video System (JP)MC O'River (NA)",
     "first_released": "July 30, 1993",
-    "jp_release": "November 1994",
     "category": "licensed"
   },
   {
     "title": "Aero the Acro-Bat",
     "developer": "Iguana Entertainment",
     "publisher": "Sunsoft",
-    "first_released": "Unreleased",
-    "jp_release": "October 12, 1993",
-    "na_release": "November 1993",
     "category": "licensed"
   },
   {
     "title": "Aero the Acro-Bat 2",
     "developer": "Iguana Entertainment",
     "publisher": "Sunsoft",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
-    "na_release": "August 1994",
     "category": "licensed"
   },
   {
@@ -249,7 +202,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "April 9, 1992",
-    "jp_release": "February 1993",
     "category": "licensed"
   },
   {
@@ -257,7 +209,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "April 2, 1993",
-    "jp_release": "August 1994",
     "category": "licensed"
   },
   {
@@ -271,9 +222,6 @@
     "title": "Air Cavalry",
     "developer": "Synergistic Software",
     "publisher": "Cybersoft",
-    "first_released": "Unreleased",
-    "jp_release": "June 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -287,9 +235,6 @@
     "title": "Al Unser Jr.'s Road to the Top",
     "developer": "Radical Entertainment",
     "publisher": "The Software Toolworks",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -297,8 +242,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "November 26, 1993",
-    "jp_release": "November 1993",
-    "na_release": "January 27, 1994",
     "category": "licensed"
   },
   {
@@ -326,9 +269,6 @@
     "title": "Alfred Chicken",
     "developer": "Twilight Games",
     "publisher": "Mindscape",
-    "first_released": "Unreleased",
-    "jp_release": "February 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -343,8 +283,6 @@
     "developer": "Probe Entertainment",
     "publisher": "Acclaim Entertainment",
     "first_released": "July 9, 1993",
-    "jp_release": "May 1993",
-    "na_release": "June 28, 1993",
     "category": "licensed"
   },
   {
@@ -352,8 +290,6 @@
     "developer": "Jorudan",
     "publisher": "IGS",
     "first_released": "January 8, 1993",
-    "jp_release": "September 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -381,17 +317,12 @@
     "title": "American Gladiators",
     "developer": "Imagitec Design",
     "publisher": "GameTek",
-    "first_released": "Unreleased",
-    "jp_release": "April 1993",
     "category": "licensed"
   },
   {
     "title": "An American Tail: Fievel Goes West",
     "developer": "Shimada Kikaku",
     "publisher": "Hudson Soft",
-    "first_released": "Unreleased",
-    "jp_release": "August 1994",
-    "na_release": "November 1994",
     "category": "licensed"
   },
   {
@@ -406,7 +337,6 @@
     "developer": "Radiance Software",
     "publisher": "TecMagik",
     "first_released": "March 31, 1994",
-    "jp_release": "May 31, 1994",
     "category": "licensed"
   },
   {
@@ -435,8 +365,6 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "March 7, 1997",
-    "jp_release": "November 1994",
-    "na_release": "December 1994",
     "category": "licensed"
   },
   {
@@ -444,8 +372,6 @@
     "developer": "Delphine Software International",
     "publisher": "Victor Interactive Software",
     "first_released": "November 27, 1992",
-    "jp_release": "November 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -480,8 +406,6 @@
     "title": "Arcade's Greatest Hits: The Atari Collection 1",
     "developer": "Digital Eclipse Software",
     "publisher": "Midway Games",
-    "first_released": "Unreleased",
-    "jp_release": "August 1997",
     "category": "licensed"
   },
   {
@@ -489,16 +413,12 @@
     "developer": "HAL Laboratory",
     "publisher": "HAL Laboratory",
     "first_released": "March 27, 1992",
-    "jp_release": "May 1992",
     "category": "licensed"
   },
   {
     "title": "Archer Maclean's Super Dropzone",
     "developer": "Eurocom Entertainment Software",
     "publisher": "Psygnosis",
-    "first_released": "Unreleased",
-    "jp_release": "Cancelled",
-    "na_release": "December 1995",
     "category": "licensed"
   },
   {
@@ -506,8 +426,6 @@
     "developer": "Wolf Team",
     "publisher": "Sammy Corporation",
     "first_released": "October 22, 1993",
-    "jp_release": "Cancelled",
-    "na_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -515,8 +433,6 @@
     "developer": "ASCII Entertainment",
     "publisher": "Titus Software",
     "first_released": "November 26, 1993",
-    "jp_release": "February 1994",
-    "na_release": "October 31, 1994",
     "category": "licensed"
   },
   {
@@ -538,8 +454,6 @@
     "developer": "Taito",
     "publisher": "Nintendo",
     "first_released": "January 15, 1997",
-    "jp_release": "November 1997",
-    "na_release": "1997",
     "category": "licensed"
   },
   {
@@ -547,8 +461,6 @@
     "developer": "Monolith Corporation",
     "publisher": "Takara",
     "first_released": "October 29, 1993",
-    "jp_release": "December 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -576,17 +488,12 @@
     "title": "Asterix",
     "developer": "Infogrames",
     "publisher": "Infogrames",
-    "first_released": "Unreleased",
-    "jp_release": "Cancelled",
-    "na_release": "May 30, 1993",
     "category": "licensed"
   },
   {
     "title": "Asterix & Obelix",
     "developer": "Infogrames",
     "publisher": "Infogrames",
-    "first_released": "Unreleased",
-    "na_release": "September 28, 1995",
     "category": "licensed"
   },
   {
@@ -601,8 +508,6 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "September 11, 1992",
-    "jp_release": "September 1992",
-    "na_release": "September 30, 1992",
     "category": "licensed"
   },
   {
@@ -610,8 +515,6 @@
     "developer": "Gray Matter",
     "publisher": "Electronic Arts",
     "first_released": "December 22, 1993",
-    "jp_release": "June 1993",
-    "na_release": "July 22, 1993",
     "category": "licensed"
   },
   {
@@ -654,7 +557,6 @@
     "developer": "PF.Magic",
     "publisher": "Media Rings",
     "first_released": "April 28, 1995",
-    "jp_release": "November 18, 1994",
     "category": "licensed"
   },
   {
@@ -668,8 +570,6 @@
     "title": "Barbie: Super Model",
     "developer": "Software Creations",
     "publisher": "Hi Tech Expressions",
-    "first_released": "Unreleased",
-    "jp_release": "December 1993",
     "category": "licensed"
   },
   {
@@ -677,8 +577,6 @@
     "developer": "Accolade",
     "publisher": "Sony Imagesoft",
     "first_released": "September 30, 1994",
-    "jp_release": "June 7, 1994",
-    "na_release": "December 1994",
     "category": "licensed"
   },
   {
@@ -686,16 +584,12 @@
     "developer": "Malibu Games",
     "publisher": "Altron (JP)Malibu Games (NA)",
     "first_released": "July 28, 1995",
-    "jp_release": "June 1995",
     "category": "licensed"
   },
   {
     "title": "Bass Masters Classic: Pro Edition",
     "developer": "Black Pearl Software",
     "publisher": "Black Pearl Software",
-    "first_released": "Unreleased",
-    "jp_release": "July 1996",
-    "na_release": "November 1996",
     "category": "licensed"
   },
   {
@@ -703,7 +597,6 @@
     "developer": "Starfish",
     "publisher": "Hot-B",
     "first_released": "September 23, 1994",
-    "jp_release": "November 1994",
     "category": "licensed"
   },
   {
@@ -718,8 +611,6 @@
     "developer": "Probe Entertainment",
     "publisher": "Acclaim Entertainment",
     "first_released": "October 27, 1995",
-    "jp_release": "September 7, 1995",
-    "na_release": "September 7, 1995",
     "category": "licensed"
   },
   {
@@ -727,8 +618,6 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "February 26, 1993",
-    "jp_release": "May 1993",
-    "na_release": "May 7, 1993",
     "category": "licensed"
   },
   {
@@ -736,15 +625,12 @@
     "developer": "Aicom",
     "publisher": "Sammy Corporation",
     "first_released": "May 1, 1992",
-    "jp_release": "January 1994",
     "category": "licensed"
   },
   {
     "title": "Battle Cars",
     "developer": "Malibu Interactive",
     "publisher": "Namco",
-    "first_released": "Unreleased",
-    "jp_release": "December 1993",
     "category": "licensed"
   },
   {
@@ -752,8 +638,6 @@
     "developer": "Intelligent Systems",
     "publisher": "Nintendo",
     "first_released": "June 21, 1993",
-    "jp_release": "October 1992",
-    "na_release": "March 18, 1993",
     "category": "licensed"
   },
   {
@@ -775,7 +659,6 @@
     "developer": "Banpresto",
     "publisher": "Banpresto",
     "first_released": "July 20, 1991",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -790,7 +673,6 @@
     "developer": "KID",
     "publisher": "Naxat Soft",
     "first_released": "March 27, 1992",
-    "jp_release": "April 1993",
     "category": "licensed"
   },
   {
@@ -867,9 +749,6 @@
     "title": "Battletoads & Double Dragon: The Ultimate Team",
     "developer": "Rare",
     "publisher": "Tradewest",
-    "first_released": "Unreleased",
-    "jp_release": "December 1993",
-    "na_release": "July 10, 1994",
     "category": "licensed"
   },
   {
@@ -877,8 +756,6 @@
     "developer": "Rare",
     "publisher": "Tradewest",
     "first_released": "January 3, 1994",
-    "jp_release": "June 1993",
-    "na_release": "October 1993",
     "category": "licensed"
   },
   {
@@ -886,7 +763,6 @@
     "developer": "Tose",
     "publisher": "Bandai",
     "first_released": "August 27, 1993",
-    "jp_release": "December 1992",
     "category": "licensed"
   },
   {
@@ -894,34 +770,24 @@
     "developer": "Probe Entertainment",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "July 8, 1994",
-    "jp_release": "July 1994",
-    "na_release": "February 23, 1995",
     "category": "licensed"
   },
   {
     "title": "Beavis and Butt-head",
     "developer": "Realtime Associates",
     "publisher": "Viacom New Media",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
     "title": "Bebe's Kids",
     "developer": "Radical Entertainment",
     "publisher": "Motown Software",
-    "first_released": "Unreleased",
-    "jp_release": "April 1994",
     "category": "licensed"
   },
   {
     "title": "Beethoven: The Ultimate Canine Caper",
     "developer": "Riedel Software Productions",
     "publisher": "Hi Tech Expressions",
-    "first_released": "Unreleased",
-    "jp_release": "December 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -936,8 +802,6 @@
     "developer": "Loriciel",
     "publisher": "Electro Brain",
     "first_released": "March 5, 1993",
-    "jp_release": "November 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -965,9 +829,6 @@
     "title": "Big Sky Trooper",
     "developer": "LucasArts",
     "publisher": "JVC Musical Industries",
-    "first_released": "Unreleased",
-    "jp_release": "October 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -981,25 +842,18 @@
     "title": "Biker Mice from Mars",
     "developer": "Konami",
     "publisher": "Konami",
-    "first_released": "Unreleased",
-    "jp_release": "December 1994",
-    "na_release": "January 1995",
     "category": "licensed"
   },
   {
     "title": "Bill Laimbeer's Combat Basketball",
     "developer": "Hewson Consultants",
     "publisher": "Hudson Soft",
-    "first_released": "Unreleased",
-    "jp_release": "December 1991",
     "category": "licensed"
   },
   {
     "title": "Bill Walsh College Football",
     "developer": "Visual Concepts",
     "publisher": "EA Sports",
-    "first_released": "Unreleased",
-    "jp_release": "February 1994",
     "category": "licensed"
   },
   {
@@ -1014,8 +868,6 @@
     "developer": "Athena",
     "publisher": "Activision",
     "first_released": "March 19, 1993",
-    "jp_release": "November 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -1093,8 +945,6 @@
     "developer": "Blizzard Entertainment",
     "publisher": "Kemco",
     "first_released": "August 11, 1995",
-    "jp_release": "September 1994",
-    "na_release": "February 23, 1995",
     "category": "licensed"
   },
   {
@@ -1102,7 +952,6 @@
     "developer": "AI",
     "publisher": "Atlus",
     "first_released": "July 24, 1992",
-    "jp_release": "October 1992",
     "category": "licensed"
   },
   {
@@ -1124,8 +973,6 @@
     "developer": "Titus Software",
     "publisher": "Kemco",
     "first_released": "March 26, 1993",
-    "jp_release": "June 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -1140,16 +987,12 @@
     "developer": "Sun L",
     "publisher": "Capcom",
     "first_released": "January 3, 1995",
-    "jp_release": "October 1994",
     "category": "licensed"
   },
   {
     "title": "Boogerman: A Pick and Flick Adventure",
     "developer": "Interplay Entertainment",
     "publisher": "Interplay Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "September 1995",
-    "na_release": "January 25, 1996",
     "category": "licensed"
   },
   {
@@ -1164,8 +1007,6 @@
     "developer": "Sculptured Software",
     "publisher": "Pack-In-Video",
     "first_released": "November 5, 1993",
-    "jp_release": "October 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -1173,25 +1014,18 @@
     "developer": "Produce",
     "publisher": "Enix",
     "first_released": "January 29, 1994",
-    "jp_release": "October 1994",
     "category": "licensed"
   },
   {
     "title": "The Brainies",
     "developer": "Titus Software",
     "publisher": "Titus Software",
-    "first_released": "Unreleased",
-    "jp_release": "April 1996",
-    "na_release": "1996",
     "category": "licensed"
   },
   {
     "title": "Bram Stoker's Dracula",
     "developer": "Psygnosis",
     "publisher": "Sony Imagesoft",
-    "first_released": "Unreleased",
-    "jp_release": "September 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -1199,7 +1033,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "June 25, 1994",
-    "jp_release": "February 1995",
     "category": "licensed"
   },
   {
@@ -1221,16 +1054,12 @@
     "developer": "Jaleco",
     "publisher": "Jaleco",
     "first_released": "December 22, 1992",
-    "jp_release": "April 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
     "title": "BreakThru!",
     "developer": "Artech Digital Entertainment",
     "publisher": "Spectrum HoloByte",
-    "first_released": "Unreleased",
-    "jp_release": "June 1994",
     "category": "licensed"
   },
   {
@@ -1238,7 +1067,6 @@
     "developer": "Capcom",
     "publisher": "Square",
     "first_released": "April 3, 1993",
-    "jp_release": "August 1994",
     "category": "licensed"
   },
   {
@@ -1246,41 +1074,30 @@
     "developer": "Capcom",
     "publisher": "Capcom (JP/NA)Laguna GmbH (PAL)",
     "first_released": "December 2, 1994",
-    "jp_release": "December 1995",
-    "na_release": "April 25, 1996",
     "category": "licensed"
   },
   {
     "title": "Brett Hull Hockey",
     "developer": "Radical Entertainment",
     "publisher": "Accolade",
-    "first_released": "Unreleased",
-    "jp_release": "January 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
     "title": "Brett Hull Hockey '95",
     "developer": "Radical Entertainment",
     "publisher": "Accolade",
-    "first_released": "Unreleased",
-    "jp_release": "January 1995",
     "category": "licensed"
   },
   {
     "title": "Bronkie the Bronchiasaurus",
     "developer": "WaveQuest",
     "publisher": "Raya Systems",
-    "first_released": "Unreleased",
-    "jp_release": "September 1995",
     "category": "licensed"
   },
   {
     "title": "Brunswick World: Tournament of Champions",
     "developer": "Tiertex Design Studios",
     "publisher": "THQ",
-    "first_released": "Unreleased",
-    "jp_release": "August 1997",
     "category": "licensed"
   },
   {
@@ -1288,8 +1105,6 @@
     "developer": "Eurocom Entertainment Software",
     "publisher": "Kemco",
     "first_released": "December 22, 1994",
-    "jp_release": "December 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -1297,17 +1112,12 @@
     "developer": "Accolade",
     "publisher": "Pack-In-Video",
     "first_released": "June 17, 1994",
-    "jp_release": "May 1993",
-    "na_release": "October 28, 1993",
     "category": "licensed"
   },
   {
     "title": "Bubsy II",
     "developer": "Accolade",
     "publisher": "Accolade",
-    "first_released": "Unreleased",
-    "jp_release": "October 1994",
-    "na_release": "June 4, 1994",
     "category": "licensed"
   },
   {
@@ -1315,8 +1125,6 @@
     "developer": "Viacom New Media",
     "publisher": "Sunsoft",
     "first_released": "June 24, 1994",
-    "jp_release": "February 1994",
-    "na_release": "September 29, 1994",
     "category": "licensed"
   },
   {
@@ -1324,8 +1132,6 @@
     "developer": "Electronic Arts",
     "publisher": "Electronic Arts Victor",
     "first_released": "February 26, 1993",
-    "jp_release": "December 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -1347,8 +1153,6 @@
     "developer": "Taito",
     "publisher": "Taito",
     "first_released": "January 13, 1995",
-    "jp_release": "March 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -1356,16 +1160,12 @@
     "developer": "Affect",
     "publisher": "Datam Polystar",
     "first_released": "November 21, 1992",
-    "jp_release": "June 1993",
     "category": "licensed"
   },
   {
     "title": "Cal Ripken Jr. Baseball",
     "developer": "Acme Interactive",
     "publisher": "Mindscape",
-    "first_released": "Unreleased",
-    "jp_release": "December 1992",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -1373,32 +1173,24 @@
     "developer": "Silicon Sorcery",
     "publisher": "Hect",
     "first_released": "March 12, 1993",
-    "jp_release": "January 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
     "title": "Cannon Fodder",
     "developer": "Sensible Software",
     "publisher": "Virgin Interactive Entertainment",
-    "first_released": "Unreleased",
-    "na_release": "January 1994",
     "category": "licensed"
   },
   {
     "title": "Cannondale Cup",
     "developer": "Radical Entertainment",
     "publisher": "American Softworks",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
     "category": "licensed"
   },
   {
     "title": "Capcom's MVP Football",
     "developer": "Equilibrium",
     "publisher": "Capcom",
-    "first_released": "Unreleased",
-    "jp_release": "October 1993",
     "category": "licensed"
   },
   {
@@ -1406,17 +1198,12 @@
     "developer": "A-Max",
     "publisher": "Epoch Co.",
     "first_released": "May 1, 1994",
-    "jp_release": "June 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
     "title": "Captain America and The Avengers",
     "developer": "Realtime Associates",
     "publisher": "Mindscape",
-    "first_released": "Unreleased",
-    "jp_release": "September 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -1424,16 +1211,12 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "March 17, 1995",
-    "jp_release": "August 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
     "title": "Captain Novolin",
     "developer": "Sculptured Software",
     "publisher": "Raya Systems",
-    "first_released": "Unreleased",
-    "jp_release": "November 1992",
     "category": "licensed"
   },
   {
@@ -1476,17 +1259,12 @@
     "developer": "Synergistic Software",
     "publisher": "Cybersoft",
     "first_released": "July 28, 1995",
-    "jp_release": "January 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
     "title": "Casper",
     "developer": "Imagineering",
     "publisher": "Natsume Inc.",
-    "first_released": "Unreleased",
-    "jp_release": "December 1996",
-    "na_release": "1997",
     "category": "licensed"
   },
   {
@@ -1501,8 +1279,6 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "July 21, 1995",
-    "jp_release": "September 1995",
-    "na_release": "February 22, 1996",
     "category": "licensed"
   },
   {
@@ -1517,8 +1293,6 @@
     "developer": "Park Place Productions",
     "publisher": "Acclaim Entertainment",
     "first_released": "March 25, 1994",
-    "jp_release": "April 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -1526,17 +1300,12 @@
     "developer": "Bitmasters",
     "publisher": "Imagineer",
     "first_released": "June 24, 1994",
-    "jp_release": "November 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
     "title": "The Chaos Engine",
     "developer": "Bitmap Brothers",
     "publisher": "Spectrum HoloByte",
-    "first_released": "Unreleased",
-    "jp_release": "December 1993",
-    "na_release": "July 1994",
     "category": "licensed"
   },
   {
@@ -1551,24 +1320,18 @@
     "developer": "Eastridge Technology",
     "publisher": "Mindscape",
     "first_released": "February 17, 1995",
-    "jp_release": "September 1991",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
     "title": "Chester Cheetah: Too Cool to Fool",
     "developer": "System Vision",
     "publisher": "Kaneko",
-    "first_released": "Unreleased",
-    "jp_release": "December 1992",
     "category": "licensed"
   },
   {
     "title": "Chester Cheetah: Wild Wild Quest",
     "developer": "Kaneko",
     "publisher": "Kaneko",
-    "first_released": "Unreleased",
-    "jp_release": "March 1994",
     "category": "licensed"
   },
   {
@@ -1611,8 +1374,6 @@
     "developer": "Beam Software",
     "publisher": "Victor Interactive Software",
     "first_released": "September 9, 1994",
-    "jp_release": "January 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -1620,16 +1381,12 @@
     "developer": "Square",
     "publisher": "Square",
     "first_released": "March 11, 1995",
-    "jp_release": "August 1995",
     "category": "licensed"
   },
   {
     "title": "Chuck Rock",
     "developer": "Core Design",
     "publisher": "Sony Imagesoft",
-    "first_released": "Unreleased",
-    "jp_release": "November 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -1637,7 +1394,6 @@
     "developer": "Microprose",
     "publisher": "Koei",
     "first_released": "October 7, 1994",
-    "jp_release": "June 1995",
     "category": "licensed"
   },
   {
@@ -1658,44 +1414,30 @@
     "title": "ClayFighter",
     "developer": "Visual Concepts",
     "publisher": "Interplay Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "November 1993",
-    "na_release": "May 26, 1994",
     "category": "licensed"
   },
   {
     "title": "ClayFighter: Tournament Edition",
     "developer": "Visual Concepts",
     "publisher": "Interplay Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "May 1994",
     "category": "licensed"
   },
   {
     "title": "ClayFighter 2: Judgment Clay",
     "developer": "Interplay Entertainment",
     "publisher": "Interplay Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "January 1995",
-    "na_release": "May 23, 1995",
     "category": "licensed"
   },
   {
     "title": "Claymates",
     "developer": "Visual Concepts",
     "publisher": "Interplay Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "March 1994",
-    "na_release": "November 20, 1993",
     "category": "licensed"
   },
   {
     "title": "Cliffhanger",
     "developer": "Malibu Interactive",
     "publisher": "Sony Imagesoft",
-    "first_released": "Unreleased",
-    "jp_release": "October 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -1716,24 +1458,18 @@
     "title": "Clue",
     "developer": "Sculptured Software",
     "publisher": "Parker Brothers",
-    "first_released": "Unreleased",
-    "jp_release": "July 1992",
     "category": "licensed"
   },
   {
     "title": "College Football USA '97: The Road to New Orleans",
     "developer": "High Score Productions",
     "publisher": "Black Pearl Software",
-    "first_released": "Unreleased",
-    "jp_release": "December 1996",
     "category": "licensed"
   },
   {
     "title": "College Slam",
     "developer": "Iguana Entertainment",
     "publisher": "Acclaim Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "January 1996",
     "category": "licensed"
   },
   {
@@ -1748,7 +1484,6 @@
     "developer": "Technōs Japan",
     "publisher": "American Technōs",
     "first_released": "December 23, 1992",
-    "jp_release": "March 1993",
     "category": "licensed"
   },
   {
@@ -1763,8 +1498,6 @@
     "developer": "Data East",
     "publisher": "Data East",
     "first_released": "December 18, 1992",
-    "jp_release": "May 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -1772,8 +1505,6 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "February 28, 1992",
-    "jp_release": "March 1992",
-    "na_release": "November 19, 1992",
     "category": "licensed"
   },
   {
@@ -1788,17 +1519,12 @@
     "developer": "Virgin Interactive Entertainment",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "December 10, 1993",
-    "jp_release": "September 1993",
-    "na_release": "February 24, 1994",
     "category": "licensed"
   },
   {
     "title": "Cool World",
     "developer": "Painting by Numbers",
     "publisher": "Ocean Software",
-    "first_released": "Unreleased",
-    "jp_release": "February 1993",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -1861,9 +1587,6 @@
     "title": "Cutthroat Island",
     "developer": "Software Creations (UK)",
     "publisher": "Acclaim Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "March 1996",
-    "na_release": "1996",
     "category": "licensed"
   },
   {
@@ -1885,7 +1608,6 @@
     "developer": "Takara",
     "publisher": "Takara",
     "first_released": "March 19, 1992",
-    "jp_release": "November 1992",
     "category": "licensed"
   },
   {
@@ -1893,8 +1615,6 @@
     "developer": "NCS Corp",
     "publisher": "Konami",
     "first_released": "December 18, 1992",
-    "jp_release": "April 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -1909,16 +1629,12 @@
     "developer": "Asmik Ace Entertainment",
     "publisher": "Asmik Ace Entertainment",
     "first_released": "December 20, 1991",
-    "jp_release": "December 1991",
     "category": "licensed"
   },
   {
     "title": "Daffy Duck: The Marvin Missions",
     "developer": "ICOM Simulations",
     "publisher": "Sunsoft",
-    "first_released": "Unreleased",
-    "jp_release": "October 1993",
-    "na_release": "April 28, 1994",
     "category": "licensed"
   },
   {
@@ -1982,8 +1698,6 @@
     "developer": "Taito",
     "publisher": "Taito",
     "first_released": "March 29, 1991",
-    "jp_release": "November 1991",
-    "na_release": "April 22, 1993",
     "category": "licensed"
   },
   {
@@ -2019,17 +1733,12 @@
     "developer": "Imagineering",
     "publisher": "Pack-In-Video",
     "first_released": "December 18, 1992",
-    "jp_release": "November 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
     "title": "Daze Before Christmas",
     "developer": "Funcom",
     "publisher": "Sunsoft",
-    "first_released": "Unreleased",
-    "jp_release": "Cancelled",
-    "na_release": "November 1, 1994",
     "category": "licensed"
   },
   {
@@ -2050,9 +1759,6 @@
     "title": "The Death and Return of Superman",
     "developer": "Blizzard Entertainment",
     "publisher": "Sunsoft",
-    "first_released": "Unreleased",
-    "jp_release": "August 1994",
-    "na_release": "November 1994",
     "category": "licensed"
   },
   {
@@ -2073,9 +1779,6 @@
     "title": "Demolition Man",
     "developer": "Alexandria",
     "publisher": "Acclaim Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "August 1995",
-    "na_release": "September 28, 1995",
     "category": "licensed"
   },
   {
@@ -2083,17 +1786,12 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "October 21, 1994",
-    "jp_release": "November 1994",
-    "na_release": "March 1, 1995",
     "category": "licensed"
   },
   {
     "title": "Dennis the Menace",
     "developer": "Ocean Software",
     "publisher": "Ocean Software",
-    "first_released": "Unreleased",
-    "jp_release": "December 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -2150,8 +1848,6 @@
     "developer": "Visual Concepts",
     "publisher": "Electronic Arts Victor",
     "first_released": "March 26, 1993",
-    "jp_release": "October 1992",
-    "na_release": "May 27, 1993",
     "category": "licensed"
   },
   {
@@ -2173,15 +1869,12 @@
     "developer": "Tose",
     "publisher": "Tonkin House",
     "first_released": "November 27, 1992",
-    "jp_release": "December 1993",
     "category": "licensed"
   },
   {
     "title": "Dino Dini's Soccer",
     "developer": "Eurocom Entertainment Software",
     "publisher": "Virgin Interactive Entertainment",
-    "first_released": "Unreleased",
-    "na_release": "November 10, 1994",
     "category": "licensed"
   },
   {
@@ -2189,25 +1882,18 @@
     "developer": "Irem",
     "publisher": "Irem",
     "first_released": "July 17, 1992",
-    "jp_release": "September 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
     "title": "Dirt Racer",
     "developer": "MotiveTime",
     "publisher": "Elite Systems",
-    "first_released": "Unreleased",
-    "na_release": "May 31, 1995",
     "category": "licensed"
   },
   {
     "title": "Dirt Trax FX",
     "developer": "Sculptured Software",
     "publisher": "Acclaim Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "June 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -2229,7 +1915,6 @@
     "developer": "Zoom",
     "publisher": "Technōs Japan",
     "first_released": "December 17, 1993",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -2258,8 +1943,6 @@
     "developer": "Rare",
     "publisher": "Nintendo",
     "first_released": "November 26, 1994",
-    "jp_release": "November 21, 1994",
-    "na_release": "November 24, 1994",
     "category": "licensed"
   },
   {
@@ -2267,8 +1950,6 @@
     "developer": "Rare",
     "publisher": "Nintendo",
     "first_released": "November 21, 1995",
-    "jp_release": "December 4, 1995",
-    "na_release": "December 14, 1995",
     "category": "licensed"
   },
   {
@@ -2276,8 +1957,6 @@
     "developer": "Rare",
     "publisher": "Nintendo",
     "first_released": "November 23, 1996",
-    "jp_release": "November 18, 1996",
-    "na_release": "December 13, 1996",
     "category": "licensed"
   },
   {
@@ -2285,16 +1964,12 @@
     "developer": "Sculptured Software",
     "publisher": "Imagineer",
     "first_released": "March 1, 1996",
-    "jp_release": "September 1995",
-    "na_release": "October 26, 1995",
     "category": "licensed"
   },
   {
     "title": "Doom Troopers",
     "developer": "Adrenalin Interactive",
     "publisher": "Playmates Interactive",
-    "first_released": "Unreleased",
-    "jp_release": "November 1995",
     "category": "licensed"
   },
   {
@@ -2302,7 +1977,6 @@
     "developer": "Laser Soft",
     "publisher": "Renovation Products",
     "first_released": "November 20, 1992",
-    "jp_release": "April 1993",
     "category": "licensed"
   },
   {
@@ -2351,9 +2025,6 @@
     "title": "Double Dragon V: The Shadow Falls",
     "developer": "Leland Interactive Media",
     "publisher": "Tradewest",
-    "first_released": "Unreleased",
-    "jp_release": "August 1994",
-    "na_release": "July 10, 1994",
     "category": "licensed"
   },
   {
@@ -2388,9 +2059,6 @@
     "title": "Dragon: The Bruce Lee Story",
     "developer": "Virgin Interactive Entertainment",
     "publisher": "Acclaim Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "July 1995",
-    "na_release": "February 23, 1995",
     "category": "licensed"
   },
   {
@@ -2398,7 +2066,6 @@
     "developer": "Tose",
     "publisher": "Bandai",
     "first_released": "March 29, 1996",
-    "na_release": "February 1997",
     "category": "licensed"
   },
   {
@@ -2406,7 +2073,6 @@
     "developer": "Tose",
     "publisher": "Bandai",
     "first_released": "March 20, 1993",
-    "na_release": "November 30, 1993",
     "category": "licensed"
   },
   {
@@ -2414,7 +2080,6 @@
     "developer": "Tose",
     "publisher": "Bandai",
     "first_released": "December 17, 1993",
-    "na_release": "June 1994",
     "category": "licensed"
   },
   {
@@ -2422,7 +2087,6 @@
     "developer": "Tose",
     "publisher": "Bandai",
     "first_released": "September 29, 1994",
-    "na_release": "March 1995",
     "category": "licensed"
   },
   {
@@ -2472,7 +2136,6 @@
     "developer": "Chunsoft",
     "publisher": "Enix",
     "first_released": "September 27, 1992",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -2501,7 +2164,6 @@
     "developer": "Kemco",
     "publisher": "Kemco",
     "first_released": "August 26, 1994",
-    "jp_release": "November 1994",
     "category": "licensed"
   },
   {
@@ -2516,8 +2178,6 @@
     "developer": "MotiveTime",
     "publisher": "Konami",
     "first_released": "June 25, 1993",
-    "jp_release": "February 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -2525,8 +2185,6 @@
     "developer": "Kemco",
     "publisher": "Kemco (JP/PAL)Seika Corporation (NA)",
     "first_released": "May 24, 1991",
-    "jp_release": "September 1991",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -2540,8 +2198,6 @@
     "title": "Dream TV",
     "developer": "Bits Studios",
     "publisher": "Triffix",
-    "first_released": "Unreleased",
-    "jp_release": "April 1994",
     "category": "licensed"
   },
   {
@@ -2562,9 +2218,6 @@
     "title": "The Duel: Test Drive II",
     "developer": "Distinctive Software",
     "publisher": "Ballistic",
-    "first_released": "Unreleased",
-    "jp_release": "December 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -2572,8 +2225,6 @@
     "developer": "FTL Games",
     "publisher": "JVC Musical Industries",
     "first_released": "December 20, 1991",
-    "jp_release": "June 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -2602,7 +2253,6 @@
     "developer": "Almanic",
     "publisher": "Enix",
     "first_released": "December 21, 1992",
-    "jp_release": "July 1993",
     "category": "licensed"
   },
   {
@@ -2610,8 +2260,6 @@
     "developer": "Jaleco",
     "publisher": "Jaleco",
     "first_released": "October 25, 1991",
-    "jp_release": "January 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -2633,7 +2281,6 @@
     "developer": "Ape",
     "publisher": "Nintendo",
     "first_released": "August 27, 1994",
-    "jp_release": "June 1995",
     "category": "licensed"
   },
   {
@@ -2641,17 +2288,12 @@
     "developer": "Shiny Entertainment",
     "publisher": "Takara",
     "first_released": "June 23, 1995",
-    "jp_release": "October 1994",
-    "na_release": "December 16, 1994",
     "category": "licensed"
   },
   {
     "title": "Earthworm Jim 2",
     "developer": "Shiny Entertainment",
     "publisher": "Playmates Interactive",
-    "first_released": "Unreleased",
-    "jp_release": "November 15, 1995",
-    "na_release": "January 25, 1996",
     "category": "licensed"
   },
   {
@@ -2665,9 +2307,6 @@
     "title": "Eek! The Cat",
     "developer": "CTA Developments",
     "publisher": "Ocean Software",
-    "first_released": "Unreleased",
-    "jp_release": "August 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -2716,8 +2355,6 @@
     "title": "Emmitt Smith Football",
     "developer": "Bitmasters",
     "publisher": "JVC Musical Industries",
-    "first_released": "Unreleased",
-    "jp_release": "November 1995",
     "category": "licensed"
   },
   {
@@ -2732,8 +2369,6 @@
     "developer": "Software Creations",
     "publisher": "Epic/Sony Records",
     "first_released": "November 12, 1993",
-    "jp_release": "March 1994",
-    "na_release": "March 25, 1994",
     "category": "licensed"
   },
   {
@@ -2747,33 +2382,24 @@
     "title": "ESPN Baseball Tonight",
     "developer": "Park Place Productions",
     "publisher": "Sony Imagesoft",
-    "first_released": "Unreleased",
-    "jp_release": "May 1994",
-    "na_release": "November 1994",
     "category": "licensed"
   },
   {
     "title": "ESPN National Hockey Night",
     "developer": "Park Place Productions",
     "publisher": "Sony Imagesoft",
-    "first_released": "Unreleased",
-    "jp_release": "December 1994",
     "category": "licensed"
   },
   {
     "title": "ESPN SpeedWorld",
     "developer": "Park Place Productions",
     "publisher": "Sony Imagesoft",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
     "category": "licensed"
   },
   {
     "title": "ESPN Sunday Night NFL",
     "developer": "Absolute Entertainment",
     "publisher": "Sony Imagesoft",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
     "category": "licensed"
   },
   {
@@ -2788,7 +2414,6 @@
     "developer": "Sting Entertainment",
     "publisher": "Sony Music Entertainment Japan",
     "first_released": "August 9, 1991",
-    "jp_release": "March 1992",
     "category": "licensed"
   },
   {
@@ -2796,7 +2421,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "March 18, 1994",
-    "jp_release": "April 1994",
     "category": "licensed"
   },
   {
@@ -2825,8 +2449,6 @@
     "developer": "Nintendo EAD",
     "publisher": "Nintendo",
     "first_released": "November 21, 1990",
-    "jp_release": "August 1991",
-    "na_release": "April 11, 1992",
     "category": "licensed"
   },
   {
@@ -2834,8 +2456,6 @@
     "developer": "Human Entertainment",
     "publisher": "Ubisoft",
     "first_released": "November 20, 1992",
-    "jp_release": "September 1993",
-    "na_release": "December 1993",
     "category": "licensed"
   },
   {
@@ -2843,7 +2463,6 @@
     "developer": "Human Entertainment",
     "publisher": "Ubisoft",
     "first_released": "December 24, 1993",
-    "na_release": "December 29, 1993",
     "category": "licensed"
   },
   {
@@ -2851,8 +2470,6 @@
     "developer": "SETA",
     "publisher": "Ocean Software",
     "first_released": "February 21, 1992",
-    "jp_release": "September 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -2860,23 +2477,18 @@
     "developer": "SETA",
     "publisher": "SETA",
     "first_released": "March 5, 1993",
-    "jp_release": "July 1994",
     "category": "licensed"
   },
   {
     "title": "F1 World Championship Edition",
     "developer": "Domark",
     "publisher": "Acclaim Entertainment",
-    "first_released": "Unreleased",
-    "na_release": "January 1, 1995",
     "category": "licensed"
   },
   {
     "title": "Faceball 2000",
     "developer": "Xanth Software",
     "publisher": "Bullet-Proof Software",
-    "first_released": "Unreleased",
-    "jp_release": "September 1992",
     "category": "licensed"
   },
   {
@@ -2897,17 +2509,12 @@
     "title": "Family Dog",
     "developer": "Imagineering",
     "publisher": "Malibu Games",
-    "first_released": "Unreleased",
-    "jp_release": "June 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
     "title": "Family Feud",
     "developer": "Imagineering",
     "publisher": "GameTek",
-    "first_released": "Unreleased",
-    "jp_release": "September 1993",
     "category": "licensed"
   },
   {
@@ -2929,8 +2536,6 @@
     "developer": "Takara",
     "publisher": "Takara",
     "first_released": "November 27, 1992",
-    "jp_release": "April 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -2938,8 +2543,6 @@
     "developer": "Takara",
     "publisher": "Takara",
     "first_released": "November 26, 1993",
-    "jp_release": "April 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -2947,8 +2550,6 @@
     "developer": "Monolith",
     "publisher": "Takara",
     "first_released": "July 29, 1994",
-    "jp_release": "April 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -2962,9 +2563,6 @@
     "title": "Fever Pitch Soccer",
     "developer": "U.S. Gold",
     "publisher": "U.S. Gold",
-    "first_released": "Unreleased",
-    "jp_release": "September 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -2972,34 +2570,24 @@
     "developer": "Extended Play Productions",
     "publisher": "Victor Interactive Software",
     "first_released": "June 17, 1994",
-    "jp_release": "May 1994",
-    "na_release": "June 23, 1994",
     "category": "licensed"
   },
   {
     "title": "FIFA Soccer 96",
     "developer": "Probe Entertainment",
     "publisher": "EA Sports",
-    "first_released": "Unreleased",
-    "jp_release": "July 1995",
-    "na_release": "November 23, 1995",
     "category": "licensed"
   },
   {
     "title": "FIFA 97: Gold Edition",
     "developer": "Electronic Arts",
     "publisher": "EA Sports",
-    "first_released": "Unreleased",
-    "jp_release": "November 1996",
-    "na_release": "November 22, 1996",
     "category": "licensed"
   },
   {
     "title": "FIFA: Road to World Cup 98",
     "developer": "Electronic Arts",
     "publisher": "EA Sports",
-    "first_released": "Unreleased",
-    "na_release": "September 3, 1997",
     "category": "licensed"
   },
   {
@@ -3007,7 +2595,6 @@
     "developer": "Data East",
     "publisher": "Data East",
     "first_released": "May 27, 1994",
-    "jp_release": "August 1994",
     "category": "licensed"
   },
   {
@@ -3022,7 +2609,6 @@
     "developer": "Square",
     "publisher": "Square",
     "first_released": "July 19, 1991",
-    "jp_release": "November 1991",
     "category": "licensed"
   },
   {
@@ -3044,7 +2630,6 @@
     "developer": "Square",
     "publisher": "Square",
     "first_released": "April 2, 1994",
-    "jp_release": "October 1994",
     "category": "licensed"
   },
   {
@@ -3052,8 +2637,6 @@
     "developer": "Square",
     "publisher": "Nintendo",
     "first_released": "September 10, 1993",
-    "jp_release": "October 1992",
-    "na_release": "October 15, 1993",
     "category": "licensed"
   },
   {
@@ -3061,8 +2644,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "December 21, 1990",
-    "jp_release": "November 1991",
-    "na_release": "December 10, 1992",
     "category": "licensed"
   },
   {
@@ -3070,8 +2651,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "May 22, 1993",
-    "jp_release": "August 1993",
-    "na_release": "December 1993",
     "category": "licensed"
   },
   {
@@ -3079,8 +2658,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "December 22, 1995",
-    "jp_release": "December 1995",
-    "na_release": "March 13, 1996",
     "category": "licensed"
   },
   {
@@ -3088,7 +2665,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "March 20, 1992",
-    "jp_release": "June 1994",
     "category": "licensed"
   },
   {
@@ -3138,7 +2714,6 @@
     "developer": "Human Entertainment",
     "publisher": "Human Entertainment",
     "first_released": "September 9, 1994",
-    "na_release": "March 1995",
     "category": "licensed"
   },
   {
@@ -3146,7 +2721,6 @@
     "developer": "Axes Art Amuse",
     "publisher": "Hect",
     "first_released": "December 17, 1993",
-    "jp_release": "October 1994",
     "category": "licensed"
   },
   {
@@ -3154,7 +2728,6 @@
     "developer": "",
     "publisher": "Culture Brain",
     "first_released": "March 11, 1994",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -3162,8 +2735,6 @@
     "developer": "Vivid Image",
     "publisher": "Kemco",
     "first_released": "July 2, 1993",
-    "jp_release": "July 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -3178,17 +2749,12 @@
     "developer": "Delphine Software International",
     "publisher": "Sunsoft",
     "first_released": "December 22, 1993",
-    "jp_release": "February 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
     "title": "The Flintstones",
     "developer": "Ocean Software",
     "publisher": "Ocean Software",
-    "first_released": "Unreleased",
-    "jp_release": "February 1995",
-    "na_release": "April 1995",
     "category": "licensed"
   },
   {
@@ -3196,8 +2762,6 @@
     "developer": "Taito",
     "publisher": "Taito",
     "first_released": "August 12, 1994",
-    "jp_release": "March 1994",
-    "na_release": "June 23, 1994",
     "category": "licensed"
   },
   {
@@ -3212,7 +2776,6 @@
     "developer": "Aicom",
     "publisher": "Sammy Corporation",
     "first_released": "July 24, 1992",
-    "jp_release": "October 1993",
     "category": "licensed"
   },
   {
@@ -3220,8 +2783,6 @@
     "developer": "Software Creations",
     "publisher": "Acclaim Entertainment",
     "first_released": "October 27, 1995",
-    "jp_release": "September 1995",
-    "na_release": "September 28, 1995",
     "category": "licensed"
   },
   {
@@ -3236,25 +2797,18 @@
     "developer": "Iguana Entertainment",
     "publisher": "Acclaim Entertainment",
     "first_released": "December 1, 1995",
-    "jp_release": "November 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
     "title": "Frantic Flea",
     "developer": "Haus Teknikka",
     "publisher": "GameTek",
-    "first_released": "Unreleased",
-    "jp_release": "April 1996",
-    "na_release": "1996",
     "category": "licensed"
   },
   {
     "title": "Frogger",
     "developer": "Morning Star Multimedia",
     "publisher": "Majesco Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "October 1998",
     "category": "licensed"
   },
   {
@@ -3297,17 +2851,12 @@
     "developer": "Gremlin Interactive",
     "publisher": "Cybersoft",
     "first_released": "December 16, 1994",
-    "jp_release": "January 1995",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
     "title": "Fun 'n Games",
     "developer": "Leland Interactive Media",
     "publisher": "Tradewest",
-    "first_released": "Unreleased",
-    "jp_release": "August 1994",
-    "na_release": "May 25, 1994",
     "category": "licensed"
   },
   {
@@ -3469,8 +3018,6 @@
     "developer": "Imagineering",
     "publisher": "Pack-In-Video",
     "first_released": "April 23, 1993",
-    "jp_release": "June 1992",
-    "na_release": "March 18, 1993",
     "category": "licensed"
   },
   {
@@ -3478,7 +3025,6 @@
     "developer": "Jorudan",
     "publisher": "SETA",
     "first_released": "May 28, 1991",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -3486,7 +3032,6 @@
     "developer": "BEC",
     "publisher": "Bandai",
     "first_released": "February 5, 1993",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -3522,7 +3067,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "October 22, 1992",
-    "jp_release": "December 1992",
     "category": "licensed"
   },
   {
@@ -3530,7 +3074,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "March 25, 1993",
-    "jp_release": "December 1993",
     "category": "licensed"
   },
   {
@@ -3545,15 +3088,12 @@
     "developer": "Bits Studios",
     "publisher": "Kemco",
     "first_released": "August 5, 1994",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
     "title": "George Foreman's KO Boxing",
     "developer": "Beam Software",
     "publisher": "Acclaim Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "September 1992",
     "category": "licensed"
   },
   {
@@ -3582,8 +3122,6 @@
     "developer": "LucasArts",
     "publisher": "JVC Musical Industries",
     "first_released": "May 26, 1995",
-    "jp_release": "November 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -3647,17 +3185,12 @@
     "developer": "Tose",
     "publisher": "Jaleco",
     "first_released": "April 24, 1992",
-    "jp_release": "December 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
     "title": "Gods",
     "developer": "Bitmap Brothers",
     "publisher": "Mindscape",
-    "first_released": "Unreleased",
-    "jp_release": "December 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -3665,7 +3198,6 @@
     "developer": "Alfa System",
     "publisher": "Toho",
     "first_released": "December 9, 1994",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -3694,8 +3226,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "July 22, 1994",
-    "jp_release": "July 1993",
-    "na_release": "November 25, 1993",
     "category": "licensed"
   },
   {
@@ -3703,8 +3233,6 @@
     "developer": "Atlus",
     "publisher": "Atlus",
     "first_released": "June 25, 1993",
-    "jp_release": "September 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -3712,7 +3240,6 @@
     "developer": "Atlus",
     "publisher": "Atlus",
     "first_released": "November 18, 1994",
-    "jp_release": "December 1994",
     "category": "licensed"
   },
   {
@@ -3720,7 +3247,6 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "December 21, 1990",
-    "jp_release": "August 1991",
     "category": "licensed"
   },
   {
@@ -3770,16 +3296,12 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "November 11, 1994",
-    "jp_release": "October 1994",
-    "na_release": "April 27, 1995",
     "category": "licensed"
   },
   {
     "title": "The Great Waldo Search",
     "developer": "Radiance Software",
     "publisher": "THQ",
-    "first_released": "Unreleased",
-    "jp_release": "June 1993",
     "category": "licensed"
   },
   {
@@ -3793,8 +3315,7 @@
     "title": "GunForce",
     "developer": "Bits Studios",
     "publisher": "Irem",
-    "jp_release": "November 27, 1992",
-    "na_release": "November 1992",
+    "first_released": "November 27, 1992",
     "category": "licensed"
   },
   {
@@ -3823,8 +3344,6 @@
     "developer": "CAProduction",
     "publisher": "Hudson Soft",
     "first_released": "November 18, 1994",
-    "jp_release": "June 1995",
-    "na_release": "April 1995",
     "category": "licensed"
   },
   {
@@ -3853,8 +3372,6 @@
     "developer": "HAL Laboratory",
     "publisher": "HAL Laboratory",
     "first_released": "February 23, 1991",
-    "jp_release": "September 1991",
-    "na_release": "October 22, 1992",
     "category": "licensed"
   },
   {
@@ -3869,7 +3386,6 @@
     "developer": "Jaleco",
     "publisher": "Jaleco",
     "first_released": "September 30, 1994",
-    "jp_release": "October 1994",
     "category": "licensed"
   },
   {
@@ -3897,9 +3413,6 @@
     "title": "Hanna Barbera's Turbo Toons",
     "developer": "Empire Interactive",
     "publisher": "Empire Interactive",
-    "first_released": "Unreleased",
-    "jp_release": "Cancelled",
-    "na_release": "November 1994",
     "category": "licensed"
   },
   {
@@ -3913,8 +3426,6 @@
     "title": "Hardball III",
     "developer": "Accolade",
     "publisher": "Accolade",
-    "first_released": "Unreleased",
-    "jp_release": "June 1994",
     "category": "licensed"
   },
   {
@@ -3922,8 +3433,6 @@
     "developer": "Visual Concepts",
     "publisher": "Altron (JP)Hi Tech Expressions (NA/PAL)",
     "first_released": "October 28, 1994",
-    "jp_release": "February 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -3952,8 +3461,6 @@
     "developer": "Pack-In-Video",
     "publisher": "Natsume Inc.",
     "first_released": "August 9, 1996",
-    "jp_release": "June 1997",
-    "na_release": "January 29, 1998",
     "category": "licensed"
   },
   {
@@ -3968,7 +3475,6 @@
     "developer": "Neverland",
     "publisher": "Taito",
     "first_released": "July 29, 1994",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -4011,7 +3517,6 @@
     "developer": "Sunsoft",
     "publisher": "Sunsoft",
     "first_released": "July 28, 1995",
-    "na_release": "September 30, 1995",
     "category": "licensed"
   },
   {
@@ -4019,7 +3524,6 @@
     "developer": "Sunsoft",
     "publisher": "Sunsoft",
     "first_released": "December 22, 1993",
-    "na_release": "February 22, 1994",
     "category": "licensed"
   },
   {
@@ -4187,8 +3691,6 @@
     "title": "Hit the Ice",
     "developer": "Taito",
     "publisher": "Taito",
-    "first_released": "Unreleased",
-    "jp_release": "February 1993",
     "category": "licensed"
   },
   {
@@ -4224,25 +3726,18 @@
     "developer": "Imagineering",
     "publisher": "THQ",
     "first_released": "August 11, 1992",
-    "jp_release": "December 1991",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
     "title": "Home Alone 2: Lost in New York",
     "developer": "Imagineering",
     "publisher": "THQ",
-    "first_released": "Unreleased",
-    "jp_release": "October 1992",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
     "title": "Home Improvement: Power Tool Pursuit!",
     "developer": "Imagineering",
     "publisher": "Absolute Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
     "category": "licensed"
   },
   {
@@ -4313,8 +3808,6 @@
     "developer": "Ukiyotei",
     "publisher": "Epic/Sony Records",
     "first_released": "July 17, 1992",
-    "jp_release": "October 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -4356,9 +3849,6 @@
     "title": "The Humans",
     "developer": "Imagitec Design",
     "publisher": "GameTek",
-    "first_released": "Unreleased",
-    "jp_release": "Cancelled",
-    "na_release": "December 31, 1993",
     "category": "licensed"
   },
   {
@@ -4366,7 +3856,6 @@
     "developer": "Magical Company",
     "publisher": "Sunsoft",
     "first_released": "October 19, 1994",
-    "na_release": "January 3, 1995",
     "category": "licensed"
   },
   {
@@ -4374,17 +3863,12 @@
     "developer": "Riedel Software Productions",
     "publisher": "Altron (JP)Hi Tech Expressions (NA/PAL)",
     "first_released": "October 1, 1993",
-    "jp_release": "January 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
     "title": "Hurricanes",
     "developer": "Probe Entertainment",
     "publisher": "U.S. Gold",
-    "first_released": "Unreleased",
-    "jp_release": "December 1994",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -4406,8 +3890,6 @@
     "developer": "Video System",
     "publisher": "Ubisoft",
     "first_released": "December 25, 1992",
-    "jp_release": "June 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -4415,8 +3897,6 @@
     "developer": "HAL Laboratory",
     "publisher": "HAL Laboratory",
     "first_released": "August 31, 1991",
-    "jp_release": "September 1991",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -4431,7 +3911,6 @@
     "developer": "Jaleco",
     "publisher": "Jaleco",
     "first_released": "November 1, 1994",
-    "jp_release": "January 1995",
     "category": "licensed"
   },
   {
@@ -4453,8 +3932,6 @@
     "developer": "Quintet",
     "publisher": "Enix",
     "first_released": "November 27, 1993",
-    "jp_release": "September 26, 1994",
-    "na_release": "June 21, 1995",
     "category": "licensed"
   },
   {
@@ -4469,7 +3946,6 @@
     "developer": "Jorudan",
     "publisher": "Vic Tokai",
     "first_released": "December 14, 1992",
-    "jp_release": "November 1992",
     "category": "licensed"
   },
   {
@@ -4483,9 +3959,6 @@
     "title": "Incantation",
     "developer": "Titus Software",
     "publisher": "Titus Software",
-    "first_released": "Unreleased",
-    "jp_release": "December 1996",
-    "na_release": "1996",
     "category": "licensed"
   },
   {
@@ -4493,17 +3966,12 @@
     "developer": "Gray Matter",
     "publisher": "Acclaim Entertainment",
     "first_released": "September 30, 1994",
-    "jp_release": "October 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
     "title": "The Incredible Hulk",
     "developer": "Probe Entertainment",
     "publisher": "U.S. Gold",
-    "first_released": "Unreleased",
-    "jp_release": "August 1994",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -4511,8 +3979,6 @@
     "developer": "Factor 5",
     "publisher": "JVC Musical Industries",
     "first_released": "July 28, 1995",
-    "jp_release": "October 1994",
-    "na_release": "March 30, 1995",
     "category": "licensed"
   },
   {
@@ -4520,23 +3986,18 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "March 19, 1992",
-    "jp_release": "March 1993",
     "category": "licensed"
   },
   {
     "title": "Inspector Gadget",
     "developer": "AIM",
     "publisher": "Hudson Soft",
-    "first_released": "Unreleased",
-    "jp_release": "December 1993",
     "category": "licensed"
   },
   {
     "title": "International Sensible Soccer: World Champions",
     "developer": "Sensible Software",
     "publisher": "Renegade Software",
-    "first_released": "Unreleased",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -4544,8 +4005,6 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "November 11, 1994",
-    "jp_release": "June 1995",
-    "na_release": "May 23, 1995",
     "category": "licensed"
   },
   {
@@ -4553,8 +4012,6 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "September 22, 1995",
-    "jp_release": "November 1995",
-    "na_release": "January 25, 1996",
     "category": "licensed"
   },
   {
@@ -4562,8 +4019,6 @@
     "developer": "Loriciel",
     "publisher": "Taito",
     "first_released": "March 26, 1993",
-    "jp_release": "November 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -4578,7 +4033,6 @@
     "developer": "Arcade Zone",
     "publisher": "Poppo",
     "first_released": "February 10, 1995",
-    "na_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -4599,9 +4053,6 @@
     "title": "The Itchy & Scratchy Game",
     "developer": "Bits Studios",
     "publisher": "Acclaim Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "March 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -4622,9 +4073,6 @@
     "title": "Izzy's Quest for the Olympic Rings",
     "developer": "Alexandria",
     "publisher": "U.S. Gold",
-    "first_released": "Unreleased",
-    "jp_release": "November 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -4673,18 +4121,12 @@
     "title": "J.R.R. Tolkien's The Lord of the Rings, Vol. I",
     "developer": "Interplay Entertainment",
     "publisher": "Interplay Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "October 1994",
-    "na_release": "May 23, 1995",
     "category": "licensed"
   },
   {
     "title": "Jack Nicklaus Golf",
     "developer": "Leland Interactive Media",
     "publisher": "Tradewest",
-    "first_released": "Unreleased",
-    "jp_release": "May 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -4699,24 +4141,18 @@
     "developer": "",
     "publisher": "Jaleco",
     "first_released": "March 20, 1991",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
     "title": "James Bond Jr.",
     "developer": "Gray Matter",
     "publisher": "THQ",
-    "first_released": "Unreleased",
-    "jp_release": "October 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
     "title": "James Pond 3: Operation Starfish",
     "developer": "Vectordean",
     "publisher": "U.S. Gold",
-    "first_released": "Unreleased",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -4730,8 +4166,6 @@
     "title": "Jammit",
     "developer": "GTE Interactive Media",
     "publisher": "GTE Interactive Media",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
     "category": "licensed"
   },
   {
@@ -4752,33 +4186,24 @@
     "title": "Jelly Boy",
     "developer": "Probe Entertainment",
     "publisher": "Ocean Software",
-    "first_released": "Unreleased",
-    "jp_release": "Cancelled",
-    "na_release": "March 1995",
     "category": "licensed"
   },
   {
     "title": "Jeopardy!",
     "developer": "Imagineering",
     "publisher": "GameTek",
-    "first_released": "Unreleased",
-    "jp_release": "December 1992",
     "category": "licensed"
   },
   {
     "title": "Jeopardy! Deluxe Edition",
     "developer": "",
     "publisher": "GameTek",
-    "first_released": "Unreleased",
-    "jp_release": "June 1994",
     "category": "licensed"
   },
   {
     "title": "Jeopardy! Sports Edition",
     "developer": "",
     "publisher": "GameTek",
-    "first_released": "Unreleased",
-    "jp_release": "May 1994",
     "category": "licensed"
   },
   {
@@ -4786,7 +4211,6 @@
     "developer": "Sting Entertainment",
     "publisher": "Kadokawa Shoten",
     "first_released": "June 9, 1995",
-    "jp_release": "June 1994",
     "category": "licensed"
   },
   {
@@ -4822,7 +4246,6 @@
     "developer": "Diamond Head",
     "publisher": "Konami",
     "first_released": "March 11, 1994",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -4857,16 +4280,12 @@
     "title": "Jim Lee's WildC.A.T.S: Covert Action Teams",
     "developer": "Beam Software",
     "publisher": "Playmates Interactive",
-    "first_released": "Unreleased",
-    "jp_release": "November 1995",
     "category": "licensed"
   },
   {
     "title": "Jim Power: The Lost Dimension in 3-D",
     "developer": "Loriciel",
     "publisher": "Electro Brain",
-    "first_released": "Unreleased",
-    "jp_release": "December 1993",
     "category": "licensed"
   },
   {
@@ -4874,8 +4293,6 @@
     "developer": "Blue Byte",
     "publisher": "Ubisoft",
     "first_released": "October 29, 1993",
-    "jp_release": "December 1992",
-    "na_release": "October 27, 1994",
     "category": "licensed"
   },
   {
@@ -4883,7 +4300,6 @@
     "developer": "Nexus Interact",
     "publisher": "Sammy Corporation",
     "first_released": "August 25, 1995",
-    "jp_release": "November 1995",
     "category": "licensed"
   },
   {
@@ -4961,8 +4377,6 @@
     "developer": "Data East",
     "publisher": "Elite Systems",
     "first_released": "December 6, 1991",
-    "jp_release": "January 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -4970,8 +4384,6 @@
     "developer": "Data East",
     "publisher": "Elite Systems",
     "first_released": "February 18, 1994",
-    "jp_release": "April 1994",
-    "na_release": "November 1995",
     "category": "licensed"
   },
   {
@@ -4979,7 +4391,6 @@
     "developer": "Park Place Productions",
     "publisher": "Imagineer",
     "first_released": "January 17, 1992",
-    "jp_release": "November 1991",
     "category": "licensed"
   },
   {
@@ -4987,8 +4398,6 @@
     "developer": "EA Canada",
     "publisher": "Electronic Arts Victor",
     "first_released": "February 12, 1993",
-    "jp_release": "November 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -5010,8 +4419,6 @@
     "developer": "Probe Entertainment",
     "publisher": "Acclaim Entertainment",
     "first_released": "October 27, 1995",
-    "jp_release": "June 16, 1995",
-    "na_release": "August 24, 1995",
     "category": "licensed"
   },
   {
@@ -5026,8 +4433,6 @@
     "developer": "Eurocom Entertainment Software",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "July 15, 1994",
-    "jp_release": "August 1994",
-    "na_release": "September 1994",
     "category": "licensed"
   },
   {
@@ -5042,8 +4447,6 @@
     "developer": "Gremlin Interactive",
     "publisher": "Electronic Arts Victor",
     "first_released": "September 22, 1995",
-    "jp_release": "June 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -5058,17 +4461,12 @@
     "developer": "Ocean Software",
     "publisher": "Jaleco",
     "first_released": "June 24, 1994",
-    "jp_release": "November 1993",
-    "na_release": "December 29, 1993",
     "category": "licensed"
   },
   {
     "title": "Jurassic Park 2: The Chaos Continues",
     "developer": "Ocean Software",
     "publisher": "Ocean Software",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -5076,8 +4474,6 @@
     "developer": "Blizzard Entertainment",
     "publisher": "Acclaim Entertainment",
     "first_released": "October 27, 1995",
-    "jp_release": "June 1995",
-    "na_release": "July 1995",
     "category": "licensed"
   },
   {
@@ -5099,7 +4495,6 @@
     "developer": "Kemco",
     "publisher": "Kemco",
     "first_released": "December 1, 1990",
-    "jp_release": "August 1992",
     "category": "licensed"
   },
   {
@@ -5176,17 +4571,12 @@
     "title": "Kawasaki Caribbean Challenge",
     "developer": "Park Place Productions",
     "publisher": "GameTek",
-    "first_released": "Unreleased",
-    "jp_release": "June 1993",
     "category": "licensed"
   },
   {
     "title": "Kawasaki Superbike Challenge",
     "developer": "Domark",
     "publisher": "Time Warner Interactive",
-    "first_released": "Unreleased",
-    "jp_release": "December 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -5194,7 +4584,6 @@
     "developer": "Fupac",
     "publisher": "Bullet-Proof Software",
     "first_released": "July 15, 1994",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -5222,16 +4611,12 @@
     "title": "Ken Griffey Jr. Presents Major League Baseball",
     "developer": "Software Creations",
     "publisher": "Nintendo",
-    "first_released": "Unreleased",
-    "jp_release": "March 1994",
     "category": "licensed"
   },
   {
     "title": "Ken Griffey Jr.'s Winning Run",
     "developer": "Rare",
     "publisher": "Nintendo",
-    "first_released": "Unreleased",
-    "jp_release": "June 1996",
     "category": "licensed"
   },
   {
@@ -5239,7 +4624,6 @@
     "developer": "Affect",
     "publisher": "Datam Polystar",
     "first_released": "January 22, 1993",
-    "jp_release": "October 1993",
     "category": "licensed"
   },
   {
@@ -5267,8 +4651,6 @@
     "title": "Kevin Keegan's Player Manager",
     "developer": "Anco",
     "publisher": "Imagineer",
-    "first_released": "Unreleased",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -5276,16 +4658,12 @@
     "developer": "Anco",
     "publisher": "Imagineer",
     "first_released": "December 25, 1992",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
     "title": "Kick Off 3: European Challenge",
     "developer": "Anco",
     "publisher": "Vic Tokai",
-    "first_released": "Unreleased",
-    "jp_release": "Cancelled",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -5293,8 +4671,6 @@
     "developer": "Kemco",
     "publisher": "Nintendo",
     "first_released": "October 21, 1994",
-    "jp_release": "September 1994",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -5344,7 +4720,6 @@
     "developer": "Atlus",
     "publisher": "Atlus",
     "first_released": "July 31, 1992",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -5365,9 +4740,6 @@
     "title": "Killer Instinct",
     "developer": "Rare",
     "publisher": "Nintendo",
-    "first_released": "Unreleased",
-    "jp_release": "August 1995",
-    "na_release": "September 21, 1995",
     "category": "licensed"
   },
   {
@@ -5381,8 +4753,6 @@
     "title": "King Arthur & the Knights of Justice",
     "developer": "Manley & Associates",
     "publisher": "Enix",
-    "first_released": "Unreleased",
-    "jp_release": "July 1995",
     "category": "licensed"
   },
   {
@@ -5390,8 +4760,6 @@
     "developer": "Argonaut Software",
     "publisher": "Jaleco",
     "first_released": "November 27, 1992",
-    "jp_release": "September 1994",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -5399,8 +4767,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "March 4, 1994",
-    "jp_release": "April 1994",
-    "na_release": "August 1994",
     "category": "licensed"
   },
   {
@@ -5408,8 +4774,6 @@
     "developer": "Genki",
     "publisher": "Takara",
     "first_released": "July 31, 1992",
-    "jp_release": "October 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -5417,7 +4781,6 @@
     "developer": "Now Production",
     "publisher": "Takara",
     "first_released": "December 22, 1993",
-    "jp_release": "June 1994",
     "category": "licensed"
   },
   {
@@ -5425,7 +4788,6 @@
     "developer": "KAZe",
     "publisher": "Meldac",
     "first_released": "December 18, 1992",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -5454,8 +4816,6 @@
     "developer": "HAL Laboratory",
     "publisher": "Nintendo",
     "first_released": "March 21, 1996",
-    "jp_release": "September 20, 1996",
-    "na_release": "January 23, 1997",
     "category": "licensed"
   },
   {
@@ -5463,8 +4823,6 @@
     "developer": "HAL Laboratory",
     "publisher": "Banpresto",
     "first_released": "December 10, 1993",
-    "jp_release": "April 1995",
-    "na_release": "February 1, 1995",
     "category": "licensed"
   },
   {
@@ -5472,8 +4830,6 @@
     "developer": "HAL Laboratory",
     "publisher": "Nintendo",
     "first_released": "September 21, 1994",
-    "jp_release": "February 1995",
-    "na_release": "August 24, 1995",
     "category": "licensed"
   },
   {
@@ -5481,7 +4837,6 @@
     "developer": "HAL Laboratory",
     "publisher": "Nintendo",
     "first_released": "March 27, 1998",
-    "jp_release": "November 1997",
     "category": "licensed"
   },
   {
@@ -5524,7 +4879,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "June 10, 1994",
-    "jp_release": "April 1994",
     "category": "licensed"
   },
   {
@@ -5609,8 +4963,6 @@
     "developer": "Audiogenic",
     "publisher": "Acclaim Entertainment",
     "first_released": "January 29, 1993",
-    "jp_release": "June 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -5639,7 +4991,6 @@
     "developer": "Leland Interactive Media",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "June 30, 1995",
-    "jp_release": "April 1995",
     "category": "licensed"
   },
   {
@@ -5696,17 +5047,12 @@
     "developer": "Kemco",
     "publisher": "Kemco (JP/PAL)Seika Corporation (NA)",
     "first_released": "December 13, 1991",
-    "jp_release": "December 1991",
-    "na_release": "May 27, 1993",
     "category": "licensed"
   },
   {
     "title": "Lamborghini American Challenge",
     "developer": "Titus Software",
     "publisher": "Titus Software",
-    "first_released": "Unreleased",
-    "jp_release": "November 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -5720,9 +5066,6 @@
     "title": "Last Action Hero",
     "developer": "Bits Studios",
     "publisher": "Sony Imagesoft",
-    "first_released": "Unreleased",
-    "jp_release": "October 1993",
-    "na_release": "December 10, 1993",
     "category": "licensed"
   },
   {
@@ -5744,8 +5087,6 @@
     "developer": "Sales Curve Interactive",
     "publisher": "THQ",
     "first_released": "February 11, 1994",
-    "jp_release": "November 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -5773,9 +5114,6 @@
     "title": "Legend",
     "developer": "Arcade Zone",
     "publisher": "Sony Imagesoft",
-    "first_released": "Unreleased",
-    "jp_release": "April 1994",
-    "na_release": "December 21, 1994",
     "category": "licensed"
   },
   {
@@ -5783,8 +5121,6 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "July 19, 1991",
-    "jp_release": "June 1992",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -5792,8 +5128,6 @@
     "developer": "Nintendo EAD",
     "publisher": "Nintendo",
     "first_released": "November 21, 1991",
-    "jp_release": "April 1992",
-    "na_release": "September 24, 1992",
     "category": "licensed"
   },
   {
@@ -5801,8 +5135,6 @@
     "developer": "Sunsoft",
     "publisher": "Sunsoft",
     "first_released": "December 18, 1991",
-    "jp_release": "March 1992",
-    "na_release": "August 1992",
     "category": "licensed"
   },
   {
@@ -5810,8 +5142,6 @@
     "developer": "DMA Design",
     "publisher": "Sunsoft",
     "first_released": "August 12, 1994",
-    "jp_release": "November 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -5826,7 +5156,6 @@
     "developer": "Visual Concepts",
     "publisher": "Asmik Ace Entertainment",
     "first_released": "September 16, 1994",
-    "jp_release": "January 1994",
     "category": "licensed"
   },
   {
@@ -5834,17 +5163,12 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "March 11, 1994",
-    "jp_release": "January 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
     "title": "Lethal Weapon",
     "developer": "Ocean Software",
     "publisher": "Ocean Software",
-    "first_released": "Unreleased",
-    "jp_release": "December 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -5852,7 +5176,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "March 18, 1994",
-    "jp_release": "April 1994",
     "category": "licensed"
   },
   {
@@ -5881,8 +5204,6 @@
     "developer": "Westwood Studios",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "December 9, 1994",
-    "jp_release": "November 9, 1994",
-    "na_release": "November 11, 1994",
     "category": "licensed"
   },
   {
@@ -5890,7 +5211,6 @@
     "developer": "",
     "publisher": "Altron",
     "first_released": "December 24, 1993",
-    "na_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -5912,8 +5232,6 @@
     "developer": "Copya Systems",
     "publisher": "Asmik Ace Entertainment",
     "first_released": "July 16, 1993",
-    "jp_release": "October 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -5941,9 +5259,6 @@
     "title": "Looney Tunes B-Ball",
     "developer": "Sculptured Software",
     "publisher": "Sunsoft",
-    "first_released": "Unreleased",
-    "jp_release": "February 1995",
-    "na_release": "May 1995",
     "category": "licensed"
   },
   {
@@ -5958,17 +5273,12 @@
     "developer": "Silicon & Synapse",
     "publisher": "T&E Soft",
     "first_released": "October 8, 1993",
-    "jp_release": "April 1993",
-    "na_release": "October 28, 1993",
     "category": "licensed"
   },
   {
     "title": "The Lost Vikings 2",
     "developer": "Blizzard Entertainment",
     "publisher": "Interplay Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "May 1997",
-    "na_release": "February 27, 1997",
     "category": "licensed"
   },
   {
@@ -5982,8 +5292,6 @@
     "title": "Lucky Luke",
     "developer": "Infogrames",
     "publisher": "Infogrames",
-    "first_released": "Unreleased",
-    "na_release": "October 27, 1997",
     "category": "licensed"
   },
   {
@@ -5991,7 +5299,6 @@
     "developer": "Neverland",
     "publisher": "Taito",
     "first_released": "June 25, 1993",
-    "jp_release": "December 1993",
     "category": "licensed"
   },
   {
@@ -5999,8 +5306,6 @@
     "developer": "Neverland",
     "publisher": "Taito",
     "first_released": "February 24, 1995",
-    "jp_release": "August 1996",
-    "na_release": "1997",
     "category": "licensed"
   },
   {
@@ -6015,41 +5320,30 @@
     "developer": "Visual Concepts",
     "publisher": "Electronic Arts Victor",
     "first_released": "December 24, 1993",
-    "jp_release": "November 1993",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
     "title": "Madden NFL '95",
     "developer": "Visual Concepts",
     "publisher": "EA Sports",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
     "title": "Madden NFL '96",
     "developer": "Tiburon Entertainment",
     "publisher": "EA Sports",
-    "first_released": "Unreleased",
-    "jp_release": "November 1995",
     "category": "licensed"
   },
   {
     "title": "Madden NFL 97",
     "developer": "Tiburon Entertainment",
     "publisher": "EA Sports",
-    "first_released": "Unreleased",
-    "jp_release": "October 1996",
     "category": "licensed"
   },
   {
     "title": "Madden NFL 98",
     "developer": "Electronic Arts",
     "publisher": "EA Sports",
-    "first_released": "Unreleased",
-    "jp_release": "November 1997",
     "category": "licensed"
   },
   {
@@ -6063,9 +5357,6 @@
     "title": "Magic Boy",
     "developer": "Blue Turtle",
     "publisher": "JVC Musical Industries",
-    "first_released": "Unreleased",
-    "jp_release": "August 1996",
-    "na_release": "1996",
     "category": "licensed"
   },
   {
@@ -6080,8 +5371,6 @@
     "developer": "Minakuchi Engineering",
     "publisher": "Capcom",
     "first_released": "May 29, 1992",
-    "jp_release": "August 1992",
-    "na_release": "March 18, 1993",
     "category": "licensed"
   },
   {
@@ -6096,7 +5385,6 @@
     "developer": "Data East",
     "publisher": "Data East",
     "first_released": "September 20, 1996",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -6104,8 +5392,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "November 20, 1992",
-    "jp_release": "December 1992",
-    "na_release": "March 18, 1993",
     "category": "licensed"
   },
   {
@@ -6218,8 +5504,6 @@
     "developer": "Irem",
     "publisher": "Irem",
     "first_released": "December 4, 1992",
-    "jp_release": "October 1992",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -6247,8 +5531,6 @@
     "title": "Manchester United Championship Soccer",
     "developer": "Krisalis Software",
     "publisher": "Ocean Software",
-    "first_released": "Unreleased",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -6263,16 +5545,12 @@
     "developer": "Game Freak",
     "publisher": "Nintendo",
     "first_released": "August 27, 1993",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
     "title": "Mario is Missing!",
     "developer": "The Software Toolworks",
     "publisher": "Mindscape",
-    "first_released": "Unreleased",
-    "jp_release": "June 1993",
-    "na_release": "September 1993",
     "category": "licensed"
   },
   {
@@ -6287,41 +5565,30 @@
     "developer": "Nintendo R&D1",
     "publisher": "Nintendo",
     "first_released": "July 14, 1992",
-    "jp_release": "August 17, 1992",
-    "na_release": "December 10, 1992",
     "category": "licensed"
   },
   {
     "title": "Mario's Early Years! Fun with Letters",
     "developer": "The Software Toolworks",
     "publisher": "The Software Toolworks",
-    "first_released": "Unreleased",
-    "jp_release": "September 1994",
     "category": "licensed"
   },
   {
     "title": "Mario's Early Years! Fun with Numbers",
     "developer": "The Software Toolworks",
     "publisher": "The Software Toolworks",
-    "first_released": "Unreleased",
-    "jp_release": "October 1994",
     "category": "licensed"
   },
   {
     "title": "Mario's Early Years! Preschool Fun",
     "developer": "The Software Toolworks",
     "publisher": "Mindscape",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
     "category": "licensed"
   },
   {
     "title": "Mario's Time Machine",
     "developer": "The Software Toolworks",
     "publisher": "Mindscape",
-    "first_released": "Unreleased",
-    "jp_release": "December 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -6329,15 +5596,12 @@
     "developer": "Natsume Co., Ltd.",
     "publisher": "Natsume Inc.",
     "first_released": "June 30, 1995",
-    "jp_release": "April 1996",
     "category": "licensed"
   },
   {
     "title": "Marko's Magic Football",
     "developer": "Domark",
     "publisher": "Acclaim Entertainment",
-    "first_released": "Unreleased",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -6352,8 +5616,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "October 18, 1996",
-    "jp_release": "November 1996",
-    "na_release": "1996",
     "category": "licensed"
   },
   {
@@ -6367,8 +5629,6 @@
     "title": "Mary Shelley's Frankenstein",
     "developer": "Bits Studios",
     "publisher": "Sony Imagesoft",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
     "category": "licensed"
   },
   {
@@ -6376,8 +5636,6 @@
     "developer": "Black Pearl Software",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "December 27, 1996",
-    "jp_release": "October 1995",
-    "na_release": "October 26, 1995",
     "category": "licensed"
   },
   {
@@ -6391,8 +5649,6 @@
     "title": "Math Blaster: Episode 1",
     "developer": "Western Technologies",
     "publisher": "Davidson & Associates",
-    "first_released": "Unreleased",
-    "jp_release": "October 1994",
     "category": "licensed"
   },
   {
@@ -6414,8 +5670,6 @@
     "developer": "Eurocom Entertainment Software",
     "publisher": "Capcom",
     "first_released": "December 20, 1996",
-    "jp_release": "January 1997",
-    "na_release": "November 28, 1996",
     "category": "licensed"
   },
   {
@@ -6430,7 +5684,6 @@
     "developer": "Advance Communication Company",
     "publisher": "Toho",
     "first_released": "December 4, 1992",
-    "jp_release": "September 1993",
     "category": "licensed"
   },
   {
@@ -6438,8 +5691,6 @@
     "developer": "Beam Software",
     "publisher": "Victor Interactive Software",
     "first_released": "February 26, 1993",
-    "jp_release": "May 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -6447,8 +5698,6 @@
     "developer": "Tiburon Entertainment",
     "publisher": "ASK",
     "first_released": "February 23, 1996",
-    "jp_release": "October 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -6456,7 +5705,6 @@
     "developer": "Sensible Software",
     "publisher": "Imagineer",
     "first_released": "July 23, 1993",
-    "na_release": "December 31, 1994",
     "category": "licensed"
   },
   {
@@ -6464,8 +5712,6 @@
     "developer": "Capcom",
     "publisher": "Capcom (JP/NA)Laguna GmbH (PAL)",
     "first_released": "March 24, 1995",
-    "jp_release": "September 1995",
-    "na_release": "November 20, 1995",
     "category": "licensed"
   },
   {
@@ -6473,7 +5719,6 @@
     "developer": "Sun L",
     "publisher": "Capcom",
     "first_released": "March 25, 1994",
-    "jp_release": "April 1994",
     "category": "licensed"
   },
   {
@@ -6481,8 +5726,6 @@
     "developer": "Capcom",
     "publisher": "Nintendo",
     "first_released": "December 17, 1993",
-    "jp_release": "January 1994",
-    "na_release": "May 1, 1994",
     "category": "licensed"
   },
   {
@@ -6490,8 +5733,6 @@
     "developer": "Capcom",
     "publisher": "Capcom (JP/NA)Laguna GmbH (PAL)",
     "first_released": "December 16, 1994",
-    "jp_release": "January 1995",
-    "na_release": "November 18, 1995",
     "category": "licensed"
   },
   {
@@ -6499,8 +5740,6 @@
     "developer": "Minakuchi Engineering",
     "publisher": "Capcom",
     "first_released": "December 1, 1995",
-    "jp_release": "January 1996",
-    "na_release": "May 15, 1996",
     "category": "licensed"
   },
   {
@@ -6521,9 +5760,6 @@
     "title": "Metal Combat: Falcon's Revenge",
     "developer": "Intelligent Systems",
     "publisher": "Nintendo",
-    "first_released": "Unreleased",
-    "jp_release": "December 1993",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -6531,8 +5767,6 @@
     "developer": "Namco",
     "publisher": "Mindscape",
     "first_released": "November 18, 1994",
-    "jp_release": "December 1993",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -6553,8 +5787,6 @@
     "title": "Metal Morph",
     "developer": "Origin Systems",
     "publisher": "FCI",
-    "first_released": "Unreleased",
-    "jp_release": "December 1994",
     "category": "licensed"
   },
   {
@@ -6568,8 +5800,6 @@
     "title": "Metal Warriors",
     "developer": "LucasArts",
     "publisher": "Konami",
-    "first_released": "Unreleased",
-    "jp_release": "April 1995",
     "category": "licensed"
   },
   {
@@ -6577,16 +5807,12 @@
     "developer": "Genki",
     "publisher": "Bullet-Proof Software",
     "first_released": "January 20, 1995",
-    "jp_release": "September 1994",
     "category": "licensed"
   },
   {
     "title": "Michael Jordan: Chaos in the Windy City",
     "developer": "Electronic Arts",
     "publisher": "Electronic Arts",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
-    "na_release": "March 11, 1995",
     "category": "licensed"
   },
   {
@@ -6594,8 +5820,6 @@
     "developer": "Traveller's Tales",
     "publisher": "Capcom",
     "first_released": "March 31, 1995",
-    "jp_release": "November 1, 1994",
-    "na_release": "October 28, 1994",
     "category": "licensed"
   },
   {
@@ -6616,25 +5840,18 @@
     "title": "Mickey's Ultimate Challenge",
     "developer": "Designer Software",
     "publisher": "Hi Tech Expressions",
-    "first_released": "Unreleased",
-    "jp_release": "February 1994",
     "category": "licensed"
   },
   {
     "title": "Micro Machines",
     "developer": "Codemasters",
     "publisher": "Ocean Software",
-    "first_released": "Unreleased",
-    "jp_release": "December 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
     "title": "Micro Machines 2: Turbo Tournament",
     "developer": "Codemasters",
     "publisher": "Ocean Software",
-    "first_released": "Unreleased",
-    "na_release": "February 22, 1996",
     "category": "licensed"
   },
   {
@@ -6648,17 +5865,12 @@
     "title": "Might and Magic II",
     "developer": "Iguana Entertainment",
     "publisher": "Elite Systems",
-    "first_released": "Unreleased",
-    "jp_release": "Cancelled",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
     "title": "Might and Magic III: Isles of Terra",
     "developer": "Iguana Entertainment",
     "publisher": "FCI",
-    "first_released": "Unreleased",
-    "jp_release": "January 1995",
     "category": "licensed"
   },
   {
@@ -6666,26 +5878,18 @@
     "developer": "Natsume Co., Ltd.",
     "publisher": "Bandai",
     "first_released": "November 25, 1995",
-    "jp_release": "September 1994",
-    "na_release": "November 1994",
     "category": "licensed"
   },
   {
     "title": "Mighty Morphin Power Rangers: The Movie",
     "developer": "Natsume Co., Ltd.",
     "publisher": "Bandai",
-    "first_released": "Unreleased",
-    "jp_release": "July 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
     "title": "Mighty Morphin Power Rangers: The Fighting Edition",
     "developer": "Natsume Co., Ltd.",
     "publisher": "Bandai",
-    "first_released": "Unreleased",
-    "jp_release": "September 1995",
-    "na_release": "November 1995",
     "category": "licensed"
   },
   {
@@ -6727,8 +5931,6 @@
     "title": "Miracle Piano",
     "developer": "The Software Toolworks",
     "publisher": "The Software Toolworks",
-    "first_released": "Unreleased",
-    "jp_release": "December 1991",
     "category": "licensed"
   },
   {
@@ -6750,16 +5952,12 @@
     "developer": "Visual Concepts",
     "publisher": "EA Sports",
     "first_released": "August 11, 1995",
-    "jp_release": "March 1994",
     "category": "licensed"
   },
   {
     "title": "Mohawk & Headphone Jack",
     "developer": "Solid Software",
     "publisher": "Black Pearl Software",
-    "first_released": "Unreleased",
-    "jp_release": "August 1996",
-    "na_release": "March 27, 1997",
     "category": "licensed"
   },
   {
@@ -6773,8 +5971,6 @@
     "title": "Monopoly",
     "developer": "Sculptured Software",
     "publisher": "Parker Brothers",
-    "first_released": "Unreleased",
-    "jp_release": "September 1992",
     "category": "licensed"
   },
   {
@@ -6817,8 +6013,6 @@
     "developer": "Sculptured Software",
     "publisher": "Acclaim Entertainment",
     "first_released": "December 17, 1993",
-    "jp_release": "September 13, 1993",
-    "na_release": "September 13, 1993",
     "category": "licensed"
   },
   {
@@ -6826,17 +6020,12 @@
     "developer": "Sculptured Software",
     "publisher": "Acclaim Entertainment",
     "first_released": "November 11, 1994",
-    "jp_release": "September 9, 1994",
-    "na_release": "September 9, 1994",
     "category": "licensed"
   },
   {
     "title": "Mortal Kombat 3",
     "developer": "Sculptured Software",
     "publisher": "Williams Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "October 13, 1995",
-    "na_release": "October 20, 1995",
     "category": "licensed"
   },
   {
@@ -6857,8 +6046,6 @@
     "title": "Mountain Bike Rally",
     "developer": "Radical Entertainment",
     "publisher": "Life Fitness Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "October 1994",
     "category": "licensed"
   },
   {
@@ -6866,8 +6053,6 @@
     "developer": "C-Lab",
     "publisher": "Imagineer",
     "first_released": "June 23, 1995",
-    "jp_release": "December 1996",
-    "na_release": "March 27, 1997",
     "category": "licensed"
   },
   {
@@ -6875,17 +6060,12 @@
     "developer": "Ocean Software",
     "publisher": "Ocean Software",
     "first_released": "October 7, 1994",
-    "jp_release": "August 1994",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
     "title": "Ms. Pac-Man",
     "developer": "Digital Eclipse Software",
     "publisher": "Williams Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "September 1996",
-    "na_release": "1996",
     "category": "licensed"
   },
   {
@@ -6907,7 +6087,6 @@
     "developer": "Jorudan",
     "publisher": "Datam Polystar",
     "first_released": "April 24, 1992",
-    "jp_release": "December 1992",
     "category": "licensed"
   },
   {
@@ -6922,7 +6101,6 @@
     "developer": "Produce",
     "publisher": "Enix",
     "first_released": "July 14, 1995",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -6979,7 +6157,6 @@
     "developer": "Natsume Co., Ltd.",
     "publisher": "Masaya (JP)Natsume Co., Ltd. (NA)",
     "first_released": "December 28, 1993",
-    "jp_release": "June 1994",
     "category": "licensed"
   },
   {
@@ -6987,8 +6164,6 @@
     "developer": "Beam Software",
     "publisher": "Acclaim Entertainment",
     "first_released": "May 21, 1993",
-    "jp_release": "December 1992",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -6996,17 +6171,12 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "September 29, 1995",
-    "jp_release": "November 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
     "title": "NBA Hangtime",
     "developer": "Funcom",
     "publisher": "Midway Games",
-    "first_released": "Unreleased",
-    "jp_release": "November 1996",
-    "na_release": "1996",
     "category": "licensed"
   },
   {
@@ -7014,8 +6184,6 @@
     "developer": "Iguana Entertainment",
     "publisher": "Acclaim Entertainment",
     "first_released": "April 29, 1994",
-    "jp_release": "March 4, 1994",
-    "na_release": "March 4, 1994",
     "category": "licensed"
   },
   {
@@ -7023,8 +6191,6 @@
     "developer": "Iguana Entertainment",
     "publisher": "Acclaim Entertainment",
     "first_released": "February 24, 1995",
-    "jp_release": "February 23, 1995",
-    "na_release": "February 23, 1995",
     "category": "licensed"
   },
   {
@@ -7032,34 +6198,24 @@
     "developer": "Electronic Arts",
     "publisher": "Electronic Arts Victor",
     "first_released": "December 16, 1994",
-    "jp_release": "October 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
     "title": "NBA Live 96",
     "developer": "Electronic Arts",
     "publisher": "EA Sports",
-    "first_released": "Unreleased",
-    "jp_release": "October 1995",
-    "na_release": "November 23, 1995",
     "category": "licensed"
   },
   {
     "title": "NBA Live 97",
     "developer": "Electronic Arts",
     "publisher": "EA Sports",
-    "first_released": "Unreleased",
-    "jp_release": "December 1996",
-    "na_release": "1996",
     "category": "licensed"
   },
   {
     "title": "NBA Live 98",
     "developer": "EA Sports",
     "publisher": "EA Sports",
-    "first_released": "Unreleased",
-    "jp_release": "November 1997",
     "category": "licensed"
   },
   {
@@ -7067,7 +6223,6 @@
     "developer": "Electronic Arts",
     "publisher": "Electronic Arts Victor",
     "first_released": "December 3, 1993",
-    "jp_release": "October 1993",
     "category": "licensed"
   },
   {
@@ -7075,24 +6230,18 @@
     "developer": "Sculptured Software",
     "publisher": "HAL Laboratory",
     "first_released": "June 19, 1992",
-    "jp_release": "October 1992",
-    "na_release": "July 22, 1993",
     "category": "licensed"
   },
   {
     "title": "NCAA Final Four Basketball",
     "developer": "Bitmasters",
     "publisher": "Mindscape",
-    "first_released": "Unreleased",
-    "jp_release": "February 1995",
     "category": "licensed"
   },
   {
     "title": "NCAA Football",
     "developer": "The Software Toolworks",
     "publisher": "Mindscape",
-    "first_released": "Unreleased",
-    "jp_release": "October 1994",
     "category": "licensed"
   },
   {
@@ -7107,7 +6256,6 @@
     "developer": "Wolf Team",
     "publisher": "Telenet Japan",
     "first_released": "March 26, 1993",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -7122,8 +6270,6 @@
     "developer": "Gremlin Interactive",
     "publisher": "Acclaim Entertainment",
     "first_released": "December 16, 1994",
-    "jp_release": "November 1994",
-    "na_release": "December 8, 1994",
     "category": "licensed"
   },
   {
@@ -7131,8 +6277,6 @@
     "developer": "Park Place Productions",
     "publisher": "Konami",
     "first_released": "September 17, 1993",
-    "jp_release": "July 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -7140,8 +6284,6 @@
     "developer": "Iguana Entertainment",
     "publisher": "Acclaim Entertainment",
     "first_released": "February 24, 1995",
-    "jp_release": "December 1994",
-    "na_release": "April 1995",
     "category": "licensed"
   },
   {
@@ -7149,8 +6291,6 @@
     "developer": "Iguana Entertainment",
     "publisher": "Acclaim Entertainment",
     "first_released": "March 1, 1996",
-    "jp_release": "November 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -7158,61 +6298,42 @@
     "developer": "Electronic Arts",
     "publisher": "Electronic Arts Victor",
     "first_released": "April 8, 1994",
-    "jp_release": "October 1993",
-    "na_release": "March 31, 1994",
     "category": "licensed"
   },
   {
     "title": "NHL 95",
     "developer": "Visual Concepts",
     "publisher": "EA Sports",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
-    "na_release": "December 8, 1994",
     "category": "licensed"
   },
   {
     "title": "NHL 96",
     "developer": "Tiburon Entertainment",
     "publisher": "EA Sports",
-    "first_released": "Unreleased",
-    "jp_release": "September 1995",
-    "na_release": "October 26, 1995",
     "category": "licensed"
   },
   {
     "title": "NHL 97",
     "developer": "Ceris Software",
     "publisher": "Black Pearl Software",
-    "first_released": "Unreleased",
-    "jp_release": "October 1996",
-    "na_release": "November 28, 1996",
     "category": "licensed"
   },
   {
     "title": "NHL 98",
     "developer": "THQ",
     "publisher": "EA Sports",
-    "first_released": "Unreleased",
-    "jp_release": "October 1997",
     "category": "licensed"
   },
   {
     "title": "NHL Stanley Cup",
     "developer": "Sculptured Software",
     "publisher": "Nintendo",
-    "first_released": "Unreleased",
-    "jp_release": "November 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
     "title": "NHLPA Hockey '93",
     "developer": "Electronic Arts",
     "publisher": "EA Sports",
-    "first_released": "Unreleased",
-    "jp_release": "December 1992",
-    "na_release": "April 5, 1993",
     "category": "licensed"
   },
   {
@@ -7254,8 +6375,6 @@
     "title": "Nickelodeon Guts",
     "developer": "Viacom New Media",
     "publisher": "Viacom New Media",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
     "category": "licensed"
   },
   {
@@ -7263,8 +6382,6 @@
     "developer": "Gremlin Interactive",
     "publisher": "Infocom",
     "first_released": "March 19, 1993",
-    "jp_release": "July 1993",
-    "na_release": "December 16, 1993",
     "category": "licensed"
   },
   {
@@ -7272,7 +6389,6 @@
     "developer": "Tecmo",
     "publisher": "Tecmo",
     "first_released": "August 11, 1995",
-    "jp_release": "August 1995",
     "category": "licensed"
   },
   {
@@ -7280,8 +6396,6 @@
     "developer": "Natsume Co., Ltd.",
     "publisher": "Taito",
     "first_released": "January 28, 1994",
-    "jp_release": "February 1994",
-    "na_release": "April 1995",
     "category": "licensed"
   },
   {
@@ -7344,8 +6458,6 @@
     "title": "No Escape",
     "developer": "Bits Studios",
     "publisher": "Sony Imagesoft",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
     "category": "licensed"
   },
   {
@@ -7374,7 +6486,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "August 5, 1993",
-    "jp_release": "December 1993",
     "category": "licensed"
   },
   {
@@ -7382,7 +6493,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "December 21, 1991",
-    "jp_release": "October 1994",
     "category": "licensed"
   },
   {
@@ -7397,7 +6507,6 @@
     "developer": "Romstar",
     "publisher": "Romstar",
     "first_released": "July 2, 1991",
-    "jp_release": "February 28, 1992",
     "category": "licensed"
   },
   {
@@ -7412,7 +6521,6 @@
     "developer": "SETA",
     "publisher": "SETA",
     "first_released": "October 7, 1994",
-    "jp_release": "October 1995",
     "category": "licensed"
   },
   {
@@ -7426,8 +6534,6 @@
     "title": "Obitus",
     "developer": "Psygnosis",
     "publisher": "Bullet-Proof Software",
-    "first_released": "Unreleased",
-    "jp_release": "September 1994",
     "category": "licensed"
   },
   {
@@ -7463,16 +6569,12 @@
     "developer": "Quest Corporation",
     "publisher": "Enix",
     "first_released": "March 12, 1993",
-    "jp_release": "May 1995",
     "category": "licensed"
   },
   {
     "title": "Olympic Summer Games",
     "developer": "Black Pearl Software",
     "publisher": "U.S. Gold",
-    "first_released": "Unreleased",
-    "jp_release": "June 1996",
-    "na_release": "June 27, 1996",
     "category": "licensed"
   },
   {
@@ -7494,8 +6596,6 @@
     "developer": "Taito",
     "publisher": "Taito",
     "first_released": "June 26, 1992",
-    "jp_release": "November 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -7531,7 +6631,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "January 16, 1993",
-    "jp_release": "June 1994",
     "category": "licensed"
   },
   {
@@ -7539,16 +6638,12 @@
     "developer": "Jaleco",
     "publisher": "Jaleco",
     "first_released": "April 23, 1993",
-    "jp_release": "September 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
     "title": "Operation Thunderbolt",
     "developer": "Aisystem Tokyo",
     "publisher": "Taito",
-    "first_released": "Unreleased",
-    "jp_release": "October 1994",
     "category": "licensed"
   },
   {
@@ -7562,9 +6657,6 @@
     "title": "Oscar",
     "developer": "Flair Software",
     "publisher": "Titus Software",
-    "first_released": "Unreleased",
-    "jp_release": "October 1996",
-    "na_release": "December 1996",
     "category": "licensed"
   },
   {
@@ -7599,18 +6691,12 @@
     "title": "Out to Lunch",
     "developer": "Mindscape",
     "publisher": "Mindscape",
-    "first_released": "Unreleased",
-    "jp_release": "November 1993",
-    "na_release": "September 1993",
     "category": "licensed"
   },
   {
     "title": "Outlander",
     "developer": "Mindscape",
     "publisher": "Mindscape",
-    "first_released": "Unreleased",
-    "jp_release": "April 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -7625,7 +6711,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "September 24, 1992",
-    "jp_release": "September 1993",
     "category": "licensed"
   },
   {
@@ -7633,7 +6718,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "February 17, 1995",
-    "jp_release": "December 1995",
     "category": "licensed"
   },
   {
@@ -7641,8 +6725,6 @@
     "developer": "Namco",
     "publisher": "Namco",
     "first_released": "February 26, 1993",
-    "jp_release": "October 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -7650,8 +6732,6 @@
     "developer": "Kalisto Entertainment",
     "publisher": "Namco",
     "first_released": "January 3, 1995",
-    "jp_release": "January 1995",
-    "na_release": "December 1994",
     "category": "licensed"
   },
   {
@@ -7659,8 +6739,6 @@
     "developer": "Namco",
     "publisher": "Nintendo",
     "first_released": "August 26, 1994",
-    "jp_release": "September 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -7793,17 +6871,12 @@
     "title": "Packy and Marlon",
     "developer": "WaveQuest",
     "publisher": "Raya Systems",
-    "first_released": "Unreleased",
-    "jp_release": "June 1995",
     "category": "licensed"
   },
   {
     "title": "The Pagemaster",
     "developer": "Probe Entertainment",
     "publisher": "Fox Interactive",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
-    "na_release": "May 23, 1995",
     "category": "licensed"
   },
   {
@@ -7811,7 +6884,6 @@
     "developer": "Asmik Ace Entertainment",
     "publisher": "Enix",
     "first_released": "November 13, 1992",
-    "jp_release": "October 1993",
     "category": "licensed"
   },
   {
@@ -7825,9 +6897,6 @@
     "title": "Paperboy 2",
     "developer": "Eastridge Technology",
     "publisher": "Mindscape",
-    "first_released": "Unreleased",
-    "jp_release": "November 1991",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -7884,8 +6953,6 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "July 3, 1992",
-    "jp_release": "Cancelled",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -7893,7 +6960,6 @@
     "developer": "Jaleco",
     "publisher": "Jaleco",
     "first_released": "December 17, 1993",
-    "jp_release": "March 1994",
     "category": "licensed"
   },
   {
@@ -7907,18 +6973,12 @@
     "title": "PGA European Tour",
     "developer": "Electronic Arts",
     "publisher": "Black Pearl Software",
-    "first_released": "Unreleased",
-    "jp_release": "September 1996",
-    "na_release": "December 1996",
     "category": "licensed"
   },
   {
     "title": "PGA Tour 96",
     "developer": "Electronic Arts",
     "publisher": "Black Pearl Software",
-    "first_released": "Unreleased",
-    "jp_release": "January 1996",
-    "na_release": "1996",
     "category": "licensed"
   },
   {
@@ -7926,8 +6986,6 @@
     "developer": "Polygames",
     "publisher": "Imagineer",
     "first_released": "July 3, 1992",
-    "jp_release": "March 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -7935,17 +6993,12 @@
     "developer": "Kemco",
     "publisher": "Kemco",
     "first_released": "August 7, 1992",
-    "jp_release": "October 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
     "title": "Phantom 2040",
     "developer": "Viacom New Media",
     "publisher": "Viacom New Media",
-    "first_released": "Unreleased",
-    "jp_release": "June 1995",
-    "na_release": "November 1995",
     "category": "licensed"
   },
   {
@@ -8009,7 +7062,6 @@
     "developer": "Prism Kikaku",
     "publisher": "Atlus",
     "first_released": "July 22, 1994",
-    "jp_release": "December 1994",
     "category": "licensed"
   },
   {
@@ -8024,8 +7076,6 @@
     "developer": "Nintendo EAD",
     "publisher": "Nintendo",
     "first_released": "December 21, 1990",
-    "jp_release": "August 1991",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -8033,17 +7083,12 @@
     "developer": "Spidersoft",
     "publisher": "GameTek",
     "first_released": "August 5, 1994",
-    "jp_release": "April 1994",
-    "na_release": "August 25, 1994",
     "category": "licensed"
   },
   {
     "title": "Pinball Fantasies",
     "developer": "Spidersoft",
     "publisher": "GameTek",
-    "first_released": "Unreleased",
-    "jp_release": "February 1995",
-    "na_release": "February 1995",
     "category": "licensed"
   },
   {
@@ -8051,8 +7096,6 @@
     "developer": "Manley & Associates",
     "publisher": "TecMagik",
     "first_released": "April 15, 1994",
-    "jp_release": "November 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -8060,8 +7103,6 @@
     "developer": "Virgin Interactive Entertainment",
     "publisher": "Capcom",
     "first_released": "December 20, 1996",
-    "jp_release": "November 1996",
-    "na_release": "November 28, 1996",
     "category": "licensed"
   },
   {
@@ -8075,9 +7116,6 @@
     "title": "The Pirates of Dark Water",
     "developer": "Sunsoft",
     "publisher": "Sunsoft",
-    "first_released": "Unreleased",
-    "jp_release": "May 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -8085,17 +7123,12 @@
     "developer": "Redline Games",
     "publisher": "Pony Canyon",
     "first_released": "July 14, 1995",
-    "jp_release": "November 1994",
-    "na_release": "December 1994",
     "category": "licensed"
   },
   {
     "title": "Pit-Fighter",
     "developer": "Eastridge Technology",
     "publisher": "THQ",
-    "first_released": "Unreleased",
-    "jp_release": "March 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -8103,8 +7136,6 @@
     "developer": "Software Creations",
     "publisher": "Activision",
     "first_released": "December 10, 1993",
-    "jp_release": "September 1993",
-    "na_release": "December 1, 1993",
     "category": "licensed"
   },
   {
@@ -8112,8 +7143,6 @@
     "developer": "Natsume Co., Ltd.",
     "publisher": "Natsume Co., Ltd.",
     "first_released": "December 22, 1992",
-    "jp_release": "June 1993",
-    "na_release": "August 1993",
     "category": "licensed"
   },
   {
@@ -8121,8 +7150,6 @@
     "developer": "Natsume Co., Ltd.",
     "publisher": "Ocean Software",
     "first_released": "June 17, 1994",
-    "jp_release": "November 1994",
-    "na_release": "April 1995",
     "category": "licensed"
   },
   {
@@ -8144,7 +7171,6 @@
     "developer": "Konami",
     "publisher": "Palcom Software",
     "first_released": "March 26, 1993",
-    "na_release": "November 1993",
     "category": "licensed"
   },
   {
@@ -8152,8 +7178,6 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "January 7, 1994",
-    "jp_release": "Cancelled",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -8161,7 +7185,6 @@
     "developer": "Technōs Japan",
     "publisher": "Technōs Japan",
     "first_released": "August 12, 1994",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -8176,8 +7199,6 @@
     "developer": "Infinity Co., Ltd",
     "publisher": "Imagineer",
     "first_released": "December 16, 1990",
-    "jp_release": "September 1991",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -8185,25 +7206,18 @@
     "developer": "Infinity Co., Ltd",
     "publisher": "Imagineer",
     "first_released": "January 22, 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
     "title": "Porky Pig's Haunted Holiday",
     "developer": "Phoenix Interactive Entertainment",
     "publisher": "Acclaim Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "October 1995",
-    "na_release": "November 1995",
     "category": "licensed"
   },
   {
     "title": "Power Drive",
     "developer": "Rage Software",
     "publisher": "U.S. Gold",
-    "first_released": "Unreleased",
-    "jp_release": "Cancelled",
-    "na_release": "April 27, 1995",
     "category": "licensed"
   },
   {
@@ -8211,7 +7225,6 @@
     "developer": "Atlus",
     "publisher": "Atlus",
     "first_released": "October 14, 1994",
-    "jp_release": "December 1994",
     "category": "licensed"
   },
   {
@@ -8226,8 +7239,6 @@
     "developer": "System Vision",
     "publisher": "Kaneko",
     "first_released": "November 27, 1992",
-    "jp_release": "January 1993",
-    "na_release": "October 4, 1993",
     "category": "licensed"
   },
   {
@@ -8241,17 +7252,12 @@
     "title": "Power Piggs of the Dark Age",
     "developer": "Radical Entertainment",
     "publisher": "Titus Software",
-    "first_released": "Unreleased",
-    "jp_release": "May 1996",
-    "na_release": "September 29, 1997",
     "category": "licensed"
   },
   {
     "title": "Power Rangers Zeo: Battle Racers",
     "developer": "Natsume Co., Ltd.",
     "publisher": "Bandai",
-    "first_released": "Unreleased",
-    "jp_release": "September 1996",
     "category": "licensed"
   },
   {
@@ -8266,7 +7272,6 @@
     "developer": "Bullfrog Productions",
     "publisher": "Imagineer",
     "first_released": "March 26, 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -8274,17 +7279,12 @@
     "developer": "Titus Software",
     "publisher": "Kemco",
     "first_released": "June 23, 1995",
-    "jp_release": "January 1996",
-    "na_release": "June 27, 1996",
     "category": "licensed"
   },
   {
     "title": "Primal Rage",
     "developer": "Bitmasters",
     "publisher": "Time Warner Interactive",
-    "first_released": "Unreleased",
-    "jp_release": "August 1995",
-    "na_release": "November 1995",
     "category": "licensed"
   },
   {
@@ -8292,17 +7292,12 @@
     "developer": "Arsys Software",
     "publisher": "Konami",
     "first_released": "July 3, 1992",
-    "jp_release": "November 1992",
-    "na_release": "November 1, 1992",
     "category": "licensed"
   },
   {
     "title": "Prince of Persia 2: The Shadow and the Flame",
     "developer": "Titus Software",
     "publisher": "Titus Software",
-    "first_released": "Unreleased",
-    "jp_release": "October 1996",
-    "na_release": "1996",
     "category": "licensed"
   },
   {
@@ -8358,8 +7353,6 @@
     "title": "Pro Quarterback",
     "developer": "Leland Interactive Media",
     "publisher": "Tradewest",
-    "first_released": "Unreleased",
-    "jp_release": "December 1992",
     "category": "licensed"
   },
   {
@@ -8367,7 +7360,6 @@
     "developer": "Tose",
     "publisher": "Jaleco",
     "first_released": "March 19, 1993",
-    "jp_release": "February 1994",
     "category": "licensed"
   },
   {
@@ -8389,24 +7381,18 @@
     "developer": "Riot",
     "publisher": "Telenet Japan",
     "first_released": "December 11, 1992",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
     "title": "Push-Over",
     "developer": "Red Rat Software",
     "publisher": "Ocean Software",
-    "first_released": "Unreleased",
-    "jp_release": "December 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
     "title": "Putty Squad",
     "developer": "System 3",
     "publisher": "Ocean Software",
-    "first_released": "Unreleased",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -8421,25 +7407,18 @@
     "developer": "Realtime Associates",
     "publisher": "NTVIC",
     "first_released": "January 29, 1993",
-    "jp_release": "October 1992",
     "category": "licensed"
   },
   {
     "title": "Race Drivin'",
     "developer": "Imagineering",
     "publisher": "THQ",
-    "first_released": "Unreleased",
-    "jp_release": "July 1992",
-    "na_release": "October 1, 1992",
     "category": "licensed"
   },
   {
     "title": "Radical Rex",
     "developer": "Beam Software",
     "publisher": "Activision",
-    "first_released": "Unreleased",
-    "jp_release": "October 1994",
-    "na_release": "September 1994",
     "category": "licensed"
   },
   {
@@ -8447,15 +7426,12 @@
     "developer": "Seibu Kaihatsu",
     "publisher": "Toei Animation",
     "first_released": "November 29, 1991",
-    "jp_release": "April 1992",
     "category": "licensed"
   },
   {
     "title": "Rampart",
     "developer": "Bitmasters",
     "publisher": "Electronic Arts",
-    "first_released": "Unreleased",
-    "jp_release": "August 1992",
     "category": "licensed"
   },
   {
@@ -8470,7 +7446,6 @@
     "developer": "Atelier Double",
     "publisher": "Shogakukan",
     "first_released": "April 28, 1994",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -8478,8 +7453,6 @@
     "developer": "Atelier Double",
     "publisher": "Ocean Software",
     "first_released": "December 25, 1992",
-    "jp_release": "November 1993",
-    "na_release": "November 12, 1993",
     "category": "licensed"
   },
   {
@@ -8493,17 +7466,12 @@
     "title": "Rap Jam: Volume One",
     "developer": "64WD Creation",
     "publisher": "Motown Software",
-    "first_released": "Unreleased",
-    "jp_release": "January 1995",
     "category": "licensed"
   },
   {
     "title": "Realm",
     "developer": "Titus Software",
     "publisher": "Titus Software",
-    "first_released": "Unreleased",
-    "jp_release": "December 1996",
-    "na_release": "February 27, 1996",
     "category": "licensed"
   },
   {
@@ -8511,8 +7479,6 @@
     "developer": "Genki",
     "publisher": "Absolute Entertainment",
     "first_released": "July 17, 1992",
-    "jp_release": "September 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -8526,43 +7492,30 @@
     "title": "Relief Pitcher",
     "developer": "Eastridge Technology",
     "publisher": "Left Field Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "May 1994",
     "category": "licensed"
   },
   {
     "title": "The Ren & Stimpy Show: Buckeroo$!",
     "developer": "Imagineering",
     "publisher": "THQ",
-    "first_released": "Unreleased",
-    "jp_release": "April 1995",
     "category": "licensed"
   },
   {
     "title": "The Ren & Stimpy Show: Fire Dogs",
     "developer": "Argonaut Software",
     "publisher": "THQ",
-    "first_released": "Unreleased",
-    "jp_release": "June 1994",
-    "na_release": "February 1995",
     "category": "licensed"
   },
   {
     "title": "The Ren & Stimpy Show: Time Warp",
     "developer": "Sculptured Software",
     "publisher": "THQ",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
     "title": "The Ren & Stimpy Show: Veediots!",
     "developer": "Gray Matter",
     "publisher": "THQ",
-    "first_released": "Unreleased",
-    "jp_release": "October 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -8570,7 +7523,6 @@
     "developer": "Rainbow Arts",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "November 17, 1995",
-    "na_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -8585,16 +7537,12 @@
     "developer": "Rage Software",
     "publisher": "Acclaim Entertainment",
     "first_released": "March 1, 1996",
-    "jp_release": "December 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
     "title": "Rex Ronan: Experimental Surgeon",
     "developer": "Sculptured Software",
     "publisher": "Raya Systems",
-    "first_released": "Unreleased",
-    "jp_release": "May 1994",
     "category": "licensed"
   },
   {
@@ -8602,7 +7550,6 @@
     "developer": "Malibu Interactive",
     "publisher": "Micronet (JP)Extreme Entertainment Group (NA)",
     "first_released": "November 23, 1993",
-    "jp_release": "January 1994",
     "category": "licensed"
   },
   {
@@ -8617,7 +7564,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "April 6, 1994",
-    "jp_release": "February 1995",
     "category": "licensed"
   },
   {
@@ -8625,8 +7571,6 @@
     "developer": "Data Design Interactive",
     "publisher": "T&E Soft",
     "first_released": "December 22, 1994",
-    "jp_release": "December 1994",
-    "na_release": "January 1995",
     "category": "licensed"
   },
   {
@@ -8634,17 +7578,12 @@
     "developer": "Jaleco",
     "publisher": "Jaleco",
     "first_released": "March 27, 1992",
-    "jp_release": "December 1992",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
     "title": "Road Riot 4WD",
     "developer": "Equilibrium",
     "publisher": "THQ",
-    "first_released": "Unreleased",
-    "jp_release": "November 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -8652,26 +7591,18 @@
     "developer": "ICOM Simulations",
     "publisher": "Sunsoft",
     "first_released": "December 22, 1992",
-    "jp_release": "November 1992",
-    "na_release": "September 30, 1993",
     "category": "licensed"
   },
   {
     "title": "RoboCop 3",
     "developer": "Ocean Software",
     "publisher": "Ocean Software",
-    "first_released": "Unreleased",
-    "jp_release": "September 1992",
-    "na_release": "November 1992",
     "category": "licensed"
   },
   {
     "title": "RoboCop Versus The Terminator",
     "developer": "Interplay Entertainment",
     "publisher": "Virgin Interactive Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "November 1993",
-    "na_release": "August 24, 1993",
     "category": "licensed"
   },
   {
@@ -8679,7 +7610,6 @@
     "developer": "Quintet",
     "publisher": "Enix",
     "first_released": "July 8, 1994",
-    "jp_release": "October 1994",
     "category": "licensed"
   },
   {
@@ -8687,8 +7617,6 @@
     "developer": "Silicon & Synapse",
     "publisher": "Namco",
     "first_released": "January 3, 1994",
-    "jp_release": "June 1993",
-    "na_release": "March 31, 1994",
     "category": "licensed"
   },
   {
@@ -8696,15 +7624,12 @@
     "developer": "NovaLogic",
     "publisher": "IGS",
     "first_released": "February 28, 1992",
-    "jp_release": "May 1992",
     "category": "licensed"
   },
   {
     "title": "Rocko's Modern Life: Spunky's Dangerous Day",
     "developer": "Viacom New Media",
     "publisher": "Viacom New Media",
-    "first_released": "Unreleased",
-    "jp_release": "April 1994",
     "category": "licensed"
   },
   {
@@ -8712,7 +7637,6 @@
     "developer": "Irem",
     "publisher": "Irem",
     "first_released": "July 30, 1993",
-    "jp_release": "September 1993",
     "category": "licensed"
   },
   {
@@ -8720,7 +7644,6 @@
     "developer": "Sculptured Software",
     "publisher": "Acclaim Entertainment",
     "first_released": "August 27, 1993",
-    "jp_release": "September 12, 1992",
     "category": "licensed"
   },
   {
@@ -8735,7 +7658,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "September 15, 1991",
-    "jp_release": "May 1992",
     "category": "licensed"
   },
   {
@@ -8743,7 +7665,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "November 8, 1992",
-    "jp_release": "December 1993",
     "category": "licensed"
   },
   {
@@ -8751,7 +7672,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "December 9, 1994",
-    "jp_release": "July 1995",
     "category": "licensed"
   },
   {
@@ -8780,7 +7700,6 @@
     "developer": "Silicon & Synapse",
     "publisher": "Victor Interactive Software",
     "first_released": "March 19, 1992",
-    "jp_release": "November 1991",
     "category": "licensed"
   },
   {
@@ -8788,8 +7707,6 @@
     "developer": "Tamtex",
     "publisher": "Irem",
     "first_released": "December 10, 1993",
-    "jp_release": "October 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -8810,9 +7727,6 @@
     "title": "Run Saber",
     "developer": "Hori Electric",
     "publisher": "Atlus",
-    "first_released": "Unreleased",
-    "jp_release": "June 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -8855,7 +7769,6 @@
     "developer": "Angel",
     "publisher": "Bandai",
     "first_released": "August 27, 1993",
-    "na_release": "November 1994",
     "category": "licensed"
   },
   {
@@ -8877,8 +7790,6 @@
     "developer": "Takara",
     "publisher": "Takara",
     "first_released": "September 22, 1994",
-    "jp_release": "November 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -8928,16 +7839,12 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "March 30, 1994",
-    "jp_release": "June 1994",
-    "na_release": "September 1994",
     "category": "licensed"
   },
   {
     "title": "Scooby-Doo Mystery",
     "developer": "Argonaut Software",
     "publisher": "Acclaim Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "November 1995",
     "category": "licensed"
   },
   {
@@ -9036,7 +7943,6 @@
     "developer": "",
     "publisher": "Culture Brain",
     "first_released": "June 17, 1994",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -9058,7 +7964,6 @@
     "developer": "Banpresto",
     "publisher": "Banpresto",
     "first_released": "December 29, 1990",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -9079,18 +7984,12 @@
     "title": "SeaQuest DSV",
     "developer": "Sculptured Software",
     "publisher": "Malibu Games",
-    "first_released": "Unreleased",
-    "jp_release": "January 1995",
-    "na_release": "July 27, 1995",
     "category": "licensed"
   },
   {
     "title": "Secret of Evermore",
     "developer": "Square",
     "publisher": "Nintendo",
-    "first_released": "Unreleased",
-    "jp_release": "October 1995",
-    "na_release": "February 22, 1996",
     "category": "licensed"
   },
   {
@@ -9098,8 +7997,6 @@
     "developer": "Square",
     "publisher": "Nintendo",
     "first_released": "August 6, 1993",
-    "jp_release": "October 1993",
-    "na_release": "November 25, 1994",
     "category": "licensed"
   },
   {
@@ -9107,7 +8004,6 @@
     "developer": "Tecmo",
     "publisher": "Tecmo",
     "first_released": "November 5, 1993",
-    "jp_release": "July 1995",
     "category": "licensed"
   },
   {
@@ -9129,7 +8025,6 @@
     "developer": "Square",
     "publisher": "Square",
     "first_released": "September 30, 1995",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -9137,7 +8032,6 @@
     "developer": "",
     "publisher": "Data East",
     "first_released": "September 22, 1993",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -9151,9 +8045,6 @@
     "title": "Sensible Soccer: European Champions",
     "developer": "Sensible Software",
     "publisher": "Sony Imagesoft",
-    "first_released": "Unreleased",
-    "jp_release": "June 1994",
-    "na_release": "February 1994",
     "category": "licensed"
   },
   {
@@ -9168,8 +8059,6 @@
     "developer": "Beam Software",
     "publisher": "Data East",
     "first_released": "March 25, 1994",
-    "jp_release": "May 1993",
-    "na_release": "August 1993",
     "category": "licensed"
   },
   {
@@ -9184,8 +8073,6 @@
     "developer": "Hot-B",
     "publisher": "Activision",
     "first_released": "January 24, 1992",
-    "jp_release": "February 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -9199,9 +8086,6 @@
     "title": "Shaq Fu",
     "developer": "Delphine Software International",
     "publisher": "Electronic Arts",
-    "first_released": "Unreleased",
-    "jp_release": "October 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -9209,7 +8093,6 @@
     "developer": "Almanic",
     "publisher": "Dynamic Planning",
     "first_released": "April 8, 1994",
-    "jp_release": "October 1994",
     "category": "licensed"
   },
   {
@@ -9385,7 +8268,6 @@
     "developer": "Vic Tokai",
     "publisher": "Vic Tokai",
     "first_released": "June 18, 1993",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -9512,8 +8394,6 @@
     "developer": "Iguana Entertainment",
     "publisher": "Data East",
     "first_released": "March 18, 1994",
-    "jp_release": "December 1993",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -9528,7 +8408,6 @@
     "developer": "Tomcat System",
     "publisher": "Imagineer",
     "first_released": "February 26, 1993",
-    "jp_release": "October 1993",
     "category": "licensed"
   },
   {
@@ -9536,8 +8415,6 @@
     "developer": "Nintendo EAD",
     "publisher": "Nintendo",
     "first_released": "April 26, 1991",
-    "jp_release": "August 1991",
-    "na_release": "September 24, 1992",
     "category": "licensed"
   },
   {
@@ -9545,8 +8422,6 @@
     "developer": "HAL Laboratory",
     "publisher": "Imagineer",
     "first_released": "May 26, 1995",
-    "jp_release": "November 1996",
-    "na_release": "December 19, 1996",
     "category": "licensed"
   },
   {
@@ -9561,7 +8436,6 @@
     "developer": "Tomcat System",
     "publisher": "Imagineer",
     "first_released": "December 29, 1991",
-    "jp_release": "February 1993",
     "category": "licensed"
   },
   {
@@ -9569,8 +8443,6 @@
     "developer": "Sculptured Software",
     "publisher": "Acclaim Entertainment",
     "first_released": "February 26, 1993",
-    "jp_release": "October 1992",
-    "na_release": "February 18, 1993",
     "category": "licensed"
   },
   {
@@ -9584,17 +8456,12 @@
     "title": "Sink or Swim",
     "developer": "Zeppelin Games",
     "publisher": "Titus Software",
-    "first_released": "Unreleased",
-    "jp_release": "November 1996",
-    "na_release": "December 31, 1994",
     "category": "licensed"
   },
   {
     "title": "Sküljagger: Revolt of the Westicans",
     "developer": "Realtime Associates",
     "publisher": "American Softworks",
-    "first_released": "Unreleased",
-    "jp_release": "October 1992",
     "category": "licensed"
   },
   {
@@ -9602,8 +8469,6 @@
     "developer": "Ukiyotei",
     "publisher": "Epic/Sony Records",
     "first_released": "February 18, 1994",
-    "jp_release": "January 1994",
-    "na_release": "March 25, 1994",
     "category": "licensed"
   },
   {
@@ -9618,7 +8483,6 @@
     "developer": "Game Freak",
     "publisher": "Epic/Sony Records",
     "first_released": "September 13, 1991",
-    "jp_release": "March 1992",
     "category": "licensed"
   },
   {
@@ -9626,23 +8490,18 @@
     "developer": "Namco",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "June 25, 1993",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
     "title": "The Smurfs",
     "developer": "Infogrames",
     "publisher": "Infogrames",
-    "first_released": "Unreleased",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
     "title": "The Smurfs Travel The World",
     "developer": "Infogrames",
     "publisher": "Infogrames",
-    "first_released": "Unreleased",
-    "na_release": "1996",
     "category": "licensed"
   },
   {
@@ -9656,8 +8515,6 @@
     "title": "Snow White: Happily Ever After",
     "developer": "Imagitec Design",
     "publisher": "American Softworks",
-    "first_released": "Unreleased",
-    "jp_release": "October 1994",
     "category": "licensed"
   },
   {
@@ -9665,8 +8522,6 @@
     "developer": "Krisalis Software",
     "publisher": "Ocean Software",
     "first_released": "December 28, 1993",
-    "jp_release": "August 1994",
-    "na_release": "June 1994",
     "category": "licensed"
   },
   {
@@ -9688,8 +8543,6 @@
     "developer": "I.T.LZuntata",
     "publisher": "Taito",
     "first_released": "September 25, 1992",
-    "jp_release": "February 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -9697,7 +8550,6 @@
     "developer": "Taito",
     "publisher": "Taito",
     "first_released": "March 18, 1994",
-    "jp_release": "November 1994",
     "category": "licensed"
   },
   {
@@ -9712,7 +8564,6 @@
     "developer": "Human Entertainment",
     "publisher": "Vic Tokai",
     "first_released": "May 28, 1993",
-    "jp_release": "April 1994",
     "category": "licensed"
   },
   {
@@ -9762,8 +8613,6 @@
     "developer": "Quintet",
     "publisher": "Enix",
     "first_released": "January 31, 1992",
-    "jp_release": "August 1992",
-    "na_release": "January 27, 1994",
     "category": "licensed"
   },
   {
@@ -9778,8 +8627,6 @@
     "developer": "Oxford Digital Enterprises",
     "publisher": "Imagineer",
     "first_released": "March 25, 1994",
-    "jp_release": "May 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -9787,7 +8634,6 @@
     "developer": "Bits Studios",
     "publisher": "Triffix",
     "first_released": "November 6, 1992",
-    "jp_release": "June 1992",
     "category": "licensed"
   },
   {
@@ -9795,8 +8641,6 @@
     "developer": "Taito",
     "publisher": "Nintendo",
     "first_released": "March 25, 1994",
-    "jp_release": "November 1997",
-    "na_release": "1997",
     "category": "licensed"
   },
   {
@@ -9804,8 +8648,6 @@
     "developer": "Compile",
     "publisher": "Toho",
     "first_released": "April 28, 1992",
-    "jp_release": "October 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -9813,8 +8655,6 @@
     "developer": "Natsume Co., Ltd.",
     "publisher": "Natsume Co., Ltd.",
     "first_released": "December 27, 1991",
-    "jp_release": "July 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -9829,61 +8669,42 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "September 15, 1994",
-    "jp_release": "October 1, 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
     "title": "Spectre",
     "developer": "Synergistic Software",
     "publisher": "Cybersoft",
-    "first_released": "Unreleased",
-    "jp_release": "May 1994",
-    "na_release": "July 1994",
     "category": "licensed"
   },
   {
     "title": "Speed Racer in My Most Dangerous Adventures",
     "developer": "Radical Entertainment",
     "publisher": "Accolade",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
     "category": "licensed"
   },
   {
     "title": "Speedy Gonzales: Los Gatos Bandidos",
     "developer": "Sunsoft",
     "publisher": "Acclaim Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "August 1995",
-    "na_release": "Cancelled",
     "category": "licensed"
   },
   {
     "title": "Spider-Man",
     "developer": "Western Technologies",
     "publisher": "LJN",
-    "first_released": "Unreleased",
-    "jp_release": "February 1995",
-    "na_release": "March 1995",
     "category": "licensed"
   },
   {
     "title": "Spider-Man and Venom: Maximum Carnage",
     "developer": "Software Creations",
     "publisher": "LJN",
-    "first_released": "Unreleased",
-    "jp_release": "September 16, 1994",
-    "na_release": "November 24, 1994",
     "category": "licensed"
   },
   {
     "title": "Spider-Man and the X-Men in Arcade's Revenge",
     "developer": "Software Creations",
     "publisher": "LJN",
-    "first_released": "Unreleased",
-    "jp_release": "November 1, 1992",
-    "na_release": "August 19, 1993",
     "category": "licensed"
   },
   {
@@ -9891,33 +8712,24 @@
     "developer": "ASCII Entertainment",
     "publisher": "Activision",
     "first_released": "August 7, 1992",
-    "jp_release": "March 1993",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
     "title": "Spirou",
     "developer": "Infogrames",
     "publisher": "Infogrames",
-    "first_released": "Unreleased",
-    "na_release": "September 29, 1995",
     "category": "licensed"
   },
   {
     "title": "The Sporting News: Power Baseball",
     "developer": "Now Production",
     "publisher": "Hudson Soft",
-    "first_released": "Unreleased",
-    "jp_release": "June 1995",
     "category": "licensed"
   },
   {
     "title": "Sports Illustrated: Championship Football & Baseball",
     "developer": "Malibu Games",
     "publisher": "Malibu Games",
-    "first_released": "Unreleased",
-    "jp_release": "February 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -9946,8 +8758,6 @@
     "developer": "Nintendo EAD",
     "publisher": "Nintendo",
     "first_released": "February 21, 1993",
-    "jp_release": "March 23, 1993",
-    "na_release": "June 3, 1993",
     "category": "licensed"
   },
   {
@@ -9961,18 +8771,12 @@
     "title": "Star Trek: Deep Space Nine – Crossroads of Time",
     "developer": "Novotrade",
     "publisher": "Playmates Interactive",
-    "first_released": "Unreleased",
-    "jp_release": "September 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
     "title": "Star Trek: Starfleet Academy - Starship Bridge Simulator",
     "developer": "Interplay Entertainment",
     "publisher": "Interplay Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "December 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -9980,8 +8784,6 @@
     "developer": "Spectrum HoloByte",
     "publisher": "Spectrum HoloByte",
     "first_released": "November 17, 1994",
-    "jp_release": "March 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -9996,8 +8798,6 @@
     "developer": "Tantalus Interactive",
     "publisher": "Acclaim Entertainment",
     "first_released": "May 26, 1995",
-    "jp_release": "April 1995",
-    "na_release": "June 29, 1995",
     "category": "licensed"
   },
   {
@@ -10011,16 +8811,12 @@
     "title": "Steel Talons",
     "developer": "Panoramic",
     "publisher": "Left Field Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "November 1993",
     "category": "licensed"
   },
   {
     "title": "Sterling Sharpe: End 2 End",
     "developer": "Tose",
     "publisher": "Jaleco",
-    "first_released": "Unreleased",
-    "jp_release": "March 1995",
     "category": "licensed"
   },
   {
@@ -10028,7 +8824,6 @@
     "developer": "Eurocom Entertainment Software",
     "publisher": "Kemco",
     "first_released": "April 28, 1995",
-    "jp_release": "November 1994",
     "category": "licensed"
   },
   {
@@ -10036,7 +8831,6 @@
     "developer": "NCS CorpOpusWinds",
     "publisher": "Irem",
     "first_released": "March 27, 1992",
-    "jp_release": "April 1993",
     "category": "licensed"
   },
   {
@@ -10044,8 +8838,6 @@
     "developer": "Capcom",
     "publisher": "Nintendo",
     "first_released": "December 20, 1996",
-    "jp_release": "October 28, 1996",
-    "na_release": "December 19, 1996",
     "category": "licensed"
   },
   {
@@ -10053,8 +8845,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "June 10, 1992",
-    "jp_release": "July 15, 1992",
-    "na_release": "October 5, 1992",
     "category": "licensed"
   },
   {
@@ -10062,16 +8852,12 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "July 10, 1993",
-    "jp_release": "August 1993",
-    "na_release": "October 1993",
     "category": "licensed"
   },
   {
     "title": "Street Hockey '95",
     "developer": "GTE Interactive Media",
     "publisher": "GTE Interactive Media",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
     "category": "licensed"
   },
   {
@@ -10079,8 +8865,6 @@
     "developer": "Vivid Image",
     "publisher": "Ubisoft",
     "first_released": "December 2, 1994",
-    "jp_release": "December 1994",
-    "na_release": "December 8, 1994",
     "category": "licensed"
   },
   {
@@ -10088,8 +8872,6 @@
     "developer": "Athena",
     "publisher": "NTVIC",
     "first_released": "March 27, 1992",
-    "jp_release": "October 1992",
-    "na_release": "November 1992",
     "category": "licensed"
   },
   {
@@ -10097,8 +8879,6 @@
     "developer": "Rage Software",
     "publisher": "Atlus",
     "first_released": "July 16, 1993",
-    "jp_release": "December 1993",
-    "na_release": "October 1993",
     "category": "licensed"
   },
   {
@@ -10106,8 +8886,6 @@
     "developer": "Nintendo EAD",
     "publisher": "Nintendo",
     "first_released": "June 4, 1994",
-    "jp_release": "July 1994",
-    "na_release": "October 27, 1994",
     "category": "licensed"
   },
   {
@@ -10142,9 +8920,6 @@
     "title": "Sunset Riders",
     "developer": "Konami",
     "publisher": "Palcom Software",
-    "first_released": "Unreleased",
-    "jp_release": "October 1993",
-    "na_release": "October 1993",
     "category": "licensed"
   },
   {
@@ -10166,8 +8941,6 @@
     "developer": "Produce",
     "publisher": "Hudson Soft",
     "first_released": "January 11, 1992",
-    "jp_release": "April 1992",
-    "na_release": "November 19, 1992",
     "category": "licensed"
   },
   {
@@ -10175,8 +8948,6 @@
     "developer": "Make",
     "publisher": "Hudson Soft",
     "first_released": "January 3, 1995",
-    "jp_release": "October 1994",
-    "na_release": "March 1995",
     "category": "licensed"
   },
   {
@@ -10190,9 +8961,6 @@
     "title": "The Super Aquatic Games Starring the Aquabats",
     "developer": "Vectordean",
     "publisher": "Sales Curve Interactive",
-    "first_released": "Unreleased",
-    "jp_release": "October 1993",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -10214,7 +8982,6 @@
     "developer": "Monolith Corporation",
     "publisher": "Tradewest",
     "first_released": "March 12, 1993",
-    "jp_release": "July 1993",
     "category": "licensed"
   },
   {
@@ -10222,7 +8989,6 @@
     "developer": "Culture Brain",
     "publisher": "Culture Brain",
     "first_released": "July 12, 1991",
-    "jp_release": "December 1991",
     "category": "licensed"
   },
   {
@@ -10230,7 +8996,6 @@
     "developer": "Tose",
     "publisher": "Jaleco",
     "first_released": "May 17, 1991",
-    "jp_release": "September 1991",
     "category": "licensed"
   },
   {
@@ -10238,7 +9003,6 @@
     "developer": "Tose",
     "publisher": "Jaleco",
     "first_released": "October 1, 1993",
-    "jp_release": "February 1994",
     "category": "licensed"
   },
   {
@@ -10246,7 +9010,6 @@
     "developer": "Tose",
     "publisher": "Jaleco",
     "first_released": "December 23, 1994",
-    "jp_release": "February 1995",
     "category": "licensed"
   },
   {
@@ -10254,16 +9017,12 @@
     "developer": "Namco",
     "publisher": "Namco",
     "first_released": "March 27, 1992",
-    "jp_release": "October 1992",
     "category": "licensed"
   },
   {
     "title": "Super Battleship",
     "developer": "World Builders Synergistic",
     "publisher": "Mindscape",
-    "first_released": "Unreleased",
-    "jp_release": "November 1993",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -10271,8 +9030,6 @@
     "developer": "Absolute Entertainment",
     "publisher": "Absolute Entertainment",
     "first_released": "May 27, 1994",
-    "jp_release": "January 1994",
-    "na_release": "August 8, 1994",
     "category": "licensed"
   },
   {
@@ -10294,7 +9051,6 @@
     "developer": "Starfish",
     "publisher": "Hot-B",
     "first_released": "December 4, 1992",
-    "jp_release": "May 1993",
     "category": "licensed"
   },
   {
@@ -10316,8 +9072,6 @@
     "developer": "Produce",
     "publisher": "Hudson Soft",
     "first_released": "April 28, 1993",
-    "jp_release": "September 1993",
-    "na_release": "November 20, 1993",
     "category": "licensed"
   },
   {
@@ -10325,8 +9079,6 @@
     "developer": "Produce",
     "publisher": "Hudson Soft",
     "first_released": "April 28, 1994",
-    "jp_release": "September 1994",
-    "na_release": "February 23, 1995",
     "category": "licensed"
   },
   {
@@ -10334,7 +9086,6 @@
     "developer": "Hudson Soft",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "April 28, 1995",
-    "na_release": "October 15, 1995",
     "category": "licensed"
   },
   {
@@ -10363,8 +9114,6 @@
     "developer": "A.I. Company Ltd.",
     "publisher": "Hudson Soft",
     "first_released": "July 22, 1994",
-    "jp_release": "November 1994",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -10372,7 +9121,6 @@
     "developer": "KID",
     "publisher": "Athena",
     "first_released": "July 3, 1992",
-    "jp_release": "September 1992",
     "category": "licensed"
   },
   {
@@ -10380,8 +9128,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "August 7, 1992",
-    "jp_release": "October 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -10389,7 +9135,6 @@
     "developer": "Illusion Softworks",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "October 21, 1993",
-    "jp_release": "August 1993",
     "category": "licensed"
   },
   {
@@ -10411,8 +9156,6 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "October 31, 1991",
-    "jp_release": "December 1991",
-    "na_release": "August 27, 1992",
     "category": "licensed"
   },
   {
@@ -10420,8 +9163,6 @@
     "developer": "Taito",
     "publisher": "Taito",
     "first_released": "November 26, 1993",
-    "jp_release": "December 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -10449,17 +9190,12 @@
     "title": "Super Conflict",
     "developer": "Manley & Associates",
     "publisher": "Vic Tokai",
-    "first_released": "Unreleased",
-    "jp_release": "March 1993",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
     "title": "Super Dany",
     "developer": "Cryo Interactive",
     "publisher": "Virgin Interactive Entertainment",
-    "first_released": "Unreleased",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -10467,8 +9203,6 @@
     "developer": "Technōs Japan",
     "publisher": "Tradewest",
     "first_released": "October 16, 1992",
-    "jp_release": "October 1992",
-    "na_release": "September 30, 1993",
     "category": "licensed"
   },
   {
@@ -10490,7 +9224,6 @@
     "developer": "Dragnet",
     "publisher": "Visco Corporation",
     "first_released": "February 24, 1995",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -10505,7 +9238,6 @@
     "developer": "C-Lab",
     "publisher": "Sammy Corporation",
     "first_released": "April 28, 1993",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -10716,8 +9448,6 @@
     "developer": "Capcom",
     "publisher": "Nintendo",
     "first_released": "October 4, 1991",
-    "jp_release": "November 1991",
-    "na_release": "December 10, 1992",
     "category": "licensed"
   },
   {
@@ -10725,7 +9455,6 @@
     "developer": "Tose",
     "publisher": "Jaleco",
     "first_released": "November 26, 1993",
-    "jp_release": "April 1994",
     "category": "licensed"
   },
   {
@@ -10733,7 +9462,6 @@
     "developer": "Advance Communication Company",
     "publisher": "Toho",
     "first_released": "December 23, 1993",
-    "jp_release": "July 1994",
     "category": "licensed"
   },
   {
@@ -10783,7 +9511,6 @@
     "developer": "Iguana Entertainment",
     "publisher": "Acclaim Entertainment",
     "first_released": "July 9, 1993",
-    "jp_release": "June 1993",
     "category": "licensed"
   },
   {
@@ -10798,7 +9525,6 @@
     "developer": "Opera House",
     "publisher": "Sunsoft",
     "first_released": "March 25, 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -10819,8 +9545,6 @@
     "title": "Super International Cricket",
     "developer": "Beam Software",
     "publisher": "Nintendo",
-    "first_released": "Unreleased",
-    "na_release": "July 1995",
     "category": "licensed"
   },
   {
@@ -10828,8 +9552,6 @@
     "developer": "Vectordean",
     "publisher": "Victor Interactive Software",
     "first_released": "July 23, 1993",
-    "jp_release": "July 1993",
-    "na_release": "September 1993",
     "category": "licensed"
   },
   {
@@ -10928,8 +9650,6 @@
     "developer": "Graffiti",
     "publisher": "Imagineer",
     "first_released": "March 4, 1994",
-    "jp_release": "Cancelled",
-    "na_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -10972,17 +9692,12 @@
     "developer": "Nintendo EAD",
     "publisher": "Nintendo",
     "first_released": "July 14, 1993",
-    "jp_release": "August 1993",
-    "na_release": "December 16, 1993",
     "category": "licensed"
   },
   {
     "title": "Super Mario All-Stars + Super Mario World",
     "developer": "Nintendo EAD",
     "publisher": "Nintendo",
-    "first_released": "Unreleased",
-    "jp_release": "December 1994",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -10990,8 +9705,6 @@
     "developer": "Nintendo EAD",
     "publisher": "Nintendo",
     "first_released": "August 27, 1992",
-    "jp_release": "September 1992",
-    "na_release": "January 21, 1993",
     "category": "licensed"
   },
   {
@@ -10999,7 +9712,6 @@
     "developer": "Square",
     "publisher": "Nintendo",
     "first_released": "March 9, 1996",
-    "jp_release": "May 1996",
     "category": "licensed"
   },
   {
@@ -11007,8 +9719,6 @@
     "developer": "Nintendo EAD",
     "publisher": "Nintendo",
     "first_released": "November 21, 1990",
-    "jp_release": "August 23, 1991",
-    "na_release": "April 11, 1992",
     "category": "licensed"
   },
   {
@@ -11016,8 +9726,6 @@
     "developer": "Nintendo EAD",
     "publisher": "Nintendo",
     "first_released": "August 5, 1995",
-    "jp_release": "October 1995",
-    "na_release": "October 5, 1995",
     "category": "licensed"
   },
   {
@@ -11025,8 +9733,6 @@
     "developer": "Nintendo R&D1",
     "publisher": "Nintendo",
     "first_released": "March 19, 1994",
-    "jp_release": "April 1994",
-    "na_release": "July 28, 1994",
     "category": "licensed"
   },
   {
@@ -11054,8 +9760,6 @@
     "title": "Super Morph",
     "developer": "Millennium Interactive",
     "publisher": "Sony Imagesoft",
-    "first_released": "Unreleased",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -11112,7 +9816,6 @@
     "developer": "Culture Brain",
     "publisher": "Culture Brain",
     "first_released": "December 28, 1991",
-    "jp_release": "April 1993",
     "category": "licensed"
   },
   {
@@ -11120,7 +9823,6 @@
     "developer": "",
     "publisher": "Jaleco",
     "first_released": "August 5, 1994",
-    "na_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -11128,7 +9830,6 @@
     "developer": "Taito",
     "publisher": "Taito",
     "first_released": "September 24, 1993",
-    "jp_release": "December 1993",
     "category": "licensed"
   },
   {
@@ -11136,8 +9837,6 @@
     "developer": "Software Creations",
     "publisher": "Pack-In-Video",
     "first_released": "July 3, 1992",
-    "jp_release": "December 1991",
-    "na_release": "June 24, 1993",
     "category": "licensed"
   },
   {
@@ -11145,7 +9844,6 @@
     "developer": "Software Creations",
     "publisher": "Nichibutsu",
     "first_released": "June 17, 1994",
-    "jp_release": "July 1993",
     "category": "licensed"
   },
   {
@@ -11188,8 +9886,6 @@
     "developer": "KAZe",
     "publisher": "Meldac",
     "first_released": "January 8, 1994",
-    "jp_release": "May 1994",
-    "na_release": "August 8, 1994",
     "category": "licensed"
   },
   {
@@ -11203,8 +9899,6 @@
     "title": "Super Play Action Football",
     "developer": "Tose",
     "publisher": "Nintendo",
-    "first_released": "Unreleased",
-    "jp_release": "August 1992",
     "category": "licensed"
   },
   {
@@ -11247,8 +9941,6 @@
     "developer": "Nintendo R&D3",
     "publisher": "Nintendo",
     "first_released": "March 1, 1998",
-    "jp_release": "October 24, 1994",
-    "na_release": "February 10, 1995",
     "category": "licensed"
   },
   {
@@ -11256,8 +9948,6 @@
     "developer": "System 3",
     "publisher": "Varie",
     "first_released": "July 30, 1993",
-    "jp_release": "November 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -11278,8 +9968,6 @@
     "title": "Super R.B.I. Baseball",
     "developer": "Gray Matter",
     "publisher": "Time Warner Interactive",
-    "first_released": "Unreleased",
-    "jp_release": "June 1995",
     "category": "licensed"
   },
   {
@@ -11287,8 +9975,6 @@
     "developer": "Irem",
     "publisher": "Nintendo",
     "first_released": "July 13, 1991",
-    "jp_release": "September 1, 1991",
-    "na_release": "June 4, 1992",
     "category": "licensed"
   },
   {
@@ -11338,8 +10024,6 @@
     "developer": "Nintendo R&D1",
     "publisher": "Nintendo",
     "first_released": "June 21, 1993",
-    "jp_release": "February 1992",
-    "na_release": "August 26, 1992",
     "category": "licensed"
   },
   {
@@ -11368,7 +10052,6 @@
     "developer": "Virgin Interactive Entertainment",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "July 16, 1993",
-    "jp_release": "July 1993",
     "category": "licensed"
   },
   {
@@ -11376,7 +10059,6 @@
     "developer": "Ringler Studios",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "May 28, 1993",
-    "jp_release": "August 1993",
     "category": "licensed"
   },
   {
@@ -11384,8 +10066,6 @@
     "developer": "Beam Software",
     "publisher": "ASCII Entertainment",
     "first_released": "March 27, 1992",
-    "jp_release": "February 1992",
-    "na_release": "February 18, 1993",
     "category": "licensed"
   },
   {
@@ -11393,8 +10073,6 @@
     "developer": "Human Entertainment",
     "publisher": "Nintendo",
     "first_released": "December 13, 1991",
-    "jp_release": "May 1992",
-    "na_release": "April 11, 1992",
     "category": "licensed"
   },
   {
@@ -11402,8 +10080,6 @@
     "developer": "Taito",
     "publisher": "Taito",
     "first_released": "March 27, 1992",
-    "jp_release": "June 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -11411,7 +10087,6 @@
     "developer": "Beam Software",
     "publisher": "Pack-In-Video",
     "first_released": "July 23, 1995",
-    "jp_release": "January 1994",
     "category": "licensed"
   },
   {
@@ -11426,8 +10101,6 @@
     "developer": "LucasArts",
     "publisher": "JVC Musical Industries",
     "first_released": "December 18, 1992",
-    "jp_release": "November 1, 1992",
-    "na_release": "April 2, 1993",
     "category": "licensed"
   },
   {
@@ -11435,8 +10108,6 @@
     "developer": "LucasArts",
     "publisher": "JVC Musical Industries",
     "first_released": "December 17, 1993",
-    "jp_release": "October 1993",
-    "na_release": "February 24, 1994",
     "category": "licensed"
   },
   {
@@ -11444,8 +10115,6 @@
     "developer": "LucasArts",
     "publisher": "JVC Musical Industries",
     "first_released": "June 23, 1995",
-    "jp_release": "October 1994",
-    "na_release": "March 30, 1995",
     "category": "licensed"
   },
   {
@@ -11453,8 +10122,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "June 25, 1994",
-    "jp_release": "July 1994",
-    "na_release": "September 1994",
     "category": "licensed"
   },
   {
@@ -11462,8 +10129,6 @@
     "developer": "MicroProse",
     "publisher": "MicroProse",
     "first_released": "November 26, 1993",
-    "jp_release": "March 1993",
-    "na_release": "November 25, 1993",
     "category": "licensed"
   },
   {
@@ -11471,8 +10136,6 @@
     "developer": "Sales Curve Interactive",
     "publisher": "Sunsoft",
     "first_released": "November 13, 1992",
-    "jp_release": "November 1992",
-    "na_release": "August 1993",
     "category": "licensed"
   },
   {
@@ -11487,8 +10150,6 @@
     "developer": "Tose",
     "publisher": "Tonkin House",
     "first_released": "August 30, 1991",
-    "jp_release": "November 1991",
-    "na_release": "April 11, 1992",
     "category": "licensed"
   },
   {
@@ -11517,8 +10178,6 @@
     "developer": "Millennium Interactive",
     "publisher": "Kemco",
     "first_released": "March 25, 1994",
-    "jp_release": "February 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -11547,17 +10206,12 @@
     "developer": "Factor 5",
     "publisher": "Tonkin House",
     "first_released": "September 3, 1993",
-    "jp_release": "May 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
     "title": "Super Turrican 2",
     "developer": "Factor 5",
     "publisher": "Ocean Software",
-    "first_released": "Unreleased",
-    "jp_release": "November 1995",
-    "na_release": "May 1995",
     "category": "licensed"
   },
   {
@@ -11565,7 +10219,6 @@
     "developer": "",
     "publisher": "Culture Brain",
     "first_released": "July 28, 1994",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -11587,7 +10240,6 @@
     "developer": "Telenet Japan",
     "publisher": "Atlus",
     "first_released": "March 27, 1992",
-    "jp_release": "February 1993",
     "category": "licensed"
   },
   {
@@ -11608,9 +10260,6 @@
     "title": "Super Widget",
     "developer": "Atlus",
     "publisher": "Atlus",
-    "first_released": "Unreleased",
-    "jp_release": "September 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -11660,15 +10309,12 @@
     "developer": "Arc System Works",
     "publisher": "Namco",
     "first_released": "October 15, 1993",
-    "jp_release": "May 1994",
     "category": "licensed"
   },
   {
     "title": "SWAT Kats: The Radical Squadron",
     "developer": "AIM",
     "publisher": "Hudson Soft",
-    "first_released": "Unreleased",
-    "jp_release": "August 1995",
     "category": "licensed"
   },
   {
@@ -11690,8 +10336,6 @@
     "developer": "Bullfrog Productions",
     "publisher": "Electronic Arts Victor",
     "first_released": "May 19, 1995",
-    "jp_release": "December 1995",
-    "na_release": "January 1995",
     "category": "licensed"
   },
   {
@@ -11699,8 +10343,6 @@
     "developer": "Taito",
     "publisher": "Toshiba EMI",
     "first_released": "July 24, 1992",
-    "jp_release": "Cancelled",
-    "na_release": "November 1992",
     "category": "licensed"
   },
   {
@@ -11805,9 +10447,6 @@
     "title": "Taz-Mania",
     "developer": "Visual Concepts",
     "publisher": "Sunsoft",
-    "first_released": "Unreleased",
-    "jp_release": "May 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -11815,7 +10454,6 @@
     "developer": "Tecmo",
     "publisher": "Tecmo",
     "first_released": "October 28, 1994",
-    "jp_release": "September 1994",
     "category": "licensed"
   },
   {
@@ -11823,7 +10461,6 @@
     "developer": "Tecmo",
     "publisher": "Tecmo",
     "first_released": "November 26, 1993",
-    "jp_release": "November 1993",
     "category": "licensed"
   },
   {
@@ -11831,7 +10468,6 @@
     "developer": "Tecmo",
     "publisher": "Tecmo",
     "first_released": "December 20, 1994",
-    "jp_release": "January 1995",
     "category": "licensed"
   },
   {
@@ -11839,7 +10475,6 @@
     "developer": "Tecmo",
     "publisher": "Tecmo",
     "first_released": "December 22, 1995",
-    "jp_release": "October 1995",
     "category": "licensed"
   },
   {
@@ -11847,8 +10482,6 @@
     "developer": "Sculptured Software",
     "publisher": "Tecmo",
     "first_released": "December 25, 1992",
-    "jp_release": "March 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -11856,8 +10489,6 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "July 24, 1992",
-    "jp_release": "August 15, 1992",
-    "na_release": "November 19, 1992",
     "category": "licensed"
   },
   {
@@ -11865,8 +10496,6 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "December 3, 1993",
-    "jp_release": "December 1993",
-    "na_release": "December 1993",
     "category": "licensed"
   },
   {
@@ -11908,9 +10537,6 @@
     "title": "The Terminator",
     "developer": "Gray Matter",
     "publisher": "Mindscape",
-    "first_released": "Unreleased",
-    "jp_release": "April 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -11918,17 +10544,12 @@
     "developer": "Probe Entertainment",
     "publisher": "Acclaim Entertainment",
     "first_released": "February 25, 1994",
-    "jp_release": "February 1994",
-    "na_release": "January 1994",
     "category": "licensed"
   },
   {
     "title": "Terminator 2: Judgment Day",
     "developer": "Bits Studios",
     "publisher": "LJN",
-    "first_released": "Unreleased",
-    "jp_release": "November 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -11936,16 +10557,12 @@
     "developer": "Quintet",
     "publisher": "Enix",
     "first_released": "October 20, 1995",
-    "na_release": "December 19, 1996",
     "category": "licensed"
   },
   {
     "title": "Tetris & Dr. Mario",
     "developer": "Nintendo",
     "publisher": "Nintendo",
-    "first_released": "Unreleased",
-    "jp_release": "December 1994",
-    "na_release": "July 27, 1995",
     "category": "licensed"
   },
   {
@@ -11953,8 +10570,6 @@
     "developer": "Tose",
     "publisher": "Bullet-Proof Software",
     "first_released": "July 8, 1994",
-    "jp_release": "August 1994",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -11962,8 +10577,6 @@
     "developer": "Intelligent Systems",
     "publisher": "Nintendo",
     "first_released": "October 27, 1995",
-    "jp_release": "August 1996",
-    "na_release": "November 28, 1996",
     "category": "licensed"
   },
   {
@@ -11985,17 +10598,12 @@
     "developer": "Bullfrog Productions",
     "publisher": "Electronic Arts Victor",
     "first_released": "December 15, 1995",
-    "jp_release": "Cancelled",
-    "na_release": "November 11, 1994",
     "category": "licensed"
   },
   {
     "title": "Thomas the Tank Engine & Friends",
     "developer": "Software Creations",
     "publisher": "THQ",
-    "first_released": "Unreleased",
-    "jp_release": "September 1993",
-    "na_release": "December 31, 1993",
     "category": "licensed"
   },
   {
@@ -12024,7 +10632,6 @@
     "developer": "Technosoft",
     "publisher": "Toshiba EMI",
     "first_released": "December 27, 1991",
-    "jp_release": "June 1992",
     "category": "licensed"
   },
   {
@@ -12038,26 +10645,18 @@
     "title": "The Tick",
     "developer": "Software Creations",
     "publisher": "Fox Interactive",
-    "first_released": "Unreleased",
-    "jp_release": "December 1994",
     "category": "licensed"
   },
   {
     "title": "Time Slip",
     "developer": "Sales Curve Interactive",
     "publisher": "Vic Tokai",
-    "first_released": "Unreleased",
-    "jp_release": "November 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
     "title": "Time Trax",
     "developer": "Malibu Interactive",
     "publisher": "Malibu Games",
-    "first_released": "Unreleased",
-    "jp_release": "April 1994",
-    "na_release": "July 1994",
     "category": "licensed"
   },
   {
@@ -12065,33 +10664,24 @@
     "developer": "Cryo Interactive",
     "publisher": "JVC Musical Industries",
     "first_released": "February 17, 1995",
-    "jp_release": "April 1995",
-    "na_release": "1996",
     "category": "licensed"
   },
   {
     "title": "Timon & Pumbaa's Jungle Games",
     "developer": "Tiertex Design Studios",
     "publisher": "THQ",
-    "first_released": "Unreleased",
-    "jp_release": "November 30, 1997",
-    "na_release": "March 26, 1998",
     "category": "licensed"
   },
   {
     "title": "Tin Star",
     "developer": "Software Creations",
     "publisher": "Nintendo",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
     "category": "licensed"
   },
   {
     "title": "Tintin in Tibet",
     "developer": "Infogrames",
     "publisher": "Infogrames",
-    "first_released": "Unreleased",
-    "na_release": "December 14, 1995",
     "category": "licensed"
   },
   {
@@ -12099,8 +10689,6 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "December 18, 1992",
-    "jp_release": "February 1993",
-    "na_release": "June 24, 1993",
     "category": "licensed"
   },
   {
@@ -12108,8 +10696,6 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "September 30, 1994",
-    "jp_release": "December 1994",
-    "na_release": "April 25, 1994",
     "category": "licensed"
   },
   {
@@ -12117,8 +10703,6 @@
     "developer": "Sting Entertainment",
     "publisher": "SOFEL",
     "first_released": "April 28, 1992",
-    "jp_release": "October 1992",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -12126,15 +10710,12 @@
     "developer": "Gaps",
     "publisher": "King Records",
     "first_released": "September 22, 1994",
-    "jp_release": "November 1994",
     "category": "licensed"
   },
   {
     "title": "Todd McFarlane's Spawn: The Video Game",
     "developer": "Ukiyotei",
     "publisher": "Acclaim Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "October 1995",
     "category": "licensed"
   },
   {
@@ -12156,8 +10737,6 @@
     "developer": "Riedel Software Productions",
     "publisher": "Altron (JP)Hi Tech Expressions (NA/PAL)",
     "first_released": "June 25, 1993",
-    "jp_release": "April 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -12165,8 +10744,6 @@
     "developer": "Loriciel",
     "publisher": "Pack-In-Video",
     "first_released": "December 16, 1994",
-    "jp_release": "June 1994",
-    "na_release": "April 28, 1994",
     "category": "licensed"
   },
   {
@@ -12174,8 +10751,6 @@
     "developer": "Sculptured Software",
     "publisher": "Pack-In-Video",
     "first_released": "February 25, 1994",
-    "jp_release": "November 1993",
-    "na_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -12183,8 +10758,6 @@
     "developer": "Gremlin Interactive",
     "publisher": "Kemco",
     "first_released": "March 27, 1992",
-    "jp_release": "April 1992",
-    "na_release": "November 19, 1992",
     "category": "licensed"
   },
   {
@@ -12192,8 +10765,6 @@
     "developer": "Gremlin Interactive",
     "publisher": "Kemco",
     "first_released": "December 22, 1993",
-    "jp_release": "August 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -12201,8 +10772,6 @@
     "developer": "Gremlin Interactive",
     "publisher": "Kemco",
     "first_released": "April 28, 1995",
-    "jp_release": "February 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -12224,16 +10793,12 @@
     "developer": "Chunsoft",
     "publisher": "Chunsoft",
     "first_released": "September 19, 1993",
-    "na_release": "Cancelled",
     "category": "licensed"
   },
   {
     "title": "Total Carnage",
     "developer": "Black Pearl Software",
     "publisher": "Malibu Games",
-    "first_released": "Unreleased",
-    "jp_release": "November 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -12262,17 +10827,12 @@
     "developer": "Traveller's Tales",
     "publisher": "Capcom",
     "first_released": "April 26, 1996",
-    "jp_release": "December 1995",
-    "na_release": "April 25, 1996",
     "category": "licensed"
   },
   {
     "title": "Toys",
     "developer": "Imagineering",
     "publisher": "Absolute Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "April 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -12300,17 +10860,12 @@
     "title": "Troddlers",
     "developer": "Atod",
     "publisher": "Seika Corporation (NA)Storm (PAL)",
-    "first_released": "Unreleased",
-    "jp_release": "October 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
     "title": "Troy Aikman NFL Football",
     "developer": "Leland Interactive Media",
     "publisher": "Tradewest",
-    "first_released": "Unreleased",
-    "jp_release": "August 1994",
     "category": "licensed"
   },
   {
@@ -12318,7 +10873,6 @@
     "developer": "T&E Soft",
     "publisher": "Bullet-Proof Software",
     "first_released": "March 5, 1993",
-    "jp_release": "October 1993",
     "category": "licensed"
   },
   {
@@ -12326,8 +10880,6 @@
     "developer": "T&E Soft",
     "publisher": "T&E Soft",
     "first_released": "April 10, 1992",
-    "jp_release": "April 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -12335,7 +10887,6 @@
     "developer": "T&E Soft",
     "publisher": "T&E Soft",
     "first_released": "September 18, 1992",
-    "jp_release": "November 1991",
     "category": "licensed"
   },
   {
@@ -12343,8 +10894,6 @@
     "developer": "Beam Software",
     "publisher": "Acclaim Entertainment",
     "first_released": "April 28, 1995",
-    "jp_release": "February 1995",
-    "na_release": "June 29, 1995",
     "category": "licensed"
   },
   {
@@ -12380,8 +10929,6 @@
     "developer": "Jaleco",
     "publisher": "Jaleco",
     "first_released": "March 26, 1993",
-    "jp_release": "September 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -12403,8 +10950,6 @@
     "developer": "Absolute Entertainment",
     "publisher": "Absolute Entertainment",
     "first_released": "June 24, 1994",
-    "jp_release": "February 1994",
-    "na_release": "August 8, 1994",
     "category": "licensed"
   },
   {
@@ -12412,7 +10957,6 @@
     "developer": "Red Company",
     "publisher": "Naxat Soft",
     "first_released": "March 19, 1993",
-    "jp_release": "June 1994",
     "category": "licensed"
   },
   {
@@ -12420,8 +10964,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "July 26, 1991",
-    "jp_release": "September 1991",
-    "na_release": "December 1992",
     "category": "licensed"
   },
   {
@@ -12436,7 +10978,6 @@
     "developer": "KAZe",
     "publisher": "Meldac",
     "first_released": "February 25, 1994",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
@@ -12465,7 +11006,6 @@
     "developer": "Origin Systems",
     "publisher": "FCI",
     "first_released": "June 17, 1994",
-    "jp_release": "November 1994",
     "category": "licensed"
   },
   {
@@ -12473,7 +11013,6 @@
     "developer": "Infinity Co., Ltd",
     "publisher": "FCI",
     "first_released": "April 3, 1992",
-    "jp_release": "April 1994",
     "category": "licensed"
   },
   {
@@ -12481,7 +11020,6 @@
     "developer": "Origin Systems",
     "publisher": "FCI",
     "first_released": "November 18, 1994",
-    "jp_release": "November 1994",
     "category": "licensed"
   },
   {
@@ -12489,16 +11027,12 @@
     "developer": "Culture Brain",
     "publisher": "Culture Brain",
     "first_released": "July 31, 1992",
-    "jp_release": "June 1994",
     "category": "licensed"
   },
   {
     "title": "Ultimate Mortal Kombat 3",
     "developer": "Avalanche Software",
     "publisher": "Williams Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "June 1996",
-    "na_release": "November 28, 1996",
     "category": "licensed"
   },
   {
@@ -12541,8 +11075,6 @@
     "developer": "BEC",
     "publisher": "Bandai",
     "first_released": "April 6, 1991",
-    "jp_release": "October 1991",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -12571,7 +11103,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "August 5, 1992",
-    "jp_release": "January 1993",
     "category": "licensed"
   },
   {
@@ -12579,7 +11110,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "February 25, 1994",
-    "jp_release": "October 1994",
     "category": "licensed"
   },
   {
@@ -12587,33 +11117,24 @@
     "developer": "",
     "publisher": "Varie",
     "first_released": "March 9, 1995",
-    "jp_release": "Cancelled",
     "category": "licensed"
   },
   {
     "title": "Uniracers",
     "developer": "DMA Design",
     "publisher": "Nintendo",
-    "first_released": "Unreleased",
-    "jp_release": "December 1994",
-    "na_release": "April 27, 1995",
     "category": "licensed"
   },
   {
     "title": "The Untouchables",
     "developer": "Ocean Software",
     "publisher": "Ocean Software",
-    "first_released": "Unreleased",
-    "jp_release": "August 1994",
     "category": "licensed"
   },
   {
     "title": "Urban Strike",
     "developer": "Granite Bay Software",
     "publisher": "Black Pearl Software",
-    "first_released": "Unreleased",
-    "jp_release": "November 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -12628,8 +11149,6 @@
     "developer": "Jaleco",
     "publisher": "Jaleco",
     "first_released": "October 29, 1993",
-    "jp_release": "September 1993",
-    "na_release": "August 1994",
     "category": "licensed"
   },
   {
@@ -12637,17 +11156,12 @@
     "developer": "HAL Laboratory",
     "publisher": "Imagineer",
     "first_released": "September 10, 1993",
-    "jp_release": "April 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
     "title": "Venom/Spider-Man: Separation Anxiety",
     "developer": "Software Creations",
     "publisher": "Acclaim Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "November 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -12662,8 +11176,6 @@
     "developer": "Sculptured Software",
     "publisher": "Acclaim Entertainment",
     "first_released": "September 30, 1994",
-    "jp_release": "September 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -12671,7 +11183,6 @@
     "developer": "Probe Entertainment",
     "publisher": "Hudson Soft",
     "first_released": "March 18, 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -12679,8 +11190,6 @@
     "developer": "Argonaut Software",
     "publisher": "Pack-In-Video",
     "first_released": "December 9, 1994",
-    "jp_release": "September 1994",
-    "na_release": "December 1994",
     "category": "licensed"
   },
   {
@@ -12722,16 +11231,12 @@
     "title": "War 2410",
     "developer": "Advanced Productions",
     "publisher": "Advanced Productions",
-    "first_released": "Unreleased",
-    "jp_release": "December 1995",
     "category": "licensed"
   },
   {
     "title": "War 3010: The Revolution",
     "developer": "Advanced Productions",
     "publisher": "Advanced Productions",
-    "first_released": "Unreleased",
-    "jp_release": "October 1996",
     "category": "licensed"
   },
   {
@@ -12745,9 +11250,6 @@
     "title": "Wario's Woods",
     "developer": "Nintendo",
     "publisher": "Nintendo",
-    "first_released": "Unreleased",
-    "jp_release": "December 1994",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -12755,60 +11257,42 @@
     "developer": "Realtime Associates",
     "publisher": "Acclaim Entertainment",
     "first_released": "May 26, 1995",
-    "jp_release": "March 1995",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
     "title": "WarpSpeed",
     "developer": "Accolade",
     "publisher": "Ballistic",
-    "first_released": "Unreleased",
-    "jp_release": "December 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
     "title": "Waterworld",
     "developer": "Ocean Software",
     "publisher": "Ocean Software",
-    "first_released": "Unreleased",
-    "jp_release": "Cancelled",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
     "title": "Wayne Gretzky and the NHLPA All-Stars",
     "developer": "Time Warner Interactive",
     "publisher": "Time Warner Interactive",
-    "first_released": "Unreleased",
-    "jp_release": "December 1995",
     "category": "licensed"
   },
   {
     "title": "Wayne's World",
     "developer": "Gray Matter",
     "publisher": "THQ",
-    "first_released": "Unreleased",
-    "jp_release": "April 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
     "title": "WCW SuperBrawl Wrestling",
     "developer": "Beam Software",
     "publisher": "FCI",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
     "category": "licensed"
   },
   {
     "title": "Weaponlord",
     "developer": "Visual Concepts",
     "publisher": "Namco",
-    "first_released": "Unreleased",
-    "jp_release": "September 1995",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -12822,42 +11306,30 @@
     "title": "We're Back! A Dinosaur's Story",
     "developer": "Visual Concepts",
     "publisher": "Hi Tech Expressions",
-    "first_released": "Unreleased",
-    "jp_release": "November 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
     "title": "Wheel of Fortune: Featuring Vanna White",
     "developer": "Imagitec Design",
     "publisher": "GameTek",
-    "first_released": "Unreleased",
-    "jp_release": "September 1992",
     "category": "licensed"
   },
   {
     "title": "Wheel of Fortune Deluxe!",
     "developer": "Imagitec Design",
     "publisher": "GameTek",
-    "first_released": "Unreleased",
-    "jp_release": "April 1994",
     "category": "licensed"
   },
   {
     "title": "Where in the World Is Carmen Sandiego?",
     "developer": "EA Canada",
     "publisher": "Hi Tech Expressions",
-    "first_released": "Unreleased",
-    "jp_release": "June 1993",
-    "na_release": "October 1993",
     "category": "licensed"
   },
   {
     "title": "Where in Time Is Carmen Sandiego?",
     "developer": "EA Canada",
     "publisher": "Hi Tech Expressions",
-    "first_released": "Unreleased",
-    "jp_release": "May 1993",
     "category": "licensed"
   },
   {
@@ -12865,16 +11337,12 @@
     "developer": "Nova Games",
     "publisher": "Namco",
     "first_released": "July 23, 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
     "title": "Whizz",
     "developer": "Flair Software",
     "publisher": "Titus Software",
-    "first_released": "Unreleased",
-    "jp_release": "November 1996",
-    "na_release": "1997",
     "category": "licensed"
   },
   {
@@ -12882,8 +11350,6 @@
     "developer": "Natsume Co., Ltd.",
     "publisher": "Natsume Co., Ltd.",
     "first_released": "August 12, 1994",
-    "jp_release": "July 1995",
-    "na_release": "October 31, 1996",
     "category": "licensed"
   },
   {
@@ -12891,16 +11357,12 @@
     "developer": "Manley & Associates",
     "publisher": "Yojigen",
     "first_released": "December 23, 1994",
-    "jp_release": "September 1994",
     "category": "licensed"
   },
   {
     "title": "Williams Arcade's Greatest Hits",
     "developer": "Digital Eclipse Software",
     "publisher": "Williams Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "October 1996",
-    "na_release": "January 8, 1996",
     "category": "licensed"
   },
   {
@@ -12908,17 +11370,12 @@
     "developer": "Origin Systems",
     "publisher": "ASCII Entertainment",
     "first_released": "July 23, 1993",
-    "jp_release": "November 1992",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
     "title": "Wing Commander: The Secret Missions",
     "developer": "Origin Systems",
     "publisher": "Mindscape",
-    "first_released": "Unreleased",
-    "jp_release": "September 1993",
-    "na_release": "October 1993",
     "category": "licensed"
   },
   {
@@ -12926,8 +11383,6 @@
     "developer": "Malibu Interactive",
     "publisher": "Namco",
     "first_released": "September 29, 1992",
-    "jp_release": "October 1992",
-    "na_release": "January 21, 1993",
     "category": "licensed"
   },
   {
@@ -12955,17 +11410,12 @@
     "title": "Winter Gold",
     "developer": "Funcom",
     "publisher": "Nintendo",
-    "first_released": "Unreleased",
-    "na_release": "November 28, 1996",
     "category": "licensed"
   },
   {
     "title": "Winter Olympic Games: Lillehammer '94",
     "developer": "U.S. Gold",
     "publisher": "U.S. Gold",
-    "first_released": "Unreleased",
-    "jp_release": "February 1994",
-    "na_release": "February 24, 1994",
     "category": "licensed"
   },
   {
@@ -12979,8 +11429,6 @@
     "title": "The Wizard of Oz",
     "developer": "Manley & Associates",
     "publisher": "SETA",
-    "first_released": "Unreleased",
-    "jp_release": "October 1993",
     "category": "licensed"
   },
   {
@@ -13002,7 +11450,6 @@
     "developer": "ASCII Entertainment",
     "publisher": "Capcom",
     "first_released": "November 20, 1992",
-    "jp_release": "April 1994",
     "category": "licensed"
   },
   {
@@ -13016,8 +11463,6 @@
     "title": "Wolfchild",
     "developer": "Core Design",
     "publisher": "Virgin Interactive Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "June 1993",
     "category": "licensed"
   },
   {
@@ -13025,8 +11470,6 @@
     "developer": "Imagineer",
     "publisher": "Imagineer",
     "first_released": "February 10, 1994",
-    "jp_release": "March 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -13034,8 +11477,6 @@
     "developer": "Bits Studios",
     "publisher": "Acclaim Entertainment",
     "first_released": "January 27, 1995",
-    "jp_release": "November 1994",
-    "na_release": "December 1994",
     "category": "licensed"
   },
   {
@@ -13056,8 +11497,6 @@
     "title": "Wordtris",
     "developer": "Bullet-Proof Software",
     "publisher": "Spectrum HoloByte",
-    "first_released": "Unreleased",
-    "jp_release": "November 1992",
     "category": "licensed"
   },
   {
@@ -13065,7 +11504,6 @@
     "developer": "Audiogenic",
     "publisher": "Imagineer",
     "first_released": "January 29, 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -13080,8 +11518,6 @@
     "developer": "Rage Software",
     "publisher": "GameTek",
     "first_released": "June 17, 1994",
-    "jp_release": "August 1994",
-    "na_release": "July 15, 1994",
     "category": "licensed"
   },
   {
@@ -13089,8 +11525,6 @@
     "developer": "U.S. Gold",
     "publisher": "Sunsoft",
     "first_released": "July 29, 1994",
-    "jp_release": "June 1994",
-    "na_release": "May 26, 1994",
     "category": "licensed"
   },
   {
@@ -13098,8 +11532,6 @@
     "developer": "Sunsoft",
     "publisher": "Sunsoft",
     "first_released": "August 12, 1993",
-    "jp_release": "September 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -13107,7 +11539,6 @@
     "developer": "Saurus Co., Ltd",
     "publisher": "Takara",
     "first_released": "July 1, 1994",
-    "jp_release": "September 1994",
     "category": "licensed"
   },
   {
@@ -13115,23 +11546,18 @@
     "developer": "Anco",
     "publisher": "Imagineer",
     "first_released": "September 20, 1991",
-    "jp_release": "April 1992",
     "category": "licensed"
   },
   {
     "title": "World Masters Golf",
     "developer": "Arc Developments",
     "publisher": "Virgin Interactive Entertainment",
-    "first_released": "Unreleased",
-    "na_release": "November 23, 1995",
     "category": "licensed"
   },
   {
     "title": "Worms",
     "developer": "Team17",
     "publisher": "Ocean Software",
-    "first_released": "Unreleased",
-    "na_release": "September 29, 1996",
     "category": "licensed"
   },
   {
@@ -13145,9 +11571,6 @@
     "title": "WWF RAW",
     "developer": "Sculptured Software",
     "publisher": "LJN",
-    "first_released": "Unreleased",
-    "jp_release": "November 1994",
-    "na_release": "December 1994",
     "category": "licensed"
   },
   {
@@ -13155,8 +11578,6 @@
     "developer": "Sculptured Software",
     "publisher": "Acclaim Entertainment",
     "first_released": "July 23, 1993",
-    "jp_release": "June 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -13164,8 +11585,6 @@
     "developer": "Sculptured Software",
     "publisher": "Acclaim Entertainment",
     "first_released": "April 24, 1992",
-    "jp_release": "March 1992",
-    "na_release": "1992",
     "category": "licensed"
   },
   {
@@ -13173,8 +11592,6 @@
     "developer": "Sculptured Software",
     "publisher": "Acclaim Entertainment",
     "first_released": "March 1, 1996",
-    "jp_release": "November 1995",
-    "na_release": "January 25, 1996",
     "category": "licensed"
   },
   {
@@ -13189,7 +11606,6 @@
     "developer": "Asmik Ace Entertainment",
     "publisher": "Asmik Ace Entertainment",
     "first_released": "March 20, 1992",
-    "jp_release": "April 1992",
     "category": "licensed"
   },
   {
@@ -13197,8 +11613,6 @@
     "developer": "FupacWinds",
     "publisher": "Toshiba EMI",
     "first_released": "February 11, 1994",
-    "jp_release": "February 1994",
-    "na_release": "December 1994",
     "category": "licensed"
   },
   {
@@ -13206,8 +11620,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "January 3, 1995",
-    "jp_release": "November 1994",
-    "na_release": "1995",
     "category": "licensed"
   },
   {
@@ -13215,8 +11627,6 @@
     "developer": "Kemco",
     "publisher": "Kemco",
     "first_released": "August 27, 1993",
-    "jp_release": "November 1992",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -13273,8 +11683,6 @@
     "developer": "Bullet-Proof Software",
     "publisher": "Bullet-Proof Software",
     "first_released": "July 9, 1993",
-    "jp_release": "April 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -13282,8 +11690,6 @@
     "developer": "Nintendo R&D1",
     "publisher": "Nintendo",
     "first_released": "July 14, 1993",
-    "jp_release": "September 1993",
-    "na_release": "1993",
     "category": "licensed"
   },
   {
@@ -13297,9 +11703,6 @@
     "title": "Young Merlin",
     "developer": "Westwood Studios",
     "publisher": "Virgin Interactive Entertainment",
-    "first_released": "Unreleased",
-    "jp_release": "March 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
@@ -13307,7 +11710,6 @@
     "developer": "Advance Communication Company",
     "publisher": "Tonkin House",
     "first_released": "June 21, 1991",
-    "jp_release": "January 1992",
     "category": "licensed"
   },
   {
@@ -13468,9 +11870,6 @@
     "title": "Zero the Kamikaze Squirrel",
     "developer": "Iguana Entertainment",
     "publisher": "Sunsoft",
-    "first_released": "Unreleased",
-    "jp_release": "November 1, 1994",
-    "na_release": "March 30, 1995",
     "category": "licensed"
   },
   {
@@ -13512,9 +11911,6 @@
     "title": "Zombies Ate My Neighbors",
     "developer": "LucasArts",
     "publisher": "Konami",
-    "first_released": "Unreleased",
-    "jp_release": "September 1993",
-    "na_release": "October 4, 1993",
     "category": "licensed"
   },
   {
@@ -13529,17 +11925,12 @@
     "developer": "Gremlin Interactive",
     "publisher": "Infocom",
     "first_released": "July 29, 1994",
-    "jp_release": "January 1994",
-    "na_release": "1994",
     "category": "licensed"
   },
   {
     "title": "Zoop",
     "developer": "Hookstone",
     "publisher": "Viacom New Media",
-    "first_released": "Unreleased",
-    "jp_release": "September 1995",
-    "na_release": "1995",
     "category": "licensed"
   }
 ]

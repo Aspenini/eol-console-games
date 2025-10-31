@@ -4,8 +4,6 @@
     "developer": "Kalisto Entertainment",
     "publisher": "Midway",
     "first_released": "2000-05-02NA",
-    "na_release": "May 2, 2000",
-    "pal_release": "June 9, 2000",
     "category": "licensed"
   },
   {
@@ -13,7 +11,6 @@
     "developer": "Terminal Reality",
     "publisher": "Gathering of Developers",
     "first_released": "2000-10-26NA",
-    "na_release": "October 26, 2000",
     "category": "licensed"
   },
   {
@@ -21,9 +18,6 @@
     "developer": "Sega AM2",
     "publisher": "Sega",
     "first_released": "2000-10-12JP",
-    "jp_release": "October 12, 2000",
-    "na_release": "May 22, 2001",
-    "pal_release": "June 1, 2001",
     "category": "licensed"
   },
   {
@@ -31,7 +25,6 @@
     "developer": "PrincessSoft",
     "publisher": "PrincessSoft",
     "first_released": "2001-12-27JP",
-    "jp_release": "December 27, 2001",
     "category": "licensed"
   },
   {
@@ -39,8 +32,6 @@
     "developer": "Smilebit",
     "publisher": "Sega",
     "first_released": "2001-10-25PAL",
-    "jp_release": "February 7, 2002",
-    "pal_release": "October 25, 2001",
     "category": "licensed"
   },
   {
@@ -48,8 +39,6 @@
     "developer": "Prolific Publishing",
     "publisher": "Eidos Interactive",
     "first_released": "2000-11-14NA",
-    "na_release": "November 14, 2000",
-    "pal_release": "December 20, 2000",
     "category": "licensed"
   },
   {
@@ -57,7 +46,6 @@
     "developer": "SystemSoft",
     "publisher": "Sega",
     "first_released": "2001-04-26JP",
-    "jp_release": "April 26, 2001",
     "category": "licensed"
   },
   {
@@ -65,7 +53,6 @@
     "developer": "SystemSoft",
     "publisher": "Sega",
     "first_released": "2000-06-22JP",
-    "jp_release": "June 22, 2000",
     "category": "licensed"
   },
   {
@@ -73,7 +60,6 @@
     "developer": "CRI",
     "publisher": "CRI",
     "first_released": "2000-11-16JP",
-    "jp_release": "November 16, 2000",
     "category": "licensed"
   },
   {
@@ -81,7 +67,6 @@
     "developer": "CRI",
     "publisher": "CRI",
     "first_released": "2001-02-15JP",
-    "jp_release": "February 15, 2001",
     "category": "licensed"
   },
   {
@@ -89,7 +74,6 @@
     "developer": "CRI",
     "publisher": "CRI",
     "first_released": "2001-08-23JP",
-    "jp_release": "August 23, 2001",
     "category": "licensed"
   },
   {
@@ -97,7 +81,6 @@
     "developer": "CRI",
     "publisher": "CRI",
     "first_released": "2000-01-20JP",
-    "jp_release": "January 20, 2000",
     "category": "licensed"
   },
   {
@@ -105,9 +88,6 @@
     "developer": "CRI",
     "publisher": "Crave Entertainment",
     "first_released": "1999-03-04JP",
-    "jp_release": "March 4, 1999",
-    "na_release": "September 9, 1999",
-    "pal_release": "October 29, 1999",
     "category": "licensed"
   },
   {
@@ -115,9 +95,6 @@
     "developer": "CRI",
     "publisher": "Crave Entertainment",
     "first_released": "2000-02-24JP",
-    "jp_release": "February 24, 2000",
-    "na_release": "August 8, 2000",
-    "pal_release": "December 8, 2000",
     "category": "licensed"
   },
   {
@@ -125,7 +102,6 @@
     "developer": "Ciel",
     "publisher": "Pionesoft",
     "first_released": "2004-02-26JP",
-    "jp_release": "February 26, 2004",
     "category": "licensed"
   },
   {
@@ -133,7 +109,6 @@
     "developer": "F&C・FC02",
     "publisher": "NEC Interchannel",
     "first_released": "2003-08-07JP",
-    "jp_release": "August 7, 2003",
     "category": "licensed"
   },
   {
@@ -141,7 +116,6 @@
     "developer": "Key",
     "publisher": "NEC Interchannel",
     "first_released": "2001-09-20JP",
-    "jp_release": "September 20, 2001",
     "category": "licensed"
   },
   {
@@ -149,9 +123,6 @@
     "developer": "Konami Computer Entertainment Yokohama",
     "publisher": "Konami",
     "first_released": "1999-07-29JP",
-    "jp_release": "July 29, 1999",
-    "na_release": "September 9, 1999",
-    "pal_release": "February 18, 2000",
     "category": "licensed"
   },
   {
@@ -159,7 +130,6 @@
     "developer": "Wow Entertainment",
     "publisher": "Sega",
     "first_released": "2001-08-07NA",
-    "na_release": "August 7, 2001",
     "category": "licensed"
   },
   {
@@ -167,8 +137,6 @@
     "developer": "Darkworks",
     "publisher": "Infogrames",
     "first_released": "2001-06-22PAL",
-    "na_release": "September 24, 2001",
-    "pal_release": "June 22, 2001",
     "category": "licensed"
   },
   {
@@ -176,7 +144,6 @@
     "developer": "HuneX",
     "publisher": "NEC Interchannel",
     "first_released": "2001-04-12JP",
-    "jp_release": "April 12, 2001",
     "category": "licensed"
   },
   {
@@ -184,7 +151,6 @@
     "developer": "Favourite",
     "publisher": "Pionesoft",
     "first_released": "2005-02-24JP",
-    "jp_release": "February 24, 2005",
     "category": "licensed"
   },
   {
@@ -192,7 +158,6 @@
     "developer": "AKI",
     "publisher": "AKI",
     "first_released": "2000-06-15JP",
-    "jp_release": "June 15, 2000",
     "category": "licensed"
   },
   {
@@ -200,7 +165,6 @@
     "developer": "Sega",
     "publisher": "Sega",
     "first_released": "2000-12-07JP",
-    "jp_release": "December 7, 2000",
     "category": "licensed"
   },
   {
@@ -208,7 +172,6 @@
     "developer": "East Point Software",
     "publisher": "Take-Two Interactive",
     "first_released": "2000-12-22PAL",
-    "pal_release": "December 22, 2000",
     "category": "licensed"
   },
   {
@@ -216,7 +179,6 @@
     "developer": "Metro3D",
     "publisher": "Metro3D",
     "first_released": "1999-11-26NA",
-    "na_release": "November 26, 1999",
     "category": "licensed"
   },
   {
@@ -224,8 +186,6 @@
     "developer": "Saffire",
     "publisher": "Midway",
     "first_released": "2000-10-31NA",
-    "na_release": "October 31, 2000",
-    "pal_release": "November 17, 2000",
     "category": "licensed"
   },
   {
@@ -233,7 +193,6 @@
     "developer": "Digital Eclipse",
     "publisher": "Infogrames",
     "first_released": "2001-06-26NA",
-    "na_release": "June 26, 2001",
     "category": "licensed"
   },
   {
@@ -241,7 +200,6 @@
     "developer": "Sega AM7",
     "publisher": "Sega",
     "first_released": "1999-09-23JP",
-    "jp_release": "September 23, 1999",
     "category": "licensed"
   },
   {
@@ -249,7 +207,6 @@
     "developer": "Overworks",
     "publisher": "Sega",
     "first_released": "2000-10-31JP",
-    "jp_release": "October 31, 2000",
     "category": "licensed"
   },
   {
@@ -257,7 +214,6 @@
     "developer": "Giga",
     "publisher": "Alchemist",
     "first_released": "2004-10-28JP",
-    "jp_release": "October 28, 2004",
     "category": "licensed"
   },
   {
@@ -265,7 +221,6 @@
     "developer": "RayLand",
     "publisher": "Red Storm Entertainment",
     "first_released": "2000-12-22NA",
-    "na_release": "December 22, 2000",
     "category": "licensed"
   },
   {
@@ -273,9 +228,6 @@
     "developer": "Treasure",
     "publisher": "Entertainment Software Publishing",
     "first_released": "1999-12-09JP",
-    "jp_release": "December 9, 1999",
-    "na_release": "March 21, 2001",
-    "pal_release": "October 20, 2000",
     "category": "licensed"
   },
   {
@@ -283,7 +235,6 @@
     "developer": "Visco",
     "publisher": "Visco",
     "first_released": "2000-12-21JP",
-    "jp_release": "December 21, 2000",
     "category": "licensed"
   },
   {
@@ -291,7 +242,6 @@
     "developer": "Studio Wonder Effect",
     "publisher": "Studio Wonder Effect",
     "first_released": "2001-03-15JP",
-    "jp_release": "March 15, 2001",
     "category": "licensed"
   },
   {
@@ -299,7 +249,6 @@
     "developer": "Sega Toys",
     "publisher": "Sega Toys",
     "first_released": "2000-05-02JP",
-    "jp_release": "May 2, 2000",
     "category": "licensed"
   },
   {
@@ -307,7 +256,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "2001-03-22JP",
-    "jp_release": "March 22, 2001",
     "category": "licensed"
   },
   {
@@ -315,7 +263,6 @@
     "developer": "Flight-Plan",
     "publisher": "NEC Interchannel",
     "first_released": "1999-09-30JP",
-    "jp_release": "September 30, 1999",
     "category": "licensed"
   },
   {
@@ -323,7 +270,6 @@
     "developer": "EMU",
     "publisher": "Reindeer",
     "first_released": "2003-06-26JP",
-    "jp_release": "June 26, 2003",
     "category": "licensed"
   },
   {
@@ -331,9 +277,6 @@
     "developer": "Climax Graphics",
     "publisher": "Sega",
     "first_released": "1999-03-25JP",
-    "jp_release": "March 25, 1999",
-    "na_release": "September 9, 1999",
-    "pal_release": "October 14, 1999",
     "category": "licensed"
   },
   {
@@ -341,7 +284,6 @@
     "developer": "Fujicom",
     "publisher": "Fujicom",
     "first_released": "2002-01-24JP",
-    "jp_release": "January 24, 2002",
     "category": "licensed"
   },
   {
@@ -349,7 +291,6 @@
     "developer": "Bimboosoft",
     "publisher": "Bimboosoft",
     "first_released": "2001-09-20JP",
-    "jp_release": "September 20, 2001",
     "category": "licensed"
   },
   {
@@ -357,7 +298,6 @@
     "developer": "KID",
     "publisher": "KID",
     "first_released": "2002-09-26JP",
-    "jp_release": "September 26, 2002",
     "category": "licensed"
   },
   {
@@ -365,7 +305,6 @@
     "developer": "Sega Toys",
     "publisher": "Sega Toys",
     "first_released": "2001-01-25JP",
-    "jp_release": "January 25, 2001",
     "category": "licensed"
   },
   {
@@ -373,7 +312,6 @@
     "developer": "Fujicom",
     "publisher": "Fujicom",
     "first_released": "2002-01-10JP",
-    "jp_release": "January 10, 2002",
     "category": "licensed"
   },
   {
@@ -381,7 +319,6 @@
     "developer": "h.a.n.d.",
     "publisher": "Sega",
     "first_released": "2001-10-30NA",
-    "na_release": "October 30, 2001",
     "category": "licensed"
   },
   {
@@ -389,7 +326,6 @@
     "developer": "G.rev",
     "publisher": "G.rev",
     "first_released": "2003-09-25JP",
-    "jp_release": "September 25, 2003",
     "category": "licensed"
   },
   {
@@ -397,7 +333,6 @@
     "developer": "Flagship",
     "publisher": "Capcom",
     "first_released": "2001-05-24JP",
-    "jp_release": "May 24, 2001",
     "category": "licensed"
   },
   {
@@ -405,9 +340,6 @@
     "developer": "Taito",
     "publisher": "CyberFront",
     "first_released": "2000-03-16JP",
-    "jp_release": "March 16, 2000",
-    "na_release": "June 1, 2000",
-    "pal_release": "June 9, 2000",
     "category": "licensed"
   },
   {
@@ -415,8 +347,6 @@
     "developer": "Traveller's Tales",
     "publisher": "Activision",
     "first_released": "2000-10-04NA",
-    "na_release": "October 4, 2000",
-    "pal_release": "February 9, 2001",
     "category": "licensed"
   },
   {
@@ -424,8 +354,6 @@
     "developer": "Runecraft",
     "publisher": "Interplay Entertainment",
     "first_released": "2000-09-20NA",
-    "na_release": "September 20, 2000",
-    "pal_release": "June 16, 2000",
     "category": "licensed"
   },
   {
@@ -433,7 +361,6 @@
     "developer": "Patissier",
     "publisher": "PrincessSoft",
     "first_released": "2003-05-29JP",
-    "jp_release": "May 29, 2003",
     "category": "licensed"
   },
   {
@@ -441,7 +368,6 @@
     "developer": "Front Wing",
     "publisher": "NEC Interchannel",
     "first_released": "2001-08-23JP",
-    "jp_release": "August 23, 2001",
     "category": "licensed"
   },
   {
@@ -449,7 +375,6 @@
     "developer": "Wow Entertainment",
     "publisher": "Sega",
     "first_released": "2001-10-25JP",
-    "jp_release": "October 25, 2001",
     "category": "licensed"
   },
   {
@@ -457,9 +382,6 @@
     "developer": "Psikyo",
     "publisher": "Capcom",
     "first_released": "2000-11-15NA",
-    "jp_release": "December 21, 2000",
-    "na_release": "November 15, 2000",
-    "pal_release": "April 26, 2002",
     "category": "licensed"
   },
   {
@@ -467,7 +389,6 @@
     "developer": "Cocktail Soft",
     "publisher": "NEC Interchannel",
     "first_released": "2001-04-05JP",
-    "jp_release": "April 5, 2001",
     "category": "licensed"
   },
   {
@@ -475,9 +396,6 @@
     "developer": "Capcom Production Studio 1",
     "publisher": "Capcom",
     "first_released": "2000-09-06JP",
-    "jp_release": "September 6, 2000",
-    "na_release": "November 8, 2000",
-    "pal_release": "December 15, 2000",
     "category": "licensed"
   },
   {
@@ -485,7 +403,6 @@
     "developer": "Capcom Production Studio 1",
     "publisher": "Capcom",
     "first_released": "2001-06-14JP",
-    "jp_release": "June 14, 2001",
     "category": "licensed"
   },
   {
@@ -493,7 +410,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "2001-09-13JP",
-    "jp_release": "September 13, 2001",
     "category": "licensed"
   },
   {
@@ -501,7 +417,6 @@
     "developer": "Sega Rosso",
     "publisher": "Sega",
     "first_released": "2000-12-28JP",
-    "jp_release": "December 28, 2000",
     "category": "licensed"
   },
   {
@@ -509,7 +424,6 @@
     "developer": "Abel",
     "publisher": "Abel",
     "first_released": "2002-03-28JP",
-    "jp_release": "March 28, 2002",
     "category": "licensed"
   },
   {
@@ -517,9 +431,6 @@
     "developer": "Jaleco",
     "publisher": "JalecoJP/NAXicat InteractivePAL",
     "first_released": "2000-02-24JP",
-    "jp_release": "February 24, 2000",
-    "na_release": "February 29, 2000",
-    "pal_release": "July 5, 2001",
     "category": "licensed"
   },
   {
@@ -527,7 +438,6 @@
     "developer": "AGREE",
     "publisher": "Symbio Planning",
     "first_released": "2002-07-11JP",
-    "jp_release": "July 11, 2002",
     "category": "licensed"
   },
   {
@@ -535,7 +445,6 @@
     "developer": "Leaping Lizard Software",
     "publisher": "Hasbro Interactive",
     "first_released": "1999-11-23NA",
-    "na_release": "November 23, 1999",
     "category": "licensed"
   },
   {
@@ -543,8 +452,6 @@
     "developer": "Krome Studios",
     "publisher": "Mattel Interactive",
     "first_released": "2000-12-04NA",
-    "na_release": "December 4, 2000",
-    "pal_release": "August 10, 2001",
     "category": "licensed"
   },
   {
@@ -552,7 +459,6 @@
     "developer": "MileStone Inc.",
     "publisher": "MileStone Inc.",
     "first_released": "2004-12-16JP",
-    "jp_release": "December 16, 2004",
     "category": "licensed"
   },
   {
@@ -560,9 +466,6 @@
     "developer": "CRI",
     "publisher": "SIMSJPXicat InteractiveWW",
     "first_released": "2000-12-07JP",
-    "jp_release": "December 7, 2000",
-    "na_release": "February 7, 2001",
-    "pal_release": "June 29, 2001",
     "category": "licensed"
   },
   {
@@ -570,7 +473,6 @@
     "developer": "Takuyo",
     "publisher": "Takuyo",
     "first_released": "2004-04-28JP",
-    "jp_release": "April 28, 2004",
     "category": "licensed"
   },
   {
@@ -578,8 +480,6 @@
     "developer": "Blitz Games",
     "publisher": "Eidos Interactive",
     "first_released": "2000-11-13NA",
-    "na_release": "November 13, 2000",
-    "pal_release": "November 24, 2000",
     "category": "licensed"
   },
   {
@@ -587,7 +487,6 @@
     "developer": "Giga",
     "publisher": "Alchemist",
     "first_released": "2003-12-25JP",
-    "jp_release": "December 25, 2003",
     "category": "licensed"
   },
   {
@@ -595,7 +494,6 @@
     "developer": "Sega",
     "publisher": "Sega",
     "first_released": "1999-07-08JP",
-    "jp_release": "July 8, 1999",
     "category": "licensed"
   },
   {
@@ -603,7 +501,6 @@
     "developer": "Vivarium",
     "publisher": "Vivarium",
     "first_released": "1999-12-16JP",
-    "jp_release": "December 16, 1999",
     "category": "licensed"
   },
   {
@@ -611,9 +508,6 @@
     "developer": "Sonic Team",
     "publisher": "Sega",
     "first_released": "1999-11-11JP",
-    "jp_release": "November 11, 1999",
-    "na_release": "March 7, 2000",
-    "pal_release": "June 9, 2000",
     "category": "licensed"
   },
   {
@@ -621,7 +515,6 @@
     "developer": "Altron",
     "publisher": "Altron",
     "first_released": "2001-06-21JP",
-    "jp_release": "June 21, 2001",
     "category": "licensed"
   },
   {
@@ -629,7 +522,6 @@
     "developer": "KID",
     "publisher": "KID",
     "first_released": "2001-04-19JP",
-    "jp_release": "April 19, 2001",
     "category": "licensed"
   },
   {
@@ -637,9 +529,6 @@
     "developer": "Bimboosoft",
     "publisher": "Bottom UpJPXicat InteractiveWW",
     "first_released": "1999-12-09JP",
-    "jp_release": "December 9, 1999",
-    "na_release": "April 3, 2001",
-    "pal_release": "June 29, 2001",
     "category": "licensed"
   },
   {
@@ -647,7 +536,6 @@
     "developer": "Aquaplus",
     "publisher": "Aquaplus",
     "first_released": "2001-08-09JP",
-    "jp_release": "August 9, 2001",
     "category": "licensed"
   },
   {
@@ -655,9 +543,6 @@
     "developer": "Hitmaker",
     "publisher": "Sega",
     "first_released": "2001-05-14NA",
-    "jp_release": "June 14, 2001",
-    "na_release": "May 14, 2001",
-    "pal_release": "May 25, 2001",
     "category": "licensed"
   },
   {
@@ -665,8 +550,6 @@
     "developer": "MASA Group",
     "publisher": "Ubi Soft",
     "first_released": "2001-12-15NA",
-    "na_release": "December 15, 2001",
-    "pal_release": "April 26, 2002",
     "category": "licensed"
   },
   {
@@ -674,7 +557,6 @@
     "developer": "SNK",
     "publisher": "SNK",
     "first_released": "2000-08-10JP",
-    "jp_release": "August 10, 2000",
     "category": "licensed"
   },
   {
@@ -682,7 +564,6 @@
     "developer": "Sega Rosso",
     "publisher": "Sega",
     "first_released": "2001-09-13JP",
-    "jp_release": "September 13, 2001",
     "category": "licensed"
   },
   {
@@ -690,7 +571,6 @@
     "developer": "Hackberry",
     "publisher": "Hackberry",
     "first_released": "2001-08-02JP",
-    "jp_release": "August 2, 2001",
     "category": "licensed"
   },
   {
@@ -698,9 +578,6 @@
     "developer": "Hitmaker",
     "publisher": "Sega",
     "first_released": "2000-01-27JP",
-    "jp_release": "January 27, 2000",
-    "na_release": "February 2, 2000",
-    "pal_release": "February 25, 2000",
     "category": "licensed"
   },
   {
@@ -708,9 +585,6 @@
     "developer": "Hitmaker",
     "publisher": "Sega",
     "first_released": "2001-05-29NA",
-    "jp_release": "May 31, 2001",
-    "na_release": "May 29, 2001",
-    "pal_release": "July 6, 2001",
     "category": "licensed"
   },
   {
@@ -718,7 +592,6 @@
     "developer": "Omiya Soft",
     "publisher": "Media Factory",
     "first_released": "2001-07-12JP",
-    "jp_release": "July 12, 2001",
     "category": "licensed"
   },
   {
@@ -726,7 +599,6 @@
     "developer": "Westone",
     "publisher": "Sega",
     "first_released": "1999-07-29JP",
-    "jp_release": "July 29, 1999",
     "category": "licensed"
   },
   {
@@ -734,8 +606,6 @@
     "developer": "Sega AM3",
     "publisher": "Sega",
     "first_released": "1999-12-09JP",
-    "jp_release": "December 9, 1999",
-    "na_release": "June 7, 2000",
     "category": "licensed"
   },
   {
@@ -743,7 +613,6 @@
     "developer": "PrincessSoft",
     "publisher": "PrincessSoft",
     "first_released": "2001-10-25JP",
-    "jp_release": "October 25, 2001",
     "category": "licensed"
   },
   {
@@ -751,8 +620,6 @@
     "developer": "Warp",
     "publisher": "Sega",
     "first_released": "1999-12-23JP",
-    "jp_release": "December 23, 1999",
-    "na_release": "August 22, 2000",
     "category": "licensed"
   },
   {
@@ -760,7 +627,6 @@
     "developer": "Konami Computer Entertainment Tokyo",
     "publisher": "Konami",
     "first_released": "2000-02-17JP",
-    "jp_release": "February 17, 2000",
     "category": "licensed"
   },
   {
@@ -768,7 +634,6 @@
     "developer": "Konami Computer Entertainment Tokyo",
     "publisher": "Konami",
     "first_released": "2000-04-27JP",
-    "jp_release": "April 27, 2000",
     "category": "licensed"
   },
   {
@@ -776,7 +641,6 @@
     "developer": "Konami Computer Entertainment Tokyo",
     "publisher": "Konami",
     "first_released": "1999-09-02JP",
-    "jp_release": "September 2, 1999",
     "category": "licensed"
   },
   {
@@ -784,7 +648,6 @@
     "developer": "Konami Computer Entertainment Tokyo",
     "publisher": "Konami",
     "first_released": "1999-09-30JP",
-    "jp_release": "September 30, 1999",
     "category": "licensed"
   },
   {
@@ -792,8 +655,6 @@
     "developer": "Z-Axis",
     "publisher": "Acclaim Max Sports",
     "first_released": "2000-11-21NA",
-    "na_release": "November 21, 2000",
-    "pal_release": "December 8, 2000",
     "category": "licensed"
   },
   {
@@ -801,9 +662,6 @@
     "developer": "Amusement Vision",
     "publisher": "Sega",
     "first_released": "2000-12-21JP",
-    "jp_release": "December 21, 2000",
-    "na_release": "March 12, 2001",
-    "pal_release": "May 11, 2001",
     "category": "licensed"
   },
   {
@@ -811,9 +669,6 @@
     "developer": "Team Ninja",
     "publisher": "Tecmo",
     "first_released": "2000-02-29NA",
-    "jp_release": "September 28, 2000",
-    "na_release": "February 29, 2000",
-    "pal_release": "April 28, 2000",
     "category": "licensed"
   },
   {
@@ -821,7 +676,6 @@
     "developer": "Ecole",
     "publisher": "Ecole",
     "first_released": "1999-11-25JP",
-    "jp_release": "November 25, 1999",
     "category": "licensed"
   },
   {
@@ -829,8 +683,6 @@
     "developer": "Ecole",
     "publisher": "Sammy Entertainment",
     "first_released": "2001-05-10JP",
-    "jp_release": "May 10, 2001",
-    "na_release": "August 8, 2001",
     "category": "licensed"
   },
   {
@@ -838,8 +690,6 @@
     "developer": "Criterion Games",
     "publisher": "Ubi Soft",
     "first_released": "2000-08-23NA",
-    "na_release": "August 23, 2000",
-    "pal_release": "September 22, 2000",
     "category": "licensed"
   },
   {
@@ -847,7 +697,6 @@
     "developer": "Smilebit",
     "publisher": "Sega",
     "first_released": "2001-01-01JP",
-    "jp_release": "January 1, 2001",
     "category": "licensed"
   },
   {
@@ -855,7 +704,6 @@
     "developer": "Pitbull Syndicate",
     "publisher": "Infogrames North America",
     "first_released": "2000-10-25NA",
-    "na_release": "October 25, 2000",
     "category": "licensed"
   },
   {
@@ -863,7 +711,6 @@
     "developer": "Marvelous Entertainment",
     "publisher": "Marvelous Entertainment",
     "first_released": "1999-11-25JP",
-    "jp_release": "November 25, 1999",
     "category": "licensed"
   },
   {
@@ -871,7 +718,6 @@
     "developer": "Hudson Soft",
     "publisher": "Hudson Soft",
     "first_released": "1999-07-22JP",
-    "jp_release": "July 22, 1999",
     "category": "licensed"
   },
   {
@@ -879,7 +725,6 @@
     "developer": "Taito",
     "publisher": "Taito",
     "first_released": "2000-01-20JP",
-    "jp_release": "January 20, 2000",
     "category": "licensed"
   },
   {
@@ -887,7 +732,6 @@
     "developer": "Smilebit",
     "publisher": "Sega",
     "first_released": "2000-07-27JP",
-    "jp_release": "July 27, 2000",
     "category": "licensed"
   },
   {
@@ -895,7 +739,6 @@
     "developer": "Smilebit",
     "publisher": "Sega",
     "first_released": "2001-08-09JP",
-    "jp_release": "August 9, 2001",
     "category": "licensed"
   },
   {
@@ -903,7 +746,6 @@
     "developer": "Atlus",
     "publisher": "Atlus",
     "first_released": "2000-09-21JP",
-    "jp_release": "September 21, 2000",
     "category": "licensed"
   },
   {
@@ -911,7 +753,6 @@
     "developer": "Westone",
     "publisher": "Broccoli",
     "first_released": "2001-09-06JP",
-    "jp_release": "September 6, 2001",
     "category": "licensed"
   },
   {
@@ -919,7 +760,6 @@
     "developer": "Shouei System",
     "publisher": "Shouei System",
     "first_released": "1999-04-08NA",
-    "jp_release": "April 8, 1999",
     "category": "licensed"
   },
   {
@@ -927,9 +767,6 @@
     "developer": "Nextech",
     "publisher": "Capcom",
     "first_released": "2000-09-06JP",
-    "jp_release": "September 6, 2000",
-    "na_release": "November 15, 2000",
-    "pal_release": "December 22, 2000",
     "category": "licensed"
   },
   {
@@ -937,8 +774,6 @@
     "developer": "Ubi Soft Paris",
     "publisher": "Ubi Soft",
     "first_released": "2000-11-24PAL",
-    "na_release": "November 28, 2000",
-    "pal_release": "November 24, 2000",
     "category": "licensed"
   },
   {
@@ -946,7 +781,6 @@
     "developer": "Victor Interactive Software",
     "publisher": "Victor Interactive Software",
     "first_released": "2000-08-10JP",
-    "jp_release": "August 10, 2000",
     "category": "licensed"
   },
   {
@@ -954,7 +788,6 @@
     "developer": "G.rev",
     "publisher": "G.rev",
     "first_released": "2002-01-31JP",
-    "jp_release": "January 31, 2002",
     "category": "licensed"
   },
   {
@@ -962,8 +795,6 @@
     "developer": "Ubi Soft Casablanca",
     "publisher": "Ubi Soft",
     "first_released": "2000-12-13NA",
-    "na_release": "December 13, 2000",
-    "pal_release": "December 15, 2000",
     "category": "licensed"
   },
   {
@@ -971,7 +802,6 @@
     "developer": "NEC Interchannel",
     "publisher": "NEC Interchannel",
     "first_released": "2002-06-27JP",
-    "jp_release": "June 27, 2002",
     "category": "licensed"
   },
   {
@@ -979,8 +809,6 @@
     "developer": "Treyarch",
     "publisher": "Crave Entertainment",
     "first_released": "2000-06-23NA",
-    "na_release": "June 23, 2000",
-    "pal_release": "June 30, 2000",
     "category": "licensed"
   },
   {
@@ -988,8 +816,6 @@
     "developer": "Ubi Studios UK",
     "publisher": "Ubi Soft",
     "first_released": "2001-08-08NA",
-    "na_release": "August 8, 2001",
-    "pal_release": "February 8, 2002",
     "category": "licensed"
   },
   {
@@ -997,8 +823,6 @@
     "developer": "Attention to Detail",
     "publisher": "Acclaim Entertainment",
     "first_released": "2001-02-13NA",
-    "na_release": "February 13, 2001",
-    "pal_release": "March 9, 2001",
     "category": "licensed"
   },
   {
@@ -1006,9 +830,6 @@
     "developer": "Sega AM1",
     "publisher": "Sega",
     "first_released": "1999-05-27JP",
-    "jp_release": "May 27, 1999",
-    "na_release": "November 2, 1999",
-    "pal_release": "October 14, 1999",
     "category": "licensed"
   },
   {
@@ -1016,9 +837,6 @@
     "developer": "Appaloosa Interactive",
     "publisher": "Sega",
     "first_released": "2000-06-16PAL",
-    "jp_release": "January 25, 2001",
-    "na_release": "August 15, 2000",
-    "pal_release": "June 16, 2000",
     "category": "licensed"
   },
   {
@@ -1026,8 +844,6 @@
     "developer": "Acclaim Studios Salt Lake City",
     "publisher": "Acclaim Entertainment",
     "first_released": "2000-11-28NA",
-    "na_release": "November 28, 2000",
-    "pal_release": "February 9, 2001",
     "category": "licensed"
   },
   {
@@ -1035,8 +851,6 @@
     "developer": "Acclaim Studios Salt Lake City",
     "publisher": "Acclaim Entertainment",
     "first_released": "2000-02-29NA",
-    "na_release": "February 29, 2000",
-    "pal_release": "March 17, 2000",
     "category": "licensed"
   },
   {
@@ -1044,7 +858,6 @@
     "developer": "Konami Computer Entertainment Tokyo",
     "publisher": "Konami",
     "first_released": "1999-07-08JP",
-    "jp_release": "July 8, 1999",
     "category": "licensed"
   },
   {
@@ -1052,7 +865,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "2000-10-10JP",
-    "jp_release": "October 10, 2000",
     "category": "licensed"
   },
   {
@@ -1060,7 +872,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "2000-12-12JP",
-    "jp_release": "December 12, 2000",
     "category": "licensed"
   },
   {
@@ -1068,7 +879,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "2001-02-02JP",
-    "jp_release": "February 2, 2001",
     "category": "licensed"
   },
   {
@@ -1076,7 +886,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "2001-04-12JP",
-    "jp_release": "April 12, 2001",
     "category": "licensed"
   },
   {
@@ -1084,7 +893,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "2001-06-06JP",
-    "jp_release": "June 6, 2001",
     "category": "licensed"
   },
   {
@@ -1092,7 +900,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "2001-08-08JP",
-    "jp_release": "August 8, 2001",
     "category": "licensed"
   },
   {
@@ -1100,7 +907,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "2001-10-10JP",
-    "jp_release": "October 10, 2001",
     "category": "licensed"
   },
   {
@@ -1108,8 +914,6 @@
     "developer": "Birthday",
     "publisher": "Hudson Soft",
     "first_released": "1999-05-27JP",
-    "jp_release": "May 27, 1999",
-    "na_release": "December 28, 1999",
     "category": "licensed"
   },
   {
@@ -1117,7 +921,6 @@
     "developer": "Terios",
     "publisher": "NEC Interchannel",
     "first_released": "2002-07-25JP",
-    "jp_release": "July 25, 2002",
     "category": "licensed"
   },
   {
@@ -1125,7 +928,6 @@
     "developer": "KID",
     "publisher": "KID",
     "first_released": "2003-08-07JP",
-    "jp_release": "August 7, 2003",
     "category": "licensed"
   },
   {
@@ -1133,7 +935,6 @@
     "developer": "Foursome",
     "publisher": "TV Asahi",
     "first_released": "2001-04-05JP",
-    "jp_release": "April 5, 2001",
     "category": "licensed"
   },
   {
@@ -1141,9 +942,6 @@
     "developer": "Konami Computer Entertainment Osaka",
     "publisher": "Konami",
     "first_released": "2000-08-31JP",
-    "jp_release": "August 31, 2000",
-    "na_release": "September 27, 2000",
-    "pal_release": "September 22, 2000",
     "category": "licensed"
   },
   {
@@ -1151,7 +949,6 @@
     "developer": "Sunset Entertainment",
     "publisher": "Konami",
     "first_released": "2000-11-20NA",
-    "na_release": "November 20, 2000",
     "category": "licensed"
   },
   {
@@ -1159,7 +956,6 @@
     "developer": "CrimsonCoyote Developments",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "2001-03-02PAL",
-    "pal_release": "March 2, 2001",
     "category": "licensed"
   },
   {
@@ -1167,7 +963,6 @@
     "developer": "C's ware",
     "publisher": "NetVillage",
     "first_released": "2001-03-22JP",
-    "jp_release": "March 22, 2001",
     "category": "licensed"
   },
   {
@@ -1175,7 +970,6 @@
     "developer": "KID",
     "publisher": "KID",
     "first_released": "2002-08-29JP",
-    "jp_release": "August 29, 2002",
     "category": "licensed"
   },
   {
@@ -1183,7 +977,6 @@
     "developer": "KID",
     "publisher": "KID",
     "first_released": "2003-11-27JP",
-    "jp_release": "November 27, 2003",
     "category": "licensed"
   },
   {
@@ -1191,8 +984,6 @@
     "developer": "Heavy Iron Studios",
     "publisher": "THQ",
     "first_released": "2000-12-19NA",
-    "na_release": "December 19, 2000",
-    "pal_release": "June 22, 2001",
     "category": "licensed"
   },
   {
@@ -1200,7 +991,6 @@
     "developer": "In Utero",
     "publisher": "BigBen Interactive",
     "first_released": "2002-04-26PAL",
-    "pal_release": "April 26, 2002",
     "category": "licensed"
   },
   {
@@ -1208,9 +998,6 @@
     "developer": "Sting",
     "publisher": "Sega",
     "first_released": "1999-01-21JP",
-    "jp_release": "January 21, 1999",
-    "na_release": "December 16, 1999",
-    "pal_release": "June 9, 2000",
     "category": "licensed"
   },
   {
@@ -1218,9 +1005,6 @@
     "developer": "Sting",
     "publisher": "Entertainment Software Publishing",
     "first_released": "1999-12-23JP",
-    "jp_release": "December 23, 1999",
-    "na_release": "June 29, 2000",
-    "pal_release": "November 23, 2001",
     "category": "licensed"
   },
   {
@@ -1228,7 +1012,6 @@
     "developer": "Player 1",
     "publisher": "Titus Interactive",
     "first_released": "2001-05-18PAL",
-    "pal_release": "May 18, 2001",
     "category": "licensed"
   },
   {
@@ -1236,7 +1019,6 @@
     "developer": "Abel",
     "publisher": "Abel",
     "first_released": "2001-05-31JP",
-    "jp_release": "May 31, 2001",
     "category": "licensed"
   },
   {
@@ -1244,9 +1026,6 @@
     "developer": "Video System",
     "publisher": "Sega",
     "first_released": "1999-11-19PAL",
-    "jp_release": "November 25, 1999",
-    "na_release": "April 25, 2000",
-    "pal_release": "November 19, 1999",
     "category": "licensed"
   },
   {
@@ -1254,8 +1033,6 @@
     "developer": "Video System",
     "publisher": "Sega",
     "first_released": "2000-11-22JP",
-    "jp_release": "November 22, 2000",
-    "pal_release": "November 24, 2000",
     "category": "licensed"
   },
   {
@@ -1263,7 +1040,6 @@
     "developer": "Ubi Soft",
     "publisher": "Video System",
     "first_released": "2001-01-19PAL",
-    "pal_release": "January 19, 2001",
     "category": "licensed"
   },
   {
@@ -1271,9 +1047,6 @@
     "developer": "Sega AM2",
     "publisher": "Sega",
     "first_released": "2000-08-03JP",
-    "jp_release": "August 3, 2000",
-    "na_release": "September 22, 2000",
-    "pal_release": "October 20, 2000",
     "category": "licensed"
   },
   {
@@ -1281,8 +1054,6 @@
     "developer": "SNK",
     "publisher": "Agetec",
     "first_released": "2001-09-27JP",
-    "jp_release": "September 27, 2001",
-    "na_release": "November 23, 2001",
     "category": "licensed"
   },
   {
@@ -1290,8 +1061,6 @@
     "developer": "Core Design",
     "publisher": "Eidos Interactive",
     "first_released": "1999-12-22NA",
-    "na_release": "December 22, 1999",
-    "pal_release": "December 24, 1999",
     "category": "licensed"
   },
   {
@@ -1299,8 +1068,6 @@
     "developer": "CRI",
     "publisher": "Sega",
     "first_released": "2001-01-18JP",
-    "jp_release": "January 18, 2001",
-    "pal_release": "March 9, 2001",
     "category": "licensed"
   },
   {
@@ -1308,7 +1075,6 @@
     "developer": "S-Neo",
     "publisher": "Spike",
     "first_released": "2001-03-01JP",
-    "jp_release": "March 1, 2001",
     "category": "licensed"
   },
   {
@@ -1316,7 +1082,6 @@
     "developer": "HuneX",
     "publisher": "Broccoli",
     "first_released": "2002-08-08JP",
-    "jp_release": "August 8, 2002",
     "category": "licensed"
   },
   {
@@ -1324,8 +1089,6 @@
     "developer": "Zoom",
     "publisher": "Sega",
     "first_released": "1999-03-25JP",
-    "jp_release": "March 25, 1999",
-    "na_release": "September 9, 1999",
     "category": "licensed"
   },
   {
@@ -1333,8 +1096,6 @@
     "developer": "Visual Concepts",
     "publisher": "Sega",
     "first_released": "2001-07-30NA",
-    "na_release": "July 30, 2001",
-    "pal_release": "November 23, 2001",
     "category": "licensed"
   },
   {
@@ -1342,7 +1103,6 @@
     "developer": "Takuyo",
     "publisher": "Takuyo",
     "first_released": "2003-07-31JP",
-    "jp_release": "July 31, 2003",
     "category": "licensed"
   },
   {
@@ -1350,7 +1110,6 @@
     "developer": "Takuyo",
     "publisher": "Takuyo",
     "first_released": "2001-07-26JP",
-    "jp_release": "July 26, 2001",
     "category": "licensed"
   },
   {
@@ -1358,7 +1117,6 @@
     "developer": "FromSoftware",
     "publisher": "FromSoftware",
     "first_released": "1999-07-15JP",
-    "jp_release": "July 15, 1999",
     "category": "licensed"
   },
   {
@@ -1366,7 +1124,6 @@
     "developer": "Blitz Games",
     "publisher": "Hasbro Interactive",
     "first_released": "2000-10-12NA",
-    "na_release": "October 12, 2000",
     "category": "licensed"
   },
   {
@@ -1374,8 +1131,6 @@
     "developer": "Bizarre Creations",
     "publisher": "Acclaim Entertainment",
     "first_released": "2000-06-23PAL",
-    "na_release": "July 13, 2000",
-    "pal_release": "June 23, 2000",
     "category": "licensed"
   },
   {
@@ -1383,7 +1138,6 @@
     "developer": "Neverland",
     "publisher": "Sega",
     "first_released": "2002-02-07JP",
-    "jp_release": "February 7, 2002",
     "category": "licensed"
   },
   {
@@ -1391,7 +1145,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "2001-06-28JP",
-    "jp_release": "June 28, 2001",
     "category": "licensed"
   },
   {
@@ -1399,7 +1152,6 @@
     "developer": "Sega",
     "publisher": "Sega",
     "first_released": "1999-12-23JP",
-    "jp_release": "December 23, 1999",
     "category": "licensed"
   },
   {
@@ -1407,8 +1159,6 @@
     "developer": "Midway Games West",
     "publisher": "Midway",
     "first_released": "2000-06-06NA",
-    "na_release": "June 6, 2000",
-    "pal_release": "July 21, 2000",
     "category": "licensed"
   },
   {
@@ -1416,7 +1166,6 @@
     "developer": "Sega",
     "publisher": "Sega",
     "first_released": "2000-03-30JP",
-    "jp_release": "March 30, 2000",
     "category": "licensed"
   },
   {
@@ -1424,7 +1173,6 @@
     "developer": "Sega AM1",
     "publisher": "Sega",
     "first_released": "2000-08-10JP",
-    "jp_release": "August 10, 2000",
     "category": "licensed"
   },
   {
@@ -1432,7 +1180,6 @@
     "developer": "Sega AM1",
     "publisher": "Sega",
     "first_released": "1999-06-24JP",
-    "jp_release": "June 24, 1999",
     "category": "licensed"
   },
   {
@@ -1440,7 +1187,6 @@
     "developer": "IO ProductionsSmoking Gun Productions",
     "publisher": "AAA Game",
     "first_released": "2001-05-11PAL",
-    "pal_release": "May 11, 2001",
     "category": "licensed"
   },
   {
@@ -1448,9 +1194,6 @@
     "developer": "Takumi Corporation",
     "publisher": "Capcom",
     "first_released": "1999-11-11JP",
-    "jp_release": "November 11, 1999",
-    "na_release": "July 18, 2000",
-    "pal_release": "October 20, 2000",
     "category": "licensed"
   },
   {
@@ -1458,8 +1201,6 @@
     "developer": "Takumi Corporation",
     "publisher": "Capcom",
     "first_released": "2001-01-18JP",
-    "jp_release": "January 18, 2001",
-    "na_release": "May 16, 2001",
     "category": "licensed"
   },
   {
@@ -1467,7 +1208,6 @@
     "developer": "General Entertainment",
     "publisher": "Sega",
     "first_released": "1998-11-27JP",
-    "jp_release": "November 27, 1998",
     "category": "licensed"
   },
   {
@@ -1475,7 +1215,6 @@
     "developer": "General Entertainment",
     "publisher": "Sega",
     "first_released": "1999-12-23JP",
-    "jp_release": "December 23, 1999",
     "category": "licensed"
   },
   {
@@ -1483,7 +1222,6 @@
     "developer": "CaramelPot",
     "publisher": "CaramelPot",
     "first_released": "2000-02-24JP",
-    "jp_release": "February 24, 2000",
     "category": "licensed"
   },
   {
@@ -1491,7 +1229,6 @@
     "developer": "SoftMax",
     "publisher": "SoftMax",
     "first_released": "2001-01-25JP",
-    "jp_release": "January 25, 2001",
     "category": "licensed"
   },
   {
@@ -1499,7 +1236,6 @@
     "developer": "SoftMax",
     "publisher": "SoftMax",
     "first_released": "2000-08-03JP",
-    "jp_release": "August 3, 2000",
     "category": "licensed"
   },
   {
@@ -1507,7 +1243,6 @@
     "developer": "SoftMax",
     "publisher": "SoftMax",
     "first_released": "2000-06-01JP",
-    "jp_release": "June 1, 2000",
     "category": "licensed"
   },
   {
@@ -1515,8 +1250,6 @@
     "developer": "DMA Design",
     "publisher": "Rockstar Games",
     "first_released": "2000-05-01NA",
-    "na_release": "May 1, 2000",
-    "pal_release": "July 28, 2000",
     "category": "licensed"
   },
   {
@@ -1524,9 +1257,6 @@
     "developer": "Game Arts",
     "publisher": "Ubi Soft",
     "first_released": "2000-08-03JP",
-    "jp_release": "August 3, 2000",
-    "na_release": "December 5, 2000",
-    "pal_release": "February 23, 2001",
     "category": "licensed"
   },
   {
@@ -1534,8 +1264,6 @@
     "developer": "Artificial Mind and Movement",
     "publisher": "Konami",
     "first_released": "2000-11-22NA",
-    "na_release": "November 22, 2000",
-    "pal_release": "December 15, 2000",
     "category": "licensed"
   },
   {
@@ -1543,7 +1271,6 @@
     "developer": "Arc System Works",
     "publisher": "Sammy Studios",
     "first_released": "2000-12-14JP",
-    "jp_release": "December 14, 2000",
     "category": "licensed"
   },
   {
@@ -1551,9 +1278,6 @@
     "developer": "Psikyo",
     "publisher": "Capcom",
     "first_released": "2000-03-09JP",
-    "jp_release": "March 9, 2000",
-    "na_release": "November 15, 2000",
-    "pal_release": "February 2, 2001",
     "category": "licensed"
   },
   {
@@ -1561,7 +1285,6 @@
     "developer": "Bandai",
     "publisher": "Bandai",
     "first_released": "2001-06-28JP",
-    "jp_release": "June 28, 2001",
     "category": "licensed"
   },
   {
@@ -1569,8 +1292,6 @@
     "developer": "BEC",
     "publisher": "Bandai",
     "first_released": "1999-08-26JP",
-    "jp_release": "August 26, 1999",
-    "na_release": "April 28, 2000",
     "category": "licensed"
   },
   {
@@ -1578,7 +1299,6 @@
     "developer": "Overworks",
     "publisher": "Sega",
     "first_released": "2001-08-09JP",
-    "jp_release": "August 9, 2001",
     "category": "licensed"
   },
   {
@@ -1586,7 +1306,6 @@
     "developer": "Overworks",
     "publisher": "Sega",
     "first_released": "2002-03-14JP",
-    "jp_release": "March 14, 2002",
     "category": "licensed"
   },
   {
@@ -1594,7 +1313,6 @@
     "developer": "Sega AM7",
     "publisher": "Sega",
     "first_released": "2000-01-06JP",
-    "jp_release": "January 6, 2000",
     "category": "licensed"
   },
   {
@@ -1602,7 +1320,6 @@
     "developer": "PrincessSoft",
     "publisher": "PrincessSoft",
     "first_released": "2003-02-27JP",
-    "jp_release": "February 27, 2003",
     "category": "licensed"
   },
   {
@@ -1610,7 +1327,6 @@
     "developer": "Fupac",
     "publisher": "Datam Polystar",
     "first_released": "2001-04-26JP",
-    "jp_release": "April 26, 2001",
     "category": "licensed"
   },
   {
@@ -1618,7 +1334,6 @@
     "developer": "Fupac",
     "publisher": "Datam Polystar",
     "first_released": "2000-09-28JP",
-    "jp_release": "September 28, 2000",
     "category": "licensed"
   },
   {
@@ -1626,7 +1341,6 @@
     "developer": "SIMS",
     "publisher": "NEC Interchannel",
     "first_released": "2001-03-22JP",
-    "jp_release": "March 22, 2001",
     "category": "licensed"
   },
   {
@@ -1634,7 +1348,6 @@
     "developer": "Amuze",
     "publisher": "Sega",
     "first_released": "2001-11-16PAL",
-    "pal_release": "November 16, 2001",
     "category": "licensed"
   },
   {
@@ -1642,9 +1355,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "2001-07-12JP",
-    "jp_release": "July 12, 2001",
-    "na_release": "September 12, 2001",
-    "pal_release": "April 26, 2002",
     "category": "licensed"
   },
   {
@@ -1652,7 +1362,6 @@
     "developer": "Micronet",
     "publisher": "Micronet",
     "first_released": "2000-10-26JP",
-    "jp_release": "October 26, 2000",
     "category": "licensed"
   },
   {
@@ -1660,7 +1369,6 @@
     "developer": "Fortyfive",
     "publisher": "Sega",
     "first_released": "1999-11-25JP",
-    "jp_release": "November 25, 1999",
     "category": "licensed"
   },
   {
@@ -1668,7 +1376,6 @@
     "developer": "Sega",
     "publisher": "Sega",
     "first_released": "1999-11-25JP",
-    "jp_release": "November 25, 1999",
     "category": "licensed"
   },
   {
@@ -1676,7 +1383,6 @@
     "developer": "Sega",
     "publisher": "Sega",
     "first_released": "2000-03-30JP",
-    "jp_release": "March 30, 2000",
     "category": "licensed"
   },
   {
@@ -1684,7 +1390,6 @@
     "developer": "Sega",
     "publisher": "Sega",
     "first_released": "2000-08-10JP",
-    "jp_release": "August 10, 2000",
     "category": "licensed"
   },
   {
@@ -1692,7 +1397,6 @@
     "developer": "Starfish",
     "publisher": "Starfish",
     "first_released": "2001-07-26JP",
-    "jp_release": "July 26, 2001",
     "category": "licensed"
   },
   {
@@ -1700,8 +1404,6 @@
     "developer": "Illusion Softworks",
     "publisher": "TalonSoft",
     "first_released": "2000-07-31NA",
-    "na_release": "July 31, 2000",
-    "pal_release": "September 8, 2000",
     "category": "licensed"
   },
   {
@@ -1709,7 +1411,6 @@
     "developer": "Smilebit",
     "publisher": "Sega",
     "first_released": "2001-02-08JP",
-    "jp_release": "February 8, 2001",
     "category": "licensed"
   },
   {
@@ -1717,9 +1418,6 @@
     "developer": "Sega AM1",
     "publisher": "Sega",
     "first_released": "1999-03-25JP",
-    "jp_release": "March 25, 1999",
-    "na_release": "September 9, 1999",
-    "pal_release": "November 5, 1999",
     "category": "licensed"
   },
   {
@@ -1727,7 +1425,6 @@
     "developer": "Sierra On-Line",
     "publisher": "Sierra Attractions",
     "first_released": "2000-09-29NA",
-    "na_release": "September 29, 2000",
     "category": "licensed"
   },
   {
@@ -1735,8 +1432,6 @@
     "developer": "Eurocom",
     "publisher": "Midway",
     "first_released": "1999-09-09NA",
-    "na_release": "September 9, 1999",
-    "pal_release": "October 24, 1999",
     "category": "licensed"
   },
   {
@@ -1744,7 +1439,6 @@
     "developer": "Jaleco",
     "publisher": "Jaleco",
     "first_released": "1999-09-23JP",
-    "jp_release": "September 23, 1999",
     "category": "licensed"
   },
   {
@@ -1752,7 +1446,6 @@
     "developer": "Treasure",
     "publisher": "Entertainment Software Publishing",
     "first_released": "2002-09-05JP",
-    "jp_release": "September 5, 2002",
     "category": "licensed"
   },
   {
@@ -1760,8 +1453,6 @@
     "developer": "Crazy Games",
     "publisher": "Crazy GamesJPAIANA",
     "first_released": "2001-03-29JP",
-    "jp_release": "March 29, 2001",
-    "na_release": "April 16, 2001",
     "category": "licensed"
   },
   {
@@ -1769,9 +1460,6 @@
     "developer": "Rage Software",
     "publisher": "Imagineer",
     "first_released": "1998-12-17JP",
-    "jp_release": "December 17, 1998",
-    "na_release": "September 15, 1999",
-    "pal_release": "October 14, 1999",
     "category": "licensed"
   },
   {
@@ -1779,8 +1467,6 @@
     "developer": "HuneX",
     "publisher": "NEC Home Electronics",
     "first_released": "1999-09-23JP",
-    "jp_release": "September 23, 1999",
-    "na_release": "June 1, 2000",
     "category": "licensed"
   },
   {
@@ -1788,7 +1474,6 @@
     "developer": "Longshot",
     "publisher": "NEC Interchannel",
     "first_released": "2003-03-13JP",
-    "jp_release": "March 13, 2003",
     "category": "licensed"
   },
   {
@@ -1796,7 +1481,6 @@
     "developer": "KID",
     "publisher": "KID",
     "first_released": "2003-08-07NA",
-    "jp_release": "August 7, 2003",
     "category": "licensed"
   },
   {
@@ -1804,9 +1488,6 @@
     "developer": "Marionette",
     "publisher": "Global A Entertainment",
     "first_released": "2000-06-29JP",
-    "jp_release": "June 29, 2000",
-    "na_release": "February 6, 2001",
-    "pal_release": "June 29, 2001",
     "category": "licensed"
   },
   {
@@ -1814,7 +1495,6 @@
     "developer": "Studio e.go!",
     "publisher": "Symbio Planning",
     "first_released": "2004-01-29JP",
-    "jp_release": "January 29, 2004",
     "category": "licensed"
   },
   {
@@ -1822,7 +1502,6 @@
     "developer": "Sega R&D6",
     "publisher": "Sega",
     "first_released": "1999-09-30JP",
-    "jp_release": "September 30, 1999",
     "category": "licensed"
   },
   {
@@ -1830,7 +1509,6 @@
     "developer": "Visit",
     "publisher": "Visit",
     "first_released": "2000-08-31JP",
-    "jp_release": "August 31, 2000",
     "category": "licensed"
   },
   {
@@ -1838,8 +1516,6 @@
     "developer": "Acclaim Studios Salt Lake City",
     "publisher": "Acclaim Sports",
     "first_released": "2000-08-08NA",
-    "na_release": "August 8, 2000",
-    "pal_release": "September 8, 2000",
     "category": "licensed"
   },
   {
@@ -1847,7 +1523,6 @@
     "developer": "Bimboosoft",
     "publisher": "Bimboosoft",
     "first_released": "2000-11-02JP",
-    "jp_release": "November 2, 2000",
     "category": "licensed"
   },
   {
@@ -1855,9 +1530,6 @@
     "developer": "Smilebit",
     "publisher": "Sega",
     "first_released": "2000-06-29JP",
-    "jp_release": "June 29, 2000",
-    "na_release": "October 31, 2000",
-    "pal_release": "November 24, 2000",
     "category": "licensed"
   },
   {
@@ -1865,7 +1537,6 @@
     "developer": "Konami Computer Entertainment Osaka",
     "publisher": "Konami",
     "first_released": "2000-03-30JP",
-    "jp_release": "March 30, 2000",
     "category": "licensed"
   },
   {
@@ -1873,7 +1544,6 @@
     "developer": "Awesome Developments",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "2000-01-07PAL",
-    "pal_release": "January 7, 2000",
     "category": "licensed"
   },
   {
@@ -1881,7 +1551,6 @@
     "developer": "Takara",
     "publisher": "Takara",
     "first_released": "2000-06-22JP",
-    "jp_release": "June 22, 2000",
     "category": "licensed"
   },
   {
@@ -1889,7 +1558,6 @@
     "developer": "MAXBETDaikoku",
     "publisher": "Sammy",
     "first_released": "2000-09-28JP",
-    "jp_release": "September 28, 2000",
     "category": "licensed"
   },
   {
@@ -1897,9 +1565,6 @@
     "developer": "Capcom",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "1999-11-25JP",
-    "jp_release": "November 25, 1999",
-    "na_release": "April 28, 2000",
-    "pal_release": "April 28, 2000",
     "category": "licensed"
   },
   {
@@ -1907,7 +1572,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "2000-10-26JP",
-    "jp_release": "October 26, 2000",
     "category": "licensed"
   },
   {
@@ -1915,7 +1579,6 @@
     "developer": "Fortyfive",
     "publisher": "Fortyfive",
     "first_released": "1998-11-27JP",
-    "jp_release": "November 27, 1998",
     "category": "licensed"
   },
   {
@@ -1923,7 +1586,6 @@
     "developer": "Studio Line",
     "publisher": "Kobi",
     "first_released": "2001-08-02JP",
-    "jp_release": "August 2, 2001",
     "category": "licensed"
   },
   {
@@ -1931,7 +1593,6 @@
     "developer": "Takuyo",
     "publisher": "Takuyo",
     "first_released": "2003-03-06JP",
-    "jp_release": "March 6, 2003",
     "category": "licensed"
   },
   {
@@ -1939,7 +1600,6 @@
     "developer": "Key",
     "publisher": "NEC Interchannel",
     "first_released": "2000-09-14JP",
-    "jp_release": "September 14, 2000",
     "category": "licensed"
   },
   {
@@ -1947,7 +1607,6 @@
     "developer": "MileStone Inc.",
     "publisher": "MileStone Inc.",
     "first_released": "2007-03-08JP",
-    "jp_release": "March 8, 2007",
     "category": "licensed"
   },
   {
@@ -1955,8 +1614,6 @@
     "developer": "X-Ray Interactive",
     "publisher": "Titus Interactive",
     "first_released": "2000-12-08PAL",
-    "na_release": "February 13, 2001",
-    "pal_release": "December 8, 2000",
     "category": "licensed"
   },
   {
@@ -1964,7 +1621,6 @@
     "developer": "Milksoft",
     "publisher": "Milksoft",
     "first_released": "2004-04-15JP",
-    "jp_release": "April 15, 2004",
     "category": "licensed"
   },
   {
@@ -1972,7 +1628,6 @@
     "developer": "Bandai",
     "publisher": "Bandai",
     "first_released": "2000-06-29JP",
-    "jp_release": "June 29, 2000",
     "category": "licensed"
   },
   {
@@ -1980,7 +1635,6 @@
     "developer": "Capcom",
     "publisher": "Bandai",
     "first_released": "2002-04-11JP",
-    "jp_release": "April 11, 2002",
     "category": "licensed"
   },
   {
@@ -1988,7 +1642,6 @@
     "developer": "Will",
     "publisher": "Entertainment Software Publishing",
     "first_released": "1999-08-26JP",
-    "jp_release": "August 26, 1999",
     "category": "licensed"
   },
   {
@@ -1996,7 +1649,6 @@
     "developer": "HuneX",
     "publisher": "Alchemist",
     "first_released": "2002-09-26JP",
-    "jp_release": "September 26, 2002",
     "category": "licensed"
   },
   {
@@ -2004,8 +1656,6 @@
     "developer": "SNK",
     "publisher": "Agetec",
     "first_released": "2000-03-30JP",
-    "jp_release": "March 30, 2000",
-    "na_release": "May 8, 2001",
     "category": "licensed"
   },
   {
@@ -2013,8 +1663,6 @@
     "developer": "SNK",
     "publisher": "SNK",
     "first_released": "1999-06-24JP",
-    "jp_release": "June 24, 1999",
-    "na_release": "October 22, 1999",
     "category": "licensed"
   },
   {
@@ -2022,7 +1670,6 @@
     "developer": "Playmore",
     "publisher": "Playmore",
     "first_released": "2002-08-08JP",
-    "jp_release": "August 8, 2002",
     "category": "licensed"
   },
   {
@@ -2030,7 +1677,6 @@
     "developer": "Eolith",
     "publisher": "Playmore",
     "first_released": "2002-12-26JP",
-    "jp_release": "December 26, 2002",
     "category": "licensed"
   },
   {
@@ -2038,7 +1684,6 @@
     "developer": "Eolith",
     "publisher": "Playmore",
     "first_released": "2003-06-19JP",
-    "jp_release": "June 19, 2003",
     "category": "licensed"
   },
   {
@@ -2046,8 +1691,6 @@
     "developer": "Tremor Entertainment",
     "publisher": "Take-Two Interactive",
     "first_released": "2000-11-01NA",
-    "na_release": "November 1, 2000",
-    "pal_release": "January 19, 2001",
     "category": "licensed"
   },
   {
@@ -2055,7 +1698,6 @@
     "developer": "Red Company",
     "publisher": "Hudson Soft",
     "first_released": "1999-08-05JP",
-    "jp_release": "August 5, 1999",
     "category": "licensed"
   },
   {
@@ -2063,7 +1705,6 @@
     "developer": "Red Company",
     "publisher": "Hudson Soft",
     "first_released": "1999-03-18JP",
-    "jp_release": "March 18, 1999",
     "category": "licensed"
   },
   {
@@ -2071,7 +1712,6 @@
     "developer": "SPS",
     "publisher": "NetVillage",
     "first_released": "1999-11-18JP",
-    "jp_release": "November 18, 1999",
     "category": "licensed"
   },
   {
@@ -2079,7 +1719,6 @@
     "developer": "Sega",
     "publisher": "Sega",
     "first_released": "2000-04-27JP",
-    "jp_release": "April 27, 2000",
     "category": "licensed"
   },
   {
@@ -2087,7 +1726,6 @@
     "developer": "Vridge",
     "publisher": "Success",
     "first_released": "2001-04-26JP",
-    "jp_release": "April 26, 2001",
     "category": "licensed"
   },
   {
@@ -2095,7 +1733,6 @@
     "developer": "Vridge",
     "publisher": "Success",
     "first_released": "2002-11-28JP",
-    "jp_release": "November 28, 2002",
     "category": "licensed"
   },
   {
@@ -2103,7 +1740,6 @@
     "developer": "FOG Inc.",
     "publisher": "FOG Inc.",
     "first_released": "2000-05-18JP",
-    "jp_release": "May 18, 2000",
     "category": "licensed"
   },
   {
@@ -2111,7 +1747,6 @@
     "developer": "Nexus Interact",
     "publisher": "DaZZ",
     "first_released": "2000-03-23JP",
-    "jp_release": "March 23, 2000",
     "category": "licensed"
   },
   {
@@ -2119,7 +1754,6 @@
     "developer": "NCSSanta Entertainment",
     "publisher": "Masaya",
     "first_released": "1999-11-03JP",
-    "jp_release": "November 3, 1999",
     "category": "licensed"
   },
   {
@@ -2127,8 +1761,6 @@
     "developer": "SNK",
     "publisher": "Agetec",
     "first_released": "2000-12-21JP",
-    "jp_release": "December 21, 2000",
-    "na_release": "August 6, 2001",
     "category": "licensed"
   },
   {
@@ -2136,8 +1768,6 @@
     "developer": "Nixxes Software",
     "publisher": "Eidos Interactive",
     "first_released": "2000-01-25NA",
-    "na_release": "January 25, 2000",
-    "pal_release": "February 25, 2000",
     "category": "licensed"
   },
   {
@@ -2145,7 +1775,6 @@
     "developer": "Love-de-Lic",
     "publisher": "ASCII Corporation",
     "first_released": "2000-11-02JP",
-    "jp_release": "November 2, 2000",
     "category": "licensed"
   },
   {
@@ -2153,8 +1782,6 @@
     "developer": "Infogrames Melbourne House",
     "publisher": "Infogrames",
     "first_released": "2000-11-03PAL",
-    "na_release": "November 28, 2000",
-    "pal_release": "November 3, 2000",
     "category": "licensed"
   },
   {
@@ -2162,7 +1789,6 @@
     "developer": "Fortyfive",
     "publisher": "Sega",
     "first_released": "2001-03-29JP",
-    "jp_release": "March 29, 2001",
     "category": "licensed"
   },
   {
@@ -2170,7 +1796,6 @@
     "developer": "Fortyfive",
     "publisher": "Sega",
     "first_released": "2000-09-28JP",
-    "jp_release": "September 28, 2000",
     "category": "licensed"
   },
   {
@@ -2178,7 +1803,6 @@
     "developer": "SIMS",
     "publisher": "SIMS",
     "first_released": "1999-09-23JP",
-    "jp_release": "September 23, 1999",
     "category": "licensed"
   },
   {
@@ -2186,7 +1810,6 @@
     "developer": "Warashi",
     "publisher": "Shōeisha",
     "first_released": "2001-02-22JP",
-    "jp_release": "February 22, 2001",
     "category": "licensed"
   },
   {
@@ -2194,7 +1817,6 @@
     "developer": "Sega",
     "publisher": "Sega",
     "first_released": "2001-06-28JP",
-    "jp_release": "June 28, 2001",
     "category": "licensed"
   },
   {
@@ -2202,7 +1824,6 @@
     "developer": "White Clarity",
     "publisher": "PrincessSoft",
     "first_released": "2003-07-17JP",
-    "jp_release": "July 17, 2003",
     "category": "licensed"
   },
   {
@@ -2210,8 +1831,6 @@
     "developer": "VCC Entertainment",
     "publisher": "Crave Entertainment",
     "first_released": "2000-07-21NA",
-    "na_release": "July 21, 2000",
-    "pal_release": "August 25, 2000",
     "category": "licensed"
   },
   {
@@ -2219,7 +1838,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "1999-03-04JP",
-    "jp_release": "March 4, 1999",
     "category": "licensed"
   },
   {
@@ -2227,7 +1845,6 @@
     "developer": "Frontwing",
     "publisher": "NEC Interchannel",
     "first_released": "2003-06-26JP",
-    "jp_release": "June 26, 2003",
     "category": "licensed"
   },
   {
@@ -2235,9 +1852,6 @@
     "developer": "Atlus",
     "publisher": "Sega",
     "first_released": "1999-11-25JP",
-    "jp_release": "November 25, 1999",
-    "na_release": "April 25, 2000",
-    "pal_release": "July 7, 2000",
     "category": "licensed"
   },
   {
@@ -2245,7 +1859,6 @@
     "developer": "Kool Kizz",
     "publisher": "Kool Kizz",
     "first_released": "2000-11-15JP",
-    "jp_release": "November 15, 2001",
     "category": "licensed"
   },
   {
@@ -2253,7 +1866,6 @@
     "developer": "Microcabin",
     "publisher": "Microcabin",
     "first_released": "1999-10-07JP",
-    "jp_release": "October 7, 1999",
     "category": "licensed"
   },
   {
@@ -2261,7 +1873,6 @@
     "developer": "Microcabin",
     "publisher": "Microcabin",
     "first_released": "2000-05-18JP",
-    "jp_release": "May 18, 2000",
     "category": "licensed"
   },
   {
@@ -2269,7 +1880,6 @@
     "developer": "Micronet",
     "publisher": "Micronet",
     "first_released": "1999-07-29JP",
-    "jp_release": "July 29, 1999",
     "category": "licensed"
   },
   {
@@ -2277,7 +1887,6 @@
     "developer": "Micronet",
     "publisher": "Micronet",
     "first_released": "2000-11-09JP",
-    "jp_release": "November 9, 2000",
     "category": "licensed"
   },
   {
@@ -2285,8 +1894,6 @@
     "developer": "Takumi Corporation",
     "publisher": "Capcom",
     "first_released": "2000-11-09JP",
-    "jp_release": "November 9, 2000",
-    "na_release": "April 30, 2001",
     "category": "licensed"
   },
   {
@@ -2294,9 +1901,6 @@
     "developer": "Capcom",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "1999-03-25JP",
-    "jp_release": "March 25, 1999",
-    "na_release": "October 7, 1999",
-    "pal_release": "December 24, 1999",
     "category": "licensed"
   },
   {
@@ -2304,9 +1908,6 @@
     "developer": "Capcom",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "2000-03-30JP",
-    "jp_release": "March 30, 2000",
-    "na_release": "June 27, 2000",
-    "pal_release": "July 16, 2000",
     "category": "licensed"
   },
   {
@@ -2314,7 +1915,6 @@
     "developer": "Runecraft",
     "publisher": "Activision O2",
     "first_released": "2001-09-12NA",
-    "na_release": "September 12, 2001",
     "category": "licensed"
   },
   {
@@ -2322,7 +1922,6 @@
     "developer": "Treyarch",
     "publisher": "Mattel Interactive",
     "first_released": "2000-12-05NA",
-    "na_release": "December 5, 2000",
     "category": "licensed"
   },
   {
@@ -2330,7 +1929,6 @@
     "developer": "Dynamix",
     "publisher": "Sierra Sports",
     "first_released": "2000-11-16NA",
-    "na_release": "November 16, 2000",
     "category": "licensed"
   },
   {
@@ -2338,8 +1936,6 @@
     "developer": "BioWare",
     "publisher": "Interplay Entertainment",
     "first_released": "2000-03-29NA",
-    "na_release": "March 29, 2000",
-    "pal_release": "June 9, 2000",
     "category": "licensed"
   },
   {
@@ -2347,7 +1943,6 @@
     "developer": "PrincessSoft",
     "publisher": "PrincessSoft",
     "first_released": "2002-10-24JP",
-    "jp_release": "October 24, 2002",
     "category": "licensed"
   },
   {
@@ -2355,7 +1950,6 @@
     "developer": "KID",
     "publisher": "KID",
     "first_released": "2001-09-27JP",
-    "jp_release": "September 27, 2001",
     "category": "licensed"
   },
   {
@@ -2363,7 +1957,6 @@
     "developer": "KID",
     "publisher": "KID",
     "first_released": "2000-06-29JP",
-    "jp_release": "June 29, 2000",
     "category": "licensed"
   },
   {
@@ -2371,7 +1964,6 @@
     "developer": "LongshotStack",
     "publisher": "NEC Interchannel",
     "first_released": "2000-11-16JP",
-    "jp_release": "November 16, 2000",
     "category": "licensed"
   },
   {
@@ -2379,7 +1971,6 @@
     "developer": "PrincessSoft",
     "publisher": "PrincessSoft",
     "first_released": "2002-06-27JP",
-    "jp_release": "June 27, 2002",
     "category": "licensed"
   },
   {
@@ -2387,8 +1978,6 @@
     "developer": "Bizarre Creations",
     "publisher": "Sega",
     "first_released": "2000-11-03PAL",
-    "na_release": "January 16, 2001",
-    "pal_release": "November 3, 2000",
     "category": "licensed"
   },
   {
@@ -2396,8 +1985,6 @@
     "developer": "Digital Eclipse",
     "publisher": "Midway",
     "first_released": "2000-06-27NA",
-    "na_release": "June 27, 2000",
-    "pal_release": "July 28, 2000",
     "category": "licensed"
   },
   {
@@ -2405,7 +1992,6 @@
     "developer": "Digital Eclipse",
     "publisher": "Midway",
     "first_released": "2001-11-15NA",
-    "na_release": "November 15, 2001",
     "category": "licensed"
   },
   {
@@ -2413,7 +1999,6 @@
     "developer": "KID",
     "publisher": "KID",
     "first_released": "2002-02-28JP",
-    "jp_release": "February 28, 2002",
     "category": "licensed"
   },
   {
@@ -2421,9 +2006,6 @@
     "developer": "Rage Software",
     "publisher": "Imagineer",
     "first_released": "1999-06-24JP",
-    "jp_release": "June 24, 1999",
-    "na_release": "September 9, 1999",
-    "pal_release": "October 14, 1999",
     "category": "licensed"
   },
   {
@@ -2431,7 +2013,6 @@
     "developer": "Spiel",
     "publisher": "Naxat Soft",
     "first_released": "2001-06-21JP",
-    "jp_release": "June 21, 2001",
     "category": "licensed"
   },
   {
@@ -2439,7 +2020,6 @@
     "developer": "O-TWO inc.",
     "publisher": "FOG Inc.",
     "first_released": "2002-01-17JP",
-    "jp_release": "January 17, 2002",
     "category": "licensed"
   },
   {
@@ -2447,7 +2027,6 @@
     "developer": "FOG Inc.",
     "publisher": "FOG Inc.",
     "first_released": "2002-10-24JP",
-    "jp_release": "October 24, 2002",
     "category": "licensed"
   },
   {
@@ -2455,7 +2034,6 @@
     "developer": "FOG Inc.",
     "publisher": "FOG Inc.",
     "first_released": "2003-07-31JP",
-    "jp_release": "July 31, 2003",
     "category": "licensed"
   },
   {
@@ -2463,7 +2041,6 @@
     "developer": "HuneX",
     "publisher": "NEC Interchannel",
     "first_released": "2002-03-07JP",
-    "jp_release": "March 7, 2002",
     "category": "licensed"
   },
   {
@@ -2471,7 +2048,6 @@
     "developer": "KeroQ",
     "publisher": "PrincessSoft",
     "first_released": "2003-12-25JP",
-    "jp_release": "December 25, 2003",
     "category": "licensed"
   },
   {
@@ -2479,7 +2055,6 @@
     "developer": "Lost Toys",
     "publisher": "Take-Two Interactive",
     "first_released": "2000-11-24PAL",
-    "pal_release": "November 24, 2000",
     "category": "licensed"
   },
   {
@@ -2487,9 +2062,6 @@
     "developer": "Ubi Soft Paris",
     "publisher": "Ubi Soft",
     "first_released": "1999-03-11JP",
-    "jp_release": "March 11, 1999",
-    "na_release": "September 9, 1999",
-    "pal_release": "October 14, 1999",
     "category": "licensed"
   },
   {
@@ -2497,7 +2069,6 @@
     "developer": "Random House",
     "publisher": "Random House",
     "first_released": "1999-04-15JP",
-    "jp_release": "April 15, 1999",
     "category": "licensed"
   },
   {
@@ -2505,7 +2076,6 @@
     "developer": "Random House",
     "publisher": "Random House",
     "first_released": "1999-04-15JP",
-    "jp_release": "April 15, 1999",
     "category": "licensed"
   },
   {
@@ -2513,8 +2083,6 @@
     "developer": "Eurocom",
     "publisher": "Midway",
     "first_released": "1999-09-09NA",
-    "na_release": "September 9, 1999",
-    "pal_release": "October 29, 1999",
     "category": "licensed"
   },
   {
@@ -2522,7 +2090,6 @@
     "developer": "Smilebit",
     "publisher": "Sega",
     "first_released": "2000-09-28JP",
-    "jp_release": "September 28, 2000",
     "category": "licensed"
   },
   {
@@ -2530,7 +2097,6 @@
     "developer": "Ecole",
     "publisher": "Ecole",
     "first_released": "2002-12-26JP",
-    "jp_release": "December 26, 2002",
     "category": "licensed"
   },
   {
@@ -2538,9 +2104,6 @@
     "developer": "Namco",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "2000-06-23NA",
-    "jp_release": "June 29, 2000",
-    "na_release": "June 23, 2000",
-    "pal_release": "December 8, 2000",
     "category": "licensed"
   },
   {
@@ -2548,7 +2111,6 @@
     "developer": "Mass Media",
     "publisher": "Namco",
     "first_released": "2000-11-13NA",
-    "na_release": "November 13, 2000",
     "category": "licensed"
   },
   {
@@ -2556,8 +2118,6 @@
     "developer": "Darkblack",
     "publisher": "THQ",
     "first_released": "2000-10-20NA",
-    "na_release": "October 20, 2000",
-    "pal_release": "November 17, 2000",
     "category": "licensed"
   },
   {
@@ -2565,7 +2125,6 @@
     "developer": "KID",
     "publisher": "KID",
     "first_released": "2002-04-25JP",
-    "jp_release": "April 25, 2002",
     "category": "licensed"
   },
   {
@@ -2573,7 +2132,6 @@
     "developer": "KID",
     "publisher": "KID",
     "first_released": "2003-07-10JP",
-    "jp_release": "July 10, 2003",
     "category": "licensed"
   },
   {
@@ -2581,7 +2139,6 @@
     "developer": "Kool Kizz",
     "publisher": "Kool Kizz",
     "first_released": "2002-03-28JP",
-    "jp_release": "March 28, 2002",
     "category": "licensed"
   },
   {
@@ -2589,7 +2146,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "2000-01-20JP",
-    "jp_release": "January 20, 2000",
     "category": "licensed"
   },
   {
@@ -2597,7 +2153,6 @@
     "developer": "Mass Media",
     "publisher": "Namco",
     "first_released": "2000-06-25NA",
-    "na_release": "June 25, 2000",
     "category": "licensed"
   },
   {
@@ -2605,7 +2160,6 @@
     "developer": "Chime",
     "publisher": "Sega",
     "first_released": "2000-10-19JP",
-    "jp_release": "October 19, 2000",
     "category": "licensed"
   },
   {
@@ -2613,9 +2167,6 @@
     "developer": "Visual Concepts",
     "publisher": "Sega",
     "first_released": "1999-11-11NA",
-    "jp_release": "March 23, 2000",
-    "na_release": "November 11, 1999",
-    "pal_release": "August 2, 2000",
     "category": "licensed"
   },
   {
@@ -2623,8 +2174,6 @@
     "developer": "Visual Concepts",
     "publisher": "Sega",
     "first_released": "2000-10-31NA",
-    "jp_release": "March 29, 2001",
-    "na_release": "October 31, 2000",
     "category": "licensed"
   },
   {
@@ -2632,9 +2181,6 @@
     "developer": "Visual Concepts",
     "publisher": "Sega",
     "first_released": "2001-10-23NA",
-    "jp_release": "May 23, 2002",
-    "na_release": "October 23, 2001",
-    "pal_release": "March 8, 2002",
     "category": "licensed"
   },
   {
@@ -2642,8 +2188,6 @@
     "developer": "Eurocom",
     "publisher": "Midway",
     "first_released": "2001-02-15NA",
-    "na_release": "February 15, 2001",
-    "pal_release": "April 13, 2001",
     "category": "licensed"
   },
   {
@@ -2651,8 +2195,6 @@
     "developer": "Avalanche Software",
     "publisher": "Midway",
     "first_released": "1999-11-16NA",
-    "na_release": "November 16, 1999",
-    "pal_release": "November 26, 1999",
     "category": "licensed"
   },
   {
@@ -2660,7 +2202,6 @@
     "developer": "Visual Concepts",
     "publisher": "Sega",
     "first_released": "2001-08-28NA",
-    "na_release": "August 28, 2001",
     "category": "licensed"
   },
   {
@@ -2668,7 +2209,6 @@
     "developer": "LittleWing",
     "publisher": "Success",
     "first_released": "2000-10-26JP",
-    "jp_release": "October 26, 2000",
     "category": "licensed"
   },
   {
@@ -2676,7 +2216,6 @@
     "developer": "Falcon",
     "publisher": "Daikoku Denki",
     "first_released": "2000-07-06JP",
-    "jp_release": "July 6, 2000",
     "category": "licensed"
   },
   {
@@ -2684,7 +2223,6 @@
     "developer": "Falcon",
     "publisher": "Daikoku Denki",
     "first_released": "2000-09-28JP",
-    "jp_release": "September 28, 2000",
     "category": "licensed"
   },
   {
@@ -2692,7 +2230,6 @@
     "developer": "Falcon",
     "publisher": "Daikoku Denki",
     "first_released": "2000-12-14JP",
-    "jp_release": "December 14, 2000",
     "category": "licensed"
   },
   {
@@ -2700,7 +2237,6 @@
     "developer": "Falcon",
     "publisher": "Daikoku Denki",
     "first_released": "2000-12-14JP",
-    "jp_release": "December 14, 2000",
     "category": "licensed"
   },
   {
@@ -2708,7 +2244,6 @@
     "developer": "Falcon",
     "publisher": "Daikoku Denki",
     "first_released": "2001-02-15JP",
-    "jp_release": "February 15, 2001",
     "category": "licensed"
   },
   {
@@ -2716,7 +2251,6 @@
     "developer": "Falcon",
     "publisher": "Daikoku Denki",
     "first_released": "1999-11-25JP",
-    "jp_release": "November 25, 1999",
     "category": "licensed"
   },
   {
@@ -2724,7 +2258,6 @@
     "developer": "Yuki Enterprise",
     "publisher": "Atmark",
     "first_released": "2001-05-24JP",
-    "jp_release": "May 24, 2001",
     "category": "licensed"
   },
   {
@@ -2732,7 +2265,6 @@
     "developer": "Yuki Enterprise",
     "publisher": "Atmark",
     "first_released": "2001-05-24JP",
-    "jp_release": "May 24, 2001",
     "category": "licensed"
   },
   {
@@ -2740,7 +2272,6 @@
     "developer": "Yuki Enterprise",
     "publisher": "Atmark",
     "first_released": "2001-05-24JP",
-    "jp_release": "May 24, 2001",
     "category": "licensed"
   },
   {
@@ -2748,7 +2279,6 @@
     "developer": "Yuki Enterprise",
     "publisher": "Atmark",
     "first_released": "2001-05-24JP",
-    "jp_release": "May 24, 2001",
     "category": "licensed"
   },
   {
@@ -2756,7 +2286,6 @@
     "developer": "Yuki Enterprise",
     "publisher": "Atmark",
     "first_released": "2001-05-24JP",
-    "jp_release": "May 24, 2001",
     "category": "licensed"
   },
   {
@@ -2764,7 +2293,6 @@
     "developer": "Yuki Enterprise",
     "publisher": "Atmark",
     "first_released": "2001-05-24JP",
-    "jp_release": "May 24, 2001",
     "category": "licensed"
   },
   {
@@ -2772,7 +2300,6 @@
     "developer": "Yuki Enterprise",
     "publisher": "Atmark",
     "first_released": "2001-05-24JP",
-    "jp_release": "May 24, 2001",
     "category": "licensed"
   },
   {
@@ -2780,7 +2307,6 @@
     "developer": "Fortyfive",
     "publisher": "Takuyo",
     "first_released": "2000-07-27JP",
-    "jp_release": "July 27, 2000",
     "category": "licensed"
   },
   {
@@ -2788,7 +2314,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "2000-10-09JP",
-    "jp_release": "October 9, 2000",
     "category": "licensed"
   },
   {
@@ -2796,7 +2321,6 @@
     "developer": "Data East",
     "publisher": "Sega",
     "first_released": "2000-10-19JP",
-    "jp_release": "October 19, 2000",
     "category": "licensed"
   },
   {
@@ -2804,7 +2328,6 @@
     "developer": "KID",
     "publisher": "KID",
     "first_released": "2000-12-21JP",
-    "jp_release": "December 21, 2000",
     "category": "licensed"
   },
   {
@@ -2812,8 +2335,6 @@
     "developer": "Blue Planet Software",
     "publisher": "Crave Entertainment",
     "first_released": "2000-12-19NA",
-    "na_release": "December 19, 2000",
-    "pal_release": "May 4, 2001",
     "category": "licensed"
   },
   {
@@ -2821,8 +2342,6 @@
     "developer": "Visual Concepts",
     "publisher": "Sega",
     "first_released": "1999-09-09NA",
-    "jp_release": "January 20, 2000",
-    "na_release": "September 9, 1999",
     "category": "licensed"
   },
   {
@@ -2830,8 +2349,6 @@
     "developer": "Visual Concepts",
     "publisher": "Sega",
     "first_released": "2000-09-07NA",
-    "jp_release": "March 29, 2001",
-    "na_release": "September 7, 2000",
     "category": "licensed"
   },
   {
@@ -2839,8 +2356,6 @@
     "developer": "Visual Concepts",
     "publisher": "Sega",
     "first_released": "2001-09-18NA",
-    "jp_release": "March 28, 2002",
-    "na_release": "September 18, 2001",
     "category": "licensed"
   },
   {
@@ -2848,8 +2363,6 @@
     "developer": "Avalanche Software",
     "publisher": "Midway",
     "first_released": "1999-09-09NA",
-    "na_release": "September 9, 1999",
-    "pal_release": "December 8, 1999",
     "category": "licensed"
   },
   {
@@ -2857,7 +2370,6 @@
     "developer": "Avalanche Software",
     "publisher": "Midway",
     "first_released": "2000-09-12NA",
-    "na_release": "September 12, 2000",
     "category": "licensed"
   },
   {
@@ -2865,8 +2377,6 @@
     "developer": "Acclaim Studios Austin",
     "publisher": "Acclaim Sports",
     "first_released": "1999-11-29NA",
-    "na_release": "November 29, 1999",
-    "pal_release": "December 10, 1999",
     "category": "licensed"
   },
   {
@@ -2874,7 +2384,6 @@
     "developer": "High Voltage Software",
     "publisher": "Acclaim Sports",
     "first_released": "2000-08-24NA",
-    "na_release": "August 24, 2000",
     "category": "licensed"
   },
   {
@@ -2882,8 +2391,6 @@
     "developer": "Black Box Games",
     "publisher": "Sega",
     "first_released": "2000-02-09NA",
-    "na_release": "February 9, 2000",
-    "pal_release": "July 7, 2000",
     "category": "licensed"
   },
   {
@@ -2891,8 +2398,6 @@
     "developer": "Treyarch",
     "publisher": "Sega",
     "first_released": "2002-02-12NA",
-    "jp_release": "July 11, 2002",
-    "na_release": "February 12, 2002",
     "category": "licensed"
   },
   {
@@ -2900,8 +2405,6 @@
     "developer": "Kalisto Entertainment",
     "publisher": "Konami",
     "first_released": "2000-06-08NA",
-    "na_release": "June 8, 2000",
-    "pal_release": "September 8, 2000",
     "category": "licensed"
   },
   {
@@ -2909,7 +2412,6 @@
     "developer": "Naxat Soft",
     "publisher": "Naxat Soft",
     "first_released": "1999-11-18JP",
-    "jp_release": "November 18, 1999",
     "category": "licensed"
   },
   {
@@ -2917,7 +2419,6 @@
     "developer": "KeroQ",
     "publisher": "PrincessSoft",
     "first_released": "2002-02-28JP",
-    "jp_release": "February 28, 2002",
     "category": "licensed"
   },
   {
@@ -2925,7 +2426,6 @@
     "developer": "SoftMax",
     "publisher": "SoftMax",
     "first_released": "2001-02-22JP",
-    "jp_release": "February 22, 2001",
     "category": "licensed"
   },
   {
@@ -2933,7 +2433,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "1999-12-16JP",
-    "jp_release": "December 16, 1999",
     "category": "licensed"
   },
   {
@@ -2941,7 +2440,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "1999-03-25JP",
-    "jp_release": "March 25, 1999",
     "category": "licensed"
   },
   {
@@ -2949,7 +2447,6 @@
     "developer": "Red Company",
     "publisher": "Sega",
     "first_released": "2000-02-24JP",
-    "jp_release": "February 24, 2000",
     "category": "licensed"
   },
   {
@@ -2957,8 +2454,6 @@
     "developer": "Quantic Dream",
     "publisher": "Eidos Interactive",
     "first_released": "2000-06-22NA",
-    "na_release": "June 22, 2000",
-    "pal_release": "June 23, 2000",
     "category": "licensed"
   },
   {
@@ -2966,7 +2461,6 @@
     "developer": "KID",
     "publisher": "KID",
     "first_released": "2002-11-28JP",
-    "jp_release": "November 28, 2002",
     "category": "licensed"
   },
   {
@@ -2974,7 +2468,6 @@
     "developer": "Visual Concepts",
     "publisher": "Sega",
     "first_released": "2001-09-11NA",
-    "na_release": "September 11, 2001",
     "category": "licensed"
   },
   {
@@ -2982,7 +2475,6 @@
     "developer": "Hooksoft",
     "publisher": "Pionesoft",
     "first_released": "2004-04-28JP",
-    "jp_release": "April 28, 2004",
     "category": "licensed"
   },
   {
@@ -2990,7 +2482,6 @@
     "developer": "Entertainment Software Publishing",
     "publisher": "Entertainment Software PublishingMediaWorks",
     "first_released": "1999-12-16JP",
-    "jp_release": "December 16, 1999",
     "category": "licensed"
   },
   {
@@ -2998,9 +2489,6 @@
     "developer": "Sega AM2",
     "publisher": "Sega",
     "first_released": "2001-07-24NA",
-    "jp_release": "August 2, 2001",
-    "na_release": "July 24, 2001",
-    "pal_release": "August 3, 2001",
     "category": "licensed"
   },
   {
@@ -3008,7 +2496,6 @@
     "developer": "Media Entertainment",
     "publisher": "Media Entertainment",
     "first_released": "2001-07-26JP",
-    "jp_release": "July 26, 2001",
     "category": "licensed"
   },
   {
@@ -3016,7 +2503,6 @@
     "developer": "Media Entertainment",
     "publisher": "Media Entertainment",
     "first_released": "2001-09-27JP",
-    "jp_release": "September 27, 2001",
     "category": "licensed"
   },
   {
@@ -3024,7 +2510,6 @@
     "developer": "Microcabin",
     "publisher": "Microcabin",
     "first_released": "2001-10-04JP",
-    "jp_release": "October 4, 2001",
     "category": "licensed"
   },
   {
@@ -3032,7 +2517,6 @@
     "developer": "Pajamas Soft",
     "publisher": "NEC Interchannel",
     "first_released": "2002-09-12JP",
-    "jp_release": "September 12, 2002",
     "category": "licensed"
   },
   {
@@ -3040,7 +2524,6 @@
     "developer": "Shangri-La",
     "publisher": "ASCII Corporation",
     "first_released": "1999-12-22JP",
-    "jp_release": "December 22, 1999",
     "category": "licensed"
   },
   {
@@ -3048,7 +2531,6 @@
     "developer": "Pajamas Soft",
     "publisher": "Pionesoft",
     "first_released": "2004-09-22JP",
-    "jp_release": "September 22, 2004",
     "category": "licensed"
   },
   {
@@ -3056,9 +2538,6 @@
     "developer": "General Entertainment",
     "publisher": "General Entertainment",
     "first_released": "1998-11-27JP",
-    "jp_release": "November 27, 1998",
-    "na_release": "September 9, 1999",
-    "pal_release": "October 14, 1999",
     "category": "licensed"
   },
   {
@@ -3066,9 +2545,6 @@
     "developer": "Sonic Team",
     "publisher": "Sega",
     "first_released": "2000-12-21JP",
-    "jp_release": "December 21, 2000",
-    "na_release": "January 30, 2001",
-    "pal_release": "February 15, 2001",
     "category": "licensed"
   },
   {
@@ -3076,9 +2552,6 @@
     "developer": "Sonic Team",
     "publisher": "Sega",
     "first_released": "2001-06-07JP",
-    "jp_release": "June 7, 2001",
-    "na_release": "September 25, 2001",
-    "pal_release": "March 1, 2002",
     "category": "licensed"
   },
   {
@@ -3086,7 +2559,6 @@
     "developer": "Stack",
     "publisher": "NEC Interchannel",
     "first_released": "2003-02-06JP",
-    "jp_release": "February 6, 2003",
     "category": "licensed"
   },
   {
@@ -3094,7 +2566,6 @@
     "developer": "Stack",
     "publisher": "NEC Interchannel",
     "first_released": "2001-06-21JP",
-    "jp_release": "June 21, 2001",
     "category": "licensed"
   },
   {
@@ -3102,7 +2573,6 @@
     "developer": "F&C・FC02",
     "publisher": "NEC Interchannel",
     "first_released": "2003-03-27JP",
-    "jp_release": "March 27, 2003",
     "category": "licensed"
   },
   {
@@ -3110,7 +2580,6 @@
     "developer": "Pajamas Soft",
     "publisher": "KID",
     "first_released": "2004-06-17JP",
-    "jp_release": "June 17, 2004",
     "category": "licensed"
   },
   {
@@ -3118,9 +2587,6 @@
     "developer": "Capcom",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "1999-12-09JP",
-    "jp_release": "December 9, 1999",
-    "na_release": "April 10, 2000",
-    "pal_release": "August 25, 2000",
     "category": "licensed"
   },
   {
@@ -3128,7 +2594,6 @@
     "developer": "Sega",
     "publisher": "Sega",
     "first_released": "2000-12-04PAL",
-    "pal_release": "December 4, 2000",
     "category": "licensed"
   },
   {
@@ -3136,7 +2601,6 @@
     "developer": "Takuyo",
     "publisher": "Takuyo",
     "first_released": "1999-10-07JP",
-    "jp_release": "October 7, 1999",
     "category": "licensed"
   },
   {
@@ -3144,7 +2608,6 @@
     "developer": "Success",
     "publisher": "Datam Polystar",
     "first_released": "2000-06-08NA",
-    "jp_release": "June 8, 2000",
     "category": "licensed"
   },
   {
@@ -3152,8 +2615,6 @@
     "developer": "Ubi Soft Bucharest",
     "publisher": "Ubi Soft",
     "first_released": "2000-12-06NA",
-    "na_release": "December 6, 2000",
-    "pal_release": "December 14, 2000",
     "category": "licensed"
   },
   {
@@ -3161,7 +2622,6 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "1999-02-25JP",
-    "jp_release": "February 25, 1999",
     "category": "licensed"
   },
   {
@@ -3169,7 +2629,6 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "1999-09-14JP",
-    "jp_release": "September 14, 1999",
     "category": "licensed"
   },
   {
@@ -3177,7 +2636,6 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "2000-02-10JP",
-    "jp_release": "February 10, 2000",
     "category": "licensed"
   },
   {
@@ -3185,7 +2643,6 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "2000-10-12JP",
-    "jp_release": "October 12, 2000",
     "category": "licensed"
   },
   {
@@ -3193,9 +2650,6 @@
     "developer": "Capcom",
     "publisher": "Eidos Interactive",
     "first_released": "1999-02-25JP",
-    "jp_release": "February 25, 1999",
-    "na_release": "September 9, 1999",
-    "pal_release": "October 14, 1999",
     "category": "licensed"
   },
   {
@@ -3203,9 +2657,6 @@
     "developer": "Capcom",
     "publisher": "Eidos Interactive",
     "first_released": "2000-04-27JP",
-    "jp_release": "April 27, 2000",
-    "na_release": "August 23, 2000",
-    "pal_release": "August 24, 2000",
     "category": "licensed"
   },
   {
@@ -3213,7 +2664,6 @@
     "developer": "Avalanche Software",
     "publisher": "Mattel Interactive",
     "first_released": "2000-12-04NA",
-    "na_release": "December 4, 2000",
     "category": "licensed"
   },
   {
@@ -3221,7 +2671,6 @@
     "developer": "August",
     "publisher": "Alchemist",
     "first_released": "2003-05-29JP",
-    "jp_release": "May 29, 2003",
     "category": "licensed"
   },
   {
@@ -3229,7 +2678,6 @@
     "developer": "Ninelives",
     "publisher": "GeneX",
     "first_released": "2001-07-19JP",
-    "jp_release": "July 19, 2001",
     "category": "licensed"
   },
   {
@@ -3237,7 +2685,6 @@
     "developer": "KID",
     "publisher": "KID",
     "first_released": "2001-11-29JP",
-    "jp_release": "November 29, 2001",
     "category": "licensed"
   },
   {
@@ -3245,7 +2692,6 @@
     "developer": "Arc System Works",
     "publisher": "Arc System Works",
     "first_released": "2000-08-24JP",
-    "jp_release": "August 24, 2000",
     "category": "licensed"
   },
   {
@@ -3253,9 +2699,6 @@
     "developer": "Capcom",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "2000-12-07JP",
-    "jp_release": "December 7, 2000",
-    "na_release": "May 16, 2001",
-    "pal_release": "April 13, 2001",
     "category": "licensed"
   },
   {
@@ -3263,7 +2706,6 @@
     "developer": "Athena",
     "publisher": "Athena",
     "first_released": "2000-03-30JP",
-    "jp_release": "March 30, 2000",
     "category": "licensed"
   },
   {
@@ -3271,7 +2713,6 @@
     "developer": "Cunning Developments",
     "publisher": "Empire Interactive",
     "first_released": "2001-05-18PAL",
-    "pal_release": "May 18, 2001",
     "category": "licensed"
   },
   {
@@ -3279,7 +2720,6 @@
     "developer": "Sega R&D6",
     "publisher": "Sega",
     "first_released": "1999-12-23JP",
-    "jp_release": "December 23, 1999",
     "category": "licensed"
   },
   {
@@ -3287,7 +2727,6 @@
     "developer": "Smilebit",
     "publisher": "Sega",
     "first_released": "2000-08-10JP",
-    "jp_release": "August 10, 2000",
     "category": "licensed"
   },
   {
@@ -3295,7 +2734,6 @@
     "developer": "Sega R&D6",
     "publisher": "Sega",
     "first_released": "1999-08-05JP",
-    "jp_release": "August 5, 1999",
     "category": "licensed"
   },
   {
@@ -3303,9 +2741,6 @@
     "developer": "Taito",
     "publisher": "Taito",
     "first_released": "1999-03-04JP",
-    "jp_release": "March 4, 1999",
-    "na_release": "November 9, 1999",
-    "pal_release": "September 4, 2000",
     "category": "licensed"
   },
   {
@@ -3313,7 +2748,6 @@
     "developer": "SKONEC",
     "publisher": "Success",
     "first_released": "2004-02-26JP",
-    "jp_release": "February 26, 2004",
     "category": "licensed"
   },
   {
@@ -3321,7 +2755,6 @@
     "developer": "Compile",
     "publisher": "Compile",
     "first_released": "1999-12-16JP",
-    "jp_release": "December 16, 1999",
     "category": "licensed"
   },
   {
@@ -3329,7 +2762,6 @@
     "developer": "Sonic Team",
     "publisher": "Sega",
     "first_released": "2004-02-24JP",
-    "jp_release": "February 24, 2004",
     "category": "licensed"
   },
   {
@@ -3337,7 +2769,6 @@
     "developer": "Compile",
     "publisher": "Sega",
     "first_released": "1999-03-04JP",
-    "jp_release": "March 4, 1999",
     "category": "licensed"
   },
   {
@@ -3345,7 +2776,6 @@
     "developer": "Pipe Dream Interactive",
     "publisher": "Hasbro Interactive",
     "first_released": "2000-12-05NA",
-    "na_release": "December 5, 2000",
     "category": "licensed"
   },
   {
@@ -3353,8 +2783,6 @@
     "developer": "Raster Productions",
     "publisher": "Sega",
     "first_released": "2000-10-19NA",
-    "na_release": "October 19, 2000",
-    "pal_release": "December 8, 2000",
     "category": "licensed"
   },
   {
@@ -3362,7 +2790,6 @@
     "developer": "Wow Entertainment",
     "publisher": "Sega",
     "first_released": "2000-11-30JP",
-    "jp_release": "November 30, 2000",
     "category": "licensed"
   },
   {
@@ -3370,7 +2797,6 @@
     "developer": "Ubi Soft Paris",
     "publisher": "Ubi Soft",
     "first_released": "2001-11-23PAL",
-    "pal_release": "November 23, 2001",
     "category": "licensed"
   },
   {
@@ -3378,7 +2804,6 @@
     "developer": "MileStone Inc.",
     "publisher": "MileStone Inc.",
     "first_released": "2006-02-16JP",
-    "jp_release": "February 16, 2006",
     "category": "licensed"
   },
   {
@@ -3386,8 +2811,6 @@
     "developer": "Tremor Entertainment",
     "publisher": "Gathering of Developers",
     "first_released": "2000-07-31NA",
-    "na_release": "July 31, 2000",
-    "pal_release": "November 10, 2000",
     "category": "licensed"
   },
   {
@@ -3395,7 +2818,6 @@
     "developer": "Success",
     "publisher": "Success",
     "first_released": "2000-01-20JP",
-    "jp_release": "January 20, 2000",
     "category": "licensed"
   },
   {
@@ -3403,9 +2825,6 @@
     "developer": "Ubi Pictures",
     "publisher": "Ubi Soft",
     "first_released": "2000-03-21NA",
-    "jp_release": "March 23, 2000",
-    "na_release": "March 21, 2000",
-    "pal_release": "July 26, 2000",
     "category": "licensed"
   },
   {
@@ -3413,8 +2832,6 @@
     "developer": "Titanium Studios",
     "publisher": "Crave Entertainment",
     "first_released": "2001-08-08NA",
-    "na_release": "August 8, 2001",
-    "pal_release": "April 26, 2002",
     "category": "licensed"
   },
   {
@@ -3422,7 +2839,6 @@
     "developer": "Fupac",
     "publisher": "GN Software",
     "first_released": "2003-11-27JP",
-    "jp_release": "November 27, 2003",
     "category": "licensed"
   },
   {
@@ -3430,7 +2846,6 @@
     "developer": "Aspect",
     "publisher": "Sega",
     "first_released": "2000-05-25JP",
-    "jp_release": "May 25, 2000",
     "category": "licensed"
   },
   {
@@ -3438,7 +2853,6 @@
     "developer": "Data East",
     "publisher": "Data East",
     "first_released": "1999-10-28JP",
-    "jp_release": "October 28, 1999",
     "category": "licensed"
   },
   {
@@ -3446,9 +2860,6 @@
     "developer": "Acclaim Studios London",
     "publisher": "Acclaim Entertainment",
     "first_released": "1999-12-17NA",
-    "jp_release": "July 13, 2000",
-    "na_release": "December 17, 1999",
-    "pal_release": "August 2, 2000",
     "category": "licensed"
   },
   {
@@ -3456,9 +2867,6 @@
     "developer": "Midway Studios San Diego",
     "publisher": "Midway",
     "first_released": "1999-09-09NA",
-    "jp_release": "January 13, 2000",
-    "na_release": "September 9, 1999",
-    "pal_release": "October 14, 1999",
     "category": "licensed"
   },
   {
@@ -3466,8 +2874,6 @@
     "developer": "Midway Studios San Diego",
     "publisher": "Midway",
     "first_released": "2000-10-24NA",
-    "na_release": "October 24, 2000",
-    "pal_release": "November 10, 2000",
     "category": "licensed"
   },
   {
@@ -3475,7 +2881,6 @@
     "developer": "Warp",
     "publisher": "Warp",
     "first_released": "1999-03-11JP",
-    "jp_release": "March 11, 1999",
     "category": "licensed"
   },
   {
@@ -3483,9 +2888,6 @@
     "developer": "Neverland",
     "publisher": "Kadokawa Shoten",
     "first_released": "2000-06-29JP",
-    "jp_release": "June 29, 2000",
-    "na_release": "March 14, 2001",
-    "pal_release": "December 15, 2000",
     "category": "licensed"
   },
   {
@@ -3493,8 +2895,6 @@
     "developer": "Argonaut Games",
     "publisher": "Sega",
     "first_released": "2000-04-21PAL",
-    "na_release": "October 31, 2000",
-    "pal_release": "April 21, 2000",
     "category": "licensed"
   },
   {
@@ -3502,8 +2902,6 @@
     "developer": "Westone Bit Entertainment",
     "publisher": "Victor Interactive Software",
     "first_released": "2001-02-22JP",
-    "jp_release": "February 22, 2001",
-    "na_release": "July 24, 2001",
     "category": "licensed"
   },
   {
@@ -3511,9 +2909,6 @@
     "developer": "Capcom",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "1999-12-22JP",
-    "jp_release": "December 22, 1999",
-    "na_release": "December 13, 2000",
-    "pal_release": "April 28, 2000",
     "category": "licensed"
   },
   {
@@ -3521,9 +2916,6 @@
     "developer": "Capcom",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "2000-11-15NA",
-    "jp_release": "November 16, 2000",
-    "na_release": "November 15, 2000",
-    "pal_release": "December 22, 2000",
     "category": "licensed"
   },
   {
@@ -3531,9 +2923,6 @@
     "developer": "Capcom Production Studio 4",
     "publisher": "Capcom",
     "first_released": "2000-02-03JP",
-    "jp_release": "February 3, 2000",
-    "na_release": "March 28, 2000",
-    "pal_release": "May 26, 2000",
     "category": "licensed"
   },
   {
@@ -3541,8 +2930,6 @@
     "developer": "United Game Artists",
     "publisher": "Sega",
     "first_released": "2001-11-22JP",
-    "jp_release": "November 22, 2001",
-    "pal_release": "January 11, 2002",
     "category": "licensed"
   },
   {
@@ -3550,8 +2937,6 @@
     "developer": "Asmik Ace Entertainment",
     "publisher": "Infogrames North America",
     "first_released": "2000-02-24JP",
-    "jp_release": "February 24, 2000",
-    "na_release": "September 26, 2000",
     "category": "licensed"
   },
   {
@@ -3559,9 +2944,6 @@
     "developer": "UEP Systems",
     "publisher": "Sega",
     "first_released": "1999-08-26JP",
-    "jp_release": "August 26, 1999",
-    "na_release": "November 10, 1999",
-    "pal_release": "November 12, 1999",
     "category": "licensed"
   },
   {
@@ -3569,8 +2951,6 @@
     "developer": "Player 1",
     "publisher": "Titus Interactive",
     "first_released": "2000-03-20NA",
-    "na_release": "March 20, 2000",
-    "pal_release": "July 7, 2000",
     "category": "licensed"
   },
   {
@@ -3578,7 +2958,6 @@
     "developer": "Sega",
     "publisher": "Sega",
     "first_released": "2000-01-27JP",
-    "jp_release": "January 27, 2000",
     "category": "licensed"
   },
   {
@@ -3586,7 +2965,6 @@
     "developer": "Fupac",
     "publisher": "Datam Polystar",
     "first_released": "2002-11-21JP",
-    "jp_release": "November 21, 2002",
     "category": "licensed"
   },
   {
@@ -3594,7 +2972,6 @@
     "developer": "Fupac",
     "publisher": "Datam Polystar",
     "first_released": "2000-06-29JP",
-    "jp_release": "June 29, 2000",
     "category": "licensed"
   },
   {
@@ -3602,7 +2979,6 @@
     "developer": "Yuki Enterprise",
     "publisher": "Idea Factory",
     "first_released": "2001-09-06JP",
-    "jp_release": "September 6, 2001",
     "category": "licensed"
   },
   {
@@ -3610,7 +2986,6 @@
     "developer": "Noisia",
     "publisher": "Vision",
     "first_released": "2000-08-24JP",
-    "jp_release": "August 24, 2000",
     "category": "licensed"
   },
   {
@@ -3618,7 +2993,6 @@
     "developer": "Hudson Soft",
     "publisher": "Hudson Soft",
     "first_released": "2000-08-24JP",
-    "jp_release": "August 24, 2000",
     "category": "licensed"
   },
   {
@@ -3626,7 +3000,6 @@
     "developer": "Datam Polystar",
     "publisher": "Datam Polystar",
     "first_released": "2001-11-08JP",
-    "jp_release": "November 8, 2001",
     "category": "licensed"
   },
   {
@@ -3634,7 +3007,6 @@
     "developer": "Fupac",
     "publisher": "Datam Polystar",
     "first_released": "2001-07-05JP",
-    "jp_release": "July 5, 2001",
     "category": "licensed"
   },
   {
@@ -3642,7 +3014,6 @@
     "developer": "Smilebit",
     "publisher": "Sega",
     "first_released": "2000-12-21JP",
-    "jp_release": "December 21, 2000",
     "category": "licensed"
   },
   {
@@ -3650,7 +3021,6 @@
     "developer": "Smilebit",
     "publisher": "Sega",
     "first_released": "2001-12-13JP",
-    "jp_release": "December 13, 2001",
     "category": "licensed"
   },
   {
@@ -3658,7 +3028,6 @@
     "developer": "Psy-Gong",
     "publisher": "Marvelous Entertainment",
     "first_released": "2000-04-20JP",
-    "jp_release": "April 20, 2000",
     "category": "licensed"
   },
   {
@@ -3666,7 +3035,6 @@
     "developer": "Sega CS2 R&D",
     "publisher": "Sega",
     "first_released": "2000-05-25JP",
-    "jp_release": "May 25, 2000",
     "category": "licensed"
   },
   {
@@ -3674,7 +3042,6 @@
     "developer": "Sega CS2 R&D",
     "publisher": "Sega",
     "first_released": "2000-09-21JP",
-    "jp_release": "September 21, 2000",
     "category": "licensed"
   },
   {
@@ -3682,7 +3049,6 @@
     "developer": "Red Company",
     "publisher": "Sega",
     "first_released": "2001-03-22JP",
-    "jp_release": "March 22, 2001",
     "category": "licensed"
   },
   {
@@ -3690,7 +3056,6 @@
     "developer": "Red Company",
     "publisher": "Sega",
     "first_released": "2002-03-21JP",
-    "jp_release": "March 21, 2002",
     "category": "licensed"
   },
   {
@@ -3698,7 +3063,6 @@
     "developer": "Overworks",
     "publisher": "Sega",
     "first_released": "2001-12-20JP",
-    "jp_release": "December 20, 2001",
     "category": "licensed"
   },
   {
@@ -3706,7 +3070,6 @@
     "developer": "Overworks",
     "publisher": "Sega",
     "first_released": "2001-12-20JP",
-    "jp_release": "December 20, 2001",
     "category": "licensed"
   },
   {
@@ -3714,9 +3077,6 @@
     "developer": "Sonic Team",
     "publisher": "Sega",
     "first_released": "2000-04-27JP",
-    "jp_release": "April 27, 2000",
-    "na_release": "October 17, 2000",
-    "pal_release": "December 8, 2000",
     "category": "licensed"
   },
   {
@@ -3724,7 +3084,6 @@
     "developer": "Sonic Team",
     "publisher": "Sega",
     "first_released": "2000-12-14JP",
-    "jp_release": "December 14, 2000",
     "category": "licensed"
   },
   {
@@ -3732,8 +3091,6 @@
     "developer": "Midway Games West",
     "publisher": "Midway",
     "first_released": "2000-09-06NA",
-    "na_release": "September 6, 2000",
-    "pal_release": "September 29, 2000",
     "category": "licensed"
   },
   {
@@ -3741,7 +3098,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "1999-03-25JP",
-    "jp_release": "March 25, 1999",
     "category": "licensed"
   },
   {
@@ -3749,7 +3105,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "2000-04-06JP",
-    "jp_release": "April 6, 2000",
     "category": "licensed"
   },
   {
@@ -3757,8 +3112,6 @@
     "developer": "Vivarium",
     "publisher": "Sega",
     "first_released": "1999-07-29JP",
-    "jp_release": "July 29, 1999",
-    "na_release": "August 8, 2000",
     "category": "licensed"
   },
   {
@@ -3766,7 +3119,6 @@
     "developer": "Vivarium",
     "publisher": "Vivarium",
     "first_released": "2001-08-10NA",
-    "jp_release": "August 10, 2001",
     "category": "licensed"
   },
   {
@@ -3774,9 +3126,6 @@
     "developer": "SIMS",
     "publisher": "Sega",
     "first_released": "1999-04-01JP",
-    "jp_release": "April 1, 1999",
-    "na_release": "October 6, 1999",
-    "pal_release": "October 14, 1999",
     "category": "licensed"
   },
   {
@@ -3784,8 +3133,6 @@
     "developer": "Wow Entertainment",
     "publisher": "Sega",
     "first_released": "2001-08-21NA",
-    "jp_release": "August 30, 2001",
-    "na_release": "August 21, 2001",
     "category": "licensed"
   },
   {
@@ -3793,9 +3140,6 @@
     "developer": "Innerloop Studios",
     "publisher": "Sega",
     "first_released": "2000-10-27PAL",
-    "jp_release": "September 6, 2001",
-    "na_release": "November 28, 2000",
-    "pal_release": "October 27, 2000",
     "category": "licensed"
   },
   {
@@ -3803,9 +3147,6 @@
     "developer": "Wow Entertainment",
     "publisher": "Sega",
     "first_released": "2000-02-17JP",
-    "jp_release": "February 17, 2000",
-    "na_release": "August 29, 2000",
-    "pal_release": "December 1, 2000",
     "category": "licensed"
   },
   {
@@ -3813,7 +3154,6 @@
     "developer": "Hitmaker",
     "publisher": "Sega",
     "first_released": "2001-03-29JP",
-    "jp_release": "March 29, 2001",
     "category": "licensed"
   },
   {
@@ -3821,8 +3161,6 @@
     "developer": "Wow Entertainment",
     "publisher": "Sega",
     "first_released": "2000-10-16NA",
-    "jp_release": "October 19, 2000",
-    "na_release": "October 16, 2000",
     "category": "licensed"
   },
   {
@@ -3830,9 +3168,6 @@
     "developer": "Smilebit",
     "publisher": "Sega",
     "first_released": "1999-01-28JP",
-    "jp_release": "January 28, 1999",
-    "na_release": "November 30, 1999",
-    "pal_release": "October 14, 1999",
     "category": "licensed"
   },
   {
@@ -3840,7 +3175,6 @@
     "developer": "Sega",
     "publisher": "Sega",
     "first_released": "2001-01-30NA",
-    "na_release": "January 30, 2001",
     "category": "licensed"
   },
   {
@@ -3848,9 +3182,6 @@
     "developer": "Tremor Entertainment",
     "publisher": "Sega",
     "first_released": "2000-02-02NA",
-    "jp_release": "2000",
-    "na_release": "February 2, 2000",
-    "pal_release": "2000",
     "category": "licensed"
   },
   {
@@ -3858,7 +3189,6 @@
     "developer": "Wow Entertainment",
     "publisher": "Sega",
     "first_released": "2000-11-23JP",
-    "jp_release": "November 23, 2000",
     "category": "licensed"
   },
   {
@@ -3866,7 +3196,6 @@
     "developer": "Silicon Dreams Studio",
     "publisher": "Sega",
     "first_released": "1999-12-01PAL",
-    "pal_release": "December 1, 1999",
     "category": "licensed"
   },
   {
@@ -3874,7 +3203,6 @@
     "developer": "Silicon Dreams Studio",
     "publisher": "Sega",
     "first_released": "2000-05-26PAL",
-    "pal_release": "May 26, 2000",
     "category": "licensed"
   },
   {
@@ -3882,7 +3210,6 @@
     "developer": "Winkysoft",
     "publisher": "Winkysoft",
     "first_released": "2000-09-28JP",
-    "jp_release": "September 28, 2000",
     "category": "licensed"
   },
   {
@@ -3890,7 +3217,6 @@
     "developer": "Hitachi Media Force",
     "publisher": "TBS",
     "first_released": "1999-07-22JP",
-    "jp_release": "July 22, 1999",
     "category": "licensed"
   },
   {
@@ -3898,7 +3224,6 @@
     "developer": "NEC Home Electronics",
     "publisher": "NEC Home Electronics",
     "first_released": "1999-01-14JP",
-    "jp_release": "January 14, 1999",
     "category": "licensed"
   },
   {
@@ -3906,7 +3231,6 @@
     "developer": "NEC Home Electronics",
     "publisher": "NEC Home Electronics",
     "first_released": "1999-12-23JP",
-    "jp_release": "December 23, 1999",
     "category": "licensed"
   },
   {
@@ -3914,7 +3238,6 @@
     "developer": "NEC Interchannel",
     "publisher": "NEC Interchannel",
     "first_released": "2000-07-27JP",
-    "jp_release": "July 27, 2000",
     "category": "licensed"
   },
   {
@@ -3922,7 +3245,6 @@
     "developer": "NEC Interchannel",
     "publisher": "NEC Interchannel",
     "first_released": "2003-12-25JP",
-    "jp_release": "December 25, 2003",
     "category": "licensed"
   },
   {
@@ -3930,8 +3252,6 @@
     "developer": "HuneX",
     "publisher": "NEC Home Electronics",
     "first_released": "1998-12-23JP",
-    "jp_release": "December 23, 1998",
-    "na_release": "January 15, 2000",
     "category": "licensed"
   },
   {
@@ -3939,8 +3259,6 @@
     "developer": "Acclaim Studios Teesside",
     "publisher": "Acclaim Entertainment",
     "first_released": "1999-12-01NA",
-    "na_release": "December 1, 1999",
-    "pal_release": "January 21, 2000",
     "category": "licensed"
   },
   {
@@ -3948,7 +3266,6 @@
     "developer": "Success",
     "publisher": "Success",
     "first_released": "2000-03-16JP",
-    "jp_release": "March 16, 2000",
     "category": "licensed"
   },
   {
@@ -3956,9 +3273,6 @@
     "developer": "Sega AM2",
     "publisher": "Sega",
     "first_released": "1999-12-29JP",
-    "jp_release": "December 29, 1999",
-    "na_release": "November 7, 2000",
-    "pal_release": "December 1, 2000",
     "category": "licensed"
   },
   {
@@ -3966,8 +3280,6 @@
     "developer": "Sega AM2",
     "publisher": "Sega",
     "first_released": "2001-09-06JP",
-    "jp_release": "September 6, 2001",
-    "pal_release": "November 23, 2001",
     "category": "licensed"
   },
   {
@@ -3975,7 +3287,6 @@
     "developer": "Alfa System",
     "publisher": "Alfa System",
     "first_released": "2004-03-25JP",
-    "jp_release": "March 25, 2004",
     "category": "licensed"
   },
   {
@@ -3983,7 +3294,6 @@
     "developer": "Altron",
     "publisher": "Altron",
     "first_released": "1999-07-22JP",
-    "jp_release": "July 22, 1999",
     "category": "licensed"
   },
   {
@@ -3991,7 +3301,6 @@
     "developer": "Visit",
     "publisher": "Visit",
     "first_released": "2001-02-01JP",
-    "jp_release": "February 1, 2001",
     "category": "licensed"
   },
   {
@@ -3999,7 +3308,6 @@
     "developer": "Gainax",
     "publisher": "Broccoli",
     "first_released": "2002-04-18JP",
-    "jp_release": "April 18, 2002",
     "category": "licensed"
   },
   {
@@ -4007,7 +3315,6 @@
     "developer": "Gainax",
     "publisher": "Gainax",
     "first_released": "2001-04-19JP",
-    "jp_release": "April 19, 2001",
     "category": "licensed"
   },
   {
@@ -4015,7 +3322,6 @@
     "developer": "Gainax",
     "publisher": "Gainax",
     "first_released": "2001-08-30JP",
-    "jp_release": "August 30, 2001",
     "category": "licensed"
   },
   {
@@ -4023,7 +3329,6 @@
     "developer": "Yuke's",
     "publisher": "Tomy",
     "first_released": "1999-09-02JP",
-    "jp_release": "September 2, 1999",
     "category": "licensed"
   },
   {
@@ -4031,7 +3336,6 @@
     "developer": "Littlewitch",
     "publisher": "NEC Interchannel",
     "first_released": "2003-06-26JP",
-    "jp_release": "June 26, 2003",
     "category": "licensed"
   },
   {
@@ -4039,9 +3343,6 @@
     "developer": "Konami",
     "publisher": "Konami",
     "first_released": "2000-10-12JP",
-    "jp_release": "October 12, 2000",
-    "na_release": "October 23, 2000",
-    "pal_release": "November 17, 2000",
     "category": "licensed"
   },
   {
@@ -4049,8 +3350,6 @@
     "developer": "Spiral House",
     "publisher": "Infogrames",
     "first_released": "2000-06-28NA",
-    "na_release": "June 28, 2000",
-    "pal_release": "June 30, 2000",
     "category": "licensed"
   },
   {
@@ -4058,7 +3357,6 @@
     "developer": "HuneX",
     "publisher": "D3 Publisher",
     "first_released": "2002-08-29JP",
-    "jp_release": "August 29, 2002",
     "category": "licensed"
   },
   {
@@ -4066,7 +3364,6 @@
     "developer": "HuneX",
     "publisher": "D3 Publisher",
     "first_released": "2002-09-26JP",
-    "jp_release": "September 26, 2002",
     "category": "licensed"
   },
   {
@@ -4074,7 +3371,6 @@
     "developer": "HuneX",
     "publisher": "D3 Publisher",
     "first_released": "2002-09-26JP",
-    "jp_release": "September 26, 2002",
     "category": "licensed"
   },
   {
@@ -4082,7 +3378,6 @@
     "developer": "HuneX",
     "publisher": "D3 Publisher",
     "first_released": "2002-09-26JP",
-    "jp_release": "September 26, 2002",
     "category": "licensed"
   },
   {
@@ -4090,7 +3385,6 @@
     "developer": "Stack",
     "publisher": "MediaWorks",
     "first_released": "2002-03-28JP",
-    "jp_release": "March 28, 2002",
     "category": "licensed"
   },
   {
@@ -4098,9 +3392,6 @@
     "developer": "Overworks",
     "publisher": "Sega",
     "first_released": "2000-10-05JP",
-    "jp_release": "October 5, 2000",
-    "na_release": "November 13, 2000",
-    "pal_release": "April 27, 2001",
     "category": "licensed"
   },
   {
@@ -4108,8 +3399,6 @@
     "developer": "Infogrames North America",
     "publisher": "Infogrames Multimedia",
     "first_released": "1999-11-17NA",
-    "na_release": "November 17, 1999",
-    "pal_release": "March 24, 2000",
     "category": "licensed"
   },
   {
@@ -4117,8 +3406,6 @@
     "developer": "Unique Development Studios",
     "publisher": "Crave Entertainment",
     "first_released": "2000-11-29NA",
-    "na_release": "November 29, 2000",
-    "pal_release": "January 19, 2001",
     "category": "licensed"
   },
   {
@@ -4126,7 +3413,6 @@
     "developer": "Studio Mebius",
     "publisher": "NEC Interchannel",
     "first_released": "2003-09-25JP",
-    "jp_release": "September 25, 2003",
     "category": "licensed"
   },
   {
@@ -4134,8 +3420,6 @@
     "developer": "Runecraft",
     "publisher": "Crave Entertainment",
     "first_released": "2001-07-26NA",
-    "na_release": "July 26, 2001",
-    "pal_release": "August 17, 2001",
     "category": "licensed"
   },
   {
@@ -4143,9 +3427,6 @@
     "developer": "Sonic Team",
     "publisher": "Sega",
     "first_released": "1998-12-23JP",
-    "jp_release": "December 23, 1998",
-    "na_release": "September 9, 1999",
-    "pal_release": "October 14, 1999",
     "category": "licensed"
   },
   {
@@ -4153,9 +3434,6 @@
     "developer": "Sonic Team USA",
     "publisher": "Sega",
     "first_released": "2001-06-19NA",
-    "jp_release": "June 23, 2001",
-    "na_release": "June 19, 2001",
-    "pal_release": "June 23, 2001",
     "category": "licensed"
   },
   {
@@ -4163,9 +3441,6 @@
     "developer": "Sega",
     "publisher": "Sega",
     "first_released": "2000-11-14NA",
-    "jp_release": "December 21, 2000",
-    "na_release": "November 14, 2000",
-    "pal_release": "March 9, 2001",
     "category": "licensed"
   },
   {
@@ -4173,7 +3448,6 @@
     "developer": "Exe-CreateMedia JuGGLer",
     "publisher": "Victor Interactive Software",
     "first_released": "2000-04-27JP",
-    "jp_release": "April 27, 2000",
     "category": "licensed"
   },
   {
@@ -4181,7 +3455,6 @@
     "developer": "Panther Software",
     "publisher": "Panther Software",
     "first_released": "1999-11-03JP",
-    "jp_release": "November 3, 1999",
     "category": "licensed"
   },
   {
@@ -4189,9 +3462,6 @@
     "developer": "Namco",
     "publisher": "Namco",
     "first_released": "1999-08-05JP",
-    "jp_release": "August 5, 1999",
-    "na_release": "September 9, 1999",
-    "pal_release": "November 26, 1999",
     "category": "licensed"
   },
   {
@@ -4199,8 +3469,6 @@
     "developer": "Toka",
     "publisher": "Red Orb Entertainment",
     "first_released": "1999-11-23NA",
-    "na_release": "November 23, 1999",
-    "pal_release": "December 10, 1999",
     "category": "licensed"
   },
   {
@@ -4208,8 +3476,6 @@
     "developer": "Acclaim Studios Austin",
     "publisher": "Acclaim Entertainment",
     "first_released": "1999-11-18NA",
-    "na_release": "November 22, 1999",
-    "pal_release": "November 26, 1999",
     "category": "licensed"
   },
   {
@@ -4217,8 +3483,6 @@
     "developer": "Tantalus Interactive",
     "publisher": "Acclaim Entertainment",
     "first_released": "2000-07-07NA",
-    "na_release": "July 7, 2000",
-    "pal_release": "July 28, 2000",
     "category": "licensed"
   },
   {
@@ -4226,9 +3490,6 @@
     "developer": "Sega AM9",
     "publisher": "Sega",
     "first_released": "1999-12-16JP",
-    "jp_release": "December 16, 1999",
-    "na_release": "June 6, 2000",
-    "pal_release": "October 6, 2000",
     "category": "licensed"
   },
   {
@@ -4236,7 +3497,6 @@
     "developer": "United Game Artists",
     "publisher": "Sega",
     "first_released": "2002-02-14JP",
-    "jp_release": "February 14, 2002",
     "category": "licensed"
   },
   {
@@ -4244,9 +3504,6 @@
     "developer": "Capcom",
     "publisher": "Eidos Interactive",
     "first_released": "2000-08-10JP",
-    "jp_release": "August 10, 2000",
-    "na_release": "October 18, 2000",
-    "pal_release": "January 19, 2001",
     "category": "licensed"
   },
   {
@@ -4254,8 +3511,6 @@
     "developer": "Runecraft",
     "publisher": "Ripcord Games",
     "first_released": "2000-10-25NA",
-    "na_release": "October 25, 2000",
-    "pal_release": "August 10, 2001",
     "category": "licensed"
   },
   {
@@ -4263,9 +3518,6 @@
     "developer": "Ubi Soft Montreal",
     "publisher": "Ubi Soft",
     "first_released": "1999-10-14PAL",
-    "jp_release": "November 18, 1999",
-    "na_release": "October 29, 1999",
-    "pal_release": "October 14, 1999",
     "category": "licensed"
   },
   {
@@ -4273,8 +3525,6 @@
     "developer": "Ubi Soft Montreal",
     "publisher": "Ubi Soft",
     "first_released": "2000-12-13NA",
-    "na_release": "December 13, 2000",
-    "pal_release": "February 2, 2001",
     "category": "licensed"
   },
   {
@@ -4282,8 +3532,6 @@
     "developer": "Treyarch",
     "publisher": "Activision",
     "first_released": "2001-05-01NA",
-    "na_release": "May 1, 2001",
-    "pal_release": "June 1, 2001",
     "category": "licensed"
   },
   {
@@ -4291,9 +3539,6 @@
     "developer": "Broadsword Interactive",
     "publisher": "LJN",
     "first_released": "2000-06-09PAL",
-    "jp_release": "April 5, 2001",
-    "na_release": "June 27, 2000",
-    "pal_release": "June 9, 2000",
     "category": "licensed"
   },
   {
@@ -4301,8 +3546,6 @@
     "developer": "Wow Entertainment",
     "publisher": "Sega",
     "first_released": "2001-04-12JP",
-    "jp_release": "April 12, 2001",
-    "na_release": "July 2001",
     "category": "licensed"
   },
   {
@@ -4310,8 +3553,6 @@
     "developer": "Luxoflux",
     "publisher": "LucasArts",
     "first_released": "2000-11-20NA",
-    "na_release": "November 20, 2000",
-    "pal_release": "December 15, 2000",
     "category": "licensed"
   },
   {
@@ -4319,8 +3560,6 @@
     "developer": "LucasArts",
     "publisher": "LucasArts",
     "first_released": "2000-10-04NA",
-    "na_release": "October 10, 2000",
-    "pal_release": "October 20, 2000",
     "category": "licensed"
   },
   {
@@ -4328,8 +3567,6 @@
     "developer": "LucasArts",
     "publisher": "LucasArts",
     "first_released": "2000-04-03NA",
-    "na_release": "April 3, 2000",
-    "pal_release": "July 28, 2000",
     "category": "licensed"
   },
   {
@@ -4337,8 +3574,6 @@
     "developer": "Warthog Games",
     "publisher": "Crave Entertainment",
     "first_released": "2000-12-06NA",
-    "na_release": "December 6, 2000",
-    "pal_release": "March 23, 2001",
     "category": "licensed"
   },
   {
@@ -4346,9 +3581,6 @@
     "developer": "Capcom",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "1999-07-08JP",
-    "jp_release": "July 8, 1999",
-    "na_release": "May 7, 2000",
-    "pal_release": "October 24, 2000",
     "category": "licensed"
   },
   {
@@ -4356,9 +3588,6 @@
     "developer": "Capcom",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "2000-06-29JP",
-    "jp_release": "June 29, 2000",
-    "na_release": "October 4, 2000",
-    "pal_release": "December 15, 2000",
     "category": "licensed"
   },
   {
@@ -4366,9 +3595,6 @@
     "developer": "Capcom",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "1999-12-16JP",
-    "jp_release": "December 16, 1999",
-    "na_release": "June 21, 2000",
-    "pal_release": "September 15, 2000",
     "category": "licensed"
   },
   {
@@ -4376,7 +3602,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "2001-02-15JP",
-    "jp_release": "February 15, 2001",
     "category": "licensed"
   },
   {
@@ -4384,7 +3609,6 @@
     "developer": "Team17",
     "publisher": "Eon Digital Entertainment",
     "first_released": "2001-06-08PAL",
-    "pal_release": "June 8, 2001",
     "category": "licensed"
   },
   {
@@ -4392,8 +3616,6 @@
     "developer": "Titanium Studios",
     "publisher": "Ubi Soft",
     "first_released": "2001-05-18PAL",
-    "na_release": "June 20, 2001",
-    "pal_release": "May 18, 2001",
     "category": "licensed"
   },
   {
@@ -4401,7 +3623,6 @@
     "developer": "F&C・FC02",
     "publisher": "KID",
     "first_released": "2004-10-28JP",
-    "jp_release": "October 28, 2004",
     "category": "licensed"
   },
   {
@@ -4409,7 +3630,6 @@
     "developer": "Circus",
     "publisher": "PrincessSoft",
     "first_released": "2002-07-18JP",
-    "jp_release": "July 18, 2002",
     "category": "licensed"
   },
   {
@@ -4417,7 +3637,6 @@
     "developer": "Atelier-Sai",
     "publisher": "Sunrise Interactive",
     "first_released": "1999-12-02JP",
-    "jp_release": "December 2, 1999",
     "category": "licensed"
   },
   {
@@ -4425,9 +3644,6 @@
     "developer": "Genki",
     "publisher": "Crave Entertainment",
     "first_released": "2000-02-03JP",
-    "jp_release": "February 3, 2000",
-    "na_release": "June 15, 2000",
-    "pal_release": "August 4, 2000",
     "category": "licensed"
   },
   {
@@ -4435,7 +3651,6 @@
     "developer": "Hudson Soft",
     "publisher": "Hudson Soft",
     "first_released": "1999-11-11JP",
-    "jp_release": "November 11, 1999",
     "category": "licensed"
   },
   {
@@ -4443,7 +3658,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "2001-07-05JP",
-    "jp_release": "July 5, 2001",
     "category": "licensed"
   },
   {
@@ -4451,7 +3665,6 @@
     "developer": "Banpresto",
     "publisher": "Banpresto",
     "first_released": "2001-08-30JP",
-    "jp_release": "August 30, 2001",
     "category": "licensed"
   },
   {
@@ -4459,7 +3672,6 @@
     "developer": "Climax Entertainment",
     "publisher": "Climax Entertainment",
     "first_released": "2000-05-25JP",
-    "jp_release": "May 25, 2000",
     "category": "licensed"
   },
   {
@@ -4467,9 +3679,6 @@
     "developer": "Climax Entertainment",
     "publisher": "Interplay Entertainment",
     "first_released": "2000-10-24NA",
-    "jp_release": "June 21, 2001",
-    "na_release": "October 24, 2000",
-    "pal_release": "November 24, 2000",
     "category": "licensed"
   },
   {
@@ -4477,7 +3686,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "2000-12-22JP",
-    "jp_release": "December 22, 2000",
     "category": "licensed"
   },
   {
@@ -4485,9 +3693,6 @@
     "developer": "CRI",
     "publisher": "Crave Entertainment",
     "first_released": "2000-12-15PAL",
-    "jp_release": "March 22, 2001",
-    "na_release": "February 28, 2001",
-    "pal_release": "December 15, 2000",
     "category": "licensed"
   },
   {
@@ -4495,9 +3700,6 @@
     "developer": "Criterion Games",
     "publisher": "Imagineer",
     "first_released": "1999-04-29JP",
-    "jp_release": "April 29, 1999",
-    "na_release": "November 11, 1999",
-    "pal_release": "November 26, 1999",
     "category": "licensed"
   },
   {
@@ -4505,7 +3707,6 @@
     "developer": "Takuyo",
     "publisher": "Takuyo",
     "first_released": "2003-10-23JP",
-    "jp_release": "October 23, 2003",
     "category": "licensed"
   },
   {
@@ -4513,9 +3714,6 @@
     "developer": "Yuke's",
     "publisher": "ASCII Corporation",
     "first_released": "1999-12-16JP",
-    "jp_release": "December 16, 1999",
-    "na_release": "March 16, 2000",
-    "pal_release": "May 19, 2000",
     "category": "licensed"
   },
   {
@@ -4523,9 +3721,6 @@
     "developer": "Attention to Detail",
     "publisher": "Eidos Interactive",
     "first_released": "2000-08-28NA",
-    "jp_release": "October 26, 2000",
-    "na_release": "August 28, 2000",
-    "pal_release": "September 4, 2000",
     "category": "licensed"
   },
   {
@@ -4533,7 +3728,6 @@
     "developer": "Psikyo",
     "publisher": "Capcom",
     "first_released": "2001-06-28JP",
-    "jp_release": "June 28, 2001",
     "category": "licensed"
   },
   {
@@ -4541,7 +3735,6 @@
     "developer": "Microcabin",
     "publisher": "Microcabin",
     "first_released": "2002-05-16JP",
-    "jp_release": "May 16, 2002",
     "category": "licensed"
   },
   {
@@ -4549,7 +3742,6 @@
     "developer": "Tsuki Boshi Gumi",
     "publisher": "NEC Interchannel",
     "first_released": "2004-01-29JP",
-    "jp_release": "January 29, 2004",
     "category": "licensed"
   },
   {
@@ -4557,7 +3749,6 @@
     "developer": "Arc System Works",
     "publisher": "Arc System Works",
     "first_released": "1999-11-11JP",
-    "jp_release": "November 11, 1999",
     "category": "licensed"
   },
   {
@@ -4565,7 +3756,6 @@
     "developer": "Abel",
     "publisher": "Abel",
     "first_released": "2000-12-21NA",
-    "jp_release": "December 21, 2000",
     "category": "licensed"
   },
   {
@@ -4573,7 +3763,6 @@
     "developer": "Blue Sphere Games",
     "publisher": "Ubi Soft",
     "first_released": "2000-11-30PAL",
-    "pal_release": "November 30, 2000",
     "category": "licensed"
   },
   {
@@ -4581,9 +3770,6 @@
     "developer": "Capcom",
     "publisher": "Virgin Interactive Entertainment",
     "first_released": "2000-01-13JP",
-    "jp_release": "January 13, 2000",
-    "na_release": "June 15, 2000",
-    "pal_release": "July 7, 2000",
     "category": "licensed"
   },
   {
@@ -4591,7 +3777,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "2001-01-18JP",
-    "jp_release": "January 18, 2001",
     "category": "licensed"
   },
   {
@@ -4599,9 +3784,6 @@
     "developer": "Bottom Up",
     "publisher": "Acclaim Entertainment",
     "first_released": "1999-12-09JP",
-    "jp_release": "December 9, 1999",
-    "na_release": "January 12, 2000",
-    "pal_release": "January 12, 2000",
     "category": "licensed"
   },
   {
@@ -4609,7 +3791,6 @@
     "developer": "Clear",
     "publisher": "PrincessSoft",
     "first_released": "2004-03-25JP",
-    "jp_release": "March 25, 2004",
     "category": "licensed"
   },
   {
@@ -4617,7 +3798,6 @@
     "developer": "KID",
     "publisher": "KID",
     "first_released": "2001-10-25JP",
-    "jp_release": "October 25, 2001",
     "category": "licensed"
   },
   {
@@ -4625,7 +3805,6 @@
     "developer": "Bullet-Proof Software",
     "publisher": "Bullet-Proof Software",
     "first_released": "1998-12-23JP",
-    "jp_release": "December 23, 1998",
     "category": "licensed"
   },
   {
@@ -4633,7 +3812,6 @@
     "developer": "Pitbull Syndicate",
     "publisher": "Infogrames North America",
     "first_released": "1999-12-21NA",
-    "na_release": "December 21, 1999",
     "category": "licensed"
   },
   {
@@ -4641,9 +3819,6 @@
     "developer": "Infogrames Melbourne House",
     "publisher": "Infogrames",
     "first_released": "2000-11-08NA",
-    "jp_release": "March 15, 2001",
-    "na_release": "November 8, 2000",
-    "pal_release": "November 17, 2000",
     "category": "licensed"
   },
   {
@@ -4651,9 +3826,6 @@
     "developer": "Climax Entertainment",
     "publisher": "Sega",
     "first_released": "1999-09-15JP",
-    "jp_release": "September 15, 1999",
-    "na_release": "March 28, 2000",
-    "pal_release": "November 10, 2000",
     "category": "licensed"
   },
   {
@@ -4661,9 +3833,6 @@
     "developer": "CRI",
     "publisher": "CRI",
     "first_released": "1999-07-08JP",
-    "jp_release": "July 8, 1999",
-    "na_release": "September 9, 1999",
-    "pal_release": "October 22, 1999",
     "category": "licensed"
   },
   {
@@ -4671,9 +3840,6 @@
     "developer": "Genki",
     "publisher": "Crave Entertainment",
     "first_released": "1999-06-24JP",
-    "jp_release": "June 24, 1999",
-    "na_release": "September 9, 1999",
-    "pal_release": "October 14, 1999",
     "category": "licensed"
   },
   {
@@ -4681,9 +3847,6 @@
     "developer": "Genki",
     "publisher": "Crave Entertainment",
     "first_released": "2000-06-22JP",
-    "jp_release": "June 22, 2000",
-    "na_release": "September 26, 2000",
-    "pal_release": "December 15, 2000",
     "category": "licensed"
   },
   {
@@ -4691,7 +3854,6 @@
     "developer": "ALUAdventure Planning Service",
     "publisher": "Banpresto",
     "first_released": "2000-07-27JP",
-    "jp_release": "July 27, 2000",
     "category": "licensed"
   },
   {
@@ -4699,7 +3861,6 @@
     "developer": "Fortyfive",
     "publisher": "Fortyfive",
     "first_released": "1999-12-23JP",
-    "jp_release": "December 23, 1999",
     "category": "licensed"
   },
   {
@@ -4707,7 +3868,6 @@
     "developer": "Fortyfive",
     "publisher": "Fortyfive",
     "first_released": "2000-12-21JP",
-    "jp_release": "December 21, 2000",
     "category": "licensed"
   },
   {
@@ -4715,8 +3875,6 @@
     "developer": "Pipe Dream Interactive",
     "publisher": "Majesco Sales",
     "first_released": "2000-05-03NA",
-    "na_release": "May 3, 2000",
-    "pal_release": "February 2, 2001",
     "category": "licensed"
   },
   {
@@ -4724,8 +3882,6 @@
     "developer": "Pipe Dream Interactive",
     "publisher": "Majesco Sales",
     "first_released": "2000-11-20NA",
-    "na_release": "November 20, 2000",
-    "pal_release": "May 4, 2001",
     "category": "licensed"
   },
   {
@@ -4733,8 +3889,6 @@
     "developer": "Core Design",
     "publisher": "Eidos Interactive",
     "first_released": "2000-11-26NA",
-    "na_release": "November 26, 2000",
-    "pal_release": "December 15, 2000",
     "category": "licensed"
   },
   {
@@ -4742,9 +3896,6 @@
     "developer": "Core Design",
     "publisher": "Eidos Interactive",
     "first_released": "2000-03-24PAL",
-    "jp_release": "July 19, 2000",
-    "na_release": "March 25, 2000",
-    "pal_release": "March 24, 2000",
     "category": "licensed"
   },
   {
@@ -4752,8 +3903,6 @@
     "developer": "Treyarch",
     "publisher": "Crave Entertainment",
     "first_released": "2000-05-24NA",
-    "na_release": "May 24, 2000",
-    "pal_release": "June 29, 2000",
     "category": "licensed"
   },
   {
@@ -4761,8 +3910,6 @@
     "developer": "Treyarch",
     "publisher": "Activision",
     "first_released": "2000-11-07NA",
-    "na_release": "November 7, 2000",
-    "pal_release": "December 15, 2000",
     "category": "licensed"
   },
   {
@@ -4770,9 +3917,6 @@
     "developer": "No Cliche",
     "publisher": "Sega",
     "first_released": "1999-10-14PAL",
-    "jp_release": "January 6, 2000",
-    "na_release": "November 2, 1999",
-    "pal_release": "October 14, 1999",
     "category": "licensed"
   },
   {
@@ -4780,7 +3924,6 @@
     "developer": "No Cliche",
     "publisher": "Sega",
     "first_released": "2000-12-22PAL",
-    "pal_release": "December 22, 2000",
     "category": "licensed"
   },
   {
@@ -4788,8 +3931,6 @@
     "developer": "Traveller's Tales",
     "publisher": "Activision",
     "first_released": "2000-07-05NA",
-    "na_release": "July 5, 2000",
-    "pal_release": "November 17, 2000",
     "category": "licensed"
   },
   {
@@ -4797,7 +3938,6 @@
     "developer": "KID",
     "publisher": "KID",
     "first_released": "2000-02-17JP",
-    "jp_release": "February 17, 2000",
     "category": "licensed"
   },
   {
@@ -4805,8 +3945,6 @@
     "developer": "Criterion Games",
     "publisher": "Acclaim Entertainment",
     "first_released": "1999-09-09NA",
-    "na_release": "September 9, 1999",
-    "pal_release": "October 14, 1999",
     "category": "licensed"
   },
   {
@@ -4814,7 +3952,6 @@
     "developer": "HuneX",
     "publisher": "Victor Interactive Software",
     "first_released": "2000-11-09JP",
-    "jp_release": "November 9, 2000",
     "category": "licensed"
   },
   {
@@ -4822,7 +3959,6 @@
     "developer": "Warashi",
     "publisher": "Warashi",
     "first_released": "2007-02-22JP",
-    "jp_release": "February 22, 2007",
     "category": "licensed"
   },
   {
@@ -4830,7 +3966,6 @@
     "developer": "Triangle Service",
     "publisher": "Triangle Service",
     "first_released": "2005-04-07JP",
-    "jp_release": "April 7, 2005",
     "category": "licensed"
   },
   {
@@ -4838,7 +3973,6 @@
     "developer": "August",
     "publisher": "Alchemist",
     "first_released": "2004-06-24JP",
-    "jp_release": "June 24, 2004",
     "category": "licensed"
   },
   {
@@ -4846,7 +3980,6 @@
     "developer": "Fortyfive",
     "publisher": "Fortyfive",
     "first_released": "2000-05-11JP",
-    "jp_release": "May 11, 2000",
     "category": "licensed"
   },
   {
@@ -4854,7 +3987,6 @@
     "developer": "ADK",
     "publisher": "SNK",
     "first_released": "2000-03-23JP",
-    "jp_release": "March 23, 2000",
     "category": "licensed"
   },
   {
@@ -4862,7 +3994,6 @@
     "developer": "Hudson Soft",
     "publisher": "Hudson Soft",
     "first_released": "2001-09-27NA",
-    "jp_release": "September 27, 2001",
     "category": "licensed"
   },
   {
@@ -4870,8 +4001,6 @@
     "developer": "Wow Entertainment",
     "publisher": "Sega",
     "first_released": "2000-03-30JP",
-    "jp_release": "March 30, 2000",
-    "na_release": "January 23, 2001",
     "category": "licensed"
   },
   {
@@ -4879,7 +4008,6 @@
     "developer": "Silicon Dreams Studio",
     "publisher": "Sega",
     "first_released": "2000-12-08PAL",
-    "pal_release": "December 8, 2000",
     "category": "licensed"
   },
   {
@@ -4887,9 +4015,6 @@
     "developer": "Rage Software",
     "publisher": "Infogrames",
     "first_released": "1999-10-22PAL",
-    "jp_release": "April 6, 2000",
-    "na_release": "May 15, 2000",
-    "pal_release": "October 22, 1999",
     "category": "licensed"
   },
   {
@@ -4897,9 +4022,6 @@
     "developer": "Anchor Inc.",
     "publisher": "Crave Entertainment",
     "first_released": "2000-08-30NA",
-    "jp_release": "January 25, 2001",
-    "na_release": "August 30, 2000",
-    "pal_release": "December 8, 2000",
     "category": "licensed"
   },
   {
@@ -4907,7 +4029,6 @@
     "developer": "Pulse Interactive",
     "publisher": "Pulse Interactive",
     "first_released": "2000-01-27JP",
-    "jp_release": "January 27, 2000",
     "category": "licensed"
   },
   {
@@ -4915,7 +4036,6 @@
     "developer": "G.rev",
     "publisher": "G.rev",
     "first_released": "2006-03-23JP",
-    "jp_release": "March 23, 2006",
     "category": "licensed"
   },
   {
@@ -4923,8 +4043,6 @@
     "developer": "Secret Level",
     "publisher": "Infogrames",
     "first_released": "2001-03-13NA",
-    "na_release": "March 13, 2001",
-    "pal_release": "June 29, 2001",
     "category": "licensed"
   },
   {
@@ -4932,8 +4050,6 @@
     "developer": "Mucky Foot Productions",
     "publisher": "Eidos Interactive",
     "first_released": "2000-10-06PAL",
-    "na_release": "November 13, 2000",
-    "pal_release": "October 6, 2000",
     "category": "licensed"
   },
   {
@@ -4941,7 +4057,6 @@
     "developer": "EMU",
     "publisher": "Reindeer",
     "first_released": "2004-06-24JP",
-    "jp_release": "June 24, 2004",
     "category": "licensed"
   },
   {
@@ -4949,8 +4064,6 @@
     "developer": "Eden Studios",
     "publisher": "Infogrames",
     "first_released": "2000-05-26PAL",
-    "na_release": "October 18, 2000",
-    "pal_release": "May 26, 2000",
     "category": "licensed"
   },
   {
@@ -4958,7 +4071,6 @@
     "developer": "Capcom",
     "publisher": "Capcom",
     "first_released": "2000-08-10JP",
-    "jp_release": "August 10, 2000",
     "category": "licensed"
   },
   {
@@ -4966,8 +4078,6 @@
     "developer": "Clockwork Games",
     "publisher": "Acclaim Entertainment",
     "first_released": "2001-01-03NA",
-    "na_release": "January 3, 2001",
-    "pal_release": "January 19, 2001",
     "category": "licensed"
   },
   {
@@ -4975,7 +4085,6 @@
     "developer": "Riverhillsoft",
     "publisher": "Riverhillsoft",
     "first_released": "1999-12-02JP",
-    "jp_release": "December 2, 1999",
     "category": "licensed"
   },
   {
@@ -4983,9 +4092,6 @@
     "developer": "Luxoflux",
     "publisher": "Activision",
     "first_released": "1999-12-22NA",
-    "jp_release": "March 23, 2000",
-    "na_release": "December 22, 1999",
-    "pal_release": "February 18, 2000",
     "category": "licensed"
   },
   {
@@ -4993,9 +4099,6 @@
     "developer": "Hitmaker",
     "publisher": "Sega",
     "first_released": "2000-07-27JP",
-    "jp_release": "July 27, 2000",
-    "na_release": "September 12, 2000",
-    "pal_release": "August 25, 2000",
     "category": "licensed"
   },
   {
@@ -5003,7 +4106,6 @@
     "developer": "Sega AM2",
     "publisher": "Sega",
     "first_released": "2000-03-02JP",
-    "jp_release": "March 2, 2000",
     "category": "licensed"
   },
   {
@@ -5011,9 +4113,6 @@
     "developer": "Sega AM2",
     "publisher": "Sega",
     "first_released": "1998-11-27JP",
-    "jp_release": "November 27, 1998",
-    "na_release": "October 18, 1999",
-    "pal_release": "October 14, 1999",
     "category": "licensed"
   },
   {
@@ -5021,9 +4120,6 @@
     "developer": "Sega",
     "publisher": "Sega",
     "first_released": "1999-12-02JP",
-    "jp_release": "December 2, 1999",
-    "na_release": "March 14, 2000",
-    "pal_release": "February 29, 2000",
     "category": "licensed"
   },
   {
@@ -5031,9 +4127,6 @@
     "developer": "Hitmaker",
     "publisher": "Sega",
     "first_released": "2000-07-11NA",
-    "jp_release": "November 23, 2000",
-    "na_release": "July 11, 2000",
-    "pal_release": "September 8, 2000",
     "category": "licensed"
   },
   {
@@ -5041,9 +4134,6 @@
     "developer": "Hitmaker",
     "publisher": "Sega",
     "first_released": "2001-10-23NA",
-    "jp_release": "November 15, 2001",
-    "na_release": "October 23, 2001",
-    "pal_release": "November 23, 2001",
     "category": "licensed"
   },
   {
@@ -5051,8 +4141,6 @@
     "developer": "Infogrames Sheffield House",
     "publisher": "Infogrames",
     "first_released": "2000-06-27NA",
-    "na_release": "June 27, 2000",
-    "pal_release": "June 30, 2000",
     "category": "licensed"
   },
   {
@@ -5060,8 +4148,6 @@
     "developer": "Prolific Publishing",
     "publisher": "Eidos Interactive",
     "first_released": "2000-07-19NA",
-    "na_release": "July 19, 2000",
-    "pal_release": "September 1, 2000",
     "category": "licensed"
   },
   {
@@ -5069,7 +4155,6 @@
     "developer": "NEC Interchannel",
     "publisher": "Fortyfive",
     "first_released": "2002-02-28JP",
-    "jp_release": "February 28, 2002",
     "category": "licensed"
   },
   {
@@ -5077,7 +4162,6 @@
     "developer": "Studio Mebius",
     "publisher": "Studio Mebius",
     "first_released": "1999-04-22JP",
-    "jp_release": "April 22, 1999",
     "category": "licensed"
   },
   {
@@ -5085,8 +4169,6 @@
     "developer": "Zed Two",
     "publisher": "Acclaim Entertainment",
     "first_released": "1999-12-16NA",
-    "na_release": "December 16, 1999",
-    "pal_release": "March 31, 2000",
     "category": "licensed"
   },
   {
@@ -5094,7 +4176,6 @@
     "developer": "Hothouse Creations",
     "publisher": "Eidos Interactive",
     "first_released": "2000-09-29PAL",
-    "pal_release": "September 29, 2000",
     "category": "licensed"
   },
   {
@@ -5102,7 +4183,6 @@
     "developer": "Hypnotix",
     "publisher": "Simon & Schuster Interactive",
     "first_released": "2000-10NA",
-    "na_release": "October 2000",
     "category": "licensed"
   },
   {
@@ -5110,8 +4190,6 @@
     "developer": "DMA Design",
     "publisher": "Rockstar Games",
     "first_released": "2000-02-01NA/PAL",
-    "na_release": "February 1, 2000",
-    "pal_release": "February 1, 2000",
     "category": "licensed"
   },
   {
@@ -5119,7 +4197,6 @@
     "developer": "HuneX",
     "publisher": "Alchemist",
     "first_released": "2003-01-30JP",
-    "jp_release": "January 30, 2003",
     "category": "licensed"
   },
   {
@@ -5127,7 +4204,6 @@
     "developer": "Koei",
     "publisher": "Koei",
     "first_released": "2000-03-30JP",
-    "jp_release": "March 30, 2000",
     "category": "licensed"
   },
   {
@@ -5135,7 +4211,6 @@
     "developer": "Riverhillsoft",
     "publisher": "Riverhillsoft",
     "first_released": "1999-07-15JP",
-    "jp_release": "July 15, 1999",
     "category": "licensed"
   },
   {
@@ -5143,7 +4218,6 @@
     "developer": "Riverhillsoft",
     "publisher": "Riverhillsoft",
     "first_released": "2000-03-30JP",
-    "jp_release": "March 30, 2000",
     "category": "licensed"
   },
   {
@@ -5151,8 +4225,6 @@
     "developer": "Wow Entertainment",
     "publisher": "Sega",
     "first_released": "2000-07-25NA",
-    "jp_release": "March 22, 2001",
-    "na_release": "July 25, 2000",
     "category": "licensed"
   },
   {
@@ -5160,8 +4232,6 @@
     "developer": "Visual Concepts",
     "publisher": "Sega",
     "first_released": "2001-08-14NA",
-    "jp_release": "April 18, 2002",
-    "na_release": "August 14, 2001",
     "category": "licensed"
   },
   {
@@ -5169,8 +4239,6 @@
     "developer": "Team17",
     "publisher": "Hasbro Interactive",
     "first_released": "1999-11-30PAL",
-    "na_release": "December 11, 1999",
-    "pal_release": "November 30, 1999",
     "category": "licensed"
   },
   {
@@ -5178,8 +4246,6 @@
     "developer": "Team17",
     "publisher": "Titus Interactive",
     "first_released": "2001-04-27PAL",
-    "na_release": "June 4, 2001",
-    "pal_release": "April 27, 2001",
     "category": "licensed"
   },
   {
@@ -5187,8 +4253,6 @@
     "developer": "Acclaim Studios Salt Lake City",
     "publisher": "Acclaim Sports",
     "first_released": "1999-11-05PAL",
-    "na_release": "November 9, 1999",
-    "pal_release": "November 5, 1999",
     "category": "licensed"
   },
   {
@@ -5196,9 +4260,6 @@
     "developer": "Yuke's",
     "publisher": "THQ",
     "first_released": "2000-08-14NA",
-    "jp_release": "April 26, 2001",
-    "na_release": "August 14, 2000",
-    "pal_release": "September 22, 2000",
     "category": "licensed"
   },
   {
@@ -5206,7 +4267,6 @@
     "developer": "Mesa",
     "publisher": "Naxat Soft",
     "first_released": "2001-12-20JP",
-    "jp_release": "December 20, 2001",
     "category": "licensed"
   },
   {
@@ -5214,7 +4274,6 @@
     "developer": "Sega AM2",
     "publisher": "Sega",
     "first_released": "2001-12-20JP",
-    "jp_release": "December 20, 2001",
     "category": "licensed"
   },
   {
@@ -5222,7 +4281,6 @@
     "developer": "Sega",
     "publisher": "Sega",
     "first_released": "1999-03-20JP",
-    "jp_release": "March 20, 1999",
     "category": "licensed"
   },
   {
@@ -5230,7 +4288,6 @@
     "developer": "Takuyo",
     "publisher": "Takuyo",
     "first_released": "2002-12-26JP",
-    "jp_release": "December 26, 2002",
     "category": "licensed"
   },
   {
@@ -5238,7 +4295,6 @@
     "developer": "Starlight Marry",
     "publisher": "MediaWorks",
     "first_released": "1999-12-22JP",
-    "jp_release": "December 22, 1999",
     "category": "licensed"
   },
   {
@@ -5246,7 +4302,6 @@
     "developer": "Shangri-La",
     "publisher": "Shangri-La",
     "first_released": "1999-10-21JP",
-    "jp_release": "October 21, 1999",
     "category": "licensed"
   },
   {
@@ -5254,7 +4309,6 @@
     "developer": "KID",
     "publisher": "KID",
     "first_released": "2001-07-26JP",
-    "jp_release": "July 26, 2001",
     "category": "licensed"
   },
   {
@@ -5262,7 +4316,6 @@
     "developer": "Psikyo",
     "publisher": "Psikyo",
     "first_released": "2001-09-06JP",
-    "jp_release": "September 6, 2001",
     "category": "licensed"
   },
   {
@@ -5270,9 +4323,6 @@
     "developer": "Sega",
     "publisher": "Sega",
     "first_released": "1999-11-25JP",
-    "jp_release": "November 25, 1999",
-    "na_release": "January 25, 2000",
-    "pal_release": "June 9, 2000",
     "category": "licensed"
   },
   {
@@ -5280,7 +4330,6 @@
     "developer": "Real Vision",
     "publisher": "Real Vision",
     "first_released": "2000-07-27JP",
-    "jp_release": "July 27, 2000",
     "category": "licensed"
   }
 ]
