@@ -99,6 +99,13 @@ def extract_console_name(filename: str) -> str:
         ('sg1000', 'sg1000'),
         ('sega sg-1000', 'sg1000'),
         ('sega sg1000', 'sg1000'),
+        
+        # Microsoft Xbox systems
+        ('xbox 360', 'xbox360'),
+        ('xbox360', 'xbox360'),
+        ('360', 'xbox360'),  # Must come after other 360 mentions
+        
+        ('xbox', 'xbox'),  # Original Xbox - must come after xbox 360
     ]
     
     filename_lower = filename.lower()
@@ -254,6 +261,8 @@ def analyze_table_structure(table) -> Dict:
         'pal_col': None,
         'europe_col': None,
         'australasia_col': None,
+        'australia_col': None,
+        'au_col': None,
         'brazil_col': None,
         'br_col': None,
         'uses_row_headers': False,
@@ -281,7 +290,7 @@ def analyze_table_structure(table) -> Dict:
         if first_row_cells:
             first_cell_text = first_row_cells[0].get_text(strip=True).lower()
             # Check if it's a region name
-            region_keywords = ['japan', 'jp', 'north america', 'na', 'europe', 'eu', 'pal', 'australasia', 'australia', 'brazil', 'br']
+            region_keywords = ['japan', 'jp', 'north america', 'na', 'europe', 'eu', 'pal', 'australasia', 'australia', 'au', 'brazil', 'br']
             if any(keyword in first_cell_text for keyword in region_keywords):
                 structure['has_region_header_row'] = True
     
@@ -353,6 +362,11 @@ def analyze_table_structure(table) -> Dict:
             if 'australasia' in header_lower or ('australia' in header_lower and 'australasia' not in header_lower):
                 if structure['australasia_col'] is None:
                     structure['australasia_col'] = idx
+            if header_lower.strip() == 'au' or (header_lower == 'australia' and 'australasia' not in header_lower):
+                if structure['au_col'] is None:
+                    structure['au_col'] = idx
+                if structure['australia_col'] is None:
+                    structure['australia_col'] = idx
             if 'brazil' in header_lower or (header_lower.strip() == 'br'):
                 if structure['brazil_col'] is None:
                     structure['brazil_col'] = idx
@@ -402,11 +416,14 @@ def analyze_table_structure(table) -> Dict:
                     structure['pal_col'] = actual_idx
                 if 'europe' in cell_text or cell_text == 'eu':
                     structure['europe_col'] = actual_idx
-                if 'australasia' in cell_text or 'australia' in cell_text:
-                    structure['australasia_col'] = actual_idx
-                if 'brazil' in cell_text or cell_text == 'br':
-                    structure['brazil_col'] = actual_idx
-                    structure['br_col'] = actual_idx
+            if 'australasia' in cell_text or 'australia' in cell_text:
+                structure['australasia_col'] = actual_idx
+            if cell_text == 'au' or (cell_text == 'australia' and 'australasia' not in cell_text):
+                structure['au_col'] = actual_idx
+                structure['australia_col'] = actual_idx
+            if 'brazil' in cell_text or cell_text == 'br':
+                structure['brazil_col'] = actual_idx
+                structure['br_col'] = actual_idx
     
     if structure['uses_row_headers']:
         structure['title_col'] = 0
@@ -489,6 +506,13 @@ def extract_cell_data(cells: List, structure: Dict, console_name: str) -> Dict:
         if date_str:
             game['australasia_release'] = date_str
     
+    australia_col = adjusted_structure.get('australia_col') or adjusted_structure.get('au_col')
+    if australia_col is not None and len(adjusted_cells) > australia_col:
+        date_str = parse_date_cell(adjusted_cells[australia_col])
+        if date_str:
+            game['australia_release'] = date_str
+            game['au_release'] = date_str
+    
     brazil_col = adjusted_structure.get('brazil_col') or adjusted_structure.get('br_col')
     if brazil_col is not None and len(adjusted_cells) > brazil_col:
         date_str = parse_date_cell(adjusted_cells[brazil_col])
@@ -525,7 +549,8 @@ def normalize_game_data(game: Dict) -> Dict:
     release_dates = []
     date_fields = [
         'first_released', 'jp_release', 'na_release', 'pal_release', 
-        'europe_release', 'australasia_release', 'brazil_release', 'br_release', 'release_date'
+        'europe_release', 'australasia_release', 'australia_release', 'au_release',
+        'brazil_release', 'br_release', 'release_date'
     ]
     
     for field in date_fields:
