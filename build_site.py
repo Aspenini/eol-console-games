@@ -20,19 +20,27 @@ def load_all_games() -> Dict[str, Dict]:
         print(f"[ERROR] Database directory '{database_dir}' not found!")
         return {}
     
-    # Load all _all.json files (these have all games for each console)
-    for root, dirs, files in os.walk(database_dir):
-        for file in files:
-            if file.endswith('_all.json'):
-                console_name = file.replace('_all.json', '')
-                filepath = os.path.join(root, file)
+    # Load all console.json files from database root (no subfolders)
+    for file in os.listdir(database_dir):
+        if file.endswith('.json') and not file.startswith('.'):
+            # Skip any files in subdirectories - we only want root level files
+            filepath = os.path.join(database_dir, file)
+            if os.path.isfile(filepath):
+                console_name = file.replace('.json', '')
                 
-                with open(filepath, 'r', encoding='utf-8') as f:
-                    games = json.load(f)
-                    all_data[console_name] = {
-                        'games': games,
-                        'count': len(games)
-                    }
+                try:
+                    with open(filepath, 'r', encoding='utf-8') as f:
+                        games = json.load(f)
+                        all_data[console_name] = {
+                            'games': games,
+                            'count': len(games)
+                        }
+                except json.JSONDecodeError as e:
+                    print(f"[WARNING] Failed to parse {filepath}: {e}")
+                    continue
+                except Exception as e:
+                    print(f"[WARNING] Error loading {filepath}: {e}")
+                    continue
     
     return all_data
 
@@ -649,9 +657,9 @@ def generate_js() -> str:
                 html += `<td>${escapeHtml(game.developer || '—')}</td>`;
                 html += `<td>${escapeHtml(game.publisher || '—')}</td>`;
                 
-                // Find first release date
-                let release = game.jp_release || game.na_release || game.pal_release || 
-                             game.first_released || game.release || '—';
+                // Find release date - prefer release_date (earliest), fallback to regional dates
+                let release = game.release_date || game.jp_release || game.na_release || 
+                             game.pal_release || game.europe_release || game.release || '—';
                 html += `<td>${escapeHtml(release)}</td>`;
                 html += '</tr>';
             });

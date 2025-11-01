@@ -1,23 +1,23 @@
 #!/usr/bin/env python3
 """
 Extract game data from Wikipedia HTML files into organized JSON databases.
-Supports multiple consoles with console-specific table structure detection.
+Supports multiple consoles with dynamic table structure detection and proper date parsing.
 """
 
 import re
 import json
 import os
 import glob
+from datetime import datetime
 from collections import defaultdict
 from typing import List, Dict, Optional, Tuple
+from bs4 import BeautifulSoup
 
 
 def extract_console_name(filename: str) -> str:
     """Extract console name from HTML filename."""
     # Common console mappings - ORDER MATTERS! More specific first
-    # Check longer names first to avoid false matches (e.g., "super nintendo" before "nintendo")
     console_mappings = [
-        # Most specific first
         ('super nintendo entertainment system', 'snes'),
         ('super nintendo', 'snes'),
         ('super famicom', 'snes'),
@@ -51,7 +51,7 @@ def extract_console_name(filename: str) -> str:
         ('wii u', 'wiiu'),
         ('wii', 'wii'),
         
-        ('nintendo 3ds', 'nintendo3ds'),  # Must come before nintendo ds
+        ('nintendo 3ds', 'nintendo3ds'),
         ('3ds', 'nintendo3ds'),
         
         ('nintendo ds', 'nintendods'),
@@ -103,20 +103,15 @@ def extract_console_name(filename: str) -> str:
     
     filename_lower = filename.lower()
     
-    # Try exact filename matching first (most reliable)
     for key, console in console_mappings:
-        # Check if the key appears as a word in the filename
-        # This prevents "nintendo entertainment system" matching inside "sega genesis games" HTML
         pattern = r'\b' + re.escape(key) + r'\b'
         if re.search(pattern, filename_lower):
             return console
     
-    # Fallback: try substring matching (less reliable, but catches partial matches)
     for key, console in console_mappings:
         if key in filename_lower:
             return console
     
-    # Fallback: try to extract a generic name
     return 'unknown'
 
 
@@ -124,24 +119,116 @@ def clean_text(text: str) -> str:
     """Clean text from HTML elements."""
     if not text:
         return ''
-    # Remove extra whitespace and newlines
     text = ' '.join(text.split())
-    # Remove citation patterns like [46], [47], etc.
     text = re.sub(r'\[\d+\]', '', text)
     text = re.sub(r'\(c\)|\(d\)|\(e\)|\(f\)', '', text)
     return text.strip()
 
 
+def parse_date_cell(cell) -> str:
+    """
+    Parse a date cell from HTML, handling nested spans and multiple dates.
+    Returns ISO 8601 date (YYYY-MM-DD or YYYY-MM for month-only) or empty string if cannot parse.
+    Also checks for data-sort-value attribute which often contains the actual date.
+    """
+    if not cell:
+        return ''
+    
+    # First, check for data-sort-value attribute (often contains the actual ISO date)
+    sort_value = cell.get('data-sort-value', '').strip()
+    if sort_value:
+        # Parse sort value (often format: YYYYMMDD or YYYY-MM-DD)
+        # Remove any prefix like "00000000" or "000000001"
+        sort_value = re.sub(r'^0+', '', sort_value)
+        
+        # Try to parse as YYYYMMDD
+        if len(sort_value) >= 8 and sort_value.isdigit():
+            try:
+                date_str = sort_value[:8]
+                dt = datetime.strptime(date_str, '%Y%m%d')
+                return dt.strftime('%Y-%m-%d')
+            except ValueError:
+                pass
+        
+        # Try YYYY-MM-DD format
+        if re.match(r'\d{4}-\d{2}-\d{2}', sort_value):
+            try:
+                dt = datetime.strptime(sort_value[:10], '%Y-%m-%d')
+                return dt.strftime('%Y-%m-%d')
+            except ValueError:
+                pass
+    
+    # Remove all display:none spans (hidden sorting values)
+    for span in cell.find_all('span', style=re.compile(r'display\s*:\s*none')):
+        span.decompose()
+    
+    # Also check for span with data-sort-value
+    span_sort = cell.find('span', {'data-sort-value': True})
+    if span_sort:
+        span_value = span_sort.get('data-sort-value', '').strip()
+        if span_value:
+            # Parse sort value (format: YYYYMMDD prefix like "000000001996-03-01-0000" or "19960301")
+            span_value = re.sub(r'^0+', '', span_value)
+            if len(span_value) >= 8 and span_value[:8].isdigit():
+                try:
+                    date_str = span_value[:8]
+                    dt = datetime.strptime(date_str, '%Y%m%d')
+                    return dt.strftime('%Y-%m-%d')
+                except ValueError:
+                    pass
+    
+    # Get all visible text
+    text = clean_text(cell.get_text())
+    
+    if not text or text.lower() in ['unreleased', 'tba', 'tbd', '—', '—', 'n/a', 'na']:
+        return ''
+    
+    # If there are multiple dates separated by <br>, take the first one
+    text = text.split('\n')[0].strip()
+    
+    # Parse common date formats
+    date_patterns = [
+        (r'(\w+)\s+(\d{1,2}),\s+(\d{4})', '%B %d, %Y'),  # August 1, 1999
+        (r'(\w+)\s+(\d{1,2})\s+(\d{4})', '%B %d %Y'),    # August 1 1999
+        (r'(\d{1,2})/(\d{1,2})/(\d{4})', '%m/%d/%Y'),    # 08/01/1999
+        (r'(\d{4})-(\d{2})-(\d{2})', '%Y-%m-%d'),        # 1999-08-01
+        (r'(\d{4})(\d{2})(\d{2})', '%Y%m%d'),            # 19990801
+        (r'(\w+)\s+(\d{4})', '%B %Y'),                   # March 1996
+    ]
+    
+    # Try each pattern
+    for pattern, format_str in date_patterns:
+        match = re.search(pattern, text)
+        if match:
+            try:
+                if format_str == '%Y%m%d':
+                    # Direct format from matched groups
+                    date_str = match.group(0)
+                    dt = datetime.strptime(date_str, format_str)
+                    return dt.strftime('%Y-%m-%d')
+                elif format_str == '%B %Y':
+                    # Month and year only - use first day of month
+                    date_str = match.group(0)
+                    dt = datetime.strptime(date_str, format_str)
+                    return dt.strftime('%Y-%m-%d')
+                else:
+                    # Reconstruct from matched groups
+                    date_str = match.group(0)
+                    dt = datetime.strptime(date_str, format_str)
+                    return dt.strftime('%Y-%m-%d')
+            except (ValueError, AttributeError):
+                continue
+    
+    # If we couldn't parse, return empty
+    return ''
+
+
 def get_link_or_italic_text(cell) -> str:
     """Get text from link if available, otherwise get italic or all text."""
-    from bs4 import BeautifulSoup
-    
     link = cell.find('a')
     if link:
-        text = clean_text(link.get_text())
-        return text
+        return clean_text(link.get_text())
     
-    # Try italic text
     italic = cell.find('i')
     if italic:
         text = clean_text(italic.string or '')
@@ -149,27 +236,14 @@ def get_link_or_italic_text(cell) -> str:
             text = clean_text(italic.get_text())
         return text
     
-    # Get all text and remove citations
-    text = clean_text(cell.get_text())
-    return text
-
-
-def get_span_with_sort_value(cell) -> str:
-    """Get text from span with data-sort-value attribute."""
-    span = cell.find('span', {'data-sort-value': True})
-    if span:
-        return clean_text(span.get_text())
     return clean_text(cell.get_text())
 
 
 def analyze_table_structure(table) -> Dict:
     """
-    Analyze table headers in THIS SPECIFIC HTML FILE to determine column structure.
-    Returns a dictionary mapping field names to column indices.
-    NO HARDCODED ASSUMPTIONS - analyzes the actual table in the file.
+    Analyze table headers to determine column structure.
+    Returns dictionary mapping field names to column indices.
     """
-    from bs4 import BeautifulSoup
-    
     structure = {
         'title_col': None,
         'developer_col': None,
@@ -180,8 +254,10 @@ def analyze_table_structure(table) -> Dict:
         'pal_col': None,
         'europe_col': None,
         'australasia_col': None,
-        'other_col': None,
-        'uses_row_headers': False  # True if title is in <th scope="row">
+        'brazil_col': None,
+        'br_col': None,
+        'uses_row_headers': False,
+        'has_region_header_row': False
     }
     
     rows = table.find_all('tr')
@@ -199,95 +275,147 @@ def analyze_table_structure(table) -> Dict:
                 first_data_row = row
                 break
     
-    # Find header row(s) - some tables have multi-row headers
+    # Check if first data row is actually region headers
+    if rows and len(rows) > 1:
+        first_row_cells = rows[1].find_all(['td', 'th'])
+        if first_row_cells:
+            first_cell_text = first_row_cells[0].get_text(strip=True).lower()
+            # Check if it's a region name
+            region_keywords = ['japan', 'jp', 'north america', 'na', 'europe', 'eu', 'pal', 'australasia', 'australia', 'brazil', 'br']
+            if any(keyword in first_cell_text for keyword in region_keywords):
+                structure['has_region_header_row'] = True
+    
+    # Find header row(s) - start from index 0, stop before region header row if it exists
     header_rows = []
-    for i, row in enumerate(rows[:3]):  # Check first 3 rows
-        cells = row.find_all(['th', 'td'])
+    stop_idx = len(rows)
+    if structure['has_region_header_row']:
+        stop_idx = 1  # Only look at row 0 for headers
+    
+    for i in range(min(stop_idx, 3)):
+        cells = rows[i].find_all(['th', 'td'])
         if cells:
             header_text = ' '.join([cell.get_text(strip=True).lower() for cell in cells])
-            if any(keyword in header_text for keyword in ['title', 'developer', 'publisher', 'release', 'japan', 'north', 'europe', 'pal']):
-                header_rows.append((i, row))
+            if any(keyword in header_text for keyword in ['title', 'developer', 'publisher', 'release']):
+                header_rows.append((i, rows[i]))
     
     if not header_rows:
-        # Fallback: assume first row is header
         header_rows = [(0, rows[0])]
     
-    # Get all header cells across header rows, accounting for colspan
+    # Get all header cells accounting for colspan
     all_headers = []
-    header_row_cells_list = []  # Store actual cell objects for reference
-    
     for _, row in header_rows:
         cells = row.find_all(['th', 'td'])
-        row_headers = []
         for cell in cells:
             text = cell.get_text(strip=True).lower()
-            colspan = int(cell.get('colspan', 1))
-            rowspan = int(cell.get('rowspan', 1))
+            # Special handling: if region header row exists, don't expand colspan for "release date"
+            # We'll map regions from the region header row instead
+            if structure['has_region_header_row'] and 'release' in text and 'date' in text:
+                colspan = 1  # Don't expand
+            else:
+                colspan = int(cell.get('colspan', 1))
             for _ in range(colspan):
                 all_headers.append(text)
-                row_headers.append((text, cell))
-        header_row_cells_list.extend([cell for _, cell in row_headers])
     
-    # Map headers to column indices based on ACTUAL headers found in this table
+    # Map headers to column indices
     for idx, header_text in enumerate(all_headers):
         header_lower = header_text.strip().lower()
         
-        # Title detection - check various title variations
         if structure['title_col'] is None:
             if any(keyword in header_lower for keyword in ['title', 'game', 'name']):
                 structure['title_col'] = idx
         
-        # Developer detection
         if structure['developer_col'] is None:
             if 'developer' in header_lower:
                 structure['developer_col'] = idx
         
-        # Publisher detection
         if structure['publisher_col'] is None:
             if 'publisher' in header_lower:
                 structure['publisher_col'] = idx
         
-        # First released detection
         if structure['first_released_col'] is None:
-            if any(keyword in header_lower for keyword in ['first released', 'release date', 'released', 'first release']):
+            if any(keyword in header_lower for keyword in ['first released', 'release date', 'released', 'first release']) and 'japan' not in header_lower:
                 structure['first_released_col'] = idx
         
-        # Regional releases - be more specific to avoid conflicts
-        if 'japan' in header_lower or header_lower.strip() in ['jp', 'j']:
-            if structure['jp_col'] is None:
-                structure['jp_col'] = idx
-        if 'north america' in header_lower or header_lower.strip() in ['na', 'north']:
-            if structure['na_col'] is None:
-                structure['na_col'] = idx
-        if 'pal' in header_lower and 'europe' not in header_lower:  # Avoid matching both PAL and Europe
-            if structure['pal_col'] is None:
-                structure['pal_col'] = idx
-        if 'europe' in header_lower and '/pal' not in header_lower:  # Don't match "Europe/PAL" as just Europe
-            if structure['europe_col'] is None:
-                structure['europe_col'] = idx
-        if 'australasia' in header_lower or ('australia' in header_lower and 'australasia' not in header_lower):
-            if structure['australasia_col'] is None:
-                structure['australasia_col'] = idx
-        if header_lower.strip() == 'other':
-            if structure['other_col'] is None:
-                structure['other_col'] = idx
+        # Skip regional mapping if region header row exists (we'll handle it specially below)
+        if not structure['has_region_header_row']:
+            if 'japan' in header_lower or header_lower.strip() in ['jp', 'j']:
+                if structure['jp_col'] is None:
+                    structure['jp_col'] = idx
+            if 'north america' in header_lower or header_lower.strip() in ['na', 'north']:
+                if structure['na_col'] is None:
+                    structure['na_col'] = idx
+            if 'pal' in header_lower and 'europe' not in header_lower:
+                if structure['pal_col'] is None:
+                    structure['pal_col'] = idx
+            if 'europe' in header_lower and '/pal' not in header_lower:
+                if structure['europe_col'] is None:
+                    structure['europe_col'] = idx
+            if 'australasia' in header_lower or ('australia' in header_lower and 'australasia' not in header_lower):
+                if structure['australasia_col'] is None:
+                    structure['australasia_col'] = idx
+            if 'brazil' in header_lower or (header_lower.strip() == 'br'):
+                if structure['brazil_col'] is None:
+                    structure['brazil_col'] = idx
+                if structure['br_col'] is None:
+                    structure['br_col'] = idx
     
-    # If using row headers, title_col should be 0 (it's the th scope="row")
+    # Special handling for tables with region header rows - use row 1 for regional mapping
+    if structure['has_region_header_row'] and rows and len(rows) > 1:
+        # Calculate the offset: where the region columns start in the actual data rows
+        # In data rows, rowspan=2 cells appear as normal cells, so count them
+        header_row_cells = rows[0].find_all(['th', 'td'])
+        region_row_cells = rows[1].find_all(['th', 'td'])
+        
+        # Count columns that will appear in data rows
+        # Cells with rowspan=2 appear in data rows, cells with colspan expand
+        columns_in_data_rows = 0
+        for cell in header_row_cells:
+            rowspan = int(cell.get('rowspan', 1))
+            colspan = int(cell.get('colspan', 1))
+            if rowspan >= 2:
+                # This cell spans to data rows - counts as 1 column in data rows
+                columns_in_data_rows += 1
+            elif 'release' in cell.get_text(strip=True).lower() and 'date' in cell.get_text(strip=True).lower():
+                # This is the "Release date" colspan - regions start right after this
+                # Don't count the colspan, regions replace it
+                break
+            else:
+                # Regular column that doesn't span rows
+                columns_in_data_rows += colspan
+        
+        # Now map regions from row 1 (these cells show the region names)
+        # Find where the region cells start in row 1
+        region_start_idx = None
+        for idx, cell in enumerate(region_row_cells):
+            cell_text = cell.get_text(strip=True).lower().strip()
+            if cell_text and (cell_text in ['jp', 'j', 'na', 'pal', 'europe', 'eu', 'brazil', 'br'] or 
+                             any(word in cell_text for word in ['japan', 'north america', 'australasia', 'australia'])):
+                if region_start_idx is None:
+                    region_start_idx = idx
+                # Map this region
+                actual_idx = columns_in_data_rows + (idx - region_start_idx)
+                if 'japan' in cell_text or cell_text == 'jp' or cell_text == 'j':
+                    structure['jp_col'] = actual_idx
+                if 'north america' in cell_text or cell_text == 'na':
+                    structure['na_col'] = actual_idx
+                if 'pal' in cell_text:
+                    structure['pal_col'] = actual_idx
+                if 'europe' in cell_text or cell_text == 'eu':
+                    structure['europe_col'] = actual_idx
+                if 'australasia' in cell_text or 'australia' in cell_text:
+                    structure['australasia_col'] = actual_idx
+                if 'brazil' in cell_text or cell_text == 'br':
+                    structure['brazil_col'] = actual_idx
+                    structure['br_col'] = actual_idx
+    
     if structure['uses_row_headers']:
         structure['title_col'] = 0
     
     return structure
 
 
-# REMOVED: get_console_specific_structure
-# We now rely entirely on actual header detection from each HTML file
-# No more hardcoded console-specific assumptions!
-
-
 def extract_cell_data(cells: List, structure: Dict, console_name: str) -> Dict:
-    """
-    Extract data from table cells using console-specific structure.
-    """
+    """Extract data from table cells using detected structure."""
     game = {}
     
     # Handle row headers (th scope="row" for title)
@@ -296,12 +424,10 @@ def extract_cell_data(cells: List, structure: Dict, console_name: str) -> Dict:
             first_cell = cells[0]
             if first_cell.name == 'th' and first_cell.get('scope') == 'row':
                 game['title'] = get_link_or_italic_text(first_cell)
-                # Adjust indices - skip the title th
                 adjusted_cells = cells[1:]
                 adjusted_structure = {k: (v - 1 if v is not None and v > 0 else v) 
                                      for k, v in structure.items() if k.endswith('_col')}
             else:
-                # Not using row headers but structure says we should
                 adjusted_cells = cells
                 adjusted_structure = structure
                 if structure.get('title_col') is not None:
@@ -324,170 +450,265 @@ def extract_cell_data(cells: List, structure: Dict, console_name: str) -> Dict:
     if pub_col is not None and len(adjusted_cells) > pub_col:
         game['publisher'] = get_link_or_italic_text(adjusted_cells[pub_col])
     
-    # Extract first released
+    # Extract first released (use it for release_date calculation but don't store separately)
     first_col = adjusted_structure.get('first_released_col')
     if first_col is not None and len(adjusted_cells) > first_col:
-        text = get_span_with_sort_value(adjusted_cells[first_col])
-        if text and 'unreleased' not in text.lower():
-            game['first_released'] = text
+        date_str = parse_date_cell(adjusted_cells[first_col])
+        if date_str:
+            # Store temporarily as first_released for release_date calculation, will be removed in normalization
+            game['first_released'] = date_str
     
     # Extract regional releases
     jp_col = adjusted_structure.get('jp_col')
     if jp_col is not None and len(adjusted_cells) > jp_col:
-        text = get_span_with_sort_value(adjusted_cells[jp_col])
-        if text and 'unreleased' not in text.lower():
-            game['jp_release'] = text
+        date_str = parse_date_cell(adjusted_cells[jp_col])
+        if date_str:
+            game['jp_release'] = date_str
     
     na_col = adjusted_structure.get('na_col')
     if na_col is not None and len(adjusted_cells) > na_col:
-        text = get_span_with_sort_value(adjusted_cells[na_col])
-        if text and 'unreleased' not in text.lower():
-            game['na_release'] = text
+        date_str = parse_date_cell(adjusted_cells[na_col])
+        if date_str:
+            game['na_release'] = date_str
     
     pal_col = adjusted_structure.get('pal_col')
     if pal_col is not None and len(adjusted_cells) > pal_col:
-        text = get_span_with_sort_value(adjusted_cells[pal_col])
-        if text and 'unreleased' not in text.lower():
-            game['pal_release'] = text
+        date_str = parse_date_cell(adjusted_cells[pal_col])
+        if date_str:
+            game['pal_release'] = date_str
     
     europe_col = adjusted_structure.get('europe_col')
     if europe_col is not None and len(adjusted_cells) > europe_col:
-        text = get_span_with_sort_value(adjusted_cells[europe_col])
-        if text and 'unreleased' not in text.lower():
-            game['europe_release'] = text
+        date_str = parse_date_cell(adjusted_cells[europe_col])
+        if date_str:
+            game['europe_release'] = date_str
     
     australasia_col = adjusted_structure.get('australasia_col')
     if australasia_col is not None and len(adjusted_cells) > australasia_col:
-        text = get_span_with_sort_value(adjusted_cells[australasia_col])
-        if text and 'unreleased' not in text.lower():
-            game['australasia_release'] = text
+        date_str = parse_date_cell(adjusted_cells[australasia_col])
+        if date_str:
+            game['australasia_release'] = date_str
     
-    other_col = adjusted_structure.get('other_col')
-    if other_col is not None and len(adjusted_cells) > other_col:
-        text = get_span_with_sort_value(adjusted_cells[other_col])
-        if text and 'unreleased' not in text.lower():
-            game['other_release'] = text
+    brazil_col = adjusted_structure.get('brazil_col') or adjusted_structure.get('br_col')
+    if brazil_col is not None and len(adjusted_cells) > brazil_col:
+        date_str = parse_date_cell(adjusted_cells[brazil_col])
+        if date_str:
+            game['brazil_release'] = date_str
+            game['br_release'] = date_str
     
     return game
 
 
-def find_game_tables(soup) -> List:
+def normalize_game_data(game: Dict) -> Dict:
     """
-    Find all game tables in THIS HTML FILE by analyzing structure.
-    Returns list of table elements that contain game data.
+    Normalize game data: preserve ALL original fields from Wikipedia.
+    Additionally adds a 'release_date' field with the earliest available release date.
+    All other fields are kept as-is from the extraction.
     """
-    from bs4 import BeautifulSoup
+    # Start with a copy of all original fields
+    normalized = {}
+    for key, value in game.items():
+        if isinstance(value, str):
+            normalized[key] = value.strip()
+        else:
+            normalized[key] = value
     
+    # Ensure basic fields exist (even if empty)
+    if 'title' not in normalized:
+        normalized['title'] = ''
+    if 'developer' not in normalized:
+        normalized['developer'] = ''
+    if 'publisher' not in normalized:
+        normalized['publisher'] = ''
+    
+    # Collect all release dates and find the earliest one for release_date field
+    release_dates = []
+    date_fields = [
+        'first_released', 'jp_release', 'na_release', 'pal_release', 
+        'europe_release', 'australasia_release', 'brazil_release', 'br_release', 'release_date'
+    ]
+    
+    for field in date_fields:
+        date_value = normalized.get(field, '').strip()
+        if date_value:
+            release_dates.append(date_value)
+    
+    # Sort dates and use the earliest one for release_date
+    if release_dates:
+        try:
+            # Parse and sort dates to find earliest
+            parsed_dates = []
+            for date_str in release_dates:
+                try:
+                    # Handle both YYYY-MM-DD and YYYY-MM formats
+                    if len(date_str) >= 10:
+                        dt = datetime.strptime(date_str[:10], '%Y-%m-%d')
+                    elif len(date_str) >= 7:
+                        dt = datetime.strptime(date_str[:7], '%Y-%m')
+                    else:
+                        continue
+                    parsed_dates.append((dt, date_str))
+                except ValueError:
+                    continue
+            
+            if parsed_dates:
+                # Sort by date (earliest first)
+                parsed_dates.sort(key=lambda x: x[0])
+                normalized['release_date'] = parsed_dates[0][1]
+            else:
+                # If no valid dates found, use first non-empty
+                normalized['release_date'] = release_dates[0]
+        except Exception:
+            # If parsing fails, just use the first non-empty date
+            normalized['release_date'] = release_dates[0]
+    else:
+        # No release dates found
+        normalized['release_date'] = ''
+    
+    # Remove first_released field since release_date already contains this information
+    normalized.pop('first_released', None)
+    
+    return normalized
+
+
+def create_game_key(game: Dict) -> str:
+    """
+    Create a unique key for a game based on title, developer, and publisher.
+    Used for deduplication. Normalizes text for comparison.
+    """
+    title = game.get('title', '').strip().lower()
+    developer = game.get('developer', '').strip().lower()
+    publisher = game.get('publisher', '').strip().lower()
+    
+    # Normalize by removing extra whitespace and special characters
+    title = ' '.join(title.split())
+    developer = ' '.join(developer.split())
+    publisher = ' '.join(publisher.split())
+    
+    return f"{title}|||{developer}|||{publisher}"
+
+
+def deduplicate_games(games: List[Dict]) -> List[Dict]:
+    """
+    Remove duplicate games from a list. If duplicates found, keep the one with the most complete data.
+    """
+    seen = {}
+    result = []
+    
+    for game in games:
+        key = create_game_key(game)
+        
+        if key not in seen:
+            seen[key] = game
+            result.append(game)
+        else:
+            # Merge data if duplicate - prefer non-empty values
+            existing = seen[key]
+            
+            # Check if current game has more complete data
+            existing_completeness = sum(1 for k in ['title', 'developer', 'publisher', 'release_date'] 
+                                       if existing.get(k, '').strip())
+            current_completeness = sum(1 for k in ['title', 'developer', 'publisher', 'release_date'] 
+                                      if game.get(k, '').strip())
+            
+            # Replace if current is more complete, or if it has a release_date and existing doesn't
+            if (current_completeness > existing_completeness) or \
+               (not existing.get('release_date', '').strip() and game.get('release_date', '').strip()):
+                # Update the existing entry in seen and find it in result to replace
+                seen[key] = game
+                for i, r_game in enumerate(result):
+                    if create_game_key(r_game) == key:
+                        result[i] = game
+                        break
+    
+    return result
+
+
+def detect_categories(soup) -> List[str]:
+    """Detect which categories exist in the HTML by analyzing section headers."""
+    categories = []
+    sections = soup.find_all(['h2', 'h3'])
+    
+    section_texts = [s.get_text(strip=True).lower() for s in sections]
+    
+    # Map section names to category names
+    category_mapping = {
+        'licensed games': 'licensed',
+        'unlicensed games': 'unlicensed',
+        'championship games': 'championship',
+        'konami qta': 'konami_qta',
+        'konami qta adaptor games': 'konami_qta',
+        'unreleased games': 'unreleased',
+    }
+    
+    for section_text in section_texts:
+        for key, category in category_mapping.items():
+            if key in section_text and category not in categories:
+                categories.append(category)
+    
+    # If no categories detected, default to licensed
+    if not categories:
+        categories = ['licensed']
+    
+    return categories
+
+
+def find_game_tables(soup, category: str = None) -> List:
+    """Find game tables in the HTML, optionally filtered by category."""
     found_tables = []
     
-    # Strategy 1: Find tables with id="softwarelist" (standard Wikipedia format)
+    # Strategy 1: Find tables with id="softwarelist"
     licensed_tables = soup.find_all('table', {'id': 'softwarelist'})
     if licensed_tables:
         for table in licensed_tables:
-            # Verify it actually looks like a game table
             rows = table.find_all('tr')
-            if len(rows) > 5:  # Has some data
+            if len(rows) > 5:
                 found_tables.append(table)
     
-    # Strategy 2: Find large wikitable tables that contain game data
+    # Strategy 2: Find large wikitable tables
     if not found_tables:
         all_tables = soup.find_all('table', class_=lambda x: x and 'wikitable' in x)
         for table in all_tables:
             rows = table.find_all('tr')
-            if len(rows) > 10:  # Reasonable number of rows
-                # Check if header row contains game-related keywords
+            if len(rows) > 10:
                 header_row = rows[0] if rows else None
                 if header_row:
                     headers = [th.get_text(strip=True).lower() for th in header_row.find_all(['th', 'td'])]
                     header_text = ' '.join(headers)
-                    # Must have title AND (developer OR publisher) to be a game table
                     has_title = any(kw in header_text for kw in ['title', 'game', 'name'])
                     has_dev_or_pub = any(kw in header_text for kw in ['developer', 'publisher'])
                     
                     if has_title and has_dev_or_pub:
-                        # Check a few data rows to confirm it's actually game data
                         data_row_count = 0
-                        for row in rows[1:6]:  # Check first 5 potential data rows
+                        for row in rows[1:6]:
                             cells = row.find_all(['td', 'th'])
-                            if len(cells) >= 3:  # Has multiple columns
-                                # Check if first cell looks like a game title (has link or italic)
+                            if len(cells) >= 3:
                                 first_cell = cells[0]
                                 if first_cell.find('a') or first_cell.find('i'):
                                     data_row_count += 1
                         
-                        if data_row_count >= 2:  # At least 2 rows look like games
+                        if data_row_count >= 2:
                             found_tables.append(table)
-                            break  # Use the first good table found
+                            break
     
     return found_tables
 
 
-def extract_with_bs4(html_content: str, console_name: str) -> Dict[str, List[Dict]]:
-    """
-    Extract game data by analyzing THIS HTML FILE's actual table structure.
-    No hardcoded assumptions - each file is analyzed individually.
-    """
-    try:
-        from bs4 import BeautifulSoup
-        
-        soup = BeautifulSoup(html_content, 'html.parser')
-        tables = {
-            'licensed': [],
-            'unlicensed': [],
-            'konami_qta': [],
-            'unreleased': []
-        }
-        
-        # Find all game tables in THIS HTML FILE
-        game_tables = find_game_tables(soup)
-        
-        for table in game_tables:
-            games = parse_game_table(table, console_name)
-            if games:
-                tables['licensed'].extend(games)
-        
-        # Unreleased games table
-        unreleased_table = soup.find('table', {'id': 'softwarelistunreleased'})
-        if unreleased_table:
-            tables['unreleased'] = parse_unreleased_table(unreleased_table)
-        
-        # Konami QTa games (NES only)
-        konami_table = soup.find('table', {'id': 'konamiqtalist'})
-        if konami_table:
-            tables['konami_qta'] = parse_konami_qta_table(konami_table)
-        
-        return tables
-        
-    except ImportError:
-        print("BeautifulSoup not installed, falling back to regex parser")
-        return extract_all_tables_regex(html_content)
-
-
 def parse_game_table(table, console_name: str) -> List[Dict]:
-    """
-    Parse main licensed games table by analyzing THIS SPECIFIC TABLE's structure.
-    No hardcoded assumptions - detects structure from actual headers.
-    """
-    from bs4 import BeautifulSoup
-    
+    """Parse game table by analyzing actual structure."""
     games = []
     rows = table.find_all('tr')
     
     if len(rows) < 2:
         return games
     
-    # Analyze THIS TABLE's actual structure from its headers
+    # Analyze structure
     structure = analyze_table_structure(table)
     
-    # Skip header rows - find first data row
+    # Find start index (skip header rows and region header rows)
     start_idx = 1
-    for i, row in enumerate(rows[1:], 1):
-        cells = row.find_all(['td', 'th'])
-        if cells:
-            # Check if this looks like a data row (has title or multiple cells)
-            if len(cells) >= 2:
-                start_idx = i
-                break
+    if structure['has_region_header_row']:
+        start_idx = 2
     
     # Parse data rows
     for row in rows[start_idx:]:
@@ -505,8 +726,6 @@ def parse_game_table(table, console_name: str) -> List[Dict]:
 
 def parse_unreleased_table(table) -> List[Dict]:
     """Parse unreleased games table."""
-    from bs4 import BeautifulSoup
-    
     games = []
     rows = table.find_all('tr')
     
@@ -533,8 +752,6 @@ def parse_unreleased_table(table) -> List[Dict]:
 
 def parse_konami_qta_table(table) -> List[Dict]:
     """Parse Konami QTa games table."""
-    from bs4 import BeautifulSoup
-    
     games = []
     rows = table.find_all('tr')
     
@@ -551,7 +768,9 @@ def parse_konami_qta_table(table) -> List[Dict]:
         game['title'] = get_link_or_italic_text(cells[0])
         game['developer'] = get_link_or_italic_text(cells[1])
         game['publisher'] = clean_text(cells[2].get_text())
-        game['jp_release'] = get_span_with_sort_value(cells[3])
+        date_str = parse_date_cell(cells[3])
+        if date_str:
+            game['jp_release'] = date_str
         
         if game.get('title'):
             games.append(game)
@@ -559,17 +778,31 @@ def parse_konami_qta_table(table) -> List[Dict]:
     return games
 
 
-def extract_all_tables_regex(html_content: str) -> Dict[str, List[Dict]]:
-    """Fallback regex parser (not recommended)."""
-    tables = {
-        'licensed': [],
-        'unlicensed': [],
-        'konami_qta': [],
-        'unreleased': []
-    }
+def extract_with_bs4(html_content: str, console_name: str) -> Dict[str, List[Dict]]:
+    """Extract game data from HTML content."""
+    soup = BeautifulSoup(html_content, 'lxml')
+    tables = defaultdict(list)
     
-    # This is a fallback - BeautifulSoup is much better
-    print("[WARNING] Using regex parser - results may be incomplete")
+    # Detect which categories exist
+    categories = detect_categories(soup)
+    
+    # Find all game tables
+    game_tables = find_game_tables(soup)
+    
+    for table in game_tables:
+        games = parse_game_table(table, console_name)
+        if games:
+            # Add to 'licensed' for now (main games table)
+            tables['licensed'].extend(games)
+    
+    # Check for special tables
+    unreleased_table = soup.find('table', {'id': 'softwarelistunreleased'})
+    if unreleased_table:
+        tables['unreleased'] = parse_unreleased_table(unreleased_table)
+    
+    konami_table = soup.find('table', {'id': 'konamiqtalist'})
+    if konami_table:
+        tables['konami_qta'] = parse_konami_qta_table(konami_table)
     
     return tables
 
@@ -620,46 +853,60 @@ def main():
             with open(html_file, 'r', encoding='utf-8') as f:
                 html_content = f.read()
             
-            # Extract game tables with console-specific parsing
+            # Extract game tables
             try:
                 tables_data = extract_with_bs4(html_content, console_name)
             except Exception as e:
                 print(f"    [WARNING] Error with BeautifulSoup: {e}")
-                tables_data = extract_all_tables_regex(html_content)
+                continue
             
             # Merge games from this file into console's tables
             for table_name, games in tables_data.items():
                 if games:
-                    console_tables[table_name].extend(games)
-                    print(f"    [OK] Extracted {len(games)} games from {table_name}")
+                    # Normalize games before adding (consolidate release dates)
+                    normalized_games = [normalize_game_data(game) for game in games]
+                    console_tables[table_name].extend(normalized_games)
+                    print(f"    [OK] Extracted {len(normalized_games)} games from {table_name}")
                 else:
                     print(f"    [NO DATA] No games found for {table_name}")
         
-        # Create console-specific folder
-        console_folder = os.path.join(database_folder, console_name)
-        os.makedirs(console_folder, exist_ok=True)
-        
-        # Save each table as a separate JSON file in the console folder
-        for table_name, games in console_tables.items():
-            if games:
-                output_file = os.path.join(console_folder, f'{table_name}.json')
-                with open(output_file, 'w', encoding='utf-8') as f:
-                    json.dump(games, f, indent=2, ensure_ascii=False)
-                print(f"[OK] Saved {len(games)} total games to database/{console_name}/{table_name}.json")
-        
-        # Create combined file in database root
+        # Combine all games from all tables (licensed, unreleased, etc.)
         all_games = []
         for table_name, games in console_tables.items():
-            for game in games:
-                game_copy = game.copy()
-                game_copy['category'] = table_name
-                all_games.append(game_copy)
+            # Deduplicate games per table first
+            if games:
+                before_count = len(games)
+                games = deduplicate_games(games)
+                after_count = len(games)
+                if before_count != after_count:
+                    print(f"    [INFO] Deduplicated {table_name}: {before_count} -> {after_count} games")
+                
+                # Only include games with at least a title
+                games = [g for g in games if g.get('title', '').strip()]
+                
+                # Add all games to the combined list
+                all_games.extend(games)
         
+        # Final deduplication across all categories
         if all_games:
-            output_file = os.path.join(database_folder, f'{console_name}_all.json')
-            with open(output_file, 'w', encoding='utf-8') as f:
-                json.dump(all_games, f, indent=2, ensure_ascii=False)
-            print(f"[OK] Saved {len(all_games)} total games to database/{console_name}_all.json")
+            before_count = len(all_games)
+            all_games = deduplicate_games(all_games)
+            after_count = len(all_games)
+            if before_count != after_count:
+                print(f"[INFO] Final deduplication: {before_count} -> {after_count} total games")
+            
+            # Save single JSON file in database root (no folders)
+            final_games = []
+            for game in all_games:
+                # Keep ALL fields from Wikipedia, just ensure title exists
+                if game.get('title', '').strip():
+                    final_games.append(game)
+            
+            if final_games:
+                output_file = os.path.join(database_folder, f'{console_name}.json')
+                with open(output_file, 'w', encoding='utf-8') as f:
+                    json.dump(final_games, f, indent=2, ensure_ascii=False)
+                print(f"[OK] Saved {len(final_games)} games to database/{console_name}.json")
         
         print()  # Empty line between consoles
     

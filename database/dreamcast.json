@@ -1,0 +1,4449 @@
+[
+  {
+    "title": "4 Wheel Thunder",
+    "developer": "Kalisto Entertainment",
+    "publisher": "Midway",
+    "pal_release": "2000-05-02",
+    "release_date": "2000-05-02"
+  },
+  {
+    "title": "4x4 Evo",
+    "developer": "Terminal Reality",
+    "publisher": "Gathering of Developers",
+    "pal_release": "2000-10-26",
+    "release_date": "2000-10-26"
+  },
+  {
+    "title": "18 Wheeler: American Pro Trucker",
+    "developer": "Sega AM2",
+    "publisher": "Sega",
+    "na_release": "2000-10-12",
+    "pal_release": "2001-05-22",
+    "release_date": "2000-10-12"
+  },
+  {
+    "title": "21: Two One",
+    "developer": "PrincessSoft",
+    "publisher": "PrincessSoft",
+    "na_release": "2001-12-27",
+    "release_date": "2001-12-27"
+  },
+  {
+    "title": "90 Minutes: Sega Championship Football",
+    "developer": "Smilebit",
+    "publisher": "Sega",
+    "na_release": "2002-02-07",
+    "release_date": "2001-10-25"
+  },
+  {
+    "title": "102 Dalmatians: Puppies to the Rescue",
+    "developer": "Prolific Publishing",
+    "publisher": "Eidos Interactive",
+    "pal_release": "2000-11-14",
+    "release_date": "2000-11-14"
+  },
+  {
+    "title": "Advanced Daisenryaku 2001",
+    "developer": "SystemSoft",
+    "publisher": "Sega",
+    "na_release": "2001-04-26",
+    "release_date": "2001-04-26"
+  },
+  {
+    "title": "Advanced Daisenryaku: Europe no Arashi - Doitsu Dengeki Sakusen",
+    "developer": "SystemSoft",
+    "publisher": "Sega",
+    "na_release": "2000-06-22",
+    "release_date": "2000-06-22"
+  },
+  {
+    "title": "Aero Dancing F: Todoroki Tsubasa no Hatsu Hikou",
+    "developer": "CRI",
+    "publisher": "CRI",
+    "na_release": "2000-11-16",
+    "release_date": "2000-11-16"
+  },
+  {
+    "title": "Aero Dancing i",
+    "developer": "CRI",
+    "publisher": "CRI",
+    "na_release": "2001-02-15",
+    "release_date": "2001-02-15"
+  },
+  {
+    "title": "Aero Dancing i: Jikai Sakuma de Machite Masen",
+    "developer": "CRI",
+    "publisher": "CRI",
+    "na_release": "2001-08-23",
+    "release_date": "2001-08-23"
+  },
+  {
+    "title": "Aero Dancing: Torodoki Taichou no Himitsu Disc",
+    "developer": "CRI",
+    "publisher": "CRI",
+    "na_release": "2000-01-20",
+    "release_date": "2000-01-20"
+  },
+  {
+    "title": "AeroWings",
+    "developer": "CRI",
+    "publisher": "Crave Entertainment",
+    "na_release": "1999-03-04",
+    "pal_release": "1999-09-09",
+    "release_date": "1999-03-04"
+  },
+  {
+    "title": "AeroWings 2: Air Strike",
+    "developer": "CRI",
+    "publisher": "Crave Entertainment",
+    "na_release": "2000-02-24",
+    "pal_release": "2000-08-08",
+    "release_date": "2000-02-24"
+  },
+  {
+    "title": "After...: Wasureenu Kizuna",
+    "developer": "Ciel",
+    "publisher": "Pionesoft",
+    "na_release": "2004-02-26",
+    "release_date": "2004-02-26"
+  },
+  {
+    "title": "Aikagi: Hidamari to Kanojo no Heyagi",
+    "developer": "F&C・FC02",
+    "publisher": "NEC Interchannel",
+    "na_release": "2003-08-07",
+    "release_date": "2003-08-07"
+  },
+  {
+    "title": "Air",
+    "developer": "Key",
+    "publisher": "NEC Interchannel",
+    "na_release": "2001-09-20",
+    "release_date": "2001-09-20"
+  },
+  {
+    "title": "Airforce Delta",
+    "developer": "Konami Computer Entertainment Yokohama",
+    "publisher": "Konami",
+    "na_release": "1999-07-29",
+    "pal_release": "1999-09-09",
+    "release_date": "1999-07-29"
+  },
+  {
+    "title": "Alien Front Online",
+    "developer": "Wow Entertainment",
+    "publisher": "Sega",
+    "pal_release": "2001-08-07",
+    "release_date": "2001-08-07"
+  },
+  {
+    "title": "Alone in the Dark: The New Nightmare",
+    "developer": "Darkworks",
+    "publisher": "Infogrames",
+    "pal_release": "2001-09-24",
+    "release_date": "2001-06-22"
+  },
+  {
+    "title": "Angel Present",
+    "developer": "HuneX",
+    "publisher": "NEC Interchannel",
+    "na_release": "2001-04-12",
+    "release_date": "2001-04-12"
+  },
+  {
+    "title": "Angel Wish: Kimi no Egao ni Chu!",
+    "developer": "Favourite",
+    "publisher": "Pionesoft",
+    "na_release": "2005-02-24",
+    "release_date": "2005-02-24"
+  },
+  {
+    "title": "Animastar",
+    "developer": "AKI",
+    "publisher": "AKI",
+    "na_release": "2000-06-15",
+    "release_date": "2000-06-15"
+  },
+  {
+    "title": "Ao no Roku-gō: Saigetsu Fumachibito -Time and Tide",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "na_release": "2000-12-07",
+    "release_date": "2000-12-07"
+  },
+  {
+    "title": "Aqua GT",
+    "developer": "East Point Software",
+    "publisher": "Take-Two Interactive",
+    "release_date": "2000-12-22"
+  },
+  {
+    "title": "Armada",
+    "developer": "Metro3D",
+    "publisher": "Metro3D",
+    "pal_release": "1999-11-26",
+    "release_date": "1999-11-26"
+  },
+  {
+    "title": "Army Men: Sarge's Heroes",
+    "developer": "Saffire",
+    "publisher": "Midway",
+    "pal_release": "2000-10-31",
+    "release_date": "2000-10-31"
+  },
+  {
+    "title": "Atari Anniversary Edition",
+    "developer": "Digital Eclipse",
+    "publisher": "Infogrames",
+    "pal_release": "2001-06-26",
+    "release_date": "2001-06-26"
+  },
+  {
+    "title": "Atsumare! GuruGuru Onsen",
+    "developer": "Sega AM7",
+    "publisher": "Sega",
+    "na_release": "1999-09-23",
+    "release_date": "1999-09-23"
+  },
+  {
+    "title": "Atsumare! GuruGuru Onsen BB",
+    "developer": "Overworks",
+    "publisher": "Sega",
+    "na_release": "2000-10-31",
+    "release_date": "2000-10-31"
+  },
+  {
+    "title": "Baldr Force EXE",
+    "developer": "Giga",
+    "publisher": "Alchemist",
+    "na_release": "2004-10-28",
+    "release_date": "2004-10-28"
+  },
+  {
+    "title": "Bang! Gunship Elite",
+    "developer": "RayLand",
+    "publisher": "Red Storm Entertainment",
+    "pal_release": "2000-12-22",
+    "release_date": "2000-12-22"
+  },
+  {
+    "title": "Bangai-O",
+    "developer": "Treasure",
+    "publisher": "Entertainment Software Publishing",
+    "na_release": "1999-12-09",
+    "pal_release": "2001-03-21",
+    "release_date": "1999-12-09"
+  },
+  {
+    "title": "Bass Rush Dream: EcoGear PowerWorm Championship",
+    "developer": "Visco",
+    "publisher": "Visco",
+    "na_release": "2000-12-21",
+    "release_date": "2000-12-21"
+  },
+  {
+    "title": "Battle Beaster",
+    "developer": "Studio Wonder Effect",
+    "publisher": "Studio Wonder Effect",
+    "na_release": "2001-03-15",
+    "release_date": "2001-03-15"
+  },
+  {
+    "title": "BikkuriMan 2000 Viva! Festival!",
+    "developer": "Sega Toys",
+    "publisher": "Sega Toys",
+    "na_release": "2000-05-02",
+    "release_date": "2000-05-02"
+  },
+  {
+    "title": "BioHazard Code: Veronica Kanzenban",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "na_release": "2001-03-22",
+    "release_date": "2001-03-22"
+  },
+  {
+    "title": "Black/Matrix Advanced",
+    "developer": "Flight-Plan",
+    "publisher": "NEC Interchannel",
+    "na_release": "1999-09-30",
+    "release_date": "1999-09-30"
+  },
+  {
+    "title": "Blue-Sky-Blue: Sora o Mau Tsubasa",
+    "developer": "EMU",
+    "publisher": "Reindeer",
+    "na_release": "2003-06-26",
+    "release_date": "2003-06-26"
+  },
+  {
+    "title": "Blue Stinger",
+    "developer": "Climax Graphics",
+    "publisher": "Sega",
+    "na_release": "1999-03-25",
+    "pal_release": "1999-09-09",
+    "release_date": "1999-03-25"
+  },
+  {
+    "title": "Bokomu no Tatsujin",
+    "developer": "Fujicom",
+    "publisher": "Fujicom",
+    "na_release": "2002-01-24",
+    "release_date": "2002-01-24"
+  },
+  {
+    "title": "Boku no Tennis Jinsei",
+    "developer": "Bimboosoft",
+    "publisher": "Bimboosoft",
+    "na_release": "2001-09-20",
+    "release_date": "2001-09-20"
+  },
+  {
+    "title": "Boku to, Bokura no Natsu",
+    "developer": "KID",
+    "publisher": "KID",
+    "na_release": "2002-09-26",
+    "release_date": "2002-09-26"
+  },
+  {
+    "title": "Boku Doraemon",
+    "developer": "Sega Toys",
+    "publisher": "Sega Toys",
+    "na_release": "2001-01-25",
+    "release_date": "2001-01-25"
+  },
+  {
+    "title": "Bomber Hehhe!",
+    "developer": "Fujicom",
+    "publisher": "Fujicom",
+    "na_release": "2002-01-10",
+    "release_date": "2002-01-10"
+  },
+  {
+    "title": "Bomberman Online",
+    "developer": "h.a.n.d.",
+    "publisher": "Sega",
+    "pal_release": "2001-10-30",
+    "release_date": "2001-10-30"
+  },
+  {
+    "title": "Border Down",
+    "developer": "G.rev",
+    "publisher": "G.rev",
+    "na_release": "2003-09-25",
+    "release_date": "2003-09-25"
+  },
+  {
+    "title": "Bounty Hunter Sara: Holy Mountain no Teiou",
+    "developer": "Flagship",
+    "publisher": "Capcom",
+    "na_release": "2001-05-24",
+    "release_date": "2001-05-24"
+  },
+  {
+    "title": "Bust-A-Move 4",
+    "developer": "Taito",
+    "publisher": "CyberFront",
+    "na_release": "2000-03-16",
+    "pal_release": "2000-06-01",
+    "release_date": "2000-03-16"
+  },
+  {
+    "title": "Buzz Lightyear of Star Command",
+    "developer": "Traveller's Tales",
+    "publisher": "Activision",
+    "pal_release": "2000-10-04",
+    "release_date": "2000-10-04"
+  },
+  {
+    "title": "Caesars Palace 2000",
+    "developer": "Runecraft",
+    "publisher": "Interplay Entertainment",
+    "pal_release": "2000-09-20",
+    "release_date": "2000-09-20"
+  },
+  {
+    "title": "Cafe Little Wish",
+    "developer": "Patissier",
+    "publisher": "PrincessSoft",
+    "na_release": "2003-05-29",
+    "release_date": "2003-05-29"
+  },
+  {
+    "title": "Canaria: Kono Omoi o Uta ni Nosete",
+    "developer": "Front Wing",
+    "publisher": "NEC Interchannel",
+    "na_release": "2001-08-23",
+    "release_date": "2001-08-23"
+  },
+  {
+    "title": "Candy Stripe: Minarai Tenshi",
+    "developer": "Wow Entertainment",
+    "publisher": "Sega",
+    "na_release": "2001-10-25",
+    "release_date": "2001-10-25"
+  },
+  {
+    "title": "Cannon Spike",
+    "developer": "Psikyo",
+    "publisher": "Capcom",
+    "na_release": "2000-12-21",
+    "pal_release": "2000-11-15",
+    "release_date": "2000-11-15"
+  },
+  {
+    "title": "Canvas: Sepia Iro no Motif",
+    "developer": "Cocktail Soft",
+    "publisher": "NEC Interchannel",
+    "na_release": "2001-04-05",
+    "release_date": "2001-04-05"
+  },
+  {
+    "title": "Capcom vs. SNK: Millennium Fight 2000",
+    "developer": "Capcom Production Studio 1",
+    "publisher": "Capcom",
+    "na_release": "2000-09-06",
+    "pal_release": "2000-11-08",
+    "release_date": "2000-09-06"
+  },
+  {
+    "title": "Capcom vs. SNK: Millennium Fight 2000 Pro",
+    "developer": "Capcom Production Studio 1",
+    "publisher": "Capcom",
+    "na_release": "2001-06-14",
+    "release_date": "2001-06-14"
+  },
+  {
+    "title": "Capcom vs. SNK 2: Millionaire Fighting 2001",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "na_release": "2001-09-13",
+    "release_date": "2001-09-13"
+  },
+  {
+    "title": "Card Captor Sakura: Tomoyo no Video Daisakusen",
+    "developer": "Sega Rosso",
+    "publisher": "Sega",
+    "na_release": "2000-12-28",
+    "release_date": "2000-12-28"
+  },
+  {
+    "title": "Card of Destiny: Hikari to Yami no Tougoumono",
+    "developer": "Abel",
+    "publisher": "Abel",
+    "na_release": "2002-03-28",
+    "release_date": "2002-03-28"
+  },
+  {
+    "title": "Carrier",
+    "developer": "Jaleco",
+    "publisher": "JalecoJP/NAXicat InteractivePAL",
+    "na_release": "2000-02-24",
+    "pal_release": "2000-02-29",
+    "release_date": "2000-02-24"
+  },
+  {
+    "title": "Castle Fantasia Seima Taisen",
+    "developer": "AGREE",
+    "publisher": "Symbio Planning",
+    "na_release": "2002-07-11",
+    "release_date": "2002-07-11"
+  },
+  {
+    "title": "Centipede",
+    "developer": "Leaping Lizard Software",
+    "publisher": "Hasbro Interactive",
+    "pal_release": "1999-11-23",
+    "release_date": "1999-11-23"
+  },
+  {
+    "title": "Championship Surfer",
+    "developer": "Krome Studios",
+    "publisher": "Mattel Interactive",
+    "pal_release": "2000-12-04",
+    "release_date": "2000-12-04"
+  },
+  {
+    "title": "Chaos Field",
+    "developer": "MileStone Inc.",
+    "publisher": "MileStone Inc.",
+    "na_release": "2004-12-16",
+    "release_date": "2004-12-16"
+  },
+  {
+    "title": "Charge 'n Blast",
+    "developer": "CRI",
+    "publisher": "SIMSJPXicat InteractiveWW",
+    "na_release": "2000-12-07",
+    "pal_release": "2001-02-07",
+    "release_date": "2000-12-07"
+  },
+  {
+    "title": "Cherry Blossom",
+    "developer": "Takuyo",
+    "publisher": "Takuyo",
+    "na_release": "2004-04-28",
+    "release_date": "2004-04-28"
+  },
+  {
+    "title": "Chicken Run",
+    "developer": "Blitz Games",
+    "publisher": "Eidos Interactive",
+    "pal_release": "2000-11-13",
+    "release_date": "2000-11-13"
+  },
+  {
+    "title": "Chocolat: Maid Cafe \"Curio\"",
+    "developer": "Giga",
+    "publisher": "Alchemist",
+    "na_release": "2003-12-25",
+    "release_date": "2003-12-25"
+  },
+  {
+    "title": "Chou-Hatsumei Boy Kanipan: Bousou Robot no Nazo!?",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "na_release": "1999-07-08",
+    "release_date": "1999-07-08"
+  },
+  {
+    "title": "Christmas Seaman",
+    "developer": "Vivarium",
+    "publisher": "Vivarium",
+    "na_release": "1999-12-16",
+    "release_date": "1999-12-16"
+  },
+  {
+    "title": "ChuChu Rocket!",
+    "developer": "Sonic Team",
+    "publisher": "Sega",
+    "na_release": "1999-11-11",
+    "pal_release": "2000-03-07",
+    "release_date": "1999-11-11"
+  },
+  {
+    "title": "Cleopatra Fortune",
+    "developer": "Altron",
+    "publisher": "Altron",
+    "na_release": "2001-06-21",
+    "release_date": "2001-06-21"
+  },
+  {
+    "title": "Close to: Inori no Oka",
+    "developer": "KID",
+    "publisher": "KID",
+    "na_release": "2001-04-19",
+    "release_date": "2001-04-19"
+  },
+  {
+    "title": "Coaster Works",
+    "developer": "Bimboosoft",
+    "publisher": "Bottom UpJPXicat InteractiveWW",
+    "na_release": "1999-12-09",
+    "pal_release": "2001-04-03",
+    "release_date": "1999-12-09"
+  },
+  {
+    "title": "Comic Party",
+    "developer": "Aquaplus",
+    "publisher": "Aquaplus",
+    "na_release": "2001-08-09",
+    "release_date": "2001-08-09"
+  },
+  {
+    "title": "Confidential Mission",
+    "developer": "Hitmaker",
+    "publisher": "Sega",
+    "na_release": "2001-06-14",
+    "pal_release": "2001-05-14",
+    "release_date": "2001-05-14"
+  },
+  {
+    "title": "Conflict Zone",
+    "developer": "MASA Group",
+    "publisher": "Ubi Soft",
+    "pal_release": "2001-12-15",
+    "release_date": "2001-12-15"
+  },
+  {
+    "title": "Cool Cool Toon",
+    "developer": "SNK",
+    "publisher": "SNK",
+    "na_release": "2000-08-10",
+    "release_date": "2000-08-10"
+  },
+  {
+    "title": "Cosmic Smash",
+    "developer": "Sega Rosso",
+    "publisher": "Sega",
+    "na_release": "2001-09-13",
+    "release_date": "2001-09-13"
+  },
+  {
+    "title": "CR Hissatsu Shigotonin Pachitte Chonmage @ VPACHI",
+    "developer": "Hackberry",
+    "publisher": "Hackberry",
+    "na_release": "2001-08-02",
+    "release_date": "2001-08-02"
+  },
+  {
+    "title": "Crazy Taxi",
+    "developer": "Hitmaker",
+    "publisher": "Sega",
+    "na_release": "2000-01-27",
+    "pal_release": "2000-02-02",
+    "release_date": "2000-01-27"
+  },
+  {
+    "title": "Crazy Taxi 2",
+    "developer": "Hitmaker",
+    "publisher": "Sega",
+    "na_release": "2001-05-31",
+    "pal_release": "2001-05-29",
+    "release_date": "2001-05-29"
+  },
+  {
+    "title": "Culdcept Second",
+    "developer": "Omiya Soft",
+    "publisher": "Media Factory",
+    "na_release": "2001-07-12",
+    "release_date": "2001-07-12"
+  },
+  {
+    "title": "Cyber Team in Akihabara: PataPies!",
+    "developer": "Westone",
+    "publisher": "Sega",
+    "na_release": "1999-07-29",
+    "release_date": "1999-07-29"
+  },
+  {
+    "title": "Cyber Troopers Virtual-On Oratorio Tangram",
+    "developer": "Sega AM3",
+    "publisher": "Sega",
+    "na_release": "1999-12-09",
+    "pal_release": "2000-06-07",
+    "release_date": "1999-12-09"
+  },
+  {
+    "title": "D+Vine (Luv)",
+    "developer": "PrincessSoft",
+    "publisher": "PrincessSoft",
+    "na_release": "2001-10-25",
+    "release_date": "2001-10-25"
+  },
+  {
+    "title": "D2",
+    "developer": "Warp",
+    "publisher": "Sega",
+    "na_release": "1999-12-23",
+    "pal_release": "2000-08-22",
+    "release_date": "1999-12-23"
+  },
+  {
+    "title": "Dance Dance Revolution 2ndMix",
+    "developer": "Konami Computer Entertainment Tokyo",
+    "publisher": "Konami",
+    "na_release": "2000-02-17",
+    "release_date": "2000-02-17"
+  },
+  {
+    "title": "Dance Dance Revolution Club Version Dreamcast Edition",
+    "developer": "Konami Computer Entertainment Tokyo",
+    "publisher": "Konami",
+    "na_release": "2000-04-27",
+    "release_date": "2000-04-27"
+  },
+  {
+    "title": "Dancing Blade: Katte ni Momotenshi! Kanzenban",
+    "developer": "Konami Computer Entertainment Tokyo",
+    "publisher": "Konami",
+    "na_release": "1999-09-02",
+    "release_date": "1999-09-02"
+  },
+  {
+    "title": "Dancing Blade Katte ni Momotenshi II: Tears of Eden Kanzenban",
+    "developer": "Konami Computer Entertainment Tokyo",
+    "publisher": "Konami",
+    "na_release": "1999-09-30",
+    "release_date": "1999-09-30"
+  },
+  {
+    "title": "Dave Mirra Freestyle BMX",
+    "developer": "Z-Axis",
+    "publisher": "Acclaim Max Sports",
+    "pal_release": "2000-11-21",
+    "release_date": "2000-11-21"
+  },
+  {
+    "title": "Daytona USA 2001",
+    "developer": "Amusement Vision",
+    "publisher": "Sega",
+    "na_release": "2000-12-21",
+    "pal_release": "2001-03-12",
+    "release_date": "2000-12-21"
+  },
+  {
+    "title": "Dead or Alive 2",
+    "developer": "Team Ninja",
+    "publisher": "Tecmo",
+    "na_release": "2000-09-28",
+    "pal_release": "2000-02-29",
+    "release_date": "2000-02-29"
+  },
+  {
+    "title": "Death Crimson 2: Meranito no Saidan",
+    "developer": "Ecole",
+    "publisher": "Ecole",
+    "na_release": "1999-11-25",
+    "release_date": "1999-11-25"
+  },
+  {
+    "title": "Death Crimson OX",
+    "developer": "Ecole",
+    "publisher": "Sammy Entertainment",
+    "na_release": "2001-05-10",
+    "pal_release": "2001-08-08",
+    "release_date": "2001-05-10"
+  },
+  {
+    "title": "Deep Fighter",
+    "developer": "Criterion Games",
+    "publisher": "Ubi Soft",
+    "pal_release": "2000-08-23",
+    "release_date": "2000-08-23"
+  },
+  {
+    "title": "De La Jet Set Radio",
+    "developer": "Smilebit",
+    "publisher": "Sega",
+    "na_release": "2001-01-01",
+    "release_date": "2001-01-01"
+  },
+  {
+    "title": "Demolition Racer: No Exit",
+    "developer": "Pitbull Syndicate",
+    "publisher": "Infogrames North America",
+    "pal_release": "2000-10-25",
+    "release_date": "2000-10-25"
+  },
+  {
+    "title": "Dengen Tenshi Taisen Mahjong: Shangri-La",
+    "developer": "Marvelous Entertainment",
+    "publisher": "Marvelous Entertainment",
+    "na_release": "1999-11-25",
+    "release_date": "1999-11-25"
+  },
+  {
+    "title": "Denpa Shonenteki Kenshoseikatsu Soft Nasubi no Heya",
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
+    "na_release": "1999-07-22",
+    "release_date": "1999-07-22"
+  },
+  {
+    "title": "Densha de Go! 2",
+    "developer": "Taito",
+    "publisher": "Taito",
+    "na_release": "2000-01-20",
+    "release_date": "2000-01-20"
+  },
+  {
+    "title": "Derby Tsuku: Derby Ba o Tsukurou!",
+    "developer": "Smilebit",
+    "publisher": "Sega",
+    "na_release": "2000-07-27",
+    "release_date": "2000-07-27"
+  },
+  {
+    "title": "Derby Tsuku 2",
+    "developer": "Smilebit",
+    "publisher": "Sega",
+    "na_release": "2001-08-09",
+    "release_date": "2001-08-09"
+  },
+  {
+    "title": "DeSpiria",
+    "developer": "Atlus",
+    "publisher": "Atlus",
+    "na_release": "2000-09-21",
+    "release_date": "2000-09-21"
+  },
+  {
+    "title": "Di Gi Charat Fantasy",
+    "developer": "Westone",
+    "publisher": "Broccoli",
+    "na_release": "2001-09-06",
+    "release_date": "2001-09-06"
+  },
+  {
+    "title": "Digital Keiba Shinbun: My Trackman",
+    "developer": "Shouei System",
+    "publisher": "Shouei System",
+    "na_release": "1999-04-08",
+    "release_date": "1999-04-08"
+  },
+  {
+    "title": "Dino Crisis",
+    "developer": "Nextech",
+    "publisher": "Capcom",
+    "na_release": "2000-09-06",
+    "pal_release": "2000-11-15",
+    "release_date": "2000-09-06"
+  },
+  {
+    "title": "Dinosaur",
+    "developer": "Ubi Soft Paris",
+    "publisher": "Ubi Soft",
+    "pal_release": "2000-11-28",
+    "release_date": "2000-11-24"
+  },
+  {
+    "title": "Doguu Senki: Haou",
+    "developer": "Victor Interactive Software",
+    "publisher": "Victor Interactive Software",
+    "na_release": "2000-08-10",
+    "release_date": "2000-08-10"
+  },
+  {
+    "title": "Doki Doki Idol Star Seeker Remix",
+    "developer": "G.rev",
+    "publisher": "G.rev",
+    "na_release": "2002-01-31",
+    "release_date": "2002-01-31"
+  },
+  {
+    "title": "Donald Duck: Goin' Quackers",
+    "developer": "Ubi Soft Casablanca",
+    "publisher": "Ubi Soft",
+    "pal_release": "2000-12-13",
+    "release_date": "2000-12-13"
+  },
+  {
+    "title": "Dousoukai 2 Again & Refrain",
+    "developer": "NEC Interchannel",
+    "publisher": "NEC Interchannel",
+    "na_release": "2002-06-27",
+    "release_date": "2002-06-27"
+  },
+  {
+    "title": "Draconus: Cult of the Wyrm",
+    "developer": "Treyarch",
+    "publisher": "Crave Entertainment",
+    "pal_release": "2000-06-23",
+    "release_date": "2000-06-23"
+  },
+  {
+    "title": "Dragon Riders: Chronicles of Pern",
+    "developer": "Ubi Studios UK",
+    "publisher": "Ubi Soft",
+    "pal_release": "2001-08-08",
+    "release_date": "2001-08-08"
+  },
+  {
+    "title": "Ducati World Racing Challenge",
+    "developer": "Attention to Detail",
+    "publisher": "Acclaim Entertainment",
+    "pal_release": "2001-02-13",
+    "release_date": "2001-02-13"
+  },
+  {
+    "title": "Dynamite Cop",
+    "developer": "Sega AM1",
+    "publisher": "Sega",
+    "na_release": "1999-05-27",
+    "pal_release": "1999-11-02",
+    "release_date": "1999-05-27"
+  },
+  {
+    "title": "Ecco the Dolphin: Defender of the Future",
+    "developer": "Appaloosa Interactive",
+    "publisher": "Sega",
+    "na_release": "2001-01-25",
+    "pal_release": "2000-08-15",
+    "release_date": "2000-06-16"
+  },
+  {
+    "title": "ECW Anarchy Rulz",
+    "developer": "Acclaim Studios Salt Lake City",
+    "publisher": "Acclaim Entertainment",
+    "pal_release": "2000-11-28",
+    "release_date": "2000-11-28"
+  },
+  {
+    "title": "ECW Hardcore Revolution",
+    "developer": "Acclaim Studios Salt Lake City",
+    "publisher": "Acclaim Entertainment",
+    "pal_release": "2000-02-29",
+    "release_date": "2000-02-29"
+  },
+  {
+    "title": "Eisei Meijin III: Game Creator Yoshimura Nobuhiro no Zunou",
+    "developer": "Konami Computer Entertainment Tokyo",
+    "publisher": "Konami",
+    "na_release": "1999-07-08",
+    "release_date": "1999-07-08"
+  },
+  {
+    "title": "El Dorado Gate Volume 1",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "na_release": "2000-10-10",
+    "release_date": "2000-10-10"
+  },
+  {
+    "title": "El Dorado Gate Volume 2",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "na_release": "2000-12-12",
+    "release_date": "2000-12-12"
+  },
+  {
+    "title": "El Dorado Gate Volume 3",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "na_release": "2001-02-02",
+    "release_date": "2001-02-02"
+  },
+  {
+    "title": "El Dorado Gate Volume 4",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "na_release": "2001-04-12",
+    "release_date": "2001-04-12"
+  },
+  {
+    "title": "El Dorado Gate Volume 5",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "na_release": "2001-06-06",
+    "release_date": "2001-06-06"
+  },
+  {
+    "title": "El Dorado Gate Volume 6",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "na_release": "2001-08-08",
+    "release_date": "2001-08-08"
+  },
+  {
+    "title": "El Dorado Gate Volume 7",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "na_release": "2001-10-10",
+    "release_date": "2001-10-10"
+  },
+  {
+    "title": "Elemental Gimmick Gear",
+    "developer": "Birthday",
+    "publisher": "Hudson Soft",
+    "na_release": "1999-05-27",
+    "pal_release": "1999-12-28",
+    "release_date": "1999-05-27"
+  },
+  {
+    "title": "Elysion: Eien no Sanctuary",
+    "developer": "Terios",
+    "publisher": "NEC Interchannel",
+    "na_release": "2002-07-25",
+    "release_date": "2002-07-25"
+  },
+  {
+    "title": "Erde: Nezu no Kinoshitade",
+    "developer": "KID",
+    "publisher": "KID",
+    "na_release": "2003-08-07",
+    "release_date": "2003-08-07"
+  },
+  {
+    "title": "Es",
+    "developer": "Foursome",
+    "publisher": "TV Asahi",
+    "na_release": "2001-04-05",
+    "release_date": "2001-04-05"
+  },
+  {
+    "title": "ESPN International Track & Field",
+    "developer": "Konami Computer Entertainment Osaka",
+    "publisher": "Konami",
+    "na_release": "2000-08-31",
+    "pal_release": "2000-09-27",
+    "release_date": "2000-08-31"
+  },
+  {
+    "title": "ESPN NBA 2Night",
+    "developer": "Sunset Entertainment",
+    "publisher": "Konami",
+    "pal_release": "2000-11-20",
+    "release_date": "2000-11-20"
+  },
+  {
+    "title": "European Super League",
+    "developer": "CrimsonCoyote Developments",
+    "publisher": "Virgin Interactive Entertainment",
+    "release_date": "2001-03-02"
+  },
+  {
+    "title": "Eve Zero Kanzenban: Ark of the Matter",
+    "developer": "C's ware",
+    "publisher": "NetVillage",
+    "na_release": "2001-03-22",
+    "release_date": "2001-03-22"
+  },
+  {
+    "title": "Ever 17: The Out of Infinity",
+    "developer": "KID",
+    "publisher": "KID",
+    "na_release": "2002-08-29",
+    "release_date": "2002-08-29"
+  },
+  {
+    "title": "Ever 17: The Out of Infinity: Premium Edition",
+    "developer": "KID",
+    "publisher": "KID",
+    "na_release": "2003-11-27",
+    "release_date": "2003-11-27"
+  },
+  {
+    "title": "Evil Dead: Hail to the King",
+    "developer": "Heavy Iron Studios",
+    "publisher": "THQ",
+    "pal_release": "2000-12-19",
+    "release_date": "2000-12-19"
+  },
+  {
+    "title": "Evil Twin: Cyprien's Chronicles",
+    "developer": "In Utero",
+    "publisher": "BigBen Interactive",
+    "release_date": "2002-04-26"
+  },
+  {
+    "title": "Evolution: The World of Sacred Device",
+    "developer": "Sting",
+    "publisher": "Sega",
+    "na_release": "1999-01-21",
+    "pal_release": "1999-12-16",
+    "release_date": "1999-01-21"
+  },
+  {
+    "title": "Evolution 2: Far Off Promise",
+    "developer": "Sting",
+    "publisher": "Entertainment Software Publishing",
+    "na_release": "1999-12-23",
+    "pal_release": "2000-06-29",
+    "release_date": "1999-12-23"
+  },
+  {
+    "title": "Exhibition of Speed",
+    "developer": "Player 1",
+    "publisher": "Titus Interactive",
+    "release_date": "2001-05-18"
+  },
+  {
+    "title": "Exodus Guilty Neos",
+    "developer": "Abel",
+    "publisher": "Abel",
+    "na_release": "2001-05-31",
+    "release_date": "2001-05-31"
+  },
+  {
+    "title": "F1 World Grand Prix",
+    "developer": "Video System",
+    "publisher": "Sega",
+    "na_release": "1999-11-25",
+    "pal_release": "2000-04-25",
+    "release_date": "1999-11-19"
+  },
+  {
+    "title": "F1 World Grand Prix II",
+    "developer": "Video System",
+    "publisher": "Sega",
+    "na_release": "2000-11-22",
+    "release_date": "2000-11-22"
+  },
+  {
+    "title": "F1 Racing Championship",
+    "developer": "Ubi Soft",
+    "publisher": "Video System",
+    "release_date": "2001-01-19"
+  },
+  {
+    "title": "F355 Challenge: Passione Rossa",
+    "developer": "Sega AM2",
+    "publisher": "Sega",
+    "na_release": "2000-08-03",
+    "pal_release": "2000-09-22",
+    "release_date": "2000-08-03"
+  },
+  {
+    "title": "Fatal Fury: Mark of the Wolves",
+    "developer": "SNK",
+    "publisher": "Agetec",
+    "na_release": "2001-09-27",
+    "pal_release": "2001-11-23",
+    "release_date": "2001-09-27"
+  },
+  {
+    "title": "Fighting Force 2",
+    "developer": "Core Design",
+    "publisher": "Eidos Interactive",
+    "pal_release": "1999-12-22",
+    "release_date": "1999-12-22"
+  },
+  {
+    "title": "Fighting Vipers 2",
+    "developer": "CRI",
+    "publisher": "Sega",
+    "na_release": "2001-01-18",
+    "release_date": "2001-01-18"
+  },
+  {
+    "title": "Fire Pro Wrestling D",
+    "developer": "S-Neo",
+    "publisher": "Spike",
+    "na_release": "2001-03-01",
+    "release_date": "2001-03-01"
+  },
+  {
+    "title": "First Kiss Story II: Anata ga Iru Kara",
+    "developer": "HuneX",
+    "publisher": "Broccoli",
+    "na_release": "2002-08-08",
+    "release_date": "2002-08-08"
+  },
+  {
+    "title": "Flag to Flag",
+    "developer": "Zoom",
+    "publisher": "Sega",
+    "na_release": "1999-03-25",
+    "pal_release": "1999-09-09",
+    "release_date": "1999-03-25"
+  },
+  {
+    "title": "Floigan Bros.",
+    "developer": "Visual Concepts",
+    "publisher": "Sega",
+    "pal_release": "2001-07-30",
+    "release_date": "2001-07-30"
+  },
+  {
+    "title": "For Symphony: With All One's Heart",
+    "developer": "Takuyo",
+    "publisher": "Takuyo",
+    "na_release": "2003-07-31",
+    "release_date": "2003-07-31"
+  },
+  {
+    "title": "Fragrance Tale",
+    "developer": "Takuyo",
+    "publisher": "Takuyo",
+    "na_release": "2001-07-26",
+    "release_date": "2001-07-26"
+  },
+  {
+    "title": "Frame Gride",
+    "developer": "FromSoftware",
+    "publisher": "FromSoftware",
+    "na_release": "1999-07-15",
+    "release_date": "1999-07-15"
+  },
+  {
+    "title": "Frogger 2: Swampy's Revenge",
+    "developer": "Blitz Games",
+    "publisher": "Hasbro Interactive",
+    "pal_release": "2000-10-12",
+    "release_date": "2000-10-12"
+  },
+  {
+    "title": "Fur Fighters",
+    "developer": "Bizarre Creations",
+    "publisher": "Acclaim Entertainment",
+    "pal_release": "2000-07-13",
+    "release_date": "2000-06-23"
+  },
+  {
+    "title": "Fushigi no Dungeon: Fuurai no Shiren Gaiden: Onnakenshi Asuka Kenzan!",
+    "developer": "Neverland",
+    "publisher": "Sega",
+    "na_release": "2002-02-07",
+    "release_date": "2002-02-07"
+  },
+  {
+    "title": "Gaia Master Kessen! Seikiou Densetsu",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "na_release": "2001-06-28",
+    "release_date": "2001-06-28"
+  },
+  {
+    "title": "Gakkyuu Ou Yamazaki: Yamazaki Oukoku Daifunsou!",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "na_release": "1999-12-23",
+    "release_date": "1999-12-23"
+  },
+  {
+    "title": "Gauntlet Legends",
+    "developer": "Midway Games West",
+    "publisher": "Midway",
+    "pal_release": "2000-06-06",
+    "release_date": "2000-06-06"
+  },
+  {
+    "title": "Get!! Colonies",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "na_release": "2000-03-30",
+    "release_date": "2000-03-30"
+  },
+  {
+    "title": "Giant Gram 2000: Zen Nihon Pro Wres 3 Eikou no Yuushatachi",
+    "developer": "Sega AM1",
+    "publisher": "Sega",
+    "na_release": "2000-08-10",
+    "release_date": "2000-08-10"
+  },
+  {
+    "title": "Giant Gram: Zen Nihon Pro Wres 2 in Nihon Budoukan",
+    "developer": "Sega AM1",
+    "publisher": "Sega",
+    "na_release": "1999-06-24",
+    "release_date": "1999-06-24"
+  },
+  {
+    "title": "Giant Killers",
+    "developer": "IO ProductionsSmoking Gun Productions",
+    "publisher": "AAA Game",
+    "release_date": "2001-05-11"
+  },
+  {
+    "title": "Giga Wing",
+    "developer": "Takumi Corporation",
+    "publisher": "Capcom",
+    "na_release": "1999-11-11",
+    "pal_release": "2000-07-18",
+    "release_date": "1999-11-11"
+  },
+  {
+    "title": "Giga Wing 2",
+    "developer": "Takumi Corporation",
+    "publisher": "Capcom",
+    "na_release": "2001-01-18",
+    "pal_release": "2001-05-16",
+    "release_date": "2001-01-18"
+  },
+  {
+    "title": "Godzilla Generations",
+    "developer": "General Entertainment",
+    "publisher": "Sega",
+    "na_release": "1998-11-27",
+    "release_date": "1998-11-27"
+  },
+  {
+    "title": "Godzilla Generations: Maximum Impact",
+    "developer": "General Entertainment",
+    "publisher": "Sega",
+    "na_release": "1999-12-23",
+    "release_date": "1999-12-23"
+  },
+  {
+    "title": "Golem no Maigo",
+    "developer": "CaramelPot",
+    "publisher": "CaramelPot",
+    "na_release": "2000-02-24",
+    "release_date": "2000-02-24"
+  },
+  {
+    "title": "Golf Shiyouyo 2: Aratanaru Chousen",
+    "developer": "SoftMax",
+    "publisher": "SoftMax",
+    "na_release": "2001-01-25",
+    "release_date": "2001-01-25"
+  },
+  {
+    "title": "Golf Shiyouyo Adventure Hen",
+    "developer": "SoftMax",
+    "publisher": "SoftMax",
+    "na_release": "2000-08-03",
+    "release_date": "2000-08-03"
+  },
+  {
+    "title": "Golf Shiyouyo Kouryaku Pack",
+    "developer": "SoftMax",
+    "publisher": "SoftMax",
+    "na_release": "2000-06-01",
+    "release_date": "2000-06-01"
+  },
+  {
+    "title": "Grand Theft Auto 2",
+    "developer": "DMA Design",
+    "publisher": "Rockstar Games",
+    "pal_release": "2000-05-01",
+    "release_date": "2000-05-01"
+  },
+  {
+    "title": "Grandia II",
+    "developer": "Game Arts",
+    "publisher": "Ubi Soft",
+    "na_release": "2000-08-03",
+    "pal_release": "2000-12-05",
+    "release_date": "2000-08-03"
+  },
+  {
+    "title": "The Grinch",
+    "developer": "Artificial Mind and Movement",
+    "publisher": "Konami",
+    "pal_release": "2000-11-22",
+    "release_date": "2000-11-22"
+  },
+  {
+    "title": "Guilty Gear X",
+    "developer": "Arc System Works",
+    "publisher": "Sammy Studios",
+    "na_release": "2000-12-14",
+    "release_date": "2000-12-14"
+  },
+  {
+    "title": "Gunbird 2",
+    "developer": "Psikyo",
+    "publisher": "Capcom",
+    "na_release": "2000-03-09",
+    "pal_release": "2000-11-15",
+    "release_date": "2000-03-09"
+  },
+  {
+    "title": "Gundam Battle Online",
+    "developer": "Bandai",
+    "publisher": "Bandai",
+    "na_release": "2001-06-28",
+    "release_date": "2001-06-28"
+  },
+  {
+    "title": "Gundam Side Story 0079: Rise from the Ashes",
+    "developer": "BEC",
+    "publisher": "Bandai",
+    "na_release": "1999-08-26",
+    "pal_release": "2000-04-28",
+    "release_date": "1999-08-26"
+  },
+  {
+    "title": "Guruguru Onsen 2",
+    "developer": "Overworks",
+    "publisher": "Sega",
+    "na_release": "2001-08-09",
+    "release_date": "2001-08-09"
+  },
+  {
+    "title": "Guruguru Onsen 3",
+    "developer": "Overworks",
+    "publisher": "Sega",
+    "na_release": "2002-03-14",
+    "release_date": "2002-03-14"
+  },
+  {
+    "title": "Hanagumi Taisen Columns 2",
+    "developer": "Sega AM7",
+    "publisher": "Sega",
+    "na_release": "2000-01-06",
+    "release_date": "2000-01-06"
+  },
+  {
+    "title": "Happy Breeding",
+    "developer": "PrincessSoft",
+    "publisher": "PrincessSoft",
+    "na_release": "2003-02-27",
+    "release_date": "2003-02-27"
+  },
+  {
+    "title": "Happy Lesson",
+    "developer": "Fupac",
+    "publisher": "Datam Polystar",
+    "na_release": "2001-04-26",
+    "release_date": "2001-04-26"
+  },
+  {
+    "title": "Happy Lesson: First Lesson",
+    "developer": "Fupac",
+    "publisher": "Datam Polystar",
+    "na_release": "2000-09-28",
+    "release_date": "2000-09-28"
+  },
+  {
+    "title": "Harusame Youbi",
+    "developer": "SIMS",
+    "publisher": "NEC Interchannel",
+    "na_release": "2001-03-22",
+    "release_date": "2001-03-22"
+  },
+  {
+    "title": "Headhunter",
+    "developer": "Amuze",
+    "publisher": "Sega",
+    "release_date": "2001-11-16"
+  },
+  {
+    "title": "Heavy Metal: Geomatrix",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "na_release": "2001-07-12",
+    "pal_release": "2001-09-12",
+    "release_date": "2001-07-12"
+  },
+  {
+    "title": "Heisei Mahjong Shou",
+    "developer": "Micronet",
+    "publisher": "Micronet",
+    "na_release": "2000-10-26",
+    "release_date": "2000-10-26"
+  },
+  {
+    "title": "Hello Kitty no Garden Panic",
+    "developer": "Fortyfive",
+    "publisher": "Sega",
+    "na_release": "1999-11-25",
+    "release_date": "1999-11-25"
+  },
+  {
+    "title": "Hello Kitty no Lovely Fruit Park",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "na_release": "1999-11-25",
+    "release_date": "1999-11-25"
+  },
+  {
+    "title": "Hello Kitty no Magical Block",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "na_release": "2000-03-30",
+    "release_date": "2000-03-30"
+  },
+  {
+    "title": "Hello Kitty no Waku Waku Cookies",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "na_release": "2000-08-10",
+    "release_date": "2000-08-10"
+  },
+  {
+    "title": "Himitsu: Yui ga Ita Natsu",
+    "developer": "Starfish",
+    "publisher": "Starfish",
+    "na_release": "2001-07-26",
+    "release_date": "2001-07-26"
+  },
+  {
+    "title": "Hidden & Dangerous",
+    "developer": "Illusion Softworks",
+    "publisher": "TalonSoft",
+    "pal_release": "2000-07-31",
+    "release_date": "2000-07-31"
+  },
+  {
+    "title": "Hundred Swords",
+    "developer": "Smilebit",
+    "publisher": "Sega",
+    "na_release": "2001-02-08",
+    "release_date": "2001-02-08"
+  },
+  {
+    "title": "The House of the Dead 2",
+    "developer": "Sega AM1",
+    "publisher": "Sega",
+    "na_release": "1999-03-25",
+    "pal_release": "1999-09-09",
+    "release_date": "1999-03-25"
+  },
+  {
+    "title": "Hoyle Casino",
+    "developer": "Sierra On-Line",
+    "publisher": "Sierra Attractions",
+    "pal_release": "2000-09-29",
+    "release_date": "2000-09-29"
+  },
+  {
+    "title": "Hydro Thunder",
+    "developer": "Eurocom",
+    "publisher": "Midway",
+    "pal_release": "1999-09-09",
+    "release_date": "1999-09-09"
+  },
+  {
+    "title": "Idol Janshi o Tsukucchaou",
+    "developer": "Jaleco",
+    "publisher": "Jaleco",
+    "na_release": "1999-09-23",
+    "release_date": "1999-09-23"
+  },
+  {
+    "title": "Ikaruga",
+    "developer": "Treasure",
+    "publisher": "Entertainment Software Publishing",
+    "na_release": "2002-09-05",
+    "release_date": "2002-09-05"
+  },
+  {
+    "title": "Illbleed",
+    "developer": "Crazy Games",
+    "publisher": "Crazy GamesJPAIANA",
+    "na_release": "2001-03-29",
+    "pal_release": "2001-04-16",
+    "release_date": "2001-03-29"
+  },
+  {
+    "title": "Incoming",
+    "developer": "Rage Software",
+    "publisher": "Imagineer",
+    "na_release": "1998-12-17",
+    "pal_release": "1999-09-15",
+    "release_date": "1998-12-17"
+  },
+  {
+    "title": "Industrial Spy: Operation Espionage",
+    "developer": "HuneX",
+    "publisher": "NEC Home Electronics",
+    "na_release": "1999-09-23",
+    "pal_release": "2000-06-01",
+    "release_date": "1999-09-23"
+  },
+  {
+    "title": "Interlude",
+    "developer": "Longshot",
+    "publisher": "NEC Interchannel",
+    "na_release": "2003-03-13",
+    "release_date": "2003-03-13"
+  },
+  {
+    "title": "Iris",
+    "developer": "KID",
+    "publisher": "KID",
+    "na_release": "2003-08-07",
+    "release_date": "2003-08-07"
+  },
+  {
+    "title": "Iron Aces",
+    "developer": "Marionette",
+    "publisher": "Global A Entertainment",
+    "na_release": "2000-06-29",
+    "pal_release": "2001-02-06",
+    "release_date": "2000-06-29"
+  },
+  {
+    "title": "Izumo",
+    "developer": "Studio e.go!",
+    "publisher": "Symbio Planning",
+    "na_release": "2004-01-29",
+    "release_date": "2004-01-29"
+  },
+  {
+    "title": "J.League Pro Soccer Club o Tsukurou!",
+    "developer": "Sega R&D6",
+    "publisher": "Sega",
+    "na_release": "1999-09-30",
+    "release_date": "1999-09-30"
+  },
+  {
+    "title": "Jahmong",
+    "developer": "Visit",
+    "publisher": "Visit",
+    "na_release": "2000-08-31",
+    "release_date": "2000-08-31"
+  },
+  {
+    "title": "Jeremy McGrath Supercross 2000",
+    "developer": "Acclaim Studios Salt Lake City",
+    "publisher": "Acclaim Sports",
+    "pal_release": "2000-08-08",
+    "release_date": "2000-08-08"
+  },
+  {
+    "title": "Jet Coaster Dream 2",
+    "developer": "Bimboosoft",
+    "publisher": "Bimboosoft",
+    "na_release": "2000-11-02",
+    "release_date": "2000-11-02"
+  },
+  {
+    "title": "Jet Set Radio",
+    "developer": "Smilebit",
+    "publisher": "Sega",
+    "na_release": "2000-06-29",
+    "pal_release": "2000-10-31",
+    "release_date": "2000-06-29"
+  },
+  {
+    "title": "Jikkyou Powerful Pro Yakyū Dreamcast Edition",
+    "developer": "Konami Computer Entertainment Osaka",
+    "publisher": "Konami",
+    "na_release": "2000-03-30",
+    "release_date": "2000-03-30"
+  },
+  {
+    "title": "Jimmy White's 2: Cueball",
+    "developer": "Awesome Developments",
+    "publisher": "Virgin Interactive Entertainment",
+    "release_date": "2000-01-07"
+  },
+  {
+    "title": "Jinsei Game for Dreamcast",
+    "developer": "Takara",
+    "publisher": "Takara",
+    "na_release": "2000-06-22",
+    "release_date": "2000-06-22"
+  },
+  {
+    "title": "Jissen Pachi-Slot Hisshouhou! @VPACHI: Kongdom",
+    "developer": "MAXBETDaikoku",
+    "publisher": "Sammy",
+    "na_release": "2000-09-28",
+    "release_date": "2000-09-28"
+  },
+  {
+    "title": "JoJo's Bizarre Adventure",
+    "developer": "Capcom",
+    "publisher": "Virgin Interactive Entertainment",
+    "na_release": "1999-11-25",
+    "pal_release": "2000-04-28",
+    "release_date": "1999-11-25"
+  },
+  {
+    "title": "JoJo's Bizarre Adventure for Matching Service",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "na_release": "2000-10-26",
+    "release_date": "2000-10-26"
+  },
+  {
+    "title": "July",
+    "developer": "Fortyfive",
+    "publisher": "Fortyfive",
+    "na_release": "1998-11-27",
+    "release_date": "1998-11-27"
+  },
+  {
+    "title": "Kaen Seibo: The Virgin on Megiddo",
+    "developer": "Studio Line",
+    "publisher": "Kobi",
+    "na_release": "2001-08-02",
+    "release_date": "2001-08-02"
+  },
+  {
+    "title": "Kaitou Apricot",
+    "developer": "Takuyo",
+    "publisher": "Takuyo",
+    "na_release": "2003-03-06",
+    "release_date": "2003-03-06"
+  },
+  {
+    "title": "Kanon",
+    "developer": "Key",
+    "publisher": "NEC Interchannel",
+    "na_release": "2000-09-14",
+    "release_date": "2000-09-14"
+  },
+  {
+    "title": "Karous",
+    "developer": "MileStone Inc.",
+    "publisher": "MileStone Inc.",
+    "na_release": "2007-03-08",
+    "release_date": "2007-03-08"
+  },
+  {
+    "title": "Kao the Kangaroo",
+    "developer": "X-Ray Interactive",
+    "publisher": "Titus Interactive",
+    "pal_release": "2001-02-13",
+    "release_date": "2000-12-08"
+  },
+  {
+    "title": "Kaze no Uta",
+    "developer": "Milksoft",
+    "publisher": "Milksoft",
+    "na_release": "2004-04-15",
+    "release_date": "2004-04-15"
+  },
+  {
+    "title": "Kidō Senshi Gundam: Gihren no Yabou – Zeon no Keifu",
+    "developer": "Bandai",
+    "publisher": "Bandai",
+    "na_release": "2000-06-29",
+    "release_date": "2000-06-29"
+  },
+  {
+    "title": "Kidō Senshi Gundam: Renpō vs. Zeon & DX",
+    "developer": "Capcom",
+    "publisher": "Bandai",
+    "na_release": "2002-04-11",
+    "release_date": "2002-04-11"
+  },
+  {
+    "title": "Kidou Senkan Nadesico: Nadesico the Mission",
+    "developer": "Will",
+    "publisher": "Entertainment Software Publishing",
+    "na_release": "1999-08-26",
+    "release_date": "1999-08-26"
+  },
+  {
+    "title": "Kimi ga Nozomu Eien",
+    "developer": "HuneX",
+    "publisher": "Alchemist",
+    "na_release": "2002-09-26",
+    "release_date": "2002-09-26"
+  },
+  {
+    "title": "The King of Fighters '99: Evolution",
+    "developer": "SNK",
+    "publisher": "Agetec",
+    "na_release": "2000-03-30",
+    "pal_release": "2001-05-08",
+    "release_date": "2000-03-30"
+  },
+  {
+    "title": "The King of Fighters: Dream Match 1999",
+    "developer": "SNK",
+    "publisher": "SNK",
+    "na_release": "1999-06-24",
+    "pal_release": "1999-10-22",
+    "release_date": "1999-06-24"
+  },
+  {
+    "title": "The King of Fighters 2000",
+    "developer": "Playmore",
+    "publisher": "Playmore",
+    "na_release": "2002-08-08",
+    "release_date": "2002-08-08"
+  },
+  {
+    "title": "The King of Fighters 2001",
+    "developer": "Eolith",
+    "publisher": "Playmore",
+    "na_release": "2002-12-26",
+    "release_date": "2002-12-26"
+  },
+  {
+    "title": "The King of Fighters 2002",
+    "developer": "Eolith",
+    "publisher": "Playmore",
+    "na_release": "2003-06-19",
+    "release_date": "2003-06-19"
+  },
+  {
+    "title": "Kiss: Psycho Circus: The Nightmare Child",
+    "developer": "Tremor Entertainment",
+    "publisher": "Take-Two Interactive",
+    "pal_release": "2000-11-01",
+    "release_date": "2000-11-01"
+  },
+  {
+    "title": "Kita e. Photo Memories",
+    "developer": "Red Company",
+    "publisher": "Hudson Soft",
+    "na_release": "1999-08-05",
+    "release_date": "1999-08-05"
+  },
+  {
+    "title": "Kita e. White Illumination",
+    "developer": "Red Company",
+    "publisher": "Hudson Soft",
+    "na_release": "1999-03-18",
+    "release_date": "1999-03-18"
+  },
+  {
+    "title": "Kitahei Gold",
+    "developer": "SPS",
+    "publisher": "NetVillage",
+    "na_release": "1999-11-18",
+    "release_date": "1999-11-18"
+  },
+  {
+    "title": "Kiteretsu Shounen's Gangagan",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "na_release": "2000-04-27",
+    "release_date": "2000-04-27"
+  },
+  {
+    "title": "Konohana: True Report",
+    "developer": "Vridge",
+    "publisher": "Success",
+    "na_release": "2001-04-26",
+    "release_date": "2001-04-26"
+  },
+  {
+    "title": "Konohana 2: Todokanai Requiem",
+    "developer": "Vridge",
+    "publisher": "Success",
+    "na_release": "2002-11-28",
+    "release_date": "2002-11-28"
+  },
+  {
+    "title": "Kuon no Kizuna: Sairinshou",
+    "developer": "FOG Inc.",
+    "publisher": "FOG Inc.",
+    "na_release": "2000-05-18",
+    "release_date": "2000-05-18"
+  },
+  {
+    "title": "Lake Masters Pro Dreamcast plus!",
+    "developer": "Nexus Interact",
+    "publisher": "DaZZ",
+    "na_release": "2000-03-23",
+    "release_date": "2000-03-23"
+  },
+  {
+    "title": "Langrisser Millennium",
+    "developer": "NCSSanta Entertainment",
+    "publisher": "Masaya",
+    "na_release": "1999-11-03",
+    "release_date": "1999-11-03"
+  },
+  {
+    "title": "The Last Blade 2: Heart of the Samurai",
+    "developer": "SNK",
+    "publisher": "Agetec",
+    "na_release": "2000-12-21",
+    "pal_release": "2001-08-06",
+    "release_date": "2000-12-21"
+  },
+  {
+    "title": "Legacy of Kain: Soul Reaver",
+    "developer": "Nixxes Software",
+    "publisher": "Eidos Interactive",
+    "pal_release": "2000-01-25",
+    "release_date": "2000-01-25"
+  },
+  {
+    "title": "L.O.L.: Lack of Love",
+    "developer": "Love-de-Lic",
+    "publisher": "ASCII Corporation",
+    "na_release": "2000-11-02",
+    "release_date": "2000-11-02"
+  },
+  {
+    "title": "Looney Tunes: Space Race",
+    "developer": "Infogrames Melbourne House",
+    "publisher": "Infogrames",
+    "pal_release": "2000-11-28",
+    "release_date": "2000-11-03"
+  },
+  {
+    "title": "Love Hina: Smile Again",
+    "developer": "Fortyfive",
+    "publisher": "Sega",
+    "na_release": "2001-03-29",
+    "release_date": "2001-03-29"
+  },
+  {
+    "title": "Love Hina: Totsuzen no Engeji Happening",
+    "developer": "Fortyfive",
+    "publisher": "Sega",
+    "na_release": "2000-09-28",
+    "release_date": "2000-09-28"
+  },
+  {
+    "title": "Maboroshi Tsukiyo",
+    "developer": "SIMS",
+    "publisher": "SIMS",
+    "na_release": "1999-09-23",
+    "release_date": "1999-09-23"
+  },
+  {
+    "title": "Macross M3",
+    "developer": "Warashi",
+    "publisher": "Shōeisha",
+    "na_release": "2001-02-22",
+    "release_date": "2001-02-22"
+  },
+  {
+    "title": "Magic: The Gathering",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "na_release": "2001-06-28",
+    "release_date": "2001-06-28"
+  },
+  {
+    "title": "Marginal",
+    "developer": "White Clarity",
+    "publisher": "PrincessSoft",
+    "na_release": "2003-07-17",
+    "release_date": "2003-07-17"
+  },
+  {
+    "title": "Mag Force Racing",
+    "developer": "VCC Entertainment",
+    "publisher": "Crave Entertainment",
+    "pal_release": "2000-07-21",
+    "release_date": "2000-07-21"
+  },
+  {
+    "title": "Mahjong Taikai II Special",
+    "developer": "Koei",
+    "publisher": "Koei",
+    "na_release": "1999-03-04",
+    "release_date": "1999-03-04"
+  },
+  {
+    "title": "Majo no Ochakai",
+    "developer": "Frontwing",
+    "publisher": "NEC Interchannel",
+    "na_release": "2003-06-26",
+    "release_date": "2003-06-26"
+  },
+  {
+    "title": "Maken X",
+    "developer": "Atlus",
+    "publisher": "Sega",
+    "na_release": "1999-11-25",
+    "pal_release": "2000-04-25",
+    "release_date": "1999-11-25"
+  },
+  {
+    "title": "Marie & Elie no Atelier: Salberg no Renkinjutsushi 1-2",
+    "developer": "Kool Kizz",
+    "publisher": "Kool Kizz",
+    "na_release": "2001-11-15",
+    "release_date": "2000-11-15"
+  },
+  {
+    "title": "Marionette Company",
+    "developer": "Microcabin",
+    "publisher": "Microcabin",
+    "na_release": "1999-10-07",
+    "release_date": "1999-10-07"
+  },
+  {
+    "title": "Marionette Company 2",
+    "developer": "Microcabin",
+    "publisher": "Microcabin",
+    "na_release": "2000-05-18",
+    "release_date": "2000-05-18"
+  },
+  {
+    "title": "Marionette Handler",
+    "developer": "Micronet",
+    "publisher": "Micronet",
+    "na_release": "1999-07-29",
+    "release_date": "1999-07-29"
+  },
+  {
+    "title": "Marionette Handler 2",
+    "developer": "Micronet",
+    "publisher": "Micronet",
+    "na_release": "2000-11-09",
+    "release_date": "2000-11-09"
+  },
+  {
+    "title": "Mars Matrix",
+    "developer": "Takumi Corporation",
+    "publisher": "Capcom",
+    "na_release": "2000-11-09",
+    "pal_release": "2001-04-30",
+    "release_date": "2000-11-09"
+  },
+  {
+    "title": "Marvel vs. Capcom: Clash of Super Heroes",
+    "developer": "Capcom",
+    "publisher": "Virgin Interactive Entertainment",
+    "na_release": "1999-03-25",
+    "pal_release": "1999-10-07",
+    "release_date": "1999-03-25"
+  },
+  {
+    "title": "Marvel vs. Capcom 2: New Age of Heroes",
+    "developer": "Capcom",
+    "publisher": "Virgin Interactive Entertainment",
+    "na_release": "2000-03-30",
+    "pal_release": "2000-06-27",
+    "release_date": "2000-03-30"
+  },
+  {
+    "title": "Mat Hoffman's Pro BMX",
+    "developer": "Runecraft",
+    "publisher": "Activision O2",
+    "pal_release": "2001-09-12",
+    "release_date": "2001-09-12"
+  },
+  {
+    "title": "Max Steel: Covert Missions",
+    "developer": "Treyarch",
+    "publisher": "Mattel Interactive",
+    "pal_release": "2000-12-05",
+    "release_date": "2000-12-05"
+  },
+  {
+    "title": "Maximum Pool",
+    "developer": "Dynamix",
+    "publisher": "Sierra Sports",
+    "pal_release": "2000-11-16",
+    "release_date": "2000-11-16"
+  },
+  {
+    "title": "MDK2",
+    "developer": "BioWare",
+    "publisher": "Interplay Entertainment",
+    "pal_release": "2000-03-29",
+    "release_date": "2000-03-29"
+  },
+  {
+    "title": "Mei ☆ Puru",
+    "developer": "PrincessSoft",
+    "publisher": "PrincessSoft",
+    "na_release": "2002-10-24",
+    "release_date": "2002-10-24"
+  },
+  {
+    "title": "Memories Off 2nd",
+    "developer": "KID",
+    "publisher": "KID",
+    "na_release": "2001-09-27",
+    "release_date": "2001-09-27"
+  },
+  {
+    "title": "Memories Off Complete",
+    "developer": "KID",
+    "publisher": "KID",
+    "na_release": "2000-06-29",
+    "release_date": "2000-06-29"
+  },
+  {
+    "title": "Mercurius Pretty: End of the Century",
+    "developer": "LongshotStack",
+    "publisher": "NEC Interchannel",
+    "na_release": "2000-11-16",
+    "release_date": "2000-11-16"
+  },
+  {
+    "title": "Metal Wolf",
+    "developer": "PrincessSoft",
+    "publisher": "PrincessSoft",
+    "na_release": "2002-06-27",
+    "release_date": "2002-06-27"
+  },
+  {
+    "title": "Metropolis Street Racer",
+    "developer": "Bizarre Creations",
+    "publisher": "Sega",
+    "pal_release": "2001-01-16",
+    "release_date": "2000-11-03"
+  },
+  {
+    "title": "Midway's Greatest Hits Volume 1",
+    "developer": "Digital Eclipse",
+    "publisher": "Midway",
+    "pal_release": "2000-06-27",
+    "release_date": "2000-06-27"
+  },
+  {
+    "title": "Midway's Greatest Hits Volume 2",
+    "developer": "Digital Eclipse",
+    "publisher": "Midway",
+    "pal_release": "2001-11-15",
+    "release_date": "2001-11-15"
+  },
+  {
+    "title": "Milky Season",
+    "developer": "KID",
+    "publisher": "KID",
+    "na_release": "2002-02-28",
+    "release_date": "2002-02-28"
+  },
+  {
+    "title": "Millennium Soldier: Expendable",
+    "developer": "Rage Software",
+    "publisher": "Imagineer",
+    "na_release": "1999-06-24",
+    "pal_release": "1999-09-09",
+    "release_date": "1999-06-24"
+  },
+  {
+    "title": "Miss Moonlight",
+    "developer": "Spiel",
+    "publisher": "Naxat Soft",
+    "na_release": "2001-06-21",
+    "release_date": "2001-06-21"
+  },
+  {
+    "title": "Missing Parts: The Tantei Stories",
+    "developer": "O-TWO inc.",
+    "publisher": "FOG Inc.",
+    "na_release": "2002-01-17",
+    "release_date": "2002-01-17"
+  },
+  {
+    "title": "Missing Parts 2: The Tantei Stories",
+    "developer": "FOG Inc.",
+    "publisher": "FOG Inc.",
+    "na_release": "2002-10-24",
+    "release_date": "2002-10-24"
+  },
+  {
+    "title": "Missing Parts 3: The Tantei Stories",
+    "developer": "FOG Inc.",
+    "publisher": "FOG Inc.",
+    "na_release": "2003-07-31",
+    "release_date": "2003-07-31"
+  },
+  {
+    "title": "Mizuiro",
+    "developer": "HuneX",
+    "publisher": "NEC Interchannel",
+    "na_release": "2002-03-07",
+    "release_date": "2002-03-07"
+  },
+  {
+    "title": "Moekan",
+    "developer": "KeroQ",
+    "publisher": "PrincessSoft",
+    "na_release": "2003-12-25",
+    "release_date": "2003-12-25"
+  },
+  {
+    "title": "MoHo",
+    "developer": "Lost Toys",
+    "publisher": "Take-Two Interactive",
+    "release_date": "2000-11-24"
+  },
+  {
+    "title": "Monaco Grand Prix",
+    "developer": "Ubi Soft Paris",
+    "publisher": "Ubi Soft",
+    "na_release": "1999-03-11",
+    "pal_release": "1999-09-09",
+    "release_date": "1999-03-11"
+  },
+  {
+    "title": "Morita no Saikyou Reversi",
+    "developer": "Random House",
+    "publisher": "Random House",
+    "na_release": "1999-04-15",
+    "release_date": "1999-04-15"
+  },
+  {
+    "title": "Morita no Saikyou Shogi",
+    "developer": "Random House",
+    "publisher": "Random House",
+    "na_release": "1999-04-15",
+    "release_date": "1999-04-15"
+  },
+  {
+    "title": "Mortal Kombat Gold",
+    "developer": "Eurocom",
+    "publisher": "Midway",
+    "pal_release": "1999-09-09",
+    "release_date": "1999-09-09"
+  },
+  {
+    "title": "Motto Pro Yakyū Team o Tsukurou!",
+    "developer": "Smilebit",
+    "publisher": "Sega",
+    "na_release": "2000-09-28",
+    "release_date": "2000-09-28"
+  },
+  {
+    "title": "Musapey's Choco Marker",
+    "developer": "Ecole",
+    "publisher": "Ecole",
+    "na_release": "2002-12-26",
+    "release_date": "2002-12-26"
+  },
+  {
+    "title": "Mr. Driller",
+    "developer": "Namco",
+    "publisher": "Virgin Interactive Entertainment",
+    "na_release": "2000-06-29",
+    "pal_release": "2000-06-23",
+    "release_date": "2000-06-23"
+  },
+  {
+    "title": "Ms. Pac-Man Maze Madness",
+    "developer": "Mass Media",
+    "publisher": "Namco",
+    "pal_release": "2000-11-13",
+    "release_date": "2000-11-13"
+  },
+  {
+    "title": "MTV Sports: Skateboarding Featuring Andy Macdonald",
+    "developer": "Darkblack",
+    "publisher": "THQ",
+    "pal_release": "2000-10-20",
+    "release_date": "2000-10-20"
+  },
+  {
+    "title": "My Merry May",
+    "developer": "KID",
+    "publisher": "KID",
+    "na_release": "2002-04-25",
+    "release_date": "2002-04-25"
+  },
+  {
+    "title": "My Merry Maybe",
+    "developer": "KID",
+    "publisher": "KID",
+    "na_release": "2003-07-10",
+    "release_date": "2003-07-10"
+  },
+  {
+    "title": "Nakoruru: Anohito Kara no Okurimono",
+    "developer": "Kool Kizz",
+    "publisher": "Kool Kizz",
+    "na_release": "2002-03-28",
+    "release_date": "2002-03-28"
+  },
+  {
+    "title": "Nanatsu no Hikan: Senritsu no Bishou",
+    "developer": "Koei",
+    "publisher": "Koei",
+    "na_release": "2000-01-20",
+    "release_date": "2000-01-20"
+  },
+  {
+    "title": "Namco Museum",
+    "developer": "Mass Media",
+    "publisher": "Namco",
+    "pal_release": "2000-06-25",
+    "release_date": "2000-06-25"
+  },
+  {
+    "title": "Napple Tale: Arsia in Daydream",
+    "developer": "Chime",
+    "publisher": "Sega",
+    "na_release": "2000-10-19",
+    "release_date": "2000-10-19"
+  },
+  {
+    "title": "NBA 2K",
+    "developer": "Visual Concepts",
+    "publisher": "Sega",
+    "na_release": "2000-03-23",
+    "pal_release": "1999-11-11",
+    "release_date": "1999-11-11"
+  },
+  {
+    "title": "NBA 2K1",
+    "developer": "Visual Concepts",
+    "publisher": "Sega",
+    "na_release": "2001-03-29",
+    "pal_release": "2000-10-31",
+    "release_date": "2000-10-31"
+  },
+  {
+    "title": "NBA 2K2",
+    "developer": "Visual Concepts",
+    "publisher": "Sega",
+    "na_release": "2002-05-23",
+    "pal_release": "2001-10-23",
+    "release_date": "2001-10-23"
+  },
+  {
+    "title": "NBA Hoopz",
+    "developer": "Eurocom",
+    "publisher": "Midway",
+    "pal_release": "2001-02-15",
+    "release_date": "2001-02-15"
+  },
+  {
+    "title": "NBA Showtime: NBA on NBC",
+    "developer": "Avalanche Software",
+    "publisher": "Midway",
+    "pal_release": "1999-11-16",
+    "release_date": "1999-11-16"
+  },
+  {
+    "title": "NCAA College Football 2K2: Road to the Rose Bowl",
+    "developer": "Visual Concepts",
+    "publisher": "Sega",
+    "pal_release": "2001-08-28",
+    "release_date": "2001-08-28"
+  },
+  {
+    "title": "Neo Golden Logres",
+    "developer": "LittleWing",
+    "publisher": "Success",
+    "na_release": "2000-10-26",
+    "release_date": "2000-10-26"
+  },
+  {
+    "title": "Neppachi II @VPACHI",
+    "developer": "Falcon",
+    "publisher": "Daikoku Denki",
+    "na_release": "2000-07-06",
+    "release_date": "2000-07-06"
+  },
+  {
+    "title": "Neppachi III @VPACHI",
+    "developer": "Falcon",
+    "publisher": "Daikoku Denki",
+    "na_release": "2000-09-28",
+    "release_date": "2000-09-28"
+  },
+  {
+    "title": "Neppachi IV @VPACHI",
+    "developer": "Falcon",
+    "publisher": "Daikoku Denki",
+    "na_release": "2000-12-14",
+    "release_date": "2000-12-14"
+  },
+  {
+    "title": "Neppachi V @VPACHI",
+    "developer": "Falcon",
+    "publisher": "Daikoku Denki",
+    "na_release": "2000-12-14",
+    "release_date": "2000-12-14"
+  },
+  {
+    "title": "Neppachi VI @VPACHI",
+    "developer": "Falcon",
+    "publisher": "Daikoku Denki",
+    "na_release": "2001-02-15",
+    "release_date": "2001-02-15"
+  },
+  {
+    "title": "Neppachi: 10-ren Chan de Las Vegas Ryokou",
+    "developer": "Falcon",
+    "publisher": "Daikoku Denki",
+    "na_release": "1999-11-25",
+    "release_date": "1999-11-25"
+  },
+  {
+    "title": "Net Versus Chess",
+    "developer": "Yuki Enterprise",
+    "publisher": "Atmark",
+    "na_release": "2001-05-24",
+    "release_date": "2001-05-24"
+  },
+  {
+    "title": "Net Versus Gomoku Narabe to Renju",
+    "developer": "Yuki Enterprise",
+    "publisher": "Atmark",
+    "na_release": "2001-05-24",
+    "release_date": "2001-05-24"
+  },
+  {
+    "title": "Net Versus Hanafuda",
+    "developer": "Yuki Enterprise",
+    "publisher": "Atmark",
+    "na_release": "2001-05-24",
+    "release_date": "2001-05-24"
+  },
+  {
+    "title": "Net Versus Igo",
+    "developer": "Yuki Enterprise",
+    "publisher": "Atmark",
+    "na_release": "2001-05-24",
+    "release_date": "2001-05-24"
+  },
+  {
+    "title": "Net Versus Mahjong",
+    "developer": "Yuki Enterprise",
+    "publisher": "Atmark",
+    "na_release": "2001-05-24",
+    "release_date": "2001-05-24"
+  },
+  {
+    "title": "Net Versus Reversi",
+    "developer": "Yuki Enterprise",
+    "publisher": "Atmark",
+    "na_release": "2001-05-24",
+    "release_date": "2001-05-24"
+  },
+  {
+    "title": "Net Versus Shogi",
+    "developer": "Yuki Enterprise",
+    "publisher": "Atmark",
+    "na_release": "2001-05-24",
+    "release_date": "2001-05-24"
+  },
+  {
+    "title": "Net de Para",
+    "developer": "Fortyfive",
+    "publisher": "Takuyo",
+    "na_release": "2000-07-27",
+    "release_date": "2000-07-27"
+  },
+  {
+    "title": "Netto de Tennis",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "na_release": "2000-10-09",
+    "release_date": "2000-10-09"
+  },
+  {
+    "title": "Nettou Golf",
+    "developer": "Data East",
+    "publisher": "Sega",
+    "na_release": "2000-10-19",
+    "release_date": "2000-10-19"
+  },
+  {
+    "title": "Never 7: The End of Infinity",
+    "developer": "KID",
+    "publisher": "KID",
+    "na_release": "2000-12-21",
+    "release_date": "2000-12-21"
+  },
+  {
+    "title": "The Next Tetris: On-line Edition",
+    "developer": "Blue Planet Software",
+    "publisher": "Crave Entertainment",
+    "pal_release": "2000-12-19",
+    "release_date": "2000-12-19"
+  },
+  {
+    "title": "NFL 2K",
+    "developer": "Visual Concepts",
+    "publisher": "Sega",
+    "na_release": "2000-01-20",
+    "pal_release": "1999-09-09",
+    "release_date": "1999-09-09"
+  },
+  {
+    "title": "NFL 2K1",
+    "developer": "Visual Concepts",
+    "publisher": "Sega",
+    "na_release": "2001-03-29",
+    "pal_release": "2000-09-07",
+    "release_date": "2000-09-07"
+  },
+  {
+    "title": "NFL 2K2",
+    "developer": "Visual Concepts",
+    "publisher": "Sega",
+    "na_release": "2002-03-28",
+    "pal_release": "2001-09-18",
+    "release_date": "2001-09-18"
+  },
+  {
+    "title": "NFL Blitz 2000",
+    "developer": "Avalanche Software",
+    "publisher": "Midway",
+    "pal_release": "1999-09-09",
+    "release_date": "1999-09-09"
+  },
+  {
+    "title": "NFL Blitz 2001",
+    "developer": "Avalanche Software",
+    "publisher": "Midway",
+    "pal_release": "2000-09-12",
+    "release_date": "2000-09-12"
+  },
+  {
+    "title": "NFL Quarterback Club 2000",
+    "developer": "Acclaim Studios Austin",
+    "publisher": "Acclaim Sports",
+    "pal_release": "1999-11-29",
+    "release_date": "1999-11-29"
+  },
+  {
+    "title": "NFL QB Club 2001",
+    "developer": "High Voltage Software",
+    "publisher": "Acclaim Sports",
+    "pal_release": "2000-08-24",
+    "release_date": "2000-08-24"
+  },
+  {
+    "title": "NHL 2K",
+    "developer": "Black Box Games",
+    "publisher": "Sega",
+    "pal_release": "2000-02-09",
+    "release_date": "2000-02-09"
+  },
+  {
+    "title": "NHL 2K2",
+    "developer": "Treyarch",
+    "publisher": "Sega",
+    "na_release": "2002-07-11",
+    "pal_release": "2002-02-12",
+    "release_date": "2002-02-12"
+  },
+  {
+    "title": "Nightmare Creatures II",
+    "developer": "Kalisto Entertainment",
+    "publisher": "Konami",
+    "pal_release": "2000-06-08",
+    "release_date": "2000-06-08"
+  },
+  {
+    "title": "Nihon Pro Mahjong Renmei Kounin: Tetsuman Menkyokaiden",
+    "developer": "Naxat Soft",
+    "publisher": "Naxat Soft",
+    "na_release": "1999-11-18",
+    "release_date": "1999-11-18"
+  },
+  {
+    "title": "Nijuuei",
+    "developer": "KeroQ",
+    "publisher": "PrincessSoft",
+    "na_release": "2002-02-28",
+    "release_date": "2002-02-28"
+  },
+  {
+    "title": "Nishikaze no Kyoushikyouku: The Rhapsody of Zephyr",
+    "developer": "SoftMax",
+    "publisher": "SoftMax",
+    "na_release": "2001-02-22",
+    "release_date": "2001-02-22"
+  },
+  {
+    "title": "Nobunaga no Yabō: Reppūden",
+    "developer": "Koei",
+    "publisher": "Koei",
+    "na_release": "1999-12-16",
+    "release_date": "1999-12-16"
+  },
+  {
+    "title": "Nobunaga no Yabou: Shouseiroku with Power-Up Kit",
+    "developer": "Koei",
+    "publisher": "Koei",
+    "na_release": "1999-03-25",
+    "release_date": "1999-03-25"
+  },
+  {
+    "title": "Ogami Ichiro Funtouki: Sakura Taisen Kayou Show \"Benitokage\" Yori",
+    "developer": "Red Company",
+    "publisher": "Sega",
+    "na_release": "2000-02-24",
+    "release_date": "2000-02-24"
+  },
+  {
+    "title": "Omikron: The Nomad Soul",
+    "developer": "Quantic Dream",
+    "publisher": "Eidos Interactive",
+    "pal_release": "2000-06-22",
+    "release_date": "2000-06-22"
+  },
+  {
+    "title": "Omoide ni Kawaru Kimi: Memories Off",
+    "developer": "KID",
+    "publisher": "KID",
+    "na_release": "2002-11-28",
+    "release_date": "2002-11-28"
+  },
+  {
+    "title": "Ooga Booga",
+    "developer": "Visual Concepts",
+    "publisher": "Sega",
+    "pal_release": "2001-09-11",
+    "release_date": "2001-09-11"
+  },
+  {
+    "title": "Orange Pocket: Cornet",
+    "developer": "Hooksoft",
+    "publisher": "Pionesoft",
+    "na_release": "2004-04-28",
+    "release_date": "2004-04-28"
+  },
+  {
+    "title": "Oukahouzin: Ouka Sakishi Toki",
+    "developer": "Entertainment Software Publishing",
+    "publisher": "Entertainment Software PublishingMediaWorks",
+    "na_release": "1999-12-16",
+    "release_date": "1999-12-16"
+  },
+  {
+    "title": "Outtrigger (video game)",
+    "developer": "Sega AM2",
+    "publisher": "Sega",
+    "na_release": "2001-08-02",
+    "pal_release": "2001-07-24",
+    "release_date": "2001-07-24"
+  },
+  {
+    "title": "Pachi-Slot Teiou Dream Slot: Heiwa SP",
+    "developer": "Media Entertainment",
+    "publisher": "Media Entertainment",
+    "na_release": "2001-07-26",
+    "release_date": "2001-07-26"
+  },
+  {
+    "title": "Pachi-Slot Teiou Dream Slot: Olympia SP",
+    "developer": "Media Entertainment",
+    "publisher": "Media Entertainment",
+    "na_release": "2001-09-27",
+    "release_date": "2001-09-27"
+  },
+  {
+    "title": "Pachinko no Dendou CR Nanashi",
+    "developer": "Microcabin",
+    "publisher": "Microcabin",
+    "na_release": "2001-10-04",
+    "release_date": "2001-10-04"
+  },
+  {
+    "title": "Pandora no Yume",
+    "developer": "Pajamas Soft",
+    "publisher": "NEC Interchannel",
+    "na_release": "2002-09-12",
+    "release_date": "2002-09-12"
+  },
+  {
+    "title": "Panzer Front",
+    "developer": "Shangri-La",
+    "publisher": "ASCII Corporation",
+    "na_release": "1999-12-22",
+    "release_date": "1999-12-22"
+  },
+  {
+    "title": "Patisserie na Nyanko: Hatsukoi wa Ichigo Aji",
+    "developer": "Pajamas Soft",
+    "publisher": "Pionesoft",
+    "na_release": "2004-09-22",
+    "release_date": "2004-09-22"
+  },
+  {
+    "title": "Pen Pen TriIcelon",
+    "developer": "General Entertainment",
+    "publisher": "General Entertainment",
+    "na_release": "1998-11-27",
+    "pal_release": "1999-09-09",
+    "release_date": "1998-11-27"
+  },
+  {
+    "title": "Phantasy Star Online",
+    "developer": "Sonic Team",
+    "publisher": "Sega",
+    "na_release": "2000-12-21",
+    "pal_release": "2001-01-30",
+    "release_date": "2000-12-21"
+  },
+  {
+    "title": "Phantasy Star Online Ver. 2",
+    "developer": "Sonic Team",
+    "publisher": "Sega",
+    "na_release": "2001-06-07",
+    "pal_release": "2001-09-25",
+    "release_date": "2001-06-07"
+  },
+  {
+    "title": "Pia Carrot e Youkoso!! 2",
+    "developer": "Stack",
+    "publisher": "NEC Interchannel",
+    "na_release": "2003-02-06",
+    "release_date": "2003-02-06"
+  },
+  {
+    "title": "Pia Carrot e Youkoso!! 2.5",
+    "developer": "Stack",
+    "publisher": "NEC Interchannel",
+    "na_release": "2001-06-21",
+    "release_date": "2001-06-21"
+  },
+  {
+    "title": "Pia Carrot e Youkoso!! 3",
+    "developer": "F&C・FC02",
+    "publisher": "NEC Interchannel",
+    "na_release": "2003-03-27",
+    "release_date": "2003-03-27"
+  },
+  {
+    "title": "Pizzicato Polka: Ensa Genya",
+    "developer": "Pajamas Soft",
+    "publisher": "KID",
+    "na_release": "2004-06-17",
+    "release_date": "2004-06-17"
+  },
+  {
+    "title": "Plasma Sword: Nightmare of Bilstein",
+    "developer": "Capcom",
+    "publisher": "Virgin Interactive Entertainment",
+    "na_release": "1999-12-09",
+    "pal_release": "2000-04-10",
+    "release_date": "1999-12-09"
+  },
+  {
+    "title": "Planet Ring",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "release_date": "2000-12-04"
+  },
+  {
+    "title": "Plus Plumb",
+    "developer": "Takuyo",
+    "publisher": "Takuyo",
+    "na_release": "1999-10-07",
+    "release_date": "1999-10-07"
+  },
+  {
+    "title": "Pocke-Kano: Yumi-Shizuka-Fumio",
+    "developer": "Success",
+    "publisher": "Datam Polystar",
+    "na_release": "2000-06-08",
+    "release_date": "2000-06-08"
+  },
+  {
+    "title": "POD: Speedzone",
+    "developer": "Ubi Soft Bucharest",
+    "publisher": "Ubi Soft",
+    "pal_release": "2000-12-06",
+    "release_date": "2000-12-06"
+  },
+  {
+    "title": "Pop'n Music",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "na_release": "1999-02-25",
+    "release_date": "1999-02-25"
+  },
+  {
+    "title": "Pop 'n Music 2",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "na_release": "1999-09-14",
+    "release_date": "1999-09-14"
+  },
+  {
+    "title": "Pop 'n Music 3 Append Disc",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "na_release": "2000-02-10",
+    "release_date": "2000-02-10"
+  },
+  {
+    "title": "Pop 'n Music 4 Append Disc",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "na_release": "2000-10-12",
+    "release_date": "2000-10-12"
+  },
+  {
+    "title": "Power Stone",
+    "developer": "Capcom",
+    "publisher": "Eidos Interactive",
+    "na_release": "1999-02-25",
+    "pal_release": "1999-09-09",
+    "release_date": "1999-02-25"
+  },
+  {
+    "title": "Power Stone 2",
+    "developer": "Capcom",
+    "publisher": "Eidos Interactive",
+    "na_release": "2000-04-27",
+    "pal_release": "2000-08-23",
+    "release_date": "2000-04-27"
+  },
+  {
+    "title": "Prince of Persia: Arabian Nights",
+    "developer": "Avalanche Software",
+    "publisher": "Mattel Interactive",
+    "pal_release": "2000-12-04",
+    "release_date": "2000-12-04"
+  },
+  {
+    "title": "Princess Holiday: Korogaru Ringotei Senya Ichiya",
+    "developer": "August",
+    "publisher": "Alchemist",
+    "na_release": "2003-05-29",
+    "release_date": "2003-05-29"
+  },
+  {
+    "title": "Princess Maker Collection",
+    "developer": "Ninelives",
+    "publisher": "GeneX",
+    "na_release": "2001-07-19",
+    "release_date": "2001-07-19"
+  },
+  {
+    "title": "Prism Heart",
+    "developer": "KID",
+    "publisher": "KID",
+    "na_release": "2001-11-29",
+    "release_date": "2001-11-29"
+  },
+  {
+    "title": "Prismaticallization",
+    "developer": "Arc System Works",
+    "publisher": "Arc System Works",
+    "na_release": "2000-08-24",
+    "release_date": "2000-08-24"
+  },
+  {
+    "title": "Project Justice",
+    "developer": "Capcom",
+    "publisher": "Virgin Interactive Entertainment",
+    "na_release": "2000-12-07",
+    "pal_release": "2001-05-16",
+    "release_date": "2000-12-07"
+  },
+  {
+    "title": "Pro Mahjong Kiwame D",
+    "developer": "Athena",
+    "publisher": "Athena",
+    "na_release": "2000-03-30",
+    "release_date": "2000-03-30"
+  },
+  {
+    "title": "Pro Pinball Trilogy",
+    "developer": "Cunning Developments",
+    "publisher": "Empire Interactive",
+    "release_date": "2001-05-18"
+  },
+  {
+    "title": "Pro Yakyū Team de Asobou!",
+    "developer": "Sega R&D6",
+    "publisher": "Sega",
+    "na_release": "1999-12-23",
+    "release_date": "1999-12-23"
+  },
+  {
+    "title": "Pro Yakyū Team de Asobou Net!",
+    "developer": "Smilebit",
+    "publisher": "Sega",
+    "na_release": "2000-08-10",
+    "release_date": "2000-08-10"
+  },
+  {
+    "title": "Pro Yakyū Team o Tsukurou!",
+    "developer": "Sega R&D6",
+    "publisher": "Sega",
+    "na_release": "1999-08-05",
+    "release_date": "1999-08-05"
+  },
+  {
+    "title": "Psychic Force 2012",
+    "developer": "Taito",
+    "publisher": "Taito",
+    "na_release": "1999-03-04",
+    "pal_release": "1999-11-09",
+    "release_date": "1999-03-04"
+  },
+  {
+    "title": "Psyvariar 2: The Will to Fabricate",
+    "developer": "SKONEC",
+    "publisher": "Success",
+    "na_release": "2004-02-26",
+    "release_date": "2004-02-26"
+  },
+  {
+    "title": "Puyo Puyo Da! Featuring Ellena System",
+    "developer": "Compile",
+    "publisher": "Compile",
+    "na_release": "1999-12-16",
+    "release_date": "1999-12-16"
+  },
+  {
+    "title": "Puyo Puyo Fever",
+    "developer": "Sonic Team",
+    "publisher": "Sega",
+    "na_release": "2004-02-24",
+    "release_date": "2004-02-24"
+  },
+  {
+    "title": "Puyo Puyo~n",
+    "developer": "Compile",
+    "publisher": "Sega",
+    "na_release": "1999-03-04",
+    "release_date": "1999-03-04"
+  },
+  {
+    "title": "Q*bert",
+    "developer": "Pipe Dream Interactive",
+    "publisher": "Hasbro Interactive",
+    "pal_release": "2000-12-05",
+    "release_date": "2000-12-05"
+  },
+  {
+    "title": "Quake III Arena",
+    "developer": "Raster Productions",
+    "publisher": "Sega",
+    "pal_release": "2000-10-19",
+    "release_date": "2000-10-19"
+  },
+  {
+    "title": "Quiz Aa! Megami-sama: Tatakau Tsubasa to Tomoni",
+    "developer": "Wow Entertainment",
+    "publisher": "Sega",
+    "na_release": "2000-11-30",
+    "release_date": "2000-11-30"
+  },
+  {
+    "title": "Racing Simulation 2: Monaco Grand Prix Online",
+    "developer": "Ubi Soft Paris",
+    "publisher": "Ubi Soft",
+    "release_date": "2001-11-23"
+  },
+  {
+    "title": "Radirgy",
+    "developer": "MileStone Inc.",
+    "publisher": "MileStone Inc.",
+    "na_release": "2006-02-16",
+    "release_date": "2006-02-16"
+  },
+  {
+    "title": "Railroad Tycoon II: Gold Edition",
+    "developer": "Tremor Entertainment",
+    "publisher": "Gathering of Developers",
+    "pal_release": "2000-07-31",
+    "release_date": "2000-07-31"
+  },
+  {
+    "title": "Rainbow Cotton",
+    "developer": "Success",
+    "publisher": "Success",
+    "na_release": "2000-01-20",
+    "release_date": "2000-01-20"
+  },
+  {
+    "title": "Rayman 2: The Great Escape",
+    "developer": "Ubi Pictures",
+    "publisher": "Ubi Soft",
+    "na_release": "2000-03-23",
+    "pal_release": "2000-03-21",
+    "release_date": "2000-03-21"
+  },
+  {
+    "title": "Razor Freestyle Scooter",
+    "developer": "Titanium Studios",
+    "publisher": "Crave Entertainment",
+    "pal_release": "2001-08-08",
+    "release_date": "2001-08-08"
+  },
+  {
+    "title": "Renai Chu! Happy Perfect",
+    "developer": "Fupac",
+    "publisher": "GN Software",
+    "na_release": "2003-11-27",
+    "release_date": "2003-11-27"
+  },
+  {
+    "title": "Rent-A-Hero No. 1",
+    "developer": "Aspect",
+    "publisher": "Sega",
+    "na_release": "2000-05-25",
+    "release_date": "2000-05-25"
+  },
+  {
+    "title": "Revive...: Sosei",
+    "developer": "Data East",
+    "publisher": "Data East",
+    "na_release": "1999-10-28",
+    "release_date": "1999-10-28"
+  },
+  {
+    "title": "Re-Volt",
+    "developer": "Acclaim Studios London",
+    "publisher": "Acclaim Entertainment",
+    "na_release": "2000-07-13",
+    "pal_release": "1999-12-17",
+    "release_date": "1999-12-17"
+  },
+  {
+    "title": "Ready 2 Rumble Boxing",
+    "developer": "Midway Studios San Diego",
+    "publisher": "Midway",
+    "na_release": "2000-01-13",
+    "pal_release": "1999-09-09",
+    "release_date": "1999-09-09"
+  },
+  {
+    "title": "Ready 2 Rumble Boxing: Round 2",
+    "developer": "Midway Studios San Diego",
+    "publisher": "Midway",
+    "pal_release": "2000-10-24",
+    "release_date": "2000-10-24"
+  },
+  {
+    "title": "Real Sound: Kaze no Regret",
+    "developer": "Warp",
+    "publisher": "Warp",
+    "na_release": "1999-03-11",
+    "release_date": "1999-03-11"
+  },
+  {
+    "title": "Record of Lodoss War: Advent of Cardice",
+    "developer": "Neverland",
+    "publisher": "Kadokawa Shoten",
+    "na_release": "2000-06-29",
+    "pal_release": "2001-03-14",
+    "release_date": "2000-06-29"
+  },
+  {
+    "title": "Red Dog: Superior Firepower",
+    "developer": "Argonaut Games",
+    "publisher": "Sega",
+    "pal_release": "2000-10-31",
+    "release_date": "2000-04-21"
+  },
+  {
+    "title": "Reel Fishing: Wild",
+    "developer": "Westone Bit Entertainment",
+    "publisher": "Victor Interactive Software",
+    "na_release": "2001-02-22",
+    "pal_release": "2001-07-24",
+    "release_date": "2001-02-22"
+  },
+  {
+    "title": "Resident Evil 2",
+    "developer": "Capcom",
+    "publisher": "Virgin Interactive Entertainment",
+    "na_release": "1999-12-22",
+    "pal_release": "2000-12-13",
+    "release_date": "1999-12-22"
+  },
+  {
+    "title": "Resident Evil 3: Nemesis",
+    "developer": "Capcom",
+    "publisher": "Virgin Interactive Entertainment",
+    "na_release": "2000-11-16",
+    "pal_release": "2000-11-15",
+    "release_date": "2000-11-15"
+  },
+  {
+    "title": "Resident Evil – Code: Veronica",
+    "developer": "Capcom Production Studio 4",
+    "publisher": "Capcom",
+    "na_release": "2000-02-03",
+    "pal_release": "2000-03-28",
+    "release_date": "2000-02-03"
+  },
+  {
+    "title": "Rez",
+    "developer": "United Game Artists",
+    "publisher": "Sega",
+    "na_release": "2001-11-22",
+    "release_date": "2001-11-22"
+  },
+  {
+    "title": "The Ring: Terror's Realm",
+    "developer": "Asmik Ace Entertainment",
+    "publisher": "Infogrames North America",
+    "na_release": "2000-02-24",
+    "pal_release": "2000-09-26",
+    "release_date": "2000-02-24"
+  },
+  {
+    "title": "Rippin' Riders Snowboarding",
+    "developer": "UEP Systems",
+    "publisher": "Sega",
+    "na_release": "1999-08-26",
+    "pal_release": "1999-11-10",
+    "release_date": "1999-08-26"
+  },
+  {
+    "title": "Roadsters",
+    "developer": "Player 1",
+    "publisher": "Titus Interactive",
+    "pal_release": "2000-03-20",
+    "release_date": "2000-03-20"
+  },
+  {
+    "title": "Roommania#203",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "na_release": "2000-01-27",
+    "release_date": "2000-01-27"
+  },
+  {
+    "title": "Roommate Asami: Okusama ha Joshikousei - Director's Edition",
+    "developer": "Fupac",
+    "publisher": "Datam Polystar",
+    "na_release": "2002-11-21",
+    "release_date": "2002-11-21"
+  },
+  {
+    "title": "Roommate Novel: Sato Yuka",
+    "developer": "Fupac",
+    "publisher": "Datam Polystar",
+    "na_release": "2000-06-29",
+    "release_date": "2000-06-29"
+  },
+  {
+    "title": "Run=Dim as Black Soul",
+    "developer": "Yuki Enterprise",
+    "publisher": "Idea Factory",
+    "na_release": "2001-09-06",
+    "release_date": "2001-09-06"
+  },
+  {
+    "title": "Rune Caster",
+    "developer": "Noisia",
+    "publisher": "Vision",
+    "na_release": "2000-08-24",
+    "release_date": "2000-08-24"
+  },
+  {
+    "title": "Rune Jade",
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
+    "na_release": "2000-08-24",
+    "release_date": "2000-08-24"
+  },
+  {
+    "title": "Ryōko Inoue: Last Scene",
+    "developer": "Datam Polystar",
+    "publisher": "Datam Polystar",
+    "na_release": "2001-11-08",
+    "release_date": "2001-11-08"
+  },
+  {
+    "title": "Ryōko Inoue: Roommate",
+    "developer": "Fupac",
+    "publisher": "Datam Polystar",
+    "na_release": "2001-07-05",
+    "release_date": "2001-07-05"
+  },
+  {
+    "title": "Saka Tsuku Tokudaigou: J.League Pro Soccer Club o Tsukurou!",
+    "developer": "Smilebit",
+    "publisher": "Sega",
+    "na_release": "2000-12-21",
+    "release_date": "2000-12-21"
+  },
+  {
+    "title": "Saka Tsuku Tokudaigou 2: J.League Pro Soccer Club o Tsukurou!",
+    "developer": "Smilebit",
+    "publisher": "Sega",
+    "na_release": "2001-12-13",
+    "release_date": "2001-12-13"
+  },
+  {
+    "title": "Sakura Momoko Gekijō Coji-Coji",
+    "developer": "Psy-Gong",
+    "publisher": "Marvelous Entertainment",
+    "na_release": "2000-04-20",
+    "release_date": "2000-04-20"
+  },
+  {
+    "title": "Sakura Taisen",
+    "developer": "Sega CS2 R&D",
+    "publisher": "Sega",
+    "na_release": "2000-05-25",
+    "release_date": "2000-05-25"
+  },
+  {
+    "title": "Sakura Taisen 2: Kimi, Shinitamō Koto Nakare",
+    "developer": "Sega CS2 R&D",
+    "publisher": "Sega",
+    "na_release": "2000-09-21",
+    "release_date": "2000-09-21"
+  },
+  {
+    "title": "Sakura Taisen 3: Paris wa Moeteiru ka",
+    "developer": "Red Company",
+    "publisher": "Sega",
+    "na_release": "2001-03-22",
+    "release_date": "2001-03-22"
+  },
+  {
+    "title": "Sakura Taisen 4: Koi Seyo, Otome",
+    "developer": "Red Company",
+    "publisher": "Sega",
+    "na_release": "2002-03-21",
+    "release_date": "2002-03-21"
+  },
+  {
+    "title": "Sakura Taisen Online: Paris no Nagai Hibi",
+    "developer": "Overworks",
+    "publisher": "Sega",
+    "na_release": "2001-12-20",
+    "release_date": "2001-12-20"
+  },
+  {
+    "title": "Sakura Taisen Online: Teito no Yuugana Hibi",
+    "developer": "Overworks",
+    "publisher": "Sega",
+    "na_release": "2001-12-20",
+    "release_date": "2001-12-20"
+  },
+  {
+    "title": "Samba de Amigo",
+    "developer": "Sonic Team",
+    "publisher": "Sega",
+    "na_release": "2000-04-27",
+    "pal_release": "2000-10-17",
+    "release_date": "2000-04-27"
+  },
+  {
+    "title": "Samba de Amigo Ver. 2000",
+    "developer": "Sonic Team",
+    "publisher": "Sega",
+    "na_release": "2000-12-14",
+    "release_date": "2000-12-14"
+  },
+  {
+    "title": "San Francisco Rush 2049",
+    "developer": "Midway Games West",
+    "publisher": "Midway",
+    "pal_release": "2000-09-06",
+    "release_date": "2000-09-06"
+  },
+  {
+    "title": "Sangokushi VI",
+    "developer": "Koei",
+    "publisher": "Koei",
+    "na_release": "1999-03-25",
+    "release_date": "1999-03-25"
+  },
+  {
+    "title": "Sangokushi VI with Power-Up Kit",
+    "developer": "Koei",
+    "publisher": "Koei",
+    "na_release": "2000-04-06",
+    "release_date": "2000-04-06"
+  },
+  {
+    "title": "Seaman",
+    "developer": "Vivarium",
+    "publisher": "Sega",
+    "na_release": "1999-07-29",
+    "pal_release": "2000-08-08",
+    "release_date": "1999-07-29"
+  },
+  {
+    "title": "Seaman: Kindan no Pet: 2001 Nen Taiouban",
+    "developer": "Vivarium",
+    "publisher": "Vivarium",
+    "na_release": "2001-08-10",
+    "release_date": "2001-08-10"
+  },
+  {
+    "title": "Sega Bass Fishing",
+    "developer": "SIMS",
+    "publisher": "Sega",
+    "na_release": "1999-04-01",
+    "pal_release": "1999-10-06",
+    "release_date": "1999-04-01"
+  },
+  {
+    "title": "Sega Bass Fishing 2",
+    "developer": "Wow Entertainment",
+    "publisher": "Sega",
+    "na_release": "2001-08-30",
+    "pal_release": "2001-08-21",
+    "release_date": "2001-08-21"
+  },
+  {
+    "title": "Sega Extreme Sports",
+    "developer": "Innerloop Studios",
+    "publisher": "Sega",
+    "na_release": "2001-09-06",
+    "pal_release": "2000-11-28",
+    "release_date": "2000-10-27"
+  },
+  {
+    "title": "Sega GT",
+    "developer": "Wow Entertainment",
+    "publisher": "Sega",
+    "na_release": "2000-02-17",
+    "pal_release": "2000-08-29",
+    "release_date": "2000-02-17"
+  },
+  {
+    "title": "Segagaga",
+    "developer": "Hitmaker",
+    "publisher": "Sega",
+    "na_release": "2001-03-29",
+    "release_date": "2001-03-29"
+  },
+  {
+    "title": "Sega Marine Fishing",
+    "developer": "Wow Entertainment",
+    "publisher": "Sega",
+    "na_release": "2000-10-19",
+    "pal_release": "2000-10-16",
+    "release_date": "2000-10-16"
+  },
+  {
+    "title": "Sega Rally Championship 2",
+    "developer": "Smilebit",
+    "publisher": "Sega",
+    "na_release": "1999-01-28",
+    "pal_release": "1999-11-30",
+    "release_date": "1999-01-28"
+  },
+  {
+    "title": "Sega Smash Pack Vol. 1",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "pal_release": "2001-01-30",
+    "release_date": "2001-01-30"
+  },
+  {
+    "title": "Sega Swirl",
+    "developer": "Tremor Entertainment",
+    "publisher": "Sega",
+    "pal_release": "2000-02-02",
+    "release_date": "2000-02-02"
+  },
+  {
+    "title": "Sega Tetris",
+    "developer": "Wow Entertainment",
+    "publisher": "Sega",
+    "na_release": "2000-11-23",
+    "release_date": "2000-11-23"
+  },
+  {
+    "title": "Sega Worldwide Soccer 2000",
+    "developer": "Silicon Dreams Studio",
+    "publisher": "Sega",
+    "release_date": "1999-12-01"
+  },
+  {
+    "title": "Sega Worldwide Soccer 2000 Euro Edition",
+    "developer": "Silicon Dreams Studio",
+    "publisher": "Sega",
+    "release_date": "2000-05-26"
+  },
+  {
+    "title": "Seireiki Rayblade",
+    "developer": "Winkysoft",
+    "publisher": "Winkysoft",
+    "na_release": "2000-09-28",
+    "release_date": "2000-09-28"
+  },
+  {
+    "title": "Sekai Fushigi Hakken! Troy",
+    "developer": "Hitachi Media Force",
+    "publisher": "TBS",
+    "na_release": "1999-07-22",
+    "release_date": "1999-07-22"
+  },
+  {
+    "title": "Sengoku Turb",
+    "developer": "NEC Home Electronics",
+    "publisher": "NEC Home Electronics",
+    "na_release": "1999-01-14",
+    "release_date": "1999-01-14"
+  },
+  {
+    "title": "Sengoku Turb: Fanfan I love me Dunce-doublentendre",
+    "developer": "NEC Home Electronics",
+    "publisher": "NEC Home Electronics",
+    "na_release": "1999-12-23",
+    "release_date": "1999-12-23"
+  },
+  {
+    "title": "Sentimental Graffiti 2",
+    "developer": "NEC Interchannel",
+    "publisher": "NEC Interchannel",
+    "na_release": "2000-07-27",
+    "release_date": "2000-07-27"
+  },
+  {
+    "title": "Sentimental Graffiti: Yakusoku",
+    "developer": "NEC Interchannel",
+    "publisher": "NEC Interchannel",
+    "na_release": "2003-12-25",
+    "release_date": "2003-12-25"
+  },
+  {
+    "title": "Seventh Cross: Evolution",
+    "developer": "HuneX",
+    "publisher": "NEC Home Electronics",
+    "na_release": "1998-12-23",
+    "pal_release": "2000-01-15",
+    "release_date": "1998-12-23"
+  },
+  {
+    "title": "Shadow Man",
+    "developer": "Acclaim Studios Teesside",
+    "publisher": "Acclaim Entertainment",
+    "pal_release": "1999-12-01",
+    "release_date": "1999-12-01"
+  },
+  {
+    "title": "Shanghai Dynasty",
+    "developer": "Success",
+    "publisher": "Success",
+    "na_release": "2000-03-16",
+    "release_date": "2000-03-16"
+  },
+  {
+    "title": "Shenmue",
+    "developer": "Sega AM2",
+    "publisher": "Sega",
+    "na_release": "1999-12-29",
+    "pal_release": "2000-11-07",
+    "release_date": "1999-12-29"
+  },
+  {
+    "title": "Shenmue II",
+    "developer": "Sega AM2",
+    "publisher": "Sega",
+    "na_release": "2001-09-06",
+    "release_date": "2001-09-06"
+  },
+  {
+    "title": "Shikigami no Shiro II",
+    "developer": "Alfa System",
+    "publisher": "Alfa System",
+    "na_release": "2004-03-25",
+    "release_date": "2004-03-25"
+  },
+  {
+    "title": "Shin Honkaku Hanafuda",
+    "developer": "Altron",
+    "publisher": "Altron",
+    "na_release": "1999-07-22",
+    "release_date": "1999-07-22"
+  },
+  {
+    "title": "The Shinri Game",
+    "developer": "Visit",
+    "publisher": "Visit",
+    "na_release": "2001-02-01",
+    "release_date": "2001-02-01"
+  },
+  {
+    "title": "Shinseiki Evangelion: Ayanami Rei Ikusei Keikaku",
+    "developer": "Gainax",
+    "publisher": "Broccoli",
+    "na_release": "2002-04-18",
+    "release_date": "2002-04-18"
+  },
+  {
+    "title": "Shinseiki Evangelion: Typing E-Keikaku",
+    "developer": "Gainax",
+    "publisher": "Gainax",
+    "na_release": "2001-04-19",
+    "release_date": "2001-04-19"
+  },
+  {
+    "title": "Shinseiki Evangelion: Typing Hokan Keikaku",
+    "developer": "Gainax",
+    "publisher": "Gainax",
+    "na_release": "2001-08-30",
+    "release_date": "2001-08-30"
+  },
+  {
+    "title": "Shin Nihon Pro Wrestling Toukon Retsuden 4",
+    "developer": "Yuke's",
+    "publisher": "Tomy",
+    "na_release": "1999-09-02",
+    "release_date": "1999-09-02"
+  },
+  {
+    "title": "Shirotsume Souwa -Episode of the Clovers",
+    "developer": "Littlewitch",
+    "publisher": "NEC Interchannel",
+    "na_release": "2003-06-26",
+    "release_date": "2003-06-26"
+  },
+  {
+    "title": "Silent Scope",
+    "developer": "Konami",
+    "publisher": "Konami",
+    "na_release": "2000-10-12",
+    "pal_release": "2000-10-23",
+    "release_date": "2000-10-12"
+  },
+  {
+    "title": "Silver",
+    "developer": "Spiral House",
+    "publisher": "Infogrames",
+    "pal_release": "2000-06-28",
+    "release_date": "2000-06-28"
+  },
+  {
+    "title": "Simple 2000 Series DC Vol.01: Bitter Sweet Fools: The Renai Adventure",
+    "developer": "HuneX",
+    "publisher": "D3 Publisher",
+    "na_release": "2002-08-29",
+    "release_date": "2002-08-29"
+  },
+  {
+    "title": "Simple 2000 Series DC Vol.02: Natsuiro Celebration: The Renai Simulation",
+    "developer": "HuneX",
+    "publisher": "D3 Publisher",
+    "na_release": "2002-09-26",
+    "release_date": "2002-09-26"
+  },
+  {
+    "title": "Simple 2000 Series DC Vol.03: Fureai: The Renai Simulation",
+    "developer": "HuneX",
+    "publisher": "D3 Publisher",
+    "na_release": "2002-09-26",
+    "release_date": "2002-09-26"
+  },
+  {
+    "title": "Simple 2000 Series DC Vol.04: Okaeritsu!: The Renai Adventure",
+    "developer": "HuneX",
+    "publisher": "D3 Publisher",
+    "na_release": "2002-09-26",
+    "release_date": "2002-09-26"
+  },
+  {
+    "title": "Sister Princess Premium Edition",
+    "developer": "Stack",
+    "publisher": "MediaWorks",
+    "na_release": "2002-03-28",
+    "release_date": "2002-03-28"
+  },
+  {
+    "title": "Skies of Arcadia",
+    "developer": "Overworks",
+    "publisher": "Sega",
+    "na_release": "2000-10-05",
+    "pal_release": "2000-11-13",
+    "release_date": "2000-10-05"
+  },
+  {
+    "title": "Slave Zero",
+    "developer": "Infogrames North America",
+    "publisher": "Infogrames Multimedia",
+    "pal_release": "1999-11-17",
+    "release_date": "1999-11-17"
+  },
+  {
+    "title": "Sno-Cross Championship Racing",
+    "developer": "Unique Development Studios",
+    "publisher": "Crave Entertainment",
+    "pal_release": "2000-11-29",
+    "release_date": "2000-11-29"
+  },
+  {
+    "title": "Snow",
+    "developer": "Studio Mebius",
+    "publisher": "NEC Interchannel",
+    "na_release": "2003-09-25",
+    "release_date": "2003-09-25"
+  },
+  {
+    "title": "Soldier of Fortune",
+    "developer": "Runecraft",
+    "publisher": "Crave Entertainment",
+    "pal_release": "2001-07-26",
+    "release_date": "2001-07-26"
+  },
+  {
+    "title": "Sonic Adventure",
+    "developer": "Sonic Team",
+    "publisher": "Sega",
+    "na_release": "1998-12-23",
+    "pal_release": "1999-09-09",
+    "release_date": "1998-12-23"
+  },
+  {
+    "title": "Sonic Adventure 2",
+    "developer": "Sonic Team USA",
+    "publisher": "Sega",
+    "na_release": "2001-06-23",
+    "pal_release": "2001-06-19",
+    "release_date": "2001-06-19"
+  },
+  {
+    "title": "Sonic Shuffle",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "na_release": "2000-12-21",
+    "pal_release": "2000-11-14",
+    "release_date": "2000-11-14"
+  },
+  {
+    "title": "Sorcerian: Shichisei Mahou no Shito",
+    "developer": "Exe-CreateMedia JuGGLer",
+    "publisher": "Victor Interactive Software",
+    "na_release": "2000-04-27",
+    "release_date": "2000-04-27"
+  },
+  {
+    "title": "Soukou no Kihei: Space Griffon",
+    "developer": "Panther Software",
+    "publisher": "Panther Software",
+    "na_release": "1999-11-03",
+    "release_date": "1999-11-03"
+  },
+  {
+    "title": "Soulcalibur",
+    "developer": "Namco",
+    "publisher": "Namco",
+    "na_release": "1999-08-05",
+    "pal_release": "1999-09-09",
+    "release_date": "1999-08-05"
+  },
+  {
+    "title": "Soul Fighter",
+    "developer": "Toka",
+    "publisher": "Red Orb Entertainment",
+    "pal_release": "1999-11-23",
+    "release_date": "1999-11-23"
+  },
+  {
+    "title": "South Park: Chef's Luv Shack",
+    "developer": "Acclaim Studios Austin",
+    "publisher": "Acclaim Entertainment",
+    "pal_release": "1999-11-22",
+    "release_date": "1999-11-18"
+  },
+  {
+    "title": "South Park Rally",
+    "developer": "Tantalus Interactive",
+    "publisher": "Acclaim Entertainment",
+    "pal_release": "2000-07-07",
+    "release_date": "2000-07-07"
+  },
+  {
+    "title": "Space Channel 5",
+    "developer": "Sega AM9",
+    "publisher": "Sega",
+    "na_release": "1999-12-16",
+    "pal_release": "2000-06-06",
+    "release_date": "1999-12-16"
+  },
+  {
+    "title": "Space Channel 5: Part 2",
+    "developer": "United Game Artists",
+    "publisher": "Sega",
+    "na_release": "2002-02-14",
+    "release_date": "2002-02-14"
+  },
+  {
+    "title": "Spawn: In the Demon's Hand",
+    "developer": "Capcom",
+    "publisher": "Eidos Interactive",
+    "na_release": "2000-08-10",
+    "pal_release": "2000-10-18",
+    "release_date": "2000-08-10"
+  },
+  {
+    "title": "Spec Ops II: Omega Squad",
+    "developer": "Runecraft",
+    "publisher": "Ripcord Games",
+    "pal_release": "2000-10-25",
+    "release_date": "2000-10-25"
+  },
+  {
+    "title": "Speed Devils",
+    "developer": "Ubi Soft Montreal",
+    "publisher": "Ubi Soft",
+    "na_release": "1999-11-18",
+    "pal_release": "1999-10-29",
+    "release_date": "1999-10-14"
+  },
+  {
+    "title": "Speed Devils: Online Racing",
+    "developer": "Ubi Soft Montreal",
+    "publisher": "Ubi Soft",
+    "pal_release": "2000-12-13",
+    "release_date": "2000-12-13"
+  },
+  {
+    "title": "Spider-Man",
+    "developer": "Treyarch",
+    "publisher": "Activision",
+    "pal_release": "2001-05-01",
+    "release_date": "2001-05-01"
+  },
+  {
+    "title": "Spirit of Speed 1937",
+    "developer": "Broadsword Interactive",
+    "publisher": "LJN",
+    "na_release": "2001-04-05",
+    "pal_release": "2000-06-27",
+    "release_date": "2000-06-09"
+  },
+  {
+    "title": "Sports Jam",
+    "developer": "Wow Entertainment",
+    "publisher": "Sega",
+    "na_release": "2001-04-12",
+    "pal_release": "2001-07-01",
+    "release_date": "2001-04-12"
+  },
+  {
+    "title": "Star Wars: Demolition",
+    "developer": "Luxoflux",
+    "publisher": "LucasArts",
+    "pal_release": "2000-11-20",
+    "release_date": "2000-11-20"
+  },
+  {
+    "title": "Star Wars Episode I: Jedi Power Battles",
+    "developer": "LucasArts",
+    "publisher": "LucasArts",
+    "pal_release": "2000-10-10",
+    "release_date": "2000-10-04"
+  },
+  {
+    "title": "Star Wars Episode I: Racer",
+    "developer": "LucasArts",
+    "publisher": "LucasArts",
+    "pal_release": "2000-04-03",
+    "release_date": "2000-04-03"
+  },
+  {
+    "title": "Starlancer",
+    "developer": "Warthog Games",
+    "publisher": "Crave Entertainment",
+    "pal_release": "2000-12-06",
+    "release_date": "2000-12-06"
+  },
+  {
+    "title": "Street Fighter Alpha 3",
+    "developer": "Capcom",
+    "publisher": "Virgin Interactive Entertainment",
+    "na_release": "1999-07-08",
+    "pal_release": "2000-05-07",
+    "release_date": "1999-07-08"
+  },
+  {
+    "title": "Street Fighter III: 3rd Strike",
+    "developer": "Capcom",
+    "publisher": "Virgin Interactive Entertainment",
+    "na_release": "2000-06-29",
+    "pal_release": "2000-10-04",
+    "release_date": "2000-06-29"
+  },
+  {
+    "title": "Street Fighter III: Double Impact",
+    "developer": "Capcom",
+    "publisher": "Virgin Interactive Entertainment",
+    "na_release": "1999-12-16",
+    "pal_release": "2000-06-21",
+    "release_date": "1999-12-16"
+  },
+  {
+    "title": "Street Fighter Zero 3: Saikyō-ryū Dōjō for Matching Service",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "na_release": "2001-02-15",
+    "release_date": "2001-02-15"
+  },
+  {
+    "title": "Stunt GP",
+    "developer": "Team17",
+    "publisher": "Eon Digital Entertainment",
+    "release_date": "2001-06-08"
+  },
+  {
+    "title": "Stupid Invaders",
+    "developer": "Titanium Studios",
+    "publisher": "Ubi Soft",
+    "pal_release": "2001-06-20",
+    "release_date": "2001-05-18"
+  },
+  {
+    "title": "Suigetsu: Mayoigokoro",
+    "developer": "F&C・FC02",
+    "publisher": "KID",
+    "na_release": "2004-10-28",
+    "release_date": "2004-10-28"
+  },
+  {
+    "title": "Suika",
+    "developer": "Circus",
+    "publisher": "PrincessSoft",
+    "na_release": "2002-07-18",
+    "release_date": "2002-07-18"
+  },
+  {
+    "title": "Sunrise Eiyuutan",
+    "developer": "Atelier-Sai",
+    "publisher": "Sunrise Interactive",
+    "na_release": "1999-12-02",
+    "release_date": "1999-12-02"
+  },
+  {
+    "title": "Super Magnetic Neo",
+    "developer": "Genki",
+    "publisher": "Crave Entertainment",
+    "na_release": "2000-02-03",
+    "pal_release": "2000-06-15",
+    "release_date": "2000-02-03"
+  },
+  {
+    "title": "Super Producers: Mezase Show Biz Kai",
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
+    "na_release": "1999-11-11",
+    "release_date": "1999-11-11"
+  },
+  {
+    "title": "Super Puzzle Fighter II X for Matching Service",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "na_release": "2001-07-05",
+    "release_date": "2001-07-05"
+  },
+  {
+    "title": "Super Robot Taisen Alpha for Dreamcast",
+    "developer": "Banpresto",
+    "publisher": "Banpresto",
+    "na_release": "2001-08-30",
+    "release_date": "2001-08-30"
+  },
+  {
+    "title": "Super Runabout",
+    "developer": "Climax Entertainment",
+    "publisher": "Climax Entertainment",
+    "na_release": "2000-05-25",
+    "release_date": "2000-05-25"
+  },
+  {
+    "title": "Super Runabout: San Francisco Edition",
+    "developer": "Climax Entertainment",
+    "publisher": "Interplay Entertainment",
+    "na_release": "2001-06-21",
+    "pal_release": "2000-10-24",
+    "release_date": "2000-10-24"
+  },
+  {
+    "title": "Super Street Fighter II X for Matching Service",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "na_release": "2000-12-22",
+    "release_date": "2000-12-22"
+  },
+  {
+    "title": "Surf Rocket Racers",
+    "developer": "CRI",
+    "publisher": "Crave Entertainment",
+    "na_release": "2001-03-22",
+    "pal_release": "2001-02-28",
+    "release_date": "2000-12-15"
+  },
+  {
+    "title": "Suzuki Alstare Extreme Racing",
+    "developer": "Criterion Games",
+    "publisher": "Imagineer",
+    "na_release": "1999-04-29",
+    "pal_release": "1999-11-11",
+    "release_date": "1999-04-29"
+  },
+  {
+    "title": "Sweet Season",
+    "developer": "Takuyo",
+    "publisher": "Takuyo",
+    "na_release": "2003-10-23",
+    "release_date": "2003-10-23"
+  },
+  {
+    "title": "Sword of the Berserk: Guts' Rage",
+    "developer": "Yuke's",
+    "publisher": "ASCII Corporation",
+    "na_release": "1999-12-16",
+    "pal_release": "2000-03-16",
+    "release_date": "1999-12-16"
+  },
+  {
+    "title": "Sydney 2000",
+    "developer": "Attention to Detail",
+    "publisher": "Eidos Interactive",
+    "na_release": "2000-10-26",
+    "pal_release": "2000-08-28",
+    "release_date": "2000-08-28"
+  },
+  {
+    "title": "Taisen Net Gimmick: Capcom & Psikyo All Stars",
+    "developer": "Psikyo",
+    "publisher": "Capcom",
+    "na_release": "2001-06-28",
+    "release_date": "2001-06-28"
+  },
+  {
+    "title": "Tako no Marine",
+    "developer": "Microcabin",
+    "publisher": "Microcabin",
+    "na_release": "2002-05-16",
+    "release_date": "2002-05-16"
+  },
+  {
+    "title": "Tamakyuu",
+    "developer": "Tsuki Boshi Gumi",
+    "publisher": "NEC Interchannel",
+    "na_release": "2004-01-29",
+    "release_date": "2004-01-29"
+  },
+  {
+    "title": "Tanaka Torahiko no Uru Toraryuu Shogi: Ibisha Anaguma-hen",
+    "developer": "Arc System Works",
+    "publisher": "Arc System Works",
+    "na_release": "1999-11-11",
+    "release_date": "1999-11-11"
+  },
+  {
+    "title": "Tantei Shinshi Dash!",
+    "developer": "Abel",
+    "publisher": "Abel",
+    "na_release": "2000-12-21",
+    "release_date": "2000-12-21"
+  },
+  {
+    "title": "Taxi 2",
+    "developer": "Blue Sphere Games",
+    "publisher": "Ubi Soft",
+    "release_date": "2000-11-30"
+  },
+  {
+    "title": "Tech Romancer",
+    "developer": "Capcom",
+    "publisher": "Virgin Interactive Entertainment",
+    "na_release": "2000-01-13",
+    "pal_release": "2000-06-15",
+    "release_date": "2000-01-13"
+  },
+  {
+    "title": "Tech Romancer for Matching Service",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "na_release": "2001-01-18",
+    "release_date": "2001-01-18"
+  },
+  {
+    "title": "Tee Off",
+    "developer": "Bottom Up",
+    "publisher": "Acclaim Entertainment",
+    "na_release": "1999-12-09",
+    "pal_release": "2000-01-12",
+    "release_date": "1999-12-09"
+  },
+  {
+    "title": "Tenohira wo, Taiyou ni",
+    "developer": "Clear",
+    "publisher": "PrincessSoft",
+    "na_release": "2004-03-25",
+    "release_date": "2004-03-25"
+  },
+  {
+    "title": "Tentama: 1st Sunny Side",
+    "developer": "KID",
+    "publisher": "KID",
+    "na_release": "2001-10-25",
+    "release_date": "2001-10-25"
+  },
+  {
+    "title": "Tetris 4D",
+    "developer": "Bullet-Proof Software",
+    "publisher": "Bullet-Proof Software",
+    "na_release": "1998-12-23",
+    "release_date": "1998-12-23"
+  },
+  {
+    "title": "Test Drive 6",
+    "developer": "Pitbull Syndicate",
+    "publisher": "Infogrames North America",
+    "pal_release": "1999-12-21",
+    "release_date": "1999-12-21"
+  },
+  {
+    "title": "Test Drive Le Mans",
+    "developer": "Infogrames Melbourne House",
+    "publisher": "Infogrames",
+    "na_release": "2001-03-15",
+    "pal_release": "2000-11-08",
+    "release_date": "2000-11-08"
+  },
+  {
+    "title": "Time Stalkers",
+    "developer": "Climax Entertainment",
+    "publisher": "Sega",
+    "na_release": "1999-09-15",
+    "pal_release": "2000-03-28",
+    "release_date": "1999-09-15"
+  },
+  {
+    "title": "TNN Motorsports HardCore Heat",
+    "developer": "CRI",
+    "publisher": "CRI",
+    "na_release": "1999-07-08",
+    "pal_release": "1999-09-09",
+    "release_date": "1999-07-08"
+  },
+  {
+    "title": "Tokyo Xtreme Racer",
+    "developer": "Genki",
+    "publisher": "Crave Entertainment",
+    "na_release": "1999-06-24",
+    "pal_release": "1999-09-09",
+    "release_date": "1999-06-24"
+  },
+  {
+    "title": "Tokyo Xtreme Racer 2",
+    "developer": "Genki",
+    "publisher": "Crave Entertainment",
+    "na_release": "2000-06-22",
+    "pal_release": "2000-09-26",
+    "release_date": "2000-06-22"
+  },
+  {
+    "title": "Tokusatsu Bouken Katsugeki Super Hero Retsuden",
+    "developer": "ALUAdventure Planning Service",
+    "publisher": "Banpresto",
+    "na_release": "2000-07-27",
+    "release_date": "2000-07-27"
+  },
+  {
+    "title": "Tokyo Bus Guide",
+    "developer": "Fortyfive",
+    "publisher": "Fortyfive",
+    "na_release": "1999-12-23",
+    "release_date": "1999-12-23"
+  },
+  {
+    "title": "Tokyo Bus Guide with Bijin Bus Guide Tenjou Pack",
+    "developer": "Fortyfive",
+    "publisher": "Fortyfive",
+    "na_release": "2000-12-21",
+    "release_date": "2000-12-21"
+  },
+  {
+    "title": "Tom Clancy's Rainbow Six",
+    "developer": "Pipe Dream Interactive",
+    "publisher": "Majesco Sales",
+    "pal_release": "2000-05-03",
+    "release_date": "2000-05-03"
+  },
+  {
+    "title": "Tom Clancy's Rainbow Six: Rogue Spear",
+    "developer": "Pipe Dream Interactive",
+    "publisher": "Majesco Sales",
+    "pal_release": "2000-11-20",
+    "release_date": "2000-11-20"
+  },
+  {
+    "title": "Tomb Raider: Chronicles",
+    "developer": "Core Design",
+    "publisher": "Eidos Interactive",
+    "pal_release": "2000-11-26",
+    "release_date": "2000-11-26"
+  },
+  {
+    "title": "Tomb Raider: The Last Revelation",
+    "developer": "Core Design",
+    "publisher": "Eidos Interactive",
+    "na_release": "2000-07-19",
+    "pal_release": "2000-03-25",
+    "release_date": "2000-03-24"
+  },
+  {
+    "title": "Tony Hawk's Pro Skater",
+    "developer": "Treyarch",
+    "publisher": "Crave Entertainment",
+    "pal_release": "2000-05-24",
+    "release_date": "2000-05-24"
+  },
+  {
+    "title": "Tony Hawk's Pro Skater 2",
+    "developer": "Treyarch",
+    "publisher": "Activision",
+    "pal_release": "2000-11-07",
+    "release_date": "2000-11-07"
+  },
+  {
+    "title": "Toy Commander",
+    "developer": "No Cliche",
+    "publisher": "Sega",
+    "na_release": "2000-01-06",
+    "pal_release": "1999-11-02",
+    "release_date": "1999-10-14"
+  },
+  {
+    "title": "Toy Racer",
+    "developer": "No Cliche",
+    "publisher": "Sega",
+    "release_date": "2000-12-22"
+  },
+  {
+    "title": "Toy Story 2: Buzz Lightyear to the Rescue!",
+    "developer": "Traveller's Tales",
+    "publisher": "Activision",
+    "pal_release": "2000-07-05",
+    "release_date": "2000-07-05"
+  },
+  {
+    "title": "Treasure Strike",
+    "developer": "KID",
+    "publisher": "KID",
+    "na_release": "2000-02-17",
+    "release_date": "2000-02-17"
+  },
+  {
+    "title": "TrickStyle",
+    "developer": "Criterion Games",
+    "publisher": "Acclaim Entertainment",
+    "pal_release": "1999-09-09",
+    "release_date": "1999-09-09"
+  },
+  {
+    "title": "Tricolore Crise",
+    "developer": "HuneX",
+    "publisher": "Victor Interactive Software",
+    "na_release": "2000-11-09",
+    "release_date": "2000-11-09"
+  },
+  {
+    "title": "Triggerheart Exelica",
+    "developer": "Warashi",
+    "publisher": "Warashi",
+    "na_release": "2007-02-22",
+    "release_date": "2007-02-22"
+  },
+  {
+    "title": "Trizeal",
+    "developer": "Triangle Service",
+    "publisher": "Triangle Service",
+    "na_release": "2005-04-07",
+    "release_date": "2005-04-07"
+  },
+  {
+    "title": "Tsukiha Higashini Hiha Nishini: Operation Sanctuary",
+    "developer": "August",
+    "publisher": "Alchemist",
+    "na_release": "2004-06-24",
+    "release_date": "2004-06-24"
+  },
+  {
+    "title": "Tsuushin Taisen Logic Battle Daisessen",
+    "developer": "Fortyfive",
+    "publisher": "Fortyfive",
+    "na_release": "2000-05-11",
+    "release_date": "2000-05-11"
+  },
+  {
+    "title": "Twinkle Star Sprites",
+    "developer": "ADK",
+    "publisher": "SNK",
+    "na_release": "2000-03-23",
+    "release_date": "2000-03-23"
+  },
+  {
+    "title": "Typing of the Date",
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
+    "na_release": "2001-09-27",
+    "release_date": "2001-09-27"
+  },
+  {
+    "title": "The Typing of the Dead",
+    "developer": "Wow Entertainment",
+    "publisher": "Sega",
+    "na_release": "2000-03-30",
+    "pal_release": "2001-01-23",
+    "release_date": "2000-03-30"
+  },
+  {
+    "title": "UEFA Dream Soccer",
+    "developer": "Silicon Dreams Studio",
+    "publisher": "Sega",
+    "release_date": "2000-12-08"
+  },
+  {
+    "title": "UEFA Striker",
+    "developer": "Rage Software",
+    "publisher": "Infogrames",
+    "na_release": "2000-04-06",
+    "pal_release": "2000-05-15",
+    "release_date": "1999-10-22"
+  },
+  {
+    "title": "Ultimate Fighting Championship",
+    "developer": "Anchor Inc.",
+    "publisher": "Crave Entertainment",
+    "na_release": "2001-01-25",
+    "pal_release": "2000-08-30",
+    "release_date": "2000-08-30"
+  },
+  {
+    "title": "Undercover AD2025 Kei",
+    "developer": "Pulse Interactive",
+    "publisher": "Pulse Interactive",
+    "na_release": "2000-01-27",
+    "release_date": "2000-01-27"
+  },
+  {
+    "title": "Under Defeat",
+    "developer": "G.rev",
+    "publisher": "G.rev",
+    "na_release": "2006-03-23",
+    "release_date": "2006-03-23"
+  },
+  {
+    "title": "Unreal Tournament",
+    "developer": "Secret Level",
+    "publisher": "Infogrames",
+    "pal_release": "2001-03-13",
+    "release_date": "2001-03-13"
+  },
+  {
+    "title": "Urban Chaos",
+    "developer": "Mucky Foot Productions",
+    "publisher": "Eidos Interactive",
+    "pal_release": "2000-11-13",
+    "release_date": "2000-10-06"
+  },
+  {
+    "title": "Utau: Tumbling Dice",
+    "developer": "EMU",
+    "publisher": "Reindeer",
+    "na_release": "2004-06-24",
+    "release_date": "2004-06-24"
+  },
+  {
+    "title": "V-Rally 2",
+    "developer": "Eden Studios",
+    "publisher": "Infogrames",
+    "pal_release": "2000-10-18",
+    "release_date": "2000-05-26"
+  },
+  {
+    "title": "Vampire Chronicle for Matching Service",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "na_release": "2000-08-10",
+    "release_date": "2000-08-10"
+  },
+  {
+    "title": "Vanishing Point",
+    "developer": "Clockwork Games",
+    "publisher": "Acclaim Entertainment",
+    "pal_release": "2001-01-03",
+    "release_date": "2001-01-03"
+  },
+  {
+    "title": "Vermilion Desert",
+    "developer": "Riverhillsoft",
+    "publisher": "Riverhillsoft",
+    "na_release": "1999-12-02",
+    "release_date": "1999-12-02"
+  },
+  {
+    "title": "Vigilante 8: 2nd Offense",
+    "developer": "Luxoflux",
+    "publisher": "Activision",
+    "na_release": "2000-03-23",
+    "pal_release": "1999-12-22",
+    "release_date": "1999-12-22"
+  },
+  {
+    "title": "Virtua Athlete 2K",
+    "developer": "Hitmaker",
+    "publisher": "Sega",
+    "na_release": "2000-07-27",
+    "pal_release": "2000-09-12",
+    "release_date": "2000-07-27"
+  },
+  {
+    "title": "Virtua Cop 2",
+    "developer": "Sega AM2",
+    "publisher": "Sega",
+    "na_release": "2000-03-02",
+    "release_date": "2000-03-02"
+  },
+  {
+    "title": "Virtua Fighter 3tb",
+    "developer": "Sega AM2",
+    "publisher": "Sega",
+    "na_release": "1998-11-27",
+    "pal_release": "1999-10-18",
+    "release_date": "1998-11-27"
+  },
+  {
+    "title": "Virtua Striker 2",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "na_release": "1999-12-02",
+    "pal_release": "2000-03-14",
+    "release_date": "1999-12-02"
+  },
+  {
+    "title": "Virtua Tennis",
+    "developer": "Hitmaker",
+    "publisher": "Sega",
+    "na_release": "2000-11-23",
+    "pal_release": "2000-07-11",
+    "release_date": "2000-07-11"
+  },
+  {
+    "title": "Virtua Tennis 2",
+    "developer": "Hitmaker",
+    "publisher": "Sega",
+    "na_release": "2001-11-15",
+    "pal_release": "2001-10-23",
+    "release_date": "2001-10-23"
+  },
+  {
+    "title": "Wacky Races",
+    "developer": "Infogrames Sheffield House",
+    "publisher": "Infogrames",
+    "pal_release": "2000-06-27",
+    "release_date": "2000-06-27"
+  },
+  {
+    "title": "Walt Disney World Quest: Magical Racing Tour",
+    "developer": "Prolific Publishing",
+    "publisher": "Eidos Interactive",
+    "pal_release": "2000-07-19",
+    "release_date": "2000-07-19"
+  },
+  {
+    "title": "Weakness Hero Torauman DC",
+    "developer": "NEC Interchannel",
+    "publisher": "Fortyfive",
+    "na_release": "2002-02-28",
+    "release_date": "2002-02-28"
+  },
+  {
+    "title": "Web Mystery: Yochimu Wo Miru Neko",
+    "developer": "Studio Mebius",
+    "publisher": "Studio Mebius",
+    "na_release": "1999-04-22",
+    "release_date": "1999-04-22"
+  },
+  {
+    "title": "Wetrix+",
+    "developer": "Zed Two",
+    "publisher": "Acclaim Entertainment",
+    "pal_release": "1999-12-16",
+    "release_date": "1999-12-16"
+  },
+  {
+    "title": "Who Wants to Be a Millionaire?",
+    "developer": "Hothouse Creations",
+    "publisher": "Eidos Interactive",
+    "release_date": "2000-09-29"
+  },
+  {
+    "title": "Who Wants to Beat Up a Millionaire",
+    "developer": "Hypnotix",
+    "publisher": "Simon & Schuster Interactive",
+    "pal_release": "2000-10-01",
+    "release_date": "2000-10-01"
+  },
+  {
+    "title": "Wild Metal",
+    "developer": "DMA Design",
+    "publisher": "Rockstar Games",
+    "pal_release": "2000-02-01",
+    "release_date": "2000-02-01"
+  },
+  {
+    "title": "Wind: A Breath of Heart",
+    "developer": "HuneX",
+    "publisher": "Alchemist",
+    "na_release": "2003-01-30",
+    "release_date": "2003-01-30"
+  },
+  {
+    "title": "Winning Post 4 Program 2000",
+    "developer": "Koei",
+    "publisher": "Koei",
+    "na_release": "2000-03-30",
+    "release_date": "2000-03-30"
+  },
+  {
+    "title": "World Neverland Plus: Orurudo Oukoku Monogatari",
+    "developer": "Riverhillsoft",
+    "publisher": "Riverhillsoft",
+    "na_release": "1999-07-15",
+    "release_date": "1999-07-15"
+  },
+  {
+    "title": "World Neverland 2 Plus: Pluto Kyouwakoku Monogatari",
+    "developer": "Riverhillsoft",
+    "publisher": "Riverhillsoft",
+    "na_release": "2000-03-30",
+    "release_date": "2000-03-30"
+  },
+  {
+    "title": "World Series Baseball 2K1",
+    "developer": "Wow Entertainment",
+    "publisher": "Sega",
+    "na_release": "2001-03-22",
+    "pal_release": "2000-07-25",
+    "release_date": "2000-07-25"
+  },
+  {
+    "title": "World Series Baseball 2K2",
+    "developer": "Visual Concepts",
+    "publisher": "Sega",
+    "na_release": "2002-04-18",
+    "pal_release": "2001-08-14",
+    "release_date": "2001-08-14"
+  },
+  {
+    "title": "Worms Armageddon",
+    "developer": "Team17",
+    "publisher": "Hasbro Interactive",
+    "pal_release": "1999-12-11",
+    "release_date": "1999-11-30"
+  },
+  {
+    "title": "Worms World Party",
+    "developer": "Team17",
+    "publisher": "Titus Interactive",
+    "pal_release": "2001-06-04",
+    "release_date": "2001-04-27"
+  },
+  {
+    "title": "WWF Attitude",
+    "developer": "Acclaim Studios Salt Lake City",
+    "publisher": "Acclaim Sports",
+    "pal_release": "1999-11-09",
+    "release_date": "1999-11-05"
+  },
+  {
+    "title": "WWF Royal Rumble",
+    "developer": "Yuke's",
+    "publisher": "THQ",
+    "na_release": "2001-04-26",
+    "pal_release": "2000-08-14",
+    "release_date": "2000-08-14"
+  },
+  {
+    "title": "Yoshia no Oka de Nekoronde...",
+    "developer": "Mesa",
+    "publisher": "Naxat Soft",
+    "na_release": "2001-12-20",
+    "release_date": "2001-12-20"
+  },
+  {
+    "title": "Yu Suzuki Game Works Vol. 1",
+    "developer": "Sega AM2",
+    "publisher": "Sega",
+    "na_release": "2001-12-20",
+    "release_date": "2001-12-20"
+  },
+  {
+    "title": "Yukawa Motosenmu no Otakara Sagashi",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "na_release": "1999-03-20",
+    "release_date": "1999-03-20"
+  },
+  {
+    "title": "Yuki Gatari",
+    "developer": "Takuyo",
+    "publisher": "Takuyo",
+    "na_release": "2002-12-26",
+    "release_date": "2002-12-26"
+  },
+  {
+    "title": "Yuukyuu Gensoukyoku 3: Perpetual Blue",
+    "developer": "Starlight Marry",
+    "publisher": "MediaWorks",
+    "na_release": "1999-12-22",
+    "release_date": "1999-12-22"
+  },
+  {
+    "title": "Yume Baken '99 Internet",
+    "developer": "Shangri-La",
+    "publisher": "Shangri-La",
+    "na_release": "1999-10-21",
+    "release_date": "1999-10-21"
+  },
+  {
+    "title": "Yume no Tsubasa: Fate of Heart",
+    "developer": "KID",
+    "publisher": "KID",
+    "na_release": "2001-07-26",
+    "release_date": "2001-07-26"
+  },
+  {
+    "title": "Zero Gunner 2",
+    "developer": "Psikyo",
+    "publisher": "Psikyo",
+    "na_release": "2001-09-06",
+    "release_date": "2001-09-06"
+  },
+  {
+    "title": "Zombie Revenge",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "na_release": "1999-11-25",
+    "pal_release": "2000-01-25",
+    "release_date": "1999-11-25"
+  },
+  {
+    "title": "Zusar Vasar",
+    "developer": "Real Vision",
+    "publisher": "Real Vision",
+    "na_release": "2000-07-27",
+    "release_date": "2000-07-27"
+  }
+]
