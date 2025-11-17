@@ -14,8 +14,108 @@ from typing import List, Dict, Optional, Tuple
 from bs4 import BeautifulSoup
 
 
+def is_lego_dimensions_file(filename: str) -> bool:
+    """Check if this is a LEGO Dimensions file."""
+    filename_lower = filename.lower()
+    return 'lego dimensions' in filename_lower or 'playable characters' in filename_lower
+
+
+def extract_lego_dimensions_characters(html_content: str) -> List[Dict]:
+    """Extract LEGO Dimensions characters from HTML."""
+    soup = BeautifulSoup(html_content, 'lxml')
+    characters = []
+    
+    # Find the main content area
+    content_area = soup.find('div', class_='mw-content-ltr') or soup
+    
+    # Find all h3 tags (Year 1, Year 2)
+    year_sections = content_area.find_all('h3')
+    
+    for i, h3 in enumerate(year_sections):
+        h3_text = h3.get_text(strip=True).lower()
+        if 'year 1' in h3_text:
+            current_year = 1
+        elif 'year 2' in h3_text:
+            current_year = 2
+        else:
+            continue
+        
+        # Find the next h3 to know where this section ends
+        next_h3 = None
+        if i + 1 < len(year_sections):
+            next_h3 = year_sections[i + 1]
+        
+        # Get all elements between this h3 and the next h3
+        current_element = h3.next_sibling
+        current_category = None
+        
+        while current_element:
+            # Stop if we hit the next year section
+            if next_h3 and current_element == next_h3:
+                break
+            
+            # Skip if it's not a tag
+            if not hasattr(current_element, 'name'):
+                current_element = current_element.next_sibling
+                continue
+            
+            if current_element.name == 'h4':
+                # This is a category header
+                category_link = current_element.find('a')
+                if category_link:
+                    current_category = clean_text(category_link.get_text())
+                else:
+                    # Try to get text directly from h4
+                    current_category = clean_text(current_element.get_text())
+            
+            elif current_element.name == 'ul':
+                # This is a list of characters
+                if current_category and current_year:
+                    list_items = current_element.find_all('li')
+                    for li in list_items:
+                        # Extract character name and pack
+                        char_link = li.find('a')
+                        if not char_link:
+                            continue
+                        
+                        char_name = clean_text(char_link.get_text())
+                        
+                        # Find pack information
+                        pack_id = None
+                        
+                        # Look for links that might be pack names
+                        pack_links = li.find_all('a')
+                        if len(pack_links) > 1:
+                            # Second link is usually the pack
+                            pack_link = pack_links[1]
+                            pack_id = clean_text(pack_link.get_text())
+                        else:
+                            # Try to extract from parentheses in the text
+                            li_text = li.get_text()
+                            paren_match = re.search(r'\(([^)]+)\)', li_text)
+                            if paren_match:
+                                pack_id = clean_text(paren_match.group(1))
+                        
+                        if char_name and pack_id:
+                            characters.append({
+                                'name': char_name,
+                                'category': current_category,
+                                'year': current_year,
+                                'pack_id': pack_id
+                            })
+            
+            # Move to next sibling
+            current_element = current_element.next_sibling
+    
+    return characters
+
+
 def extract_console_name(filename: str) -> str:
     """Extract console name from HTML filename."""
+    # Check for LEGO Dimensions first
+    if is_lego_dimensions_file(filename):
+        return 'legodimensions'
+    
     # Common console mappings - ORDER MATTERS! More specific first
     console_mappings = [
         ('super nintendo entertainment system', 'snes'),
@@ -878,60 +978,95 @@ def main():
             with open(html_file, 'r', encoding='utf-8') as f:
                 html_content = f.read()
             
-            # Extract game tables
-            try:
-                tables_data = extract_with_bs4(html_content, console_name)
-            except Exception as e:
-                print(f"    [WARNING] Error with BeautifulSoup: {e}")
-                continue
-            
-            # Merge games from this file into console's tables
-            for table_name, games in tables_data.items():
-                if games:
-                    # Normalize games before adding (consolidate release dates)
-                    normalized_games = [normalize_game_data(game) for game in games]
-                    console_tables[table_name].extend(normalized_games)
-                    print(f"    [OK] Extracted {len(normalized_games)} games from {table_name}")
-                else:
-                    print(f"    [NO DATA] No games found for {table_name}")
-        
-        # Combine all games from all tables (licensed, unreleased, etc.)
-        all_games = []
-        for table_name, games in console_tables.items():
-            # Deduplicate games per table first
-            if games:
-                before_count = len(games)
-                games = deduplicate_games(games)
-                after_count = len(games)
-                if before_count != after_count:
-                    print(f"    [INFO] Deduplicated {table_name}: {before_count} -> {after_count} games")
+            # Special handling for LEGO Dimensions
+            if is_lego_dimensions_file(html_file):
+                try:
+                    characters = extract_lego_dimensions_characters(html_content)
+                    if characters:
+                        console_tables['characters'].extend(characters)
+                        print(f"    [OK] Extracted {len(characters)} characters")
+                    else:
+                        print(f"    [NO DATA] No characters found")
+                except Exception as e:
+                    print(f"    [WARNING] Error extracting LEGO Dimensions characters: {e}")
+                    continue
+            else:
+                # Extract game tables
+                try:
+                    tables_data = extract_with_bs4(html_content, console_name)
+                except Exception as e:
+                    print(f"    [WARNING] Error with BeautifulSoup: {e}")
+                    continue
                 
-                # Only include games with at least a title
-                games = [g for g in games if g.get('title', '').strip()]
-                
-                # Add all games to the combined list
-                all_games.extend(games)
+                # Merge games from this file into console's tables
+                for table_name, games in tables_data.items():
+                    if games:
+                        # Normalize games before adding (consolidate release dates)
+                        normalized_games = [normalize_game_data(game) for game in games]
+                        console_tables[table_name].extend(normalized_games)
+                        print(f"    [OK] Extracted {len(normalized_games)} games from {table_name}")
+                    else:
+                        print(f"    [NO DATA] No games found for {table_name}")
         
-        # Final deduplication across all categories
-        if all_games:
-            before_count = len(all_games)
-            all_games = deduplicate_games(all_games)
-            after_count = len(all_games)
-            if before_count != after_count:
-                print(f"[INFO] Final deduplication: {before_count} -> {after_count} total games")
+        # Special handling for LEGO Dimensions
+        if console_name == 'legodimensions':
+            # For LEGO Dimensions, save characters directly
+            all_characters = []
+            for table_name, characters in console_tables.items():
+                all_characters.extend(characters)
             
-            # Save single JSON file in database root (no folders)
-            final_games = []
-            for game in all_games:
-                # Keep ALL fields from Wikipedia, just ensure title exists
-                if game.get('title', '').strip():
-                    final_games.append(game)
-            
-            if final_games:
+            if all_characters:
+                # Remove duplicates based on name and pack_id
+                seen = set()
+                unique_characters = []
+                for char in all_characters:
+                    key = (char.get('name', '').lower(), char.get('pack_id', '').lower())
+                    if key not in seen:
+                        seen.add(key)
+                        unique_characters.append(char)
+                
                 output_file = os.path.join(database_folder, f'{console_name}.json')
                 with open(output_file, 'w', encoding='utf-8') as f:
-                    json.dump(final_games, f, indent=2, ensure_ascii=False)
-                print(f"[OK] Saved {len(final_games)} games to database/{console_name}.json")
+                    json.dump(unique_characters, f, indent=2, ensure_ascii=False)
+                print(f"[OK] Saved {len(unique_characters)} characters to database/{console_name}.json")
+        else:
+            # Combine all games from all tables (licensed, unreleased, etc.)
+            all_games = []
+            for table_name, games in console_tables.items():
+                # Deduplicate games per table first
+                if games:
+                    before_count = len(games)
+                    games = deduplicate_games(games)
+                    after_count = len(games)
+                    if before_count != after_count:
+                        print(f"    [INFO] Deduplicated {table_name}: {before_count} -> {after_count} games")
+                    
+                    # Only include games with at least a title
+                    games = [g for g in games if g.get('title', '').strip()]
+                    
+                    # Add all games to the combined list
+                    all_games.extend(games)
+            
+            # Final deduplication across all categories
+            if all_games:
+                before_count = len(all_games)
+                all_games = deduplicate_games(all_games)
+                after_count = len(all_games)
+                if before_count != after_count:
+                    print(f"[INFO] Final deduplication: {before_count} -> {after_count} total games")
+                
+                # Save single JSON file in database root (no folders)
+                final_games = []
+                for game in all_games:
+                    # Keep ALL fields from Wikipedia, just ensure title exists
+                    if game.get('title', '').strip():
+                        final_games.append(game)
+                
+                if final_games:
+                    output_file = os.path.join(database_folder, f'{console_name}.json')
+                    with open(output_file, 'w', encoding='utf-8') as f:
+                        json.dump(final_games, f, indent=2, ensure_ascii=False)
+                    print(f"[OK] Saved {len(final_games)} games to database/{console_name}.json")
         
         print()  # Empty line between consoles
     

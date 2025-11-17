@@ -30,11 +30,28 @@ def load_all_games() -> Dict[str, Dict]:
                 
                 try:
                     with open(filepath, 'r', encoding='utf-8') as f:
-                        games = json.load(f)
-                        all_data[console_name] = {
-                            'games': games,
-                            'count': len(games)
-                        }
+                        data = json.load(f)
+                        
+                        # Check if this is LEGO Dimensions (has 'name' field instead of 'title')
+                        is_lego_dimensions = (isinstance(data, list) and len(data) > 0 and 
+                                            isinstance(data[0], dict) and 'name' in data[0] and 
+                                            'category' in data[0])
+                        
+                        if is_lego_dimensions:
+                            # LEGO Dimensions has characters, not games
+                            all_data[console_name] = {
+                                'characters': data,
+                                'games': data,  # Also store as games for compatibility
+                                'count': len(data),
+                                'is_lego_dimensions': True
+                            }
+                        else:
+                            # Regular console with games
+                            all_data[console_name] = {
+                                'games': data,
+                                'count': len(data),
+                                'is_lego_dimensions': False
+                            }
                 except json.JSONDecodeError as e:
                     print(f"[WARNING] Failed to parse {filepath}: {e}")
                     continue
@@ -583,6 +600,10 @@ def generate_js() -> str:
         }
     }
     
+    function isLegoDimensions() {
+        return currentConsole && allGames[currentConsole] && allGames[currentConsole].is_lego_dimensions;
+    }
+    
     function setupGamesPage() {
         const urlParams = new URLSearchParams(window.location.search);
         currentConsole = urlParams.get('console');
@@ -594,13 +615,19 @@ def generate_js() -> str:
         }
         
         filteredGames = allGames[currentConsole].games || [];
-        renderGames();
         
-        // Setup search for games page
+        // Update search placeholder for LEGO Dimensions
         const searchBox = document.getElementById('search-box');
         if (searchBox) {
+            if (isLegoDimensions()) {
+                searchBox.placeholder = 'Search characters by name, category, or pack...';
+            } else {
+                searchBox.placeholder = 'Search games by title, developer, or publisher...';
+            }
             searchBox.addEventListener('input', handleSearch);
         }
+        
+        renderGames();
     }
     
     function handleSearch() {
@@ -612,22 +639,40 @@ def generate_js() -> str:
         if (query === '') {
             filteredGames = allGames[currentConsole].games || [];
         } else {
-            // Expand search shortcuts
-            const searchTerms = expandSearchQuery(rawQuery);
+            // Expand search shortcuts (only for games, not LEGO Dimensions)
+            const searchTerms = isLegoDimensions() ? [rawQuery] : expandSearchQuery(rawQuery);
             
-            filteredGames = (allGames[currentConsole].games || []).filter(game => {
-                const title = normalizeText((game.title || '').toLowerCase());
-                const developer = normalizeText((game.developer || '').toLowerCase());
-                const publisher = normalizeText((game.publisher || '').toLowerCase());
-                
-                // Check if any search term matches
-                return searchTerms.some(term => {
-                    const normalizedTerm = normalizeText(term.toLowerCase());
-                    return title.includes(normalizedTerm) || 
-                           developer.includes(normalizedTerm) || 
-                           publisher.includes(normalizedTerm);
+            if (isLegoDimensions()) {
+                // Search LEGO Dimensions characters
+                filteredGames = (allGames[currentConsole].games || []).filter(char => {
+                    const name = normalizeText((char.name || '').toLowerCase());
+                    const category = normalizeText((char.category || '').toLowerCase());
+                    const pack_id = normalizeText((char.pack_id || '').toLowerCase());
+                    
+                    // Check if any search term matches
+                    return searchTerms.some(term => {
+                        const normalizedTerm = normalizeText(term.toLowerCase());
+                        return name.includes(normalizedTerm) || 
+                               category.includes(normalizedTerm) || 
+                               pack_id.includes(normalizedTerm);
+                    });
                 });
-            });
+            } else {
+                // Search regular games
+                filteredGames = (allGames[currentConsole].games || []).filter(game => {
+                    const title = normalizeText((game.title || '').toLowerCase());
+                    const developer = normalizeText((game.developer || '').toLowerCase());
+                    const publisher = normalizeText((game.publisher || '').toLowerCase());
+                    
+                    // Check if any search term matches
+                    return searchTerms.some(term => {
+                        const normalizedTerm = normalizeText(term.toLowerCase());
+                        return title.includes(normalizedTerm) || 
+                               developer.includes(normalizedTerm) || 
+                               publisher.includes(normalizedTerm);
+                    });
+                });
+            }
         }
         
         currentPage = 1;
@@ -642,25 +687,40 @@ def generate_js() -> str:
         const end = start + gamesPerPage;
         const pageGames = filteredGames.slice(start, end);
         const totalPages = Math.ceil(filteredGames.length / gamesPerPage);
+        const isLD = isLegoDimensions();
         
         // Render table
         let html = '<table class="games-table"><thead><tr>';
-        html += '<th>Title</th><th>Developer</th><th>Publisher</th><th>Release</th>';
+        if (isLD) {
+            html += '<th>Name</th><th>Category</th><th>Year</th><th>Pack</th>';
+        } else {
+            html += '<th>Title</th><th>Developer</th><th>Publisher</th><th>Release</th>';
+        }
         html += '</tr></thead><tbody>';
         
         if (pageGames.length === 0) {
-            html += '<tr><td colspan="4" style="text-align: center; padding: 2rem;">No games found</td></tr>';
+            const noDataText = isLD ? 'No characters found' : 'No games found';
+            html += `<tr><td colspan="4" style="text-align: center; padding: 2rem;">${noDataText}</td></tr>`;
         } else {
-            pageGames.forEach(game => {
+            pageGames.forEach(item => {
                 html += '<tr>';
-                html += `<td><strong>${escapeHtml(game.title || 'Unknown')}</strong></td>`;
-                html += `<td>${escapeHtml(game.developer || '—')}</td>`;
-                html += `<td>${escapeHtml(game.publisher || '—')}</td>`;
-                
-                // Find release date - prefer release_date (earliest), fallback to regional dates
-                let release = game.release_date || game.jp_release || game.na_release || 
-                             game.pal_release || game.europe_release || game.release || '—';
-                html += `<td>${escapeHtml(release)}</td>`;
+                if (isLD) {
+                    // LEGO Dimensions character
+                    html += `<td><strong>${escapeHtml(item.name || 'Unknown')}</strong></td>`;
+                    html += `<td>${escapeHtml(item.category || '—')}</td>`;
+                    html += `<td>${escapeHtml(item.year ? 'Year ' + item.year : '—')}</td>`;
+                    html += `<td>${escapeHtml(item.pack_id || '—')}</td>`;
+                } else {
+                    // Regular game
+                    html += `<td><strong>${escapeHtml(item.title || 'Unknown')}</strong></td>`;
+                    html += `<td>${escapeHtml(item.developer || '—')}</td>`;
+                    html += `<td>${escapeHtml(item.publisher || '—')}</td>`;
+                    
+                    // Find release date - prefer release_date (earliest), fallback to regional dates
+                    let release = item.release_date || item.jp_release || item.na_release || 
+                                 item.pal_release || item.europe_release || item.release || '—';
+                    html += `<td>${escapeHtml(release)}</td>`;
+                }
                 html += '</tr>';
             });
         }
@@ -684,7 +744,8 @@ def generate_js() -> str:
             html += '</div>';
         }
         
-        html += `<p style="text-align: center; margin-top: 1rem; color: var(--text-secondary);">Showing ${start + 1}-${Math.min(end, filteredGames.length)} of ${filteredGames.length} games</p>`;
+        const itemType = isLD ? 'characters' : 'games';
+        html += `<p style="text-align: center; margin-top: 1rem; color: var(--text-secondary);">Showing ${start + 1}-${Math.min(end, filteredGames.length)} of ${filteredGames.length} ${itemType}</p>`;
         
         container.innerHTML = html;
     }
@@ -756,9 +817,11 @@ def generate_index_html(all_data: Dict[str, Dict]) -> str:
     for console_name, data in sorted_consoles:
         console_display = console_name.upper().replace('_', ' ')
         count = data['count']
+        is_ld = data.get('is_lego_dimensions', False)
+        item_label = 'characters' if is_ld else 'games'
         html_content += f"""            <a href="console.html?console={console_name}" class="console-card" data-console="{console_name}">
                 <h2>{html.escape(console_display)}</h2>
-                <div class="console-count">{count:,} games</div>
+                <div class="console-count">{count:,} {item_label}</div>
             </a>
 """
     
@@ -788,9 +851,11 @@ def generate_console_html(all_data: Dict[str, Dict]) -> str:
     noscript_consoles = ""
     for console_name, data in sorted_consoles:
         console_display = console_name.upper().replace('_', ' ')
+        is_ld = data.get('is_lego_dimensions', False)
+        item_label = 'characters' if is_ld else 'games'
         noscript_consoles += f"""                    <a href="console.html?console={console_name}" class="console-card">
                         <h2>{html.escape(console_display)}</h2>
-                        <div class="console-count">{data['count']:,} games</div>
+                        <div class="console-count">{data['count']:,} {item_label}</div>
                     </a>
 """
     

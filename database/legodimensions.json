@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Batman",
+    "category": "DC Comics",
+    "year": 1,
+    "pack_id": "Starter Pack"
+  },
+  {
+    "name": "Wonder Woman",
+    "category": "DC Comics",
+    "year": 1,
+    "pack_id": "71209 Fun Pack"
+  },
+  {
+    "name": "Cyborg",
+    "category": "DC Comics",
+    "year": 1,
+    "pack_id": "71210 Fun Pack"
+  },
+  {
+    "name": "The Joker",
+    "category": "DC Comics",
+    "year": 1,
+    "pack_id": "71229 Team Pack"
+  },
+  {
+    "name": "Harley Quinn",
+    "category": "DC Comics",
+    "year": 1,
+    "pack_id": "71229 Team Pack"
+  },
+  {
+    "name": "Superman",
+    "category": "DC Comics",
+    "year": 1,
+    "pack_id": "71236 Fun Pack"
+  },
+  {
+    "name": "Aquaman",
+    "category": "DC Comics",
+    "year": 1,
+    "pack_id": "71237 Fun Pack"
+  },
+  {
+    "name": "Bane",
+    "category": "DC Comics",
+    "year": 1,
+    "pack_id": "71240 Fun Pack"
+  },
+  {
+    "name": "Wyldstyle",
+    "category": "The LEGO Movie",
+    "year": 1,
+    "pack_id": "Starter Pack"
+  },
+  {
+    "name": "Emmet",
+    "category": "The LEGO Movie",
+    "year": 1,
+    "pack_id": "71212 Fun Pack"
+  },
+  {
+    "name": "Bad Cop",
+    "category": "The LEGO Movie",
+    "year": 1,
+    "pack_id": "71213 Fun Pack"
+  },
+  {
+    "name": "Benny",
+    "category": "The LEGO Movie",
+    "year": 1,
+    "pack_id": "71214 Fun Pack"
+  },
+  {
+    "name": "Unikitty",
+    "category": "The LEGO Movie",
+    "year": 1,
+    "pack_id": "71231 Fun Pack"
+  },
+  {
+    "name": "Gandalf the Grey",
+    "category": "The Lord of the Rings",
+    "year": 1,
+    "pack_id": "Starter Pack"
+  },
+  {
+    "name": "Gollum",
+    "category": "The Lord of the Rings",
+    "year": 1,
+    "pack_id": "71218 Fun Pack"
+  },
+  {
+    "name": "Legolas",
+    "category": "The Lord of the Rings",
+    "year": 1,
+    "pack_id": "71219 Fun Pack"
+  },
+  {
+    "name": "Gimli",
+    "category": "The Lord of the Rings",
+    "year": 1,
+    "pack_id": "71220 Fun Pack"
+  },
+  {
+    "name": "Marty McFly",
+    "category": "Back to the Future",
+    "year": 1,
+    "pack_id": "71201 Level Pack"
+  },
+  {
+    "name": "Doc Brown",
+    "category": "Back to the Future",
+    "year": 1,
+    "pack_id": "71230 Fun Pack"
+  },
+  {
+    "name": "Chell",
+    "category": "Portal 2",
+    "year": 1,
+    "pack_id": "71203 Level Pack"
+  },
+  {
+    "name": "Homer Simpson",
+    "category": "The Simpsons",
+    "year": 1,
+    "pack_id": "71202 Level Pack"
+  },
+  {
+    "name": "Bart Simpson",
+    "category": "The Simpsons",
+    "year": 1,
+    "pack_id": "71211 Fun Pack"
+  },
+  {
+    "name": "Krusty the Clown",
+    "category": "The Simpsons",
+    "year": 1,
+    "pack_id": "71227 Fun Pack"
+  },
+  {
+    "name": "Owen Grady",
+    "category": "Jurassic World",
+    "year": 1,
+    "pack_id": "71205 Team Pack"
+  },
+  {
+    "name": "ACU Trooper",
+    "category": "Jurassic World",
+    "year": 1,
+    "pack_id": "71205 Team Pack"
+  },
+  {
+    "name": "Scooby-Doo",
+    "category": "Scooby-Doo!",
+    "year": 1,
+    "pack_id": "71206 Team Pack"
+  },
+  {
+    "name": "Shaggy",
+    "category": "Scooby-Doo!",
+    "year": 1,
+    "pack_id": "71206 Team Pack"
+  },
+  {
+    "name": "Laval",
+    "category": "Legends of Chima",
+    "year": 1,
+    "pack_id": "71222 Fun Pack"
+  },
+  {
+    "name": "Cragger",
+    "category": "Legends of Chima",
+    "year": 1,
+    "pack_id": "71223 Fun Pack"
+  },
+  {
+    "name": "Eris",
+    "category": "Legends of Chima",
+    "year": 1,
+    "pack_id": "71232 Fun Pack"
+  },
+  {
+    "name": "Wicked Witch of the West",
+    "category": "The Wizard of Oz",
+    "year": 1,
+    "pack_id": "71221 Fun Pack"
+  },
+  {
+    "name": "Twelfth Doctor",
+    "category": "Doctor Who",
+    "year": 1,
+    "pack_id": "71204 Level Pack"
+  },
+  {
+    "name": "Cyberman",
+    "category": "Doctor Who",
+    "year": 1,
+    "pack_id": "71238 Fun Pack"
+  },
+  {
+    "name": "Kai",
+    "category": "Ninjago",
+    "year": 1,
+    "pack_id": "71207 Team Pack"
+  },
+  {
+    "name": "Cole",
+    "category": "Ninjago",
+    "year": 1,
+    "pack_id": "71207 Team Pack"
+  },
+  {
+    "name": "Jay",
+    "category": "Ninjago",
+    "year": 1,
+    "pack_id": "71215 Fun Pack"
+  },
+  {
+    "name": "Nya",
+    "category": "Ninjago",
+    "year": 1,
+    "pack_id": "71216 Fun Pack"
+  },
+  {
+    "name": "Zane",
+    "category": "Ninjago",
+    "year": 1,
+    "pack_id": "71217 Fun Pack"
+  },
+  {
+    "name": "Lloyd",
+    "category": "Ninjago",
+    "year": 1,
+    "pack_id": "71239 Fun Pack"
+  },
+  {
+    "name": "Sensei Wu",
+    "category": "Ninjago",
+    "year": 1,
+    "pack_id": "71234 Fun Pack"
+  },
+  {
+    "name": "Peter Venkman",
+    "category": "Ghostbusters",
+    "year": 1,
+    "pack_id": "71228 Level Pack"
+  },
+  {
+    "name": "Stay Puft",
+    "category": "Ghostbusters",
+    "year": 1,
+    "pack_id": "71233 Fun Pack"
+  },
+  {
+    "name": "Slimer",
+    "category": "Ghostbusters",
+    "year": 1,
+    "pack_id": "71241 Fun Pack"
+  },
+  {
+    "name": "Gamer Kid",
+    "category": "Midway Arcade",
+    "year": 1,
+    "pack_id": "71235 Level Pack"
+  },
+  {
+    "name": "Green Arrow",
+    "category": "DC Comics",
+    "year": 2,
+    "pack_id": "71342 Polybag"
+  },
+  {
+    "name": "Supergirl",
+    "category": "DC Comics",
+    "year": 2,
+    "pack_id": "71340 Polybag"
+  },
+  {
+    "name": "Abby Yates",
+    "category": "Ghostbusters (2016)",
+    "year": 2,
+    "pack_id": "71242 Story Pack"
+  },
+  {
+    "name": "Finn the Human",
+    "category": "Adventure Time",
+    "year": 2,
+    "pack_id": "71245 Level Pack"
+  },
+  {
+    "name": "Jake the Dog",
+    "category": "Adventure Time",
+    "year": 2,
+    "pack_id": "71246 Team Pack"
+  },
+  {
+    "name": "Lumpy Space Princess",
+    "category": "Adventure Time",
+    "year": 2,
+    "pack_id": "71246 Team Pack"
+  },
+  {
+    "name": "Marceline the Vampire Queen",
+    "category": "Adventure Time",
+    "year": 2,
+    "pack_id": "71285 Fun Pack"
+  },
+  {
+    "name": "Ethan Hunt",
+    "category": "Mission: Impossible",
+    "year": 2,
+    "pack_id": "71248 Level Pack"
+  },
+  {
+    "name": "Harry Potter",
+    "category": "Harry Potter",
+    "year": 2,
+    "pack_id": "71247 Team Pack"
+  },
+  {
+    "name": "Lord Voldemort",
+    "category": "Harry Potter",
+    "year": 2,
+    "pack_id": "71247 Team Pack"
+  },
+  {
+    "name": "Hermione Granger",
+    "category": "Harry Potter",
+    "year": 2,
+    "pack_id": "71348 Fun Pack"
+  },
+  {
+    "name": "B.A. Baracus",
+    "category": "The A-Team",
+    "year": 2,
+    "pack_id": "71251 Fun Pack"
+  },
+  {
+    "name": "Newt Scamander",
+    "category": "Fantastic Beasts and Where to Find Them",
+    "year": 2,
+    "pack_id": "71253 Story Pack"
+  },
+  {
+    "name": "Tina Goldstein",
+    "category": "Fantastic Beasts and Where to Find Them",
+    "year": 2,
+    "pack_id": "71257 Fun Pack"
+  },
+  {
+    "name": "Sonic the Hedgehog",
+    "category": "Sonic the Hedgehog",
+    "year": 2,
+    "pack_id": "71244 Level Pack"
+  },
+  {
+    "name": "Gizmo",
+    "category": "Gremlins",
+    "year": 2,
+    "pack_id": "71256 Team Pack"
+  },
+  {
+    "name": "Stripe",
+    "category": "Gremlins",
+    "year": 2,
+    "pack_id": "71256 Team Pack"
+  },
+  {
+    "name": "E.T.",
+    "category": "E.T. The Extra-Terrestrial",
+    "year": 2,
+    "pack_id": "71258 Fun Pack"
+  },
+  {
+    "name": "Robin",
+    "category": "The LEGO Batman Movie",
+    "year": 2,
+    "pack_id": "71264 Story Pack"
+  },
+  {
+    "name": "Batgirl",
+    "category": "The LEGO Batman Movie",
+    "year": 2,
+    "pack_id": "71264 Story Pack"
+  },
+  {
+    "name": "Excalibur Batman",
+    "category": "The LEGO Batman Movie",
+    "year": 2,
+    "pack_id": "71344 Fun Pack"
+  },
+  {
+    "name": "Michael Knight",
+    "category": "Knight Rider",
+    "year": 2,
+    "pack_id": "71286 Fun Pack"
+  },
+  {
+    "name": "Sloth",
+    "category": "The Goonies",
+    "year": 2,
+    "pack_id": "71267 Level Pack"
+  },
+  {
+    "name": "Chase McCain",
+    "category": "LEGO City: Undercover",
+    "year": 2,
+    "pack_id": "71266 Fun Pack"
+  },
+  {
+    "name": "Blossom",
+    "category": "The Powerpuff Girls",
+    "year": 2,
+    "pack_id": "71346 Team Pack"
+  },
+  {
+    "name": "Bubbles",
+    "category": "The Powerpuff Girls",
+    "year": 2,
+    "pack_id": "71346 Team Pack"
+  },
+  {
+    "name": "Buttercup",
+    "category": "The Powerpuff Girls",
+    "year": 2,
+    "pack_id": "71343 Fun Pack"
+  },
+  {
+    "name": "Beast Boy",
+    "category": "Teen Titans Go!",
+    "year": 2,
+    "pack_id": "71255 Team Pack"
+  },
+  {
+    "name": "Raven",
+    "category": "Teen Titans Go!",
+    "year": 2,
+    "pack_id": "71255 Team Pack"
+  },
+  {
+    "name": "Starfire",
+    "category": "Teen Titans Go!",
+    "year": 2,
+    "pack_id": "71287 Fun Pack"
+  },
+  {
+    "name": "Betelgeuse",
+    "category": "Beetlejuice",
+    "year": 2,
+    "pack_id": "71349 Fun Pack"
+  }
+]
