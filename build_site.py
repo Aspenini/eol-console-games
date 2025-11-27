@@ -32,10 +32,16 @@ def load_all_games() -> Dict[str, Dict]:
                     with open(filepath, 'r', encoding='utf-8') as f:
                         data = json.load(f)
                         
-                        # Check if this is LEGO Dimensions (has 'name' field instead of 'title')
+                        # Check if this is LEGO Dimensions (has 'name', 'category', 'year', 'pack_id')
                         is_lego_dimensions = (isinstance(data, list) and len(data) > 0 and 
                                             isinstance(data[0], dict) and 'name' in data[0] and 
-                                            'category' in data[0])
+                                            'category' in data[0] and 'year' in data[0])
+                        
+                        # Check if this is Skylanders (has 'name', 'game', 'base_color', 'category')
+                        is_skylanders = (isinstance(data, list) and len(data) > 0 and 
+                                        isinstance(data[0], dict) and 'name' in data[0] and 
+                                        'game' in data[0] and 'base_color' in data[0] and 
+                                        'category' in data[0] and 'year' not in data[0])
                         
                         if is_lego_dimensions:
                             # LEGO Dimensions has characters, not games
@@ -43,14 +49,25 @@ def load_all_games() -> Dict[str, Dict]:
                                 'characters': data,
                                 'games': data,  # Also store as games for compatibility
                                 'count': len(data),
-                                'is_lego_dimensions': True
+                                'is_lego_dimensions': True,
+                                'is_skylanders': False
+                            }
+                        elif is_skylanders:
+                            # Skylanders has characters/items
+                            all_data[console_name] = {
+                                'characters': data,
+                                'games': data,  # Also store as games for compatibility
+                                'count': len(data),
+                                'is_lego_dimensions': False,
+                                'is_skylanders': True
                             }
                         else:
                             # Regular console with games
                             all_data[console_name] = {
                                 'games': data,
                                 'count': len(data),
-                                'is_lego_dimensions': False
+                                'is_lego_dimensions': False,
+                                'is_skylanders': False
                             }
                 except json.JSONDecodeError as e:
                     print(f"[WARNING] Failed to parse {filepath}: {e}")
@@ -604,6 +621,10 @@ def generate_js() -> str:
         return currentConsole && allGames[currentConsole] && allGames[currentConsole].is_lego_dimensions;
     }
     
+    function isSkylanders() {
+        return currentConsole && allGames[currentConsole] && allGames[currentConsole].is_skylanders;
+    }
+    
     function setupGamesPage() {
         const urlParams = new URLSearchParams(window.location.search);
         currentConsole = urlParams.get('console');
@@ -616,11 +637,13 @@ def generate_js() -> str:
         
         filteredGames = allGames[currentConsole].games || [];
         
-        // Update search placeholder for LEGO Dimensions
+        // Update search placeholder for LEGO Dimensions and Skylanders
         const searchBox = document.getElementById('search-box');
         if (searchBox) {
             if (isLegoDimensions()) {
                 searchBox.placeholder = 'Search characters by name, category, or pack...';
+            } else if (isSkylanders()) {
+                searchBox.placeholder = 'Search by name, game, category, or base color...';
             } else {
                 searchBox.placeholder = 'Search games by title, developer, or publisher...';
             }
@@ -639,8 +662,8 @@ def generate_js() -> str:
         if (query === '') {
             filteredGames = allGames[currentConsole].games || [];
         } else {
-            // Expand search shortcuts (only for games, not LEGO Dimensions)
-            const searchTerms = isLegoDimensions() ? [rawQuery] : expandSearchQuery(rawQuery);
+            // Expand search shortcuts (only for games, not LEGO Dimensions or Skylanders)
+            const searchTerms = (isLegoDimensions() || isSkylanders()) ? [rawQuery] : expandSearchQuery(rawQuery);
             
             if (isLegoDimensions()) {
                 // Search LEGO Dimensions characters
@@ -655,6 +678,23 @@ def generate_js() -> str:
                         return name.includes(normalizedTerm) || 
                                category.includes(normalizedTerm) || 
                                pack_id.includes(normalizedTerm);
+                    });
+                });
+            } else if (isSkylanders()) {
+                // Search Skylanders characters/items
+                filteredGames = (allGames[currentConsole].games || []).filter(item => {
+                    const name = normalizeText((item.name || '').toLowerCase());
+                    const game = normalizeText((item.game || '').toLowerCase());
+                    const category = normalizeText((item.category || '').toLowerCase());
+                    const base_color = normalizeText((item.base_color || '').toLowerCase());
+                    
+                    // Check if any search term matches
+                    return searchTerms.some(term => {
+                        const normalizedTerm = normalizeText(term.toLowerCase());
+                        return name.includes(normalizedTerm) || 
+                               game.includes(normalizedTerm) || 
+                               category.includes(normalizedTerm) || 
+                               base_color.includes(normalizedTerm);
                     });
                 });
             } else {
@@ -688,18 +728,21 @@ def generate_js() -> str:
         const pageGames = filteredGames.slice(start, end);
         const totalPages = Math.ceil(filteredGames.length / gamesPerPage);
         const isLD = isLegoDimensions();
+        const isSky = isSkylanders();
         
         // Render table
         let html = '<table class="games-table"><thead><tr>';
         if (isLD) {
             html += '<th>Name</th><th>Category</th><th>Year</th><th>Pack</th>';
+        } else if (isSky) {
+            html += '<th>Name</th><th>Game</th><th>Category</th><th>Base Color</th>';
         } else {
             html += '<th>Title</th><th>Developer</th><th>Publisher</th><th>Release</th>';
         }
         html += '</tr></thead><tbody>';
         
         if (pageGames.length === 0) {
-            const noDataText = isLD ? 'No characters found' : 'No games found';
+            const noDataText = (isLD || isSky) ? 'No characters found' : 'No games found';
             html += `<tr><td colspan="4" style="text-align: center; padding: 2rem;">${noDataText}</td></tr>`;
         } else {
             pageGames.forEach(item => {
@@ -710,6 +753,12 @@ def generate_js() -> str:
                     html += `<td>${escapeHtml(item.category || '—')}</td>`;
                     html += `<td>${escapeHtml(item.year ? 'Year ' + item.year : '—')}</td>`;
                     html += `<td>${escapeHtml(item.pack_id || '—')}</td>`;
+                } else if (isSky) {
+                    // Skylanders character/item
+                    html += `<td><strong>${escapeHtml(item.name || 'Unknown')}</strong></td>`;
+                    html += `<td>${escapeHtml(item.game || '—')}</td>`;
+                    html += `<td>${escapeHtml(item.category || '—')}</td>`;
+                    html += `<td>${escapeHtml(item.base_color || '—')}</td>`;
                 } else {
                     // Regular game
                     html += `<td><strong>${escapeHtml(item.title || 'Unknown')}</strong></td>`;
@@ -744,7 +793,7 @@ def generate_js() -> str:
             html += '</div>';
         }
         
-        const itemType = isLD ? 'characters' : 'games';
+        const itemType = (isLD || isSky) ? 'characters' : 'games';
         html += `<p style="text-align: center; margin-top: 1rem; color: var(--text-secondary);">Showing ${start + 1}-${Math.min(end, filteredGames.length)} of ${filteredGames.length} ${itemType}</p>`;
         
         container.innerHTML = html;
@@ -818,7 +867,8 @@ def generate_index_html(all_data: Dict[str, Dict]) -> str:
         console_display = console_name.upper().replace('_', ' ')
         count = data['count']
         is_ld = data.get('is_lego_dimensions', False)
-        item_label = 'characters' if is_ld else 'games'
+        is_skylanders = data.get('is_skylanders', False)
+        item_label = 'characters' if (is_ld or is_skylanders) else 'games'
         html_content += f"""            <a href="console.html?console={console_name}" class="console-card" data-console="{console_name}">
                 <h2>{html.escape(console_display)}</h2>
                 <div class="console-count">{count:,} {item_label}</div>
@@ -852,7 +902,8 @@ def generate_console_html(all_data: Dict[str, Dict]) -> str:
     for console_name, data in sorted_consoles:
         console_display = console_name.upper().replace('_', ' ')
         is_ld = data.get('is_lego_dimensions', False)
-        item_label = 'characters' if is_ld else 'games'
+        is_skylanders = data.get('is_skylanders', False)
+        item_label = 'characters' if (is_ld or is_skylanders) else 'games'
         noscript_consoles += f"""                    <a href="console.html?console={console_name}" class="console-card">
                         <h2>{html.escape(console_display)}</h2>
                         <div class="console-count">{data['count']:,} {item_label}</div>

@@ -1,0 +1,3686 @@
+[
+  {
+    "name": "Bouncer",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Giants"
+  },
+  {
+    "name": "Crusher",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Giants"
+  },
+  {
+    "name": "Eye-Brawl",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Giants"
+  },
+  {
+    "name": "Hot Head",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Giants"
+  },
+  {
+    "name": "Ninjini",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Giants"
+  },
+  {
+    "name": "Swarm",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Giants"
+  },
+  {
+    "name": "Thumpback",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Giants"
+  },
+  {
+    "name": "Tree Rex",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Giants"
+  },
+  {
+    "name": "Chill",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 1"
+  },
+  {
+    "name": "Flashwing",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 1"
+  },
+  {
+    "name": "Fright Rider",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 1"
+  },
+  {
+    "name": "Hot Dog",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 1"
+  },
+  {
+    "name": "Jet-Vac",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 1"
+  },
+  {
+    "name": "Pop Fizz",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 1"
+  },
+  {
+    "name": "Shroomboom",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 1"
+  },
+  {
+    "name": "Sprocket",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 1"
+  },
+  {
+    "name": "Bash",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Chop Chop",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Cynder",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Double Trouble",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Drill Sergeant",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Drobot",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Eruptor",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Flameslinger",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Gill Grunt",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Hex",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Ignitor",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Lightning Rod",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Prism Break",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Slam Bam",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Sonic Boom",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Spyro",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Stealth Elf",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Stump Smash",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Terrafin",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Trigger Happy",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Whirlwind",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Wrecking Ball",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Zap",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Zook",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Series 2"
+  },
+  {
+    "name": "Chill",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Light Cores"
+  },
+  {
+    "name": "Drobot",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Light Cores"
+  },
+  {
+    "name": "Eruptor",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Light Cores"
+  },
+  {
+    "name": "Hex",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Light Cores"
+  },
+  {
+    "name": "Jet-Vac",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Light Cores"
+  },
+  {
+    "name": "Pop Fizz",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Light Cores"
+  },
+  {
+    "name": "Prism Break",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Light Cores"
+  },
+  {
+    "name": "Shroomboom",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Light Cores"
+  },
+  {
+    "name": "Dragonfire Cannon",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Magic Items (with Variants)"
+  },
+  {
+    "name": "Golden Dragonfire Cannon",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Magic Items (with Variants)"
+  },
+  {
+    "name": "Platinum Treasure Chest",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Magic Items (with Variants)"
+  },
+  {
+    "name": "Scorpion Striker Catapult",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Magic Items (with Variants)"
+  },
+  {
+    "name": "Gnarly Tree Rex",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Granite Crusher",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Jade Flashwing",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Legendary Bouncer",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Legendary LightCore",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Chill",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Legendary Ignitor",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Legendary Jet-Vac",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Legendary Slam Bam",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Legendary Stealth Elf",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Molten Hot Dog",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Polar Whirlwind",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Punch Pop Fizz",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Royal Double Trouble",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Scarlet Ninjini",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Barkley",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Side Kicks"
+  },
+  {
+    "name": "Eye Small",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Side Kicks"
+  },
+  {
+    "name": "Mini Jini",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Side Kicks"
+  },
+  {
+    "name": "Thumpling",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Side Kicks"
+  },
+  {
+    "name": "Double Trouble 1.5",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "E3 Hot Dog",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Employee Edition LightCore Prism Break",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Glow-in-the-Dark Cynder",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Glow-in-the-Dark Fright Rider",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Glow-in-the-Dark Sonic Boom",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Golden Flameslinger",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Halloween Fright Rider",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Metallic Blue Chop Chop",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Metallic Green Gill Grunt",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Metallic Green Shroomboom",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Metallic Purple Eye-Brawl",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Metallic Purple Lightning Rod",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Metallic Purple Wrecking Ball",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Pumpkin Eye-Brawl",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Sparkle Hot Head",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Sparkle Sonic Boom",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Sparkle Sprocket",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Stone Whirlwind",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Stone Zook",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "White Flocked Eruptor",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "White Flocked LightCore Prism Break",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "White Flocked Stump Smash",
+    "game": "Giants",
+    "base_color": "Orange",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Air Strike",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Senseis"
+  },
+  {
+    "name": "Ambush",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Senseis"
+  },
+  {
+    "name": "Aurora",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Senseis"
+  },
+  {
+    "name": "Barbella",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Senseis"
+  },
+  {
+    "name": "Boom Bloom",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Senseis"
+  },
+  {
+    "name": "Buckshot",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Senseis"
+  },
+  {
+    "name": "Chain Reaction",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Senseis"
+  },
+  {
+    "name": "Chopscotch",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Senseis"
+  },
+  {
+    "name": "Crash Bandicoot",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Senseis"
+  },
+  {
+    "name": "Dr. Neo Cortex",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Senseis"
+  },
+  {
+    "name": "Ember",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Senseis"
+  },
+  {
+    "name": "Flare Wolf",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Senseis"
+  },
+  {
+    "name": "King Pen",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Senseis"
+  },
+  {
+    "name": "Mysticat",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Senseis"
+  },
+  {
+    "name": "Pit Boss",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Senseis"
+  },
+  {
+    "name": "Ro-Bow",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Senseis"
+  },
+  {
+    "name": "Starcast",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Senseis"
+  },
+  {
+    "name": "Tidepool",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Senseis"
+  },
+  {
+    "name": "Tri-Tip",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Senseis"
+  },
+  {
+    "name": "Wild Storm",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Senseis"
+  },
+  {
+    "name": "Candy-Coated Chopscotch",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "In-Game Variant Sensei"
+  },
+  {
+    "name": "Dark King Pen",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "In-Game Variant Sensei"
+  },
+  {
+    "name": "Egg Bomber Air Strike",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "In-Game Variant Sensei"
+  },
+  {
+    "name": "Hard-Boiled Flare Wolf",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "In-Game Variant Sensei"
+  },
+  {
+    "name": "Heartbreaker Buckshot*",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "In-Game Variant Sensei"
+  },
+  {
+    "name": "Legendary Pit Boss",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "In-Game Variant Sensei"
+  },
+  {
+    "name": "Legendary Tri-Tip",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "In-Game Variant Sensei"
+  },
+  {
+    "name": "Solar Flare Aurora",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "In-Game Variant Sensei"
+  },
+  {
+    "name": "Clear Starcast",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Chase Variant Sensei"
+  },
+  {
+    "name": "Dec-Ember",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Chase Variant Sensei"
+  },
+  {
+    "name": "Happy Birthday Ben Starcast",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Chase Variant Sensei"
+  },
+  {
+    "name": "Orange Chain Reaction",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Chase Variant Sensei"
+  },
+  {
+    "name": "Pink Barbella",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Chase Variant Sensei"
+  },
+  {
+    "name": "Bad Juju",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Imaginator Villain Sensei"
+  },
+  {
+    "name": "Blaster-Tron",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Imaginator Villain Sensei"
+  },
+  {
+    "name": "Chompy Mage",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Imaginator Villain Sensei"
+  },
+  {
+    "name": "Dr. Krankcase",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Imaginator Villain Sensei"
+  },
+  {
+    "name": "Golden Queen",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Imaginator Villain Sensei"
+  },
+  {
+    "name": "Grave Clobber",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Imaginator Villain Sensei"
+  },
+  {
+    "name": "Hood Sickle",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Imaginator Villain Sensei"
+  },
+  {
+    "name": "Kaos",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Imaginator Villain Sensei"
+  },
+  {
+    "name": "Pain-Yatta",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Imaginator Villain Sensei"
+  },
+  {
+    "name": "Tae Kwon Crow",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Imaginator Villain Sensei"
+  },
+  {
+    "name": "Wolfgang",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Imaginator Villain Sensei"
+  },
+  {
+    "name": "Dark Golden Queen",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "In-Game Villain Variant Sensei"
+  },
+  {
+    "name": "Dark Wolfgang",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "In-Game Villain Variant Sensei"
+  },
+  {
+    "name": "Jingle Bell Chompy Mage",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "In-Game Villain Variant Sensei"
+  },
+  {
+    "name": "Mystical Bad Juju",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "In-Game Villain Variant Sensei"
+  },
+  {
+    "name": "Mystical Tae Kwon Crow",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "In-Game Villain Variant Sensei"
+  },
+  {
+    "name": "Steel Plated Hood Sickle",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "In-Game Villain Variant Sensei"
+  },
+  {
+    "name": "Rock Candy Pain-Yatta",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Chase Variant Villain Sensei"
+  },
+  {
+    "name": "Air Acorn*",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Air Angel",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Air Lantern",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Dark Pyramid",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Dark Reactor",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Dark Rune",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Earth Armor",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Earth Rocket",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Earth Rune*",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Fire Acorn",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Fire Angel*",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Fire Reactor",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Life Acorn",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Life Claw",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Life Rocket",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Life Rune",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Light Angel*",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Light Fanged",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Light Rune",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Magic Claw",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Magic Lantern",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Magic Pyramid",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Tech Armor",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Tech Pyramid*",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Tech Reactor",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Undead Claw",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Undead Fanged",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Undead Lantern",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Water Armor",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Water Fanged",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Water Rocket",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Creation Crystals"
+  },
+  {
+    "name": "Legendary Life Acorn",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Variant Creation Crystals"
+  },
+  {
+    "name": "Legendary Light Fanged",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Variant Creation Crystals"
+  },
+  {
+    "name": "Legendary Magic Lantern",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Variant Creation Crystals"
+  },
+  {
+    "name": "Blue Chest (Cursed Tiki Temple)",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Blue Chest (Lost Imaginite Mines)",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Bronze Mystery Chest",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Enchanted Elven Forest",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Gold Mystery Chest",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Gryphon Park Observatory",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Silver Mystery Chest",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Magic Items"
+  },
+  {
+    "name": "CYOS 3D Printed Figure",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Other"
+  },
+  {
+    "name": "CYOS Card",
+    "game": "Imaginators",
+    "base_color": "",
+    "category": "Other"
+  },
+  {
+    "name": "Bash",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Boomer",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Camo",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Chop Chop",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Cynder",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Dino-Rang",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Double Trouble",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Drill Sergeant",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Drobot",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Eruptor",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Flameslinger",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Ghost Roaster",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Gill Grunt",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Hex",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Ignitor",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Lightning Rod",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Prism Break",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Slam Bam",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Sonic Boom",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Spyro",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Stealth Elf",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Stump Smash",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Sunburn",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Terrafin",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Trigger Happy",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Voodood",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Warnado",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Wham-Shell",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Whirlwind",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Wrecking Ball",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Zap",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Zook",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Core Skylanders"
+  },
+  {
+    "name": "Dark Spyro",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Legendary Bash",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Legendary Chop Chop",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Legendary Spyro",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Legendary Trigger Happy",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Gill Runt",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Side Kicks"
+  },
+  {
+    "name": "Terrabite",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Side Kicks"
+  },
+  {
+    "name": "Trigger Snappy",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Side Kicks"
+  },
+  {
+    "name": "Whisper Elf",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Side Kicks"
+  },
+  {
+    "name": "Anvil Rain",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Darklight Crypt",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Dragon’s Peak",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Empire of Ice",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Ghost Swords",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Healing Elixir",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Hidden Treasure",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Pirate Seas",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Sky-Iron Shield",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Sparx Dragonfly",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Time Twister",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Volcanic Vault",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Winged Boots",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Blue Bash",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Chrome Spyro",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Crystal Clear Cynder",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Crystal Clear Stealth",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Elf",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Crystal Clear",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Wham-Shell",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Whirlwind",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Flocked Stump",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Smash",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Glow-in-the-Dark",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Warnado",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Wrecking Ball",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Glow-in-the-Dark Zap",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Gold Chop Chop",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Gold Drill Sergeant",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Gold Flameslinger",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Green Gill Grunt",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Metallic Purple",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Cynder",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Pearl Hex",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Red Camo",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Red Drill Sergeant",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Silver Boomer",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Silver Dino-Rang",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Silver Eruptor",
+    "game": "Spyro's Adventure",
+    "base_color": "Green",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Astroblast",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "SuperChargers"
+  },
+  {
+    "name": "Big Bubble Pop Fizz",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "SuperChargers"
+  },
+  {
+    "name": "Bone Bash Roller Brawl",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "SuperChargers"
+  },
+  {
+    "name": "Deep Dive Gill Grunt",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "SuperChargers"
+  },
+  {
+    "name": "Dive-Clops",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "SuperChargers"
+  },
+  {
+    "name": "Double Dare Trigger Happy",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "SuperChargers"
+  },
+  {
+    "name": "Fiesta",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "SuperChargers"
+  },
+  {
+    "name": "Hammer Slam Bowser",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "SuperChargers"
+  },
+  {
+    "name": "High Volt",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "SuperChargers"
+  },
+  {
+    "name": "Hurricane Jet-Vac",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "SuperChargers"
+  },
+  {
+    "name": "Lava Lance Eruptor",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "SuperChargers"
+  },
+  {
+    "name": "Nightfall",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "SuperChargers"
+  },
+  {
+    "name": "Shark Shooter Terrafin",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "SuperChargers"
+  },
+  {
+    "name": "Smash Hit",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "SuperChargers"
+  },
+  {
+    "name": "Spitfire",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "SuperChargers"
+  },
+  {
+    "name": "Splat",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "SuperChargers"
+  },
+  {
+    "name": "Stormblade",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "SuperChargers"
+  },
+  {
+    "name": "Super Shot Stealth Elf",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "SuperChargers"
+  },
+  {
+    "name": "Thrillipede",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "SuperChargers"
+  },
+  {
+    "name": "Turbo Charge Donkey Kong",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "SuperChargers"
+  },
+  {
+    "name": "Birthday Bash Big Bubble Pop Fizz",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Variant SuperCharger"
+  },
+  {
+    "name": "Dark Hammer Slam Bowser",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Variant SuperCharger"
+  },
+  {
+    "name": "Dark Spitfire",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Variant SuperCharger"
+  },
+  {
+    "name": "Dark Super Shot Stealth Elf",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Variant SuperCharger"
+  },
+  {
+    "name": "Dark Turbo Charge Donkey Kong",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Variant SuperCharger"
+  },
+  {
+    "name": "Eggcited Thrillipede",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Variant SuperCharger"
+  },
+  {
+    "name": "Frightful Fiesta",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Variant SuperCharger"
+  },
+  {
+    "name": "Legendary Astroblast",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Variant SuperCharger"
+  },
+  {
+    "name": "Legendary Bone Bash Roller Brawl",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Variant SuperCharger"
+  },
+  {
+    "name": "Legendary Hurricane Jet-Vac",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Variant SuperCharger"
+  },
+  {
+    "name": "Missile-Tow Dive-Clops",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Variant SuperCharger"
+  },
+  {
+    "name": "Power Blue Splat",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Variant SuperCharger"
+  },
+  {
+    "name": "Power Blue Trigger Happy",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Variant SuperCharger"
+  },
+  {
+    "name": "Steel Plated Smash Hit",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Variant SuperCharger"
+  },
+  {
+    "name": "Bronze Bone Bash Roller Brawl",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Patina High Volt",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Patine Lava Lance Eruptor",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Snow-Brite Barrel Blaster",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Burn-Cycle",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Buzz Wing",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Clown Cruiser",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Crypt Crusher",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Dive Bomber",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Gold Rusher",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Hot Streak",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Jet Stream",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Reef Ripper",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Sea Shadow",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Shark Tank",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Shield Striker",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Sky Slicer",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Soda Skimmer",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Splatter Splasher",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Stealth Stinger",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Sun Runner",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Thump Truck",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Tomb BuggyStormblade",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant SuperCharger"
+  },
+  {
+    "name": "Barrel Blaster",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Vehicles"
+  },
+  {
+    "name": "Burn-Cycle",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Vehicles"
+  },
+  {
+    "name": "Buzz Wing",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Vehicles"
+  },
+  {
+    "name": "Clown Cruiser",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Vehicles"
+  },
+  {
+    "name": "Crypt Crusher",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Vehicles"
+  },
+  {
+    "name": "Dive Bomber",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Vehicles"
+  },
+  {
+    "name": "Gold Rusher",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Vehicles"
+  },
+  {
+    "name": "Hot Streak",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Vehicles"
+  },
+  {
+    "name": "Jet Stream",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Vehicles"
+  },
+  {
+    "name": "Reef Ripper",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Vehicles"
+  },
+  {
+    "name": "Sea Shadow",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Vehicles"
+  },
+  {
+    "name": "Shark Tank",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Vehicles"
+  },
+  {
+    "name": "Shield Striker",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Vehicles"
+  },
+  {
+    "name": "Sky Slicer",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Vehicles"
+  },
+  {
+    "name": "Soda Skimmer",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Vehicles"
+  },
+  {
+    "name": "Splatter Splasher",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Vehicles"
+  },
+  {
+    "name": "Stealth Stinger",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Vehicles"
+  },
+  {
+    "name": "Sun Runner",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Vehicles"
+  },
+  {
+    "name": "Thump Truck",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Vehicles"
+  },
+  {
+    "name": "Tomb Buggy",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Vehicles"
+  },
+  {
+    "name": "Dark Barrel Blaster",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Vehicle Variant"
+  },
+  {
+    "name": "Dark Clown Cruiser",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Vehicle Variant"
+  },
+  {
+    "name": "Dark Hot Streak",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Vehicle Variant"
+  },
+  {
+    "name": "Dark Sea Shadow",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Vehicle Variant"
+  },
+  {
+    "name": "Event Exclusive Hot Streak",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Vehicle Variant"
+  },
+  {
+    "name": "Golden Hot Streak",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Vehicle Variant"
+  },
+  {
+    "name": "Legendary Sun Runner",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Vehicle Variant"
+  },
+  {
+    "name": "Mobile Hot Streak",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Vehicle Variant"
+  },
+  {
+    "name": "Nitro Soda Skimmer",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Vehicle Variant"
+  },
+  {
+    "name": "Nitro Stealth Stinger",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Vehicle Variant"
+  },
+  {
+    "name": "Power Blue Gold Rusher",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Vehicle Variant"
+  },
+  {
+    "name": "Power Blue Splatter Splasher",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Vehicle Variant"
+  },
+  {
+    "name": "Spring Ahead Dive Bomber",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "In-Game Vehicle Variant"
+  },
+  {
+    "name": "Bronze Tomb Buggy",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant Vehicles"
+  },
+  {
+    "name": "Patina Burn-Cycle",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant Vehicles"
+  },
+  {
+    "name": "Patina Shield Striker",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Chase Variant Vehicles"
+  },
+  {
+    "name": "Kaos Trophy",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Land Trophy",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Sea Trophy",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Sky Trophy",
+    "game": "SuperChargers",
+    "base_color": "Engine",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Blast Zone",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Swappers"
+  },
+  {
+    "name": "Boom Jet",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Swappers"
+  },
+  {
+    "name": "Doom Stone",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Swappers"
+  },
+  {
+    "name": "Fire Kraken",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Swappers"
+  },
+  {
+    "name": "Free Ranger",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Swappers"
+  },
+  {
+    "name": "Freeze Blade",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Swappers"
+  },
+  {
+    "name": "Grilla Drilla",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Swappers"
+  },
+  {
+    "name": "Hoot Loop",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Swappers"
+  },
+  {
+    "name": "Magna Charge",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Swappers"
+  },
+  {
+    "name": "Night Shift",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Swappers"
+  },
+  {
+    "name": "Rattle Shake",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Swappers"
+  },
+  {
+    "name": "Rubble Rouser",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Swappers"
+  },
+  {
+    "name": "Spy Rise",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Swappers"
+  },
+  {
+    "name": "Stink Bomb",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Swappers"
+  },
+  {
+    "name": "Trap Shadow",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Swappers"
+  },
+  {
+    "name": "Wash Buckler",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Swappers"
+  },
+  {
+    "name": "Bumble Blast",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 1"
+  },
+  {
+    "name": "Countdown",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 1"
+  },
+  {
+    "name": "Dune Bug",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 1"
+  },
+  {
+    "name": "Fryno",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 1"
+  },
+  {
+    "name": "Grim Creeper",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 1"
+  },
+  {
+    "name": "Pop Thorn",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 1"
+  },
+  {
+    "name": "Punk Shock",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 1"
+  },
+  {
+    "name": "Rip Tide",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 1"
+  },
+  {
+    "name": "Roller Brawl",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 1"
+  },
+  {
+    "name": "Scorp",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 1"
+  },
+  {
+    "name": "Scratch",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 1"
+  },
+  {
+    "name": "Slobber Tooth",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 1"
+  },
+  {
+    "name": "Smolderdash",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 1"
+  },
+  {
+    "name": "Star Strike",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 1"
+  },
+  {
+    "name": "Wind Up",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 1"
+  },
+  {
+    "name": "Zoo Lou",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 1"
+  },
+  {
+    "name": "Blizzard Chill (S2)",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 2"
+  },
+  {
+    "name": "Fire Bone Hot Dog (S2)",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 2"
+  },
+  {
+    "name": "Heavy Duty Sprocket (S2)",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 2"
+  },
+  {
+    "name": "Super Gulp Pop Fizz (S2)",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 2"
+  },
+  {
+    "name": "Thorn Horn Camo (S2)",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 2"
+  },
+  {
+    "name": "Turbo Jet-Vac (S2)",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 2"
+  },
+  {
+    "name": "Anchors Away Gill Grunt (S3)",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 3"
+  },
+  {
+    "name": "Big Bang Trigger Happy (S3)",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 3"
+  },
+  {
+    "name": "Horn Blast Whirlwind (S3)",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 3"
+  },
+  {
+    "name": "Hyper Beam Prism Break (S3)",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 3"
+  },
+  {
+    "name": "Knockout Terrafin (S3)",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 3"
+  },
+  {
+    "name": "Lava Barf Eruptor (S3)",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 3"
+  },
+  {
+    "name": "Mega Ram Spyro (S3)",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 3"
+  },
+  {
+    "name": "Ninja Stealth Elf (S3)",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 3"
+  },
+  {
+    "name": "Phantom Cynder (S3)",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 3"
+  },
+  {
+    "name": "Twin Blade Chop Chop (S3)",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Series 3"
+  },
+  {
+    "name": "Bumble Blast LightCore",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "LightCores"
+  },
+  {
+    "name": "Countdown LightCore",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "LightCores"
+  },
+  {
+    "name": "Flashwing LightCore",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "LightCores"
+  },
+  {
+    "name": "Grim Creeper LightCore",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "LightCores"
+  },
+  {
+    "name": "Smolderdash LightCore",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "LightCores"
+  },
+  {
+    "name": "Star Strike LightCore",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "LightCores"
+  },
+  {
+    "name": "Warnado LightCore",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "LightCores"
+  },
+  {
+    "name": "Wham-Shell LightCore",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "LightCores"
+  },
+  {
+    "name": "Arkeyan Crossbow",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Battle Hammer",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Fiery Forge",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Groove Machine",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Platinum Sheep",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Sheep Wreck Island",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Sky Diamond",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Tower of Time",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Magic Items"
+  },
+  {
+    "name": "UFO Hat Card",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Magic Items"
+  },
+  {
+    "name": "Dark Blast Zone",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Dark Slobber Tooth",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Dark Spyro",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Dark Stealth Elf",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Dark Wash Buckler",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Enchanted Hoot Loop",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Enchanted LightCore Star Strike",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Jade Fire Kraken",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Jolly Bumble Blast",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Kickoff Countdown",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Legendary Free Ranger",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Legendary LightCore Grim Creeper",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Legendary Night Shift",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Legendary Zoo Lou",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Nitro Freeze Blade",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Nitro Magna Charge",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Quick Draw Rattle Shake",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Springtime Trigger Happy",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Volcanic Eruptor",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Bronze & Silver Trap Shadow",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Flocked Springtime Trigger Happy",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Hot Dog (Green)",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Hot Dog (Purple)",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Hot Dog (Red)",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Gold & Bronze Doom Stone",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Gold Fire Kraken",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Gold Wash Buckler",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Green Chop Chop",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Green Rip Tide",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Green Scorp",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Heavy Metal Sprocket",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Metallic Red Dune Bug",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Silver & Gold Stink Bomb",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Snowderdash",
+    "game": "Swap Force",
+    "base_color": "Blue",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Blastermind",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Masters"
+  },
+  {
+    "name": "Bushwhack",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Masters"
+  },
+  {
+    "name": "Enigma",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Masters"
+  },
+  {
+    "name": "Gearshift",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Masters"
+  },
+  {
+    "name": "Gusto",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Masters"
+  },
+  {
+    "name": "Head Rush",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Masters"
+  },
+  {
+    "name": "Jawbreaker",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Masters"
+  },
+  {
+    "name": "Ka-Boom",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Masters"
+  },
+  {
+    "name": "Knight Light",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Masters"
+  },
+  {
+    "name": "Knight Mare",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Masters"
+  },
+  {
+    "name": "Krypt King",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Masters"
+  },
+  {
+    "name": "Lob-Star",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Masters"
+  },
+  {
+    "name": "Short Cut",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Masters"
+  },
+  {
+    "name": "Snap Shot",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Masters"
+  },
+  {
+    "name": "Thunderbolt",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Masters"
+  },
+  {
+    "name": "Tuff Luck",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Masters"
+  },
+  {
+    "name": "Wallop",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Masters"
+  },
+  {
+    "name": "Wildfire",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Masters"
+  },
+  {
+    "name": "Bat Spin",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 1"
+  },
+  {
+    "name": "Blackout",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 1"
+  },
+  {
+    "name": "Blades",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 1"
+  },
+  {
+    "name": "Chopper",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 1"
+  },
+  {
+    "name": "Cobra Cadabra",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 1"
+  },
+  {
+    "name": "Deja Vu",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 1"
+  },
+  {
+    "name": "Echo",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 1"
+  },
+  {
+    "name": "Fist Bump",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 1"
+  },
+  {
+    "name": "Fling Kong",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 1"
+  },
+  {
+    "name": "Flip Wreck",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 1"
+  },
+  {
+    "name": "Food Fight",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 1"
+  },
+  {
+    "name": "Funny Bone",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 1"
+  },
+  {
+    "name": "High Five",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 1"
+  },
+  {
+    "name": "Rocky Roll",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 1"
+  },
+  {
+    "name": "Spotlight",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 1"
+  },
+  {
+    "name": "Torch",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 1"
+  },
+  {
+    "name": "Trail Blazer",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 1"
+  },
+  {
+    "name": "Tread Head",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 1"
+  },
+  {
+    "name": "Fizzy Frenzy Pop Fizz (S3)",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 2, 3, and 4"
+  },
+  {
+    "name": "Full Blast Jet-Vac (S3)",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 2, 3, and 4"
+  },
+  {
+    "name": "Hog Wild Fryno (S2)",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 2, 3, and 4"
+  },
+  {
+    "name": "Sure Shot Shroomboom (S2)",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 2, 3, and 4"
+  },
+  {
+    "name": "Tidal Wave Gill Grunt (S4)",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Series 2, 3, and 4"
+  },
+  {
+    "name": "Barkley",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Mini Skylanders"
+  },
+  {
+    "name": "Bop",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Mini Skylanders"
+  },
+  {
+    "name": "Breeze",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Mini Skylanders"
+  },
+  {
+    "name": "Drobit",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Mini Skylanders"
+  },
+  {
+    "name": "Eye Small",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Mini Skylanders"
+  },
+  {
+    "name": "Gill Runt",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Mini Skylanders"
+  },
+  {
+    "name": "Hijinx",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Mini Skylanders"
+  },
+  {
+    "name": "Mini Jini",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Mini Skylanders"
+  },
+  {
+    "name": "Pet Vac",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Mini Skylanders"
+  },
+  {
+    "name": "Small Fry",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Mini Skylanders"
+  },
+  {
+    "name": "Spry",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Mini Skylanders"
+  },
+  {
+    "name": "Terrabite",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Mini Skylanders"
+  },
+  {
+    "name": "Thumpling",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Mini Skylanders"
+  },
+  {
+    "name": "Trigger Snappy",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Mini Skylanders"
+  },
+  {
+    "name": "Weeruptor",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Mini Skylanders"
+  },
+  {
+    "name": "Whisper Elf",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Mini Skylanders"
+  },
+  {
+    "name": "Hand of Fate",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Magic Items (with Variants)"
+  },
+  {
+    "name": "Legendary Hand of Fate",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Magic Items (with Variants)"
+  },
+  {
+    "name": "Midnight Museum",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Magic Items (with Variants)"
+  },
+  {
+    "name": "Mirror of Mystery",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Magic Items (with Variants)"
+  },
+  {
+    "name": "Nightmare Express",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Magic Items (with Variants)"
+  },
+  {
+    "name": "Piggy Bank",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Magic Items (with Variants)"
+  },
+  {
+    "name": "Rocket Ram",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Magic Items (with Variants)"
+  },
+  {
+    "name": "Sunscraper Spire",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Magic Items (with Variants)"
+  },
+  {
+    "name": "Tiki Speaky",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Magic Items (with Variants)"
+  },
+  {
+    "name": "Dark Food Fight",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Dark Snap Shot",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Dark Wildfire",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Eggsellent Weeruptor",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Gnarly Barkley",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "King Cobra Cadabra",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Legendary Blades",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Legendary Bushwhack",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Legendary Deja Vu",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Legendary Jawbreaker",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Love Potion Pop Fizz",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Nitro Head Rush",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Nitro Krypt King",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Power Punch Pet Vac",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Winterfest Lob-Star",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "In-Game Variants"
+  },
+  {
+    "name": "Clear Short Cut",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Clear Thunderbolt",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Clear Tuff Luck",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Chase Variants"
+  },
+  {
+    "name": "Air Hourglass",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Air Jughead",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Air Screamer",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Air Snake",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Air Sword",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Air Toucan",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Dark Handstand",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Dark Spider",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Dark Sword",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Earth Hammer",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Earth Handstand",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Earth Hourglass",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Earth Orb",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Earth Totem",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Earth Toucan",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Fire Captain’s Hat",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Fire Scepter",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Fire Screamer",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Fire Torch",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Fire Totem",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Fire Yawn",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Kaos Trap",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Life Hammer",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Life Snake",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Life Sword",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Life Torch",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Life Toucan",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Life Yawn",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Light Owl",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Light Rocket",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Light Yawn",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Magic Axe",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Magic Hourglass",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Magic Log Holder",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Magic Rocket",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Magic Skull",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Magic Totem",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Tech Angel",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Tech Flying Helmet",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Tech Hand",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Tech Handstand",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Tech Scepter",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Tech Tiki",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Undead Axe",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Undead Captain’s Hat",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Undead Hand",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Undead Orb",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Undead Skull",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Undead Snake",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Water Angel",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Water Axe",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Water Flying Helmet",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Water Jughead",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Water Log Holder",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Water Tiki",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Traps"
+  },
+  {
+    "name": "Easter Bunny Earth",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Variants"
+  },
+  {
+    "name": "Legendary Undead Orb",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Variants"
+  },
+  {
+    "name": "Legendary Undead Skull",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Variants"
+  },
+  {
+    "name": "Legendary Water Jughead",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Variants"
+  },
+  {
+    "name": "Ultimate Kaos Trap",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Trap Variants"
+  },
+  {
+    "name": "Outlaw Brawl and Chain",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Villain Variant Traps"
+  },
+  {
+    "name": "Rebel Lob Goblin",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Villain Variant Traps"
+  },
+  {
+    "name": "Red Hot Tussle Sprout",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Villain Variant Traps"
+  },
+  {
+    "name": "Riot Shield Shredder",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Villain Variant Traps"
+  },
+  {
+    "name": "Steamed Broccoli Guy",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Villain Variant Traps"
+  },
+  {
+    "name": "Steampunk Shrednaught",
+    "game": "Trap Team",
+    "base_color": "Red",
+    "category": "Villain Variant Traps"
+  }
+]

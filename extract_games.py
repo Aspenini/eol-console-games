@@ -20,6 +20,103 @@ def is_lego_dimensions_file(filename: str) -> bool:
     return 'lego dimensions' in filename_lower or 'playable characters' in filename_lower
 
 
+def is_skylanders_file(filename: str) -> bool:
+    """Check if this is a Skylanders txt file."""
+    filename_lower = filename.lower()
+    return filename_lower.endswith('.txt') and 'skylanders' in filename_lower
+
+
+def extract_skylanders_data(txt_content: str, filename: str) -> List[Dict]:
+    """Extract Skylanders characters/items from txt file."""
+    items = []
+    lines = txt_content.split('\n')
+    
+    # Extract game name from first line
+    game_name = ''
+    base_color = ''
+    current_category = None
+    
+    if lines:
+        first_line = lines[0].strip()
+        # Extract game name (e.g., "Skylanders Spyros Adventure Character Checklist" -> "Spyro's Adventure")
+        if 'spyros adventure' in first_line.lower() or 'spyro\'s adventure' in first_line.lower():
+            game_name = "Spyro's Adventure"
+        elif 'giants' in first_line.lower():
+            game_name = "Giants"
+        elif 'swap force' in first_line.lower():
+            game_name = "Swap Force"
+        elif 'trap team' in first_line.lower():
+            game_name = "Trap Team"
+        elif 'superchargers' in first_line.lower():
+            game_name = "SuperChargers"
+        elif 'imaginators' in first_line.lower():
+            game_name = "Imaginators"
+        else:
+            # Fallback: try to extract from filename or first line
+            game_name = first_line.replace('Skylanders', '').replace('Character Checklist', '').strip()
+    
+    # Extract base color from second line
+    if len(lines) > 1:
+        second_line = lines[1].strip()
+        if 'base' in second_line.lower():
+            # Extract color (e.g., "Green Base" -> "Green", " Blue Base" -> "Blue")
+            base_color = second_line.replace('Base', '').strip()
+    
+    # Parse the rest of the file
+    for i, line in enumerate(lines):
+        line = line.strip()
+        
+        # Skip empty lines and separator lines (lines with only underscores)
+        if not line or line.replace('_', '').replace('-', '').strip() == '':
+            continue
+        
+        # Skip the first two lines (title and base color)
+        if i < 2:
+            continue
+        
+        # Check if this is a category header
+        # Category headers are lines that:
+        # - Don't start with *
+        # - Don't contain "base"
+        # - Are followed by lines starting with *
+        # - Are not just underscores/dashes
+        if not line.startswith('*') and 'base' not in line.lower():
+            # Check if next non-empty line starts with * (indicating items follow)
+            found_items_after = False
+            for j in range(i + 1, min(i + 5, len(lines))):  # Look ahead up to 5 lines
+                next_line = lines[j].strip()
+                if not next_line:
+                    continue
+                if next_line.startswith('*'):
+                    found_items_after = True
+                    break
+                # If we hit another category-like line, stop looking
+                if not next_line.startswith('*') and 'base' not in next_line.lower() and next_line.replace('_', '').replace('-', '').strip():
+                    break
+            
+            if found_items_after:
+                current_category = line
+                continue
+        
+        # Check if this is an item (starts with *)
+        if line.startswith('*'):
+            # Extract item name (remove * and clean up)
+            item_name = line[1:].strip()
+            
+            # Skip if empty
+            if not item_name:
+                continue
+            
+            items.append({
+                'name': item_name,
+                'game': game_name,
+                'base_color': base_color,
+                'category': current_category or 'Unknown'
+            })
+    
+    return items
+
+
 def extract_lego_dimensions_characters(html_content: str) -> List[Dict]:
     """Extract LEGO Dimensions characters from HTML."""
     soup = BeautifulSoup(html_content, 'lxml')
@@ -946,12 +1043,64 @@ def main():
     # Find all HTML files in html folder
     html_files = glob.glob(os.path.join(html_folder, '*.html'))
     
-    if not html_files:
-        print(f"[ERROR] No HTML files found in {html_folder}/ folder!")
-        print(f"Please place your Wikipedia HTML files in the {html_folder}/ folder.")
+    # Find all Skylanders txt files
+    skylanders_files = [f for f in glob.glob(os.path.join(html_folder, '*.txt')) if is_skylanders_file(f)]
+    
+    if not html_files and not skylanders_files:
+        print(f"[ERROR] No HTML or Skylanders txt files found in {html_folder}/ folder!")
+        print(f"Please place your Wikipedia HTML files or Skylanders txt files in the {html_folder}/ folder.")
         return
     
-    print(f"Found {len(html_files)} HTML files to process\n")
+    print(f"Found {len(html_files)} HTML files and {len(skylanders_files)} Skylanders txt files to process\n")
+    
+    # Process Skylanders files first (combine all into one skylanders.json)
+    if skylanders_files:
+        print("=" * 80)
+        print("SKYLANDERS")
+        print(f"Files: {len(skylanders_files)} txt file(s)")
+        print("=" * 80)
+        
+        all_skylanders_items = []
+        for txt_file in sorted(skylanders_files):
+            print(f"  Processing: {os.path.basename(txt_file)}")
+            
+            try:
+                with open(txt_file, 'r', encoding='utf-8') as f:
+                    txt_content = f.read()
+                
+                items = extract_skylanders_data(txt_content, txt_file)
+                if items:
+                    all_skylanders_items.extend(items)
+                    print(f"    [OK] Extracted {len(items)} items")
+                else:
+                    print(f"    [NO DATA] No items found")
+            except Exception as e:
+                print(f"    [WARNING] Error extracting Skylanders data: {e}")
+        
+        if all_skylanders_items:
+            # Remove duplicates based on name, game, and category
+            seen = set()
+            unique_items = []
+            for item in all_skylanders_items:
+                key = (item.get('name', '').lower().strip(), 
+                       item.get('game', '').lower().strip(),
+                       item.get('category', '').lower().strip())
+                if key not in seen:
+                    seen.add(key)
+                    unique_items.append(item)
+            
+            output_file = os.path.join(database_folder, 'skylanders.json')
+            with open(output_file, 'w', encoding='utf-8') as f:
+                json.dump(unique_items, f, indent=2, ensure_ascii=False)
+            print(f"[OK] Saved {len(unique_items)} items to database/skylanders.json")
+        
+        print()  # Empty line
+    
+    if not html_files:
+        print("=" * 80)
+        print("All extractions complete!")
+        print("=" * 80)
+        return
     
     # Group HTML files by console name
     console_files = defaultdict(list)
